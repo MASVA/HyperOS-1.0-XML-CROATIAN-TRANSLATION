@@ -835,6 +835,11 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="v7_preference_off">ISKLJUČENO</string>
     <string name="v7_preference_on">UKLJUČENO</string>
     <string name="waiting_for_sync">Čekanje…</string>
+	 <string name="web_view_auto_login_fail">"Ne mogu se prijaviti. Pokušajte ponovo."</string>
+    <string name="web_view_login_text">Prijava…</string>
+    <string name="web_view_reload_btn_text">Pokušajte ponovno</string>
+    <string name="web_view_reload_description_text">"Nije moguće povezati se na mrežu.
+Provjerite mrežne postavke i pokušajte ponovno."</string>
     <string name="web_sso_login_fail">Morate se ponovo prijaviti</string>
     <string name="web_sso_login_message">Prijavljivanje…</string>
     <string name="webview_reload">Pokušajte ponovo</string>

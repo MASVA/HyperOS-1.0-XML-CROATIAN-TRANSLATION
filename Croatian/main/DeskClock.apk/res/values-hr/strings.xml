@@ -270,6 +270,8 @@
   <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
   <string name="material_minute_suffix">%1$s min</string>
+  <string name="material_slider_range_end">Kraj raspona,</string>
+  <string name="material_slider_range_start">Početak raspona,</string>
   <string name="material_timepicker_clock_mode_description">Prebacite se na način rada sata za unos vremena.</string>
   <string name="material_timepicker_hour">Sat</string>
   <string name="material_timepicker_minute">Minuta</string>
@@ -316,6 +318,10 @@ mm"</string>
   <string name="miuix_appcompat_select_item">Odaberi stavke</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
+  <string name="miuix_item_view_role_description">Kartica</string>
+  <string name="miuix_navigator_content_switch_description">Prikaži bočnu traku</string>
+  <string name="miuix_navigator_multiple_choice">Odaberi</string>
+  <string name="miuix_navigator_navigator_switch_description">Sakrij bočnu traku</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Povuci za osvježiti</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Gotovo</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Osvježavanje</string>
