@@ -528,6 +528,7 @@ za prikaz widgeta."</string>
   <string name="pa_setting_app_usage_auth_dialog_message">"Nećete moći koristiti widget \"Prijedlozi aplikacija\" nakon što isključite ovu značajku. Svejedno isključiti?"</string>
   <string name="pa_setting_app_usage_auth_dialog_title">Pažnja</string>
   <string name="pa_setting_bugreport">Povratne informacije</string>
+  <string name="pa_setting_new_simplify_title_bar">Zaklj. aplikacija</string>
   <string name="pa_setting_perm_empty">Ovdje nema ništa</string>
   <string name="pa_setting_privacy_auth">Dopusti analizu upotrebe aplikacije</string>
   <string name="pa_setting_privacy_auth_summary">"Primat ćete prijedloge na temelju vaših navika korištenja"</string>

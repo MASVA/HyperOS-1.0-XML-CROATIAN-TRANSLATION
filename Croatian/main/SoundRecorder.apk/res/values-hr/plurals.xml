@@ -136,4 +136,8 @@
         <item quantity="other">%d nije sinkr.</item>
         <item quantity="one">%d nije sinkr.</item>
     </plurals>
+	<plurals name="search_all_records_hint">
+        <item quantity="other">%d snimaka</item>
+        <item quantity="one">%d snimka</item>
+     </plurals>
 </resources> 

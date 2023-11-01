@@ -61,6 +61,18 @@
         <item quantity="other">&lt;Data>Ovaj je uređaj pregrijan.&lt;br>Ova će se aplikacija zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek.&lt;/b>&lt;/font>. Trenutni napredak je spremljen automatski.&lt;/Data></item>
         <item quantity="one">&lt;Data>Ovaj je uređaj pregrijan.&lt;br>Ova će se aplikacija zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sec&lt;/b>&lt;/font>. Trenutni napredak je spremljen automatski.&lt;/Data></item>
     </plurals>
+	<plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Brzo naprijed %d sek</item>
+        <item quantity="one">Brzo naprijed %d sek</item>
+     </plurals>
+     <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Premotaj unatrag %d sek</item>
+        <item quantity="one">Premotaj unatrag %d sek</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d new notifications</item>
+        <item quantity="one">%d new notification</item>
+     </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d min</item>
         <item quantity="one">%1$d min</item>

@@ -370,7 +370,7 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
   <string name="material_timepicker_pm">PM</string>
   <string name="material_timepicker_select_time">Odabir vremena</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
-    <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
+  <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
@@ -423,6 +423,7 @@ prvo biste trebali izraditi iCloud sigurnosnu kopiju."</string>
 	<string name="miuix_appcompat_delete_description">Izbriši</string>
 	<string name="miuix_appcompat_deselect_all">Poništi odabir</string>
 	<string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	<string name="miuix_appcompat_edit">Uredi</string>
 	<string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
 	<string name="miuix_appcompat_search_input_description">Traži</string>
 	<string name="miuix_appcompat_select_all">Odaberi sve</string>

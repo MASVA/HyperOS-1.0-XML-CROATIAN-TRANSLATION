@@ -69,6 +69,15 @@
         <item>Zaklj. aplikacija</item>
         <item>Google</item>
     </string-array>
+	<string-array name="no_word_model_entries">
+       <item>Isključeno</item>
+       <item>Bilo gdje</item>
+		  <item>Na widgetima</item>
+     </string-array>
+     <string-array name="no_word_model_entries_not_support_only_widget_no_word">
+        <item>Isključeno</item>
+        <item>Bilo gdje</item>
+     </string-array>
     <string-array name="transformation_entries">
         <item>Klasično klizanje (bez prebacivanja)</item>
         <item>Križno utišavanje</item>

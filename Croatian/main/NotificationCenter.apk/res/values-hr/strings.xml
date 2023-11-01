@@ -73,6 +73,9 @@
     <string name="feedback_tip_title">Povratne informacije o kategorijama obavijesti</string>
     <string name="float_notification_snooze_strategy">Sakrij privremeno</string>
     <string name="float_notification_snooze_summary">Povucite prema gore po plutajućoj obavijesti da biste privremeno sakrili nadolazeće</string>
+	 <string name="float_notification_snooze_summary_1_min">Povucite prema gore po plutajuće obavijesti da biste sakrili nadolazeće za %d</string>
+    <string name="float_notification_snooze_summary_always_float">Uvijek prikaži plutajuće obavijesti</string>
+    <string name="float_notification_snooze_summary_until_unlock">Povucite prema gore po plutajuće obavijesti da biste sakrili nadolazeće dok se uređaj ne zaključa</string>
     <string name="float_notifications">Plutajuće obavijesti</string>
     <string name="float_notifications_short">Plutajuće</string>
     <string name="fold_importance_default">Preporučeno</string>

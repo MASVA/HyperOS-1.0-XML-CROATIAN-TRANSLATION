@@ -45,8 +45,10 @@
   <string name="anti_flicker_mode">Način protiv treperenja</string>
   <string name="anti_flicker_mode_categroy">Načini</string>
   <string name="anti_flicker_mode_summary">Spriječite opsežno treperenje i smanjite naprezanje očiju u uvjetima slabog osvjetljenja</string>
+  <string name="anti_flicker_mode_summary_new">Koristite DC prigušivanje pri slabom osvjetljenju kako biste smanjili naprezanje očiju</string>
   <string name="anti_flicker_title">Način protiv treperenja</string>
   <string name="app_name">Postavke</string>
+  <string name="app_use">Vrijeme korištenja aplikacije</string>
   <string name="application_sound">Obavijesti aplikacije</string>
   <string name="apply_ringtone">Primjeni</string>
   <string name="arctic_fox">Arktička lisica</string>
@@ -348,6 +350,8 @@ nije generirana u Drugom prostoru"</string>
   <string name="low_flicker_mode_summary">Spriječite treperenje u uvjetima slabog osvjetljenja kako biste smanjili naprezanje očiju</string>
   <string name="low_fps_description">Niža stopa osvježavanja zaslona. Niža potrošnja energije.</string>
   <string name="low_light_preview">Pregled slabog osvjetljenja</string>
+  <string name="mi_transfer_banner_summary">Podržano je više marki uređaja</string>
+  <string name="mi_transfer_banner_title">Prenesite stavke sa svog starog uređaja</string>
   <string name="marabou_stork">Marabou roda</string>
   <string name="marabou_stork_info">Marabu roda je masivna ptica, često skupljač otpadaka.</string>
   <string name="max_fps_string">Do %s Hz</string>

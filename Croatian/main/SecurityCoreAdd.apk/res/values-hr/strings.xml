@@ -54,6 +54,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="auto_disable_screenbuttons_ask">Traži onemogućavanje</string>
   <string name="auto_disable_screenbuttons_auto">Uvijek onemogući</string>
   <string name="auto_disable_screenbuttons_cancel">Odustani</string>
+  <string name="auto_disable_screenbuttons_dialog_title">Onemogućiti tipke zaslona za %s?</string>
   <string name="auto_disable_screenbuttons_no">Nikad ne onemogući</string>
   <string name="auto_disable_screenbuttons_rotation_summary">Kada je vaš uređaj u pejzažnom načinu rada, navigacijski gumbi bit će blokirani</string>
   <string name="auto_disable_screenbuttons_rotation_title">Blokiraj navigacijske gumbe u pejzažu</string>
@@ -72,6 +73,12 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="bottomsheet_action_expand_halfway">Proširi do pola</string>
   <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnuta ručica za povlačenje</string>
   <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
+  <string name="bt_enable_pair_connect_cancel">Odustani</string>
+  <string name="bt_enable_pair_connect_fail">"Nije moguće povezati se. Pokušajte ponovno."</string>
+  <string name="bt_enable_pair_connect_line">Xiaomi Pad tipkovnica</string>
+  <string name="bt_enable_pair_connect_ok">Poveži se</string>
+  <string name="bt_enable_pair_connect_succceed">Uspješno povezano</string>
+  <string name="bt_enable_pair_connecting">Povezivanje…</string>
   <string name="builtin_keyboard_settings_title">Fizička tipkovnica</string>
   <string name="button_input_password">Unesite zaporku</string>
   <string name="button_text_next_step">Dalje</string>
@@ -91,6 +98,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="camera_key_action_toggle_title">Prebacivanje okidača</string>
   <string name="can_not_delete_when_calling">"Ne mogu se izbrisati prostori tijekom poziva"</string>
   <string name="can_not_switch_when_calling">"Ne mogu se mjenjati prostori tijekom poziva"</string>
+  <string name="can_not_switch_when_desktop_mode">"Ne mogu se prebacivati između prostora u načinu rada radne stanice"</string>
   <string name="can_not_switch_when_extreme_endurance_battery_active">"Ne mogu koristiti drugi prostor zbog slabe baterije"</string>
   <string name="can_not_switch_when_green_kid_active">Prebacivanje na Drugi prostor ograničeno je roditeljskim nadzorom</string>
   <string name="can_not_switch_when_green_kid_active_new">"Ne mogu promjeniti na Drugi prostor kada je uključen Family Guard"</string>
@@ -310,12 +318,12 @@ Poruke će se pojaviti samo u Drugom prostoru."</string>
   <string name="guide_contact_suc_sub_title_desc">Samo će privatni kontakti i poruke biti prikazani u Drugom prostoru</string>
   <string name="guide_contact_suc_title_desc">Uspješno postavljeno</string>
   <string name="guide_contact_title_desc">Prikazati privatne stavke u Drugom prostoru?</string>
+  <string name="guide_page_up_down">Okretanje stranica</string>
+  <string name="guide_phone_call_endcall">Odgovaranje i prekidanje poziva prenesenih na tablet</string>
   <string name="guide_pwd_detail_title">"Zaštitite svoje podatke
 Uđite u Drugi prostor sa zaključanog zaslona"</string>
   <string name="guide_setting_guide_title">Upravljaj Drugim prostorom</string>
   <string name="guide_start_ads_text">Potpuno nova razina sigurnosti</string>
-  <string name="guide_page_up_down">Okretanje stranica</string>
-  <string name="guide_phone_call_endcall">Odgovaranje i prekidanje poziva prenesenih na tablet</string>
   <string name="guide_start_text">Dva prostora. Jedan uređaj.</string>
   <string name="guide_swipe_up_down">Prijeđite prstom gore i dolje</string>
   <string name="has_created_second_space">"Sada možete otvoriti Drugi prostor.
@@ -345,6 +353,12 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="intelligence_suppression_title">Automatski (preporučeno)</string>
   <string name="invalid_qr_code">Nevažeći QR kod</string>
   <string name="item_view_role_description">Tab</string>
+  <string name="kddi_long_press_power_guide_assistant_message">Pritisnite i držite tipku za uključivanje/isključivanje za %ss da probudite Google pomoćnika</string>
+  <string name="kddi_long_press_power_guide_assistant_title">Probudite Google pomoćnika</string>
+  <string name="kddi_long_press_power_guide_know">Razumijem</string>
+  <string name="kddi_long_press_power_guide_settings">Postavke</string>
+  <string name="kddi_long_press_power_guide_shutdown_message">Istovremeno pritisnite tipke za uključivanje/isključivanje i glasnoću za ponovno pokretanje ili isključivanje uređaja</string>
+  <string name="kddi_long_press_power_guide_shutdown_title">Ponovo pokrenite ili isključite uređaj</string>
   <string name="key_combination_power_back">Power + natrag</string>
   <string name="key_combination_power_home">Power + Home</string>
   <string name="key_combination_power_menu">Power + izbornik</string>
@@ -360,6 +374,8 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="key_gesture_function_shortcut">Funkcionalni prečaci</string>
   <string name="key_handwriting_input_summary">Uređivanje kineskog ili engleskog rukom pisanog teksta pomoću vaše olovke</string>
   <string name="key_handwriting_input_title">Uređivanje teksta</string>
+  <string name="key_laser_summary">Pokažite, označite i okrenite stranice</string>
+  <string name="key_laser_title">Prezentacijski daljinski</string>
   <string name="key_none">Ništa</string>
   <string name="key_operation_diagram">Pregled</string>
   <string name="key_position_cat">Pozicije tipke</string>
@@ -370,11 +386,16 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="keyboard_back_light">Pozadinsko osvjetljenje tipkovnice</string>
   <string name="keyboard_back_light_automatic_adjustment">Automatsko podešavanje pozadinskog osvjetljenja</string>
   <string name="keyboard_back_light_brightness">Svjetlina pozadinskog osvjetljenja</string>
+  <string name="keyboard_connect_fail_text">"Nije moguće povezati tipkovnicu"</string>
+  <string name="keyboard_connect_lose_text">Izgubljena veza tipkovnice</string>
+  <string name="keyboard_connect_low_electricity_text">Baterija tipkovnice je slaba. Spojite je na izvor napajanja.</string>
+  <string name="keyboard_connect_success_text">Tipkovnica je uspješno povezana</string>
   <string name="keyboard_cursor_style_title">Stil kursora</string>
   <string name="keyboard_cursor_title">Pokazivač</string>
   <string name="keyboard_function_summary_first_line">·Pritisnite i držite za prikaz prečaca.</string>
   <string name="keyboard_function_summary_second_line">·Dodirnite NFC područje na tipkovnici s telefonom prijavljenim na isti račun za prijenos zaslona. Odaberite datoteku ili fotografiju za jednostavan prijenos između uređaja.</string>
   <string name="keyboard_funtion_key">Funkcijska tipka</string>
+  <string name="keyboard_layout_arabic">Arapski</string>
   <string name="keyboard_layout_default_label">Zadano</string>
   <string name="keyboard_layout_dialog_setup_button">Postavljanje rasporeda tipkovnice</string>
   <string name="keyboard_layout_dialog_switch_hint">Za prebacivanje pritisnite Ctrl+razmaknica</string>
@@ -388,7 +409,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="keyboard_shortcuts_helper_summary">Prikaži dostupne prečace</string>
   <string name="kid_mode_label">Dječji prostor</string>
   <string name="knock_edge_area_invalid">"Ova gesta ne radi blizu rubova zaslona"</string>
-  <string name="knock_guide_dialog_title">Odaberite radnju za ovu gestu. Kasnije ga možete promijeniti u Postavke > Dodatne postavke > Prečaci gumba.</string>
+  <string name="knock_guide_dialog_title">Odaberite radnju za ovu gestu. Kasnije ga možete promijeniti u Postavke &gt; Dodatne postavke &gt; Prečaci gumba.</string>
   <string name="knock_guide_drive_desc">Snimanje zaslona tijekom vožnje</string>
   <string name="knock_guide_launch_desc">Pokreni Mi AI kada vaš telefon leži na stolu</string>
   <string name="knock_guide_set_screenshot">Snimka zaslona</string>
@@ -421,9 +442,20 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="ks_screenshot">Snimak zaslona</string>
   <string name="ks_search_summary">Traži</string>
   <string name="ks_title">Prilagođeni prečaci</string>
+  <string name="laser_guide_laser_summary">Pritisnite i držite tipku reflektora kako biste svoju olovku koristili kao pokazivač, zatim otpustite za zaustavljanje</string>
+  <string name="laser_guide_laser_title">Pokazivač</string>
+  <string name="laser_guide_mark_summary_first">Pritisnite tipku reflektora za uključivanje i isključivanje markera</string>
+  <string name="laser_guide_mark_summary_second">Pritisnite i držite tipku reflektora za crtanje, zatim otpustite za zaustavljanje</string>
+  <string name="laser_guide_mark_summary_third">Dvaput pritisnite tipku reflektora ili dodirnite zaslon za brisanje primjedbi</string>
+  <string name="laser_guide_page_summary">Pritisnite gumbe za pisanje i snimke zaslona za okretanje stranica</string>
+  <string name="laser_guide_page_title">Okreći stranice</string>
+  <string name="laser_guide_remote_summary">Pritisnite tipku reflektora dok ste u aplikaciji Kamera za snimanje fotografija ili videozapisa</string>
+  <string name="laser_guide_remote_title">Daljinski zatvarač</string>
   <string name="launch_accessibility_environmental_speech_recognition">Prepoznavanje ambijentalnog zvuka</string>
   <string name="launch_accessibility_hear_sound">Mi Ditto</string>
   <string name="launch_accessibility_hear_sound_subtitle">Mi Ditto titlovi</string>
+  <string name="launch_accessibility_live_subtitles">Pametni titlovi</string>
+  <string name="launch_accessibility_live_subtitles_full_screen">Pametni titlovi na cijelom zaslonu</string>
   <string name="launch_accessibility_talkback">TalkBack</string>
   <string name="launch_accessibility_voice_control">Glasovne kontrole</string>
   <string name="launch_ai_shortcut">Mi AI prečac</string>
@@ -467,7 +499,7 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="long_press_power_key">Dugo pritisnite gumb za uključivanje</string>
   <string name="long_press_power_key_half_of_second">Pritisnite i držite tipku za uključivanje/isključivanje 0,5 s da biste uključili Google pomoćnika</string>
   <string name="long_press_power_key_half_second">Pritisnite i držite gumb za uključivanje %ss</string>
-  <string name="long_press_power_key_tips">&lt;Data>Dugi pritisak na tipku za uključivanje &lt;font color=#999999>brži je i praktičniji&lt;/font>&lt;/Data></string>
+  <string name="long_press_power_key_tips">&lt;Data&gt;Dugi pritisak na tipku za uključivanje &lt;font color=#999999&gt;brži je i praktičniji&lt;/font&gt;&lt;/Data&gt;</string>
   <string name="long_press_volume_down">Dugi pritisak na smanjivanje glasnoće</string>
   <string name="master_clear_apply_step_1">Opoziv autorizacije zahtijeva vraćanje uređaja na tvorničke postavke. Trajno će biti izbrisane sve datoteke i podaci, uključujući račune, kontakte, fotografije i aplikacije. Izradite Sig. kopiju svih važnih stavki na računalo prije nego što opozovete autorizaciju.</string>
   <string name="master_clear_apply_step_2">Provjerite jeste li sigurnosno kopirali sve važne stavke na svoje računalo. Nakon što dodirnete \"U redu\", vaš će se uređaj vratiti na tvorničke postavke, trajno će biti izbrisane sve datoteke i podaci, uključujući račune, kontakte, fotografije i aplikacije.</string>
@@ -625,8 +657,8 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="notification_from_owner_user">Prikaži obavijesti iz Prvog prostora</string>
   <string name="notification_from_second_user">Prikaži obavijesti iz Drugog prostora</string>
   <string name="notification_setting_second_space">Postavite Drugi prostor</string>
-  <string name="notification_tof_gesture_content_text">Uključite ovu značajku za izvođenje različitih radnji bez dodirivanja zaslona</string>
   <string name="notification_setting_second_space_desc">Dodajte zaporku Drugog prostora i premjestite podatke</string>
+  <string name="notification_tof_gesture_content_text">Uključite ovu značajku za izvođenje različitih radnji bez dodirivanja zaslona</string>
   <string name="ok_button">U redu</string>
   <string name="openPasswordGuard">Postavite zaporku Drugog prostora</string>
   <string name="openSuccess">Uključeno</string>
@@ -712,9 +744,10 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="screen_key_press">Pritisnite gumbe za navigaciju</string>
   <string name="screen_key_press_action">Funkcija okidača</string>
   <string name="screen_shot">Napravite snimku zaslona</string>
-  <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_menu_title">Traži</string>
   <string name="search_result_text">"Ne mogu pronaći niti jednu aplikaciju"</string>
+  <string name="search_screen_shot">Snimak zaslona</string>
   <string name="secondSpace">Drugi prostor</string>
   <string name="second_owner_finger_print">Otisak prsta za Drugi prostor</string>
   <string name="second_space_desktop_tips_dialog_message">Nakon ovog ažuriranja, ikone za premještanje podataka i upravljanje Drugim prostorom više neće biti prikazane na Početnom zaslonu. Moći ćete pristupiti odgovarajućim značajkama u Postavkama.</string>
@@ -831,9 +864,15 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="stylus_connect_fail_not_match_tablet">"Stylus nije kompatibilan s tabletom"</string>
   <string name="stylus_connect_fail_not_open_gps">"Nije moguće povezati se. Uključite usluge lokacije i pokušajte ponovno."</string>
   <string name="stylus_connecting">Povezivanje…</string>
+  <string name="stylus_focus_welcome">Upoznajte Xiaomi Focus Pen</string>
   <string name="stylus_function_and_action">Značajke</string>
+  <string name="stylus_function_summary">Značajke</string>
+  <string name="stylus_guide_summary">Uputstva</string>
   <string name="stylus_keyboard_settings_title">Stylus &amp; tipkovnica</string>
   <string name="stylus_language_summary">Prepoznavanje brojeva i rukom pisanog teksta na engleskom i još jednom odabranom jeziku</string>
+  <string name="stylus_laser_key_name">Svjetlo pažnje</string>
+  <string name="stylus_laser_summary">Pritisnite i držite gumb reflektora da biste zaokružili područja fokusa</string>
+  <string name="stylus_laser_title">Osvijetli područja</string>
   <string name="stylus_not_connect_message">"Stylus nije spojen"</string>
   <string name="stylus_not_connect_message_new">Priključite svoju olovku za uparivanje</string>
   <string name="stylus_ota_check_failed_battery">"Nije moguće provjeriti. Baterija vaše olovke je pri kraju."</string>
@@ -863,6 +902,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="stylus_quick_note_summary">Kada je zaslon isključen, dodirnite ga pisaljkom da počnete pisati. Ova značajka povećava potrošnju energije.</string>
   <string name="stylus_quick_note_title">Pišite s isključenim zaslonom</string>
   <string name="stylus_quick_write">Pišite</string>
+  <string name="stylus_quick_write_creator_summary">Pritisnite i držite gumb za pisanje kako biste otvorili Mi Canvas</string>
   <string name="stylus_quick_write_summary">Pritisnite i držite gumb za pisanje kako biste pisali ili crtali</string>
   <string name="stylus_schematic_diagram">Demo</string>
   <string name="stylus_screen_shot">Napravite snimku zaslona</string>

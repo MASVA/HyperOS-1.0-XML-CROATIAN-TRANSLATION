@@ -32,6 +32,7 @@
   <string name="aux_mic_check_record_tip">Snimanje, recite nešto u AUX MIC na dnu uređaja</string>
   <string name="back_mic_check_record_tip">Snimanje, recite nešto u mikrofon na stražnjoj strani uređaja</string>
   <string name="battery_authentic">Autentična baterija</string>
+  <string name="battery_auto_plug_wirelee_summary">Bežični punjač uspješno povezan, test prošao</string>
   <string name="battery_dual_connector">BatteryDualConnector</string>
   <string name="battery_id">ID baterije</string>
   <string name="battery_plug_wirelee_summary">Bežični punjač za svaku vezu, odspojite jednom</string>
@@ -178,6 +179,14 @@ Držite uređaj kao da upućujete poziv, govorite u gornji mikrofon, trebali bis
   <string name="cit_bluetooth_scanning_opening_bluetooth">Otvaranje Bluetooth uređaja…</string>
   <string name="cit_bottom_left_speaker_test">Test donjeg lijevog zvučnika</string>
   <string name="cit_bottom_right_speaker_test">Test donjeg desnog zvučnika</string>
+  <string name="cit_btn_security_test_summary">"1. Kliknite gumb i pričekajte neko vrijeme, obratite pozornost na provjeru statusa mreže
+2. Ako se pojavi Update Success, to znači da je widevine certifikat uspješno ažuriran.
+3. Ako se pojavi poruka Certificate Update Failed, to znači da je widevine certifikat ažuriran neuspješno.
+4. Ovaj se alat ne koristi kao obični test.
+5. Ovaj alat trenutno radi samo s XiaoMi Pad 6"</string>
+  <string name="cit_btn_security_test_text">Uspješno ažuriranje</string>
+  <string name="cit_btn_security_text">Ažuriranje Widevine certifikata</string>
+  <string name="cit_btn_security_text_title">Ažuriranje sigurnosnih certifikata</string>
   <string name="cit_build_finger_failed">Izrada otiska prsta NEUSPJEŠNO</string>
   <string name="cit_build_finger_passed">Izrada otiska prsta USPJEŠNO</string>
   <string name="cit_calibration_fail">Kalibracija nije uspjela</string>
@@ -206,7 +215,7 @@ Držite uređaj kao da upućujete poziv, govorite u gornji mikrofon, trebali bis
   <string name="cit_charger_plugin_check_title">Punjač (povezivanje)</string>
   <string name="cit_charger_plugout_check_title">Punjač (odspoji)</string>
   <string name="cit_charger_test_summary">"Tijekom testa punjača, umetnite punjač u utičnicu
-i okrenite utikač punjača"</string>  
+i okrenite utikač punjača"</string>
   <string name="cit_charger_test_tips_electric">Trenutni projekt treba testirati vrijednost struje punjenja veću od 1A</string>
   <string name="cit_charger_test_tips_hvdcp">Trenutačni projekt treba testirati USB_HVDCP</string>
   <string name="cit_charger_test_tips_pd">Trenutni uređaj treba testirati USB_PD</string>
@@ -251,6 +260,7 @@ Molimo dodirnite odgovarajući tipku prema broju koji čujete"</string>
   <string name="cit_fail">Neuspjeh</string>
   <string name="cit_flash_life_check_summary">Procjena vremena trajanja flash uređaja</string>
   <string name="cit_flash_life_check_title">Flash vijek trajanja</string>
+  <string name="cit_flash_timeout_tip">Test je istekao, molimo ponovno unesite flash test</string>
   <string name="cit_flicker_sensor_check_summary">Vrijednosti za Flicker bi se trebale pojaviti u nastavku</string>
   <string name="cit_flicker_sensor_check_title">Senzor treperenja</string>
   <string name="cit_flip_board_bottom_speaker_test_title">Test donjeg zvučnika na preklopnoj ploči</string>
@@ -303,10 +313,15 @@ Prije testiranja morate umetnuti slušalice"</string>
   <string name="cit_init_fp_fod_test_tip">Početno okruženje za testiranje otiska prsta</string>
   <string name="cit_ispv3_test">ISPv3 test</string>
   <string name="cit_keyboard_auto_test_summary">Ključni događaji koje treba testirati prikazani su u nastavku, a zelena označava da su odgovarajući ključni događaji normalni. Pritisnite tipku za uključivanje/isključivanje kako biste odskočili da biste izašli iz auto_test_modea.</string>
-  <string name="cit_keyboard_test_summary">Ključni događaji koji se testiraju prikazani su u nastavku, a zelena označava da su odgovarajući ključni događaji normalni</string> 
+  <string name="cit_keyboard_test_summary">Ključni događaji koji se testiraju prikazani su u nastavku, a zelena označava da su odgovarajući ključni događaji normalni</string>
   <string name="cit_lcdlight_brightness">Pozadinsko osvjetljenje</string>
   <string name="cit_lcdlight_brightness_max">MAX</string>
   <string name="cit_lcdlight_brightness_min">MIN</string>
+  <string name="cit_lcdlight_title">Test pozadinskog osvjetljenja</string>
+  <string name="cit_led_change">Odaberite LED stroboskop</string>
+  <string name="cit_led_continue">vječno svijetlo</string>
+  <string name="cit_led_interval">divan</string>
+  <string name="cit_led_negative">negativno</string>
   <string name="cit_led_selected">Trenutno odabrano：</string>
   <string name="cit_leds_check_title">Svjetlo obavijesti (LED)</string>
   <string name="cit_light_sensor_check_summary">DAC vrijednost bi se trebala pojaviti u nastavku</string>
@@ -675,7 +690,7 @@ test nije uspio!"</string>
   <string name="cit_usb_OTG_plug_re_plugin">USB_OTG test je završen, nije potrebno ponovno testiranje</string>
   <string name="cit_usb_charger_in">Punjenje putem (USB)</string>
   <string name="cit_usb_charger_out">Punjač je isključen</string>
-  <string name="cit_uwb_calibrate_color_black">Crna</string>  
+  <string name="cit_uwb_calibrate_color_black">Crna</string>
   <string name="cit_uwb_calibrate_color_cali_tip">Molimo odaberite stražnju ljusku stroja prije izvođenja kalibracije podataka</string>
   <string name="cit_uwb_calibrate_color_gray">Siva</string>
   <string name="cit_uwb_calibrate_color_white">bijela</string>
@@ -757,6 +772,7 @@ Test nije uspio!"</string>
   <string name="keyboard_vibrator_test">Test tipkovnice</string>
   <string name="label">Oznaka</string>
   <string name="lcminfo">Informacije o LCM-u</string>
+  <string name="main_mic_check_record_tip">Snimanje, recite nešto u mikrofon na dnu uređaja</string>
   <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
   <string name="material_hour_selection">Odaberite sat</string>
   <string name="material_hour_suffix">%1$s h</string>
@@ -769,6 +785,12 @@ Test nije uspio!"</string>
   <string name="material_timepicker_pm">PM</string>
   <string name="material_timepicker_select_time">Odabir vremena</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
+  <string name="mic1_spk_loop">Mikrofon speak Loop</string>
+  <string name="mic_check_rm_headset_tip">Najprije uklonite slušalice i snimite zvuk.</string>
+  <string name="mic_reopen_tip">Molimo ponovno unesite ovu testnu stavku za testiranje</string>
+  <string name="mic_tip">Molimo da napravite buku mikrofona. Nakon što priključite slušalice, slušajte slušalice za zvuk</string>
+  <string name="mic_volume_height_tip">Prošao test glasnoće mikrofona</string>
+  <string name="mic_volume_low_tip">Test glasnoće mikrofona nije prošao. Molimo da napravite veći zvuk prilikom snimanja</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>
@@ -791,6 +813,8 @@ Test nije uspio!"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
+  <string name="motor_calibration">Kalibracija motora</string>
+  <string name="mtb_tool_modem_cdma_manager">CDMA Cap Manager</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
@@ -823,14 +847,6 @@ Test nije uspio!"</string>
   <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
-  <string name="main_mic_check_record_tip">Snimanje, recite nešto u mikrofon na dnu uređaja</string>
-  <string name="mic1_spk_loop">Mikrofon speak Loop</string>
-  <string name="mic_check_rm_headset_tip">Najprije uklonite slušalice i snimite zvuk.</string>
-  <string name="mic_tip">Molimo da napravite buku mikrofona. Nakon što priključite slušalice, slušajte slušalice za zvuk</string>
-  <string name="mic_volume_height_tip">Prošao test glasnoće mikrofona</string>
-  <string name="mic_volume_low_tip">Test glasnoće mikrofona nije prošao. Molimo da napravite veći zvuk prilikom snimanja</string>
-  <string name="motor_calibration">Kalibracija motora</string>
-  <string name="mtb_tool_modem_cdma_manager">CDMA Cap Manager</string>
   <string name="nfc_disable_tip">Uključite NFC funkciju</string>
   <string name="nfc_not_available">NFC nije dostupan</string>
   <string name="no_vibrator">Bez vibratora</string>
@@ -912,13 +928,18 @@ Nakon uspješnog kalibriranja, kontrolirajte uređaj blizu i dalje od uređaja"<
   <string name="speak_from_mic">Razgovarajte u mikrofon, reprodukcija zvučnika. Procijenite ima li zvuka.</string>
   <string name="successfully_obtained_permission">Otkrivanje kontrole clouda je uspješno, funkcija stupa na snagu</string>
   <string name="temperature">Temperatura</string>
+  <string name="test_back_handset">Test stražnje slušalice</string>
   <string name="test_back_mic">Zadnji mikrofon</string>
   <string name="test_bottom_speaker">Donji zvučnik</string>
+  <string name="test_first_flash">Prvi flash test</string>
+  <string name="test_flash">Flash test</string>
+  <string name="test_front_handset">Test prednje slušalice</string>
   <string name="test_front_mic">Prednji mikrofon</string>
   <string name="test_horn_motor_summary">"Čut ćete dva nasumična broja
 Kliknite odgovarajuću tipku prema broju koji čujete
 Odaberite ispravnu tipku prema različitim uvjetima vibracije"</string>
   <string name="test_main_mic">Glavni mikrofon</string>
+  <string name="test_second_flash">Drugi test bljeskalice</string>
   <string name="test_sidebottom_mic">Bočni donji mikrofon</string>
   <string name="test_sidetop_mic">Bočni gornji mikrofon</string>
   <string name="test_speaker">Zvučnik</string>

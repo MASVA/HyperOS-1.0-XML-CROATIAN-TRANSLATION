@@ -20,4 +20,13 @@
         <item>"Ne možete zaključati svoj mobilni uređaj?"</item>
         <item>Kompatibilnost</item>
     </string-array>
+	<string-array name="desktop_positions">
+        <item>Lijevo</item>
+        <item>Desno</item>
+     </string-array>
+	 <string-array name="settings_search_mirror_desktop">
+        <item>Home screen+</item>
+        <item>Međusobna povezanost/Home screen+</item>
+        <item>Home screen+, Home screen, Mi Smart Hub, Screen Combo, međusobno povezivanje uređaja</item>
+     </string-array>
 </resources>

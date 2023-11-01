@@ -234,6 +234,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
 	 <string name="dind_device_service_opened">Uključeno</string>
 	 <string name="download_file">Preuzimanje %s…</string>
 	  <string name="dropdown_menu">Padajući izbornik</string>
+	  <string name="empty_device_list">Ovdje nema još ništa</string>
 	 <string name="empty_device_list_notice">Nema uređaja</string>
 	 <string name="enable">Postavke</string>
 	 <string name="ep_unsupported">"Ne mogu se prijaviti na Xiaomi Račun na vašem uređaju"</string>
@@ -1036,6 +1037,8 @@ Pošaljite ovaj kod našem tehničaru."</string>
 	 <string name="user_agreement_must_permission_msg">Obvezna dopuštenja (koriste se za osnovne značajke i usluge ove aplikacije)</string>
 	 <string name="user_agreement_network_permission_msg">Ova aplikacija mora se povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:</string>
 	 <string name="user_agreement_permission_summary_msg">Xiaomi Račun omogućuje vam pristup svim uslugama koje pruža Xiaomi. Ova aplikacija mora se povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:</string>
+    <string name="user_agreement_read_phone_permission_desc">Za prijavu pomoću telefonskog broja</string>
+    <string name="user_agreement_read_phone_permission_title">Čitanje telefonskih brojeva</string>
 	 <string name="user_agreement_use_account_msg">Xiaomi Račun omogućuje vam pristup svim uslugama koje pruža Xiaomi.</string>
 	 <string name="user_agreement_wifi_permission_title">Uključiti i isključiti Wi-Fi</string>
 	 <string name="user_agreement_wlan_permission_desc">Za provjeru sigurnosnih problema u okruženju za prijavu</string>

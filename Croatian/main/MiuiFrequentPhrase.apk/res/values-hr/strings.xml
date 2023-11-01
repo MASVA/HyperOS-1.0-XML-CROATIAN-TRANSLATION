@@ -152,6 +152,7 @@
     <string name="month_september_short">Ruj</string>
     <string name="month_september_shortest">R</string>
     <string name="more">Više</string>
+	  <string name="phrase_network_tip_summary">Da biste mogli sinkronizirati svoje česte fraze s cloudom i koristiti ih na svim svojim uređajima, dopustite ovoj aplikaciji da se poveže s internetom.</string>
     <string name="saturday">Subota</string>
     <string name="saturday_short">Sub</string>
     <string name="saturday_shortest">S</string>
@@ -160,7 +161,7 @@
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
-	  <string name="super_clipboard_alert_dialog_cancel_button">Odustani</string>
+	 <string name="super_clipboard_alert_dialog_cancel_button">Odustani</string>
     <string name="super_clipboard_alert_dialog_sure_button">U redu</string>
     <string name="super_clipboard_send_file">Zalijepiti datoteku iz međuspremnika?</string>
     <string name="super_clipboard_send_image">Zalijepiti sliku iz međuspremnika?</string>
