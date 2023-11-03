@@ -52,7 +52,8 @@
   <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
   <string name="material_minute_suffix">%1$s min</string>
-  <string name="material_timepicker_am">AM</string>
+  <string name="material_slider_range_end">Kraj raspona,</string>
+  <string name="material_slider_range_start">Početak raspona,</string>
   <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
   <string name="material_timepicker_hour">Sat</string>
   <string name="material_timepicker_minute">Minuta</string>
@@ -70,6 +71,7 @@
   <string name="miuix_appcompat_delete_description">Izbriši</string>
   <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+  <string name="miuix_appcompat_edit">Uredi</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -130,10 +132,10 @@
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
-  <string name="morning">Jutro</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
+  <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
   <string name="mtrl_picker_a11y_next_month">Prijelaz na sljedeći mjesec</string>
   <string name="mtrl_picker_a11y_prev_month">Pomicanje na prethodni mjesec</string>
   <string name="mtrl_picker_announce_current_selection">Trenutačan odabir: %1$s</string>
@@ -166,7 +168,8 @@
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
   <string name="mtrl_timepicker_confirm">U redu</string>
   <string name="not_set">Nije postavljeno</string>
-  <string name="pa_accessibility_home_search">Traži, dvaput dodirnite za početak</string>
+  <string name="pa_accessibility_home_search">Traži, 
+dvaput dodirnite za početak</string>
   <string name="pa_accessibility_home_widget_drag">Prevlačenje stavke</string>
   <string name="pa_accessibility_home_widget_drag_move">Premjesti u redak %1$d, pozicija %2$d</string>
   <string name="pa_accessibility_home_widget_drop_workspace">Premješteno u redak %1$d, pozicija %2$d</string>
@@ -180,17 +183,32 @@
   <string name="pa_accessibility_picker_app_group_list_item">Widget %1$s od %2$d</string>
   <string name="pa_accessibility_picker_back">Natrag</string>
   <string name="pa_accessibility_picker_bigBanner_widget_collection">Zbirke widgeta</string>
+  <string name="pa_accessibility_picker_close">Zatvori</string>
   <string name="pa_accessibility_picker_home_appList_entrance">Pogledajte popis podržanih widgeta</string>
-  <string name="pa_accessibility_picker_home_bigBanner_slected">%1$s. Dodirnite dvaput za početak.</string>
-  <string name="pa_accessibility_picker_home_maml_slected">Odabrano: %1$s. Veličina: %2$s. Dodirnite dvaput za pregled stranice s detaljima. Dodirnite dvaput i držite za povlačenje.</string>
+  <string name="pa_accessibility_picker_home_bigBanner_slected">"%1$s. 
+Dodirnite dvaput za početak."</string>
+    <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s. 
+Pritisnite dvaput za pregled stranice s detaljima. 
+Pritisnite dvaput i držite za povlačenje."</string>
+    <string name="pa_accessibility_picker_home_maml_slected_for_pay">"%1$s，%2$s， 
+点按两次即可进入详情页"</string>
   <string name="pa_accessibility_picker_home_search">Traži widgete</string>
-  <string name="pa_accessibility_picker_home_smallBanner_slected"> %1$s. Dodirnite dvaput za početak.</string>
+  <string name="pa_accessibility_picker_home_smallBanner_slected"> %1$s. 
+Dodirnite dvaput za početak.</string>
   <string name="pa_accessibility_picker_home_title">Dodaj widget</string>
   <string name="pa_accessibility_picker_home_widget_replace">Odabrano %s. Promjena widgeta.</string>
-  <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Dvaput dodirnite tipku ispod njega da biste ga zamijenili drugim widgetom.</string>
-  <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Status instalacije: %3$s. Tipka \"Promjeni\" je ispod. Dodirnite dvaput za promjeniti.</string>
-  <string name="pa_accessibility_picker_home_widget_slected">Odabrano %1$s, Size: %2$s, Status instalacije: %3$s, dodirnite dvaput za detalje, dodirnite dvaput i držite za pomicanje.</string>
-  <string name="pa_accessibility_picker_home_widget_with_add_slected">Odabrano %1$s, red %2$d, broj %3$d. Dodirnite dvaput za prikaz pojedinosti.</string>
+  <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. 
+Dvaput dodirnite tipku ispod njega da biste ga zamijenili drugim widgetom.</string>
+  <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Status instalacije: %3$s. Tipka \"Promjeni\" je ispod. 
+Dodirnite dvaput za promjeniti.</string>
+<string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Status instalacije: %3$s, 
+dodirnite dvaput za detalje,
+dodirnite dvaput i držite za pomicanje."</string>
+<string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, status instalacije: %3$s.
+Dodirnite dvaput za prikaz detalja."</string>
+<string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, red %2$d, broj %3$d. 
+Dodirnite dvaput za prikaz detalja."</string>
+    <string name="pa_accessibility_picker_order_list_to_theme">Otvori Teme</string>
   <string name="pa_accessibility_picker_search_cancel">Traka za pretraživanje widgeta. Dodirnite dvaput za odustajanje.</string>
   <string name="pa_accessibility_picker_search_clear">Čisti tekst</string>
   <string name="pa_accessibility_picker_search_tips">Traka za pretraživanje widgeta. Dodirnite dvaput za pretraživanje.</string>
@@ -211,6 +229,9 @@
   <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Odabrani widget. Povucite za dodavanje ove stavke u Zaklj. aplikacija.</string>
   <string name="pa_accessibility_picker_widget_group_all" formatted="false">Trgovina widgeta. Odaberite za prikaz svih widgeta za %s. Dodirnite dvaput za pregled svih widgeta za %s.</string>
   <string name="pa_accessibility_picker_widget_group_item" formatted="false">Trgovina widgeta. Odabrano %s. Dodirnite dvaput za otvaranje opisa widgeta. Stavka sadrži %s widget.</string>
+    <string name="pa_accessibility_picker_widget_item_add_to_desktop">%s</string>
+    <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">%s</string>
+    <string name="pa_accessibility_picker_widget_item_add_to_third">%s</string>
   <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Dodirnite dvaput za uređivanje.</string>
   <string name="pa_accessibility_widget_slected_status">Odabrano: %1$s. Status instalacije: %2$s.</string>
   <string name="pa_announce_for_delete_gadget_and_widget">Widget</string>
@@ -276,15 +297,20 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
   <string name="pa_express_manual_query_hint">Unesite broj narudžbe za pretraživanje</string>
   <string name="pa_express_manual_select_company">Odaberi</string>
   <string name="pa_express_manual_select_company_toast">Odaberite kurirsku službu</string>
-  <string name="pa_express_order_number">Broj narudžbe: %s</string>
-  <string name="pa_express_phone_binding_input_verifacation_code">Unesite kôd</string>
-  <string name="pa_express_phone_binding_next_step">Sljedeće</string>
+  <string name="pa_express_phone_binding_input_verifacation_code">Unesite kod</string>
+  <string name="pa_express_phone_binding_next_step">Dalje</string>
   <string name="pa_express_phone_binding_number">Telefonski broj</string>
   <string name="pa_express_phone_binding_retry">Pošalji ponovo</string>
   <string name="pa_express_phone_binding_send_ok">Kôd je poslan na %s</string>
   <string name="pa_express_phone_binding_send_verifacation_code">Pošalji kod</string>
   <string name="pa_express_phone_binding_title">Dodaj telefonski broj</string>
-  <string name="pa_express_provider_banner">Omogućio %s</string>
+  <string name="pa_express_provider_banner">Osigurao %s</string>
+  <string name="pa_express_provider_cainiao">Guoguo</string>
+  <string name="pa_express_provider_jingdong">JD</string>
+  <string name="pa_express_provider_kuaidi100">Kuaidi 100</string>
+  <string name="pa_express_provider_miguo">Mi Express</string>
+  <string name="pa_express_provider_mimall">Mi Store</string>
+  <string name="pa_express_provider_shunfeng">SF Express</string>
   <string name="pa_express_query_fail_content_input_again">"Nisam mogao pronaći informacije o vašoj ekspresnoj dostavi. Provjerite svoj broj za praćenje i pokušajte ponovo."</string>
   <string name="pa_express_query_fail_content_manual_select">"Nisam mogao pronaći informacije o vašoj ekspresnoj dostavi. Umjesto toga pokušajte ručno odabrati tvrtku za dostavu."</string>
   <string name="pa_express_query_fail_title">"Ne mogu dobiti informacije"</string>
@@ -353,6 +379,8 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
   <string name="pa_filter_title">Više widgeta</string>
   <string name="pa_finish">Gotovo</string>
   <string name="pa_get_installed_app_permission_description">Za instaliranje aplikacija i dodavanje widgeta</string>
+  <string name="pa_global_search_description">Pretraživanje</string>
+  <string name="pa_global_search_hint">Traži…</string>
   <string name="pa_guide_dialog_desc">Pritisnite i držite widget za preuređivanje. Dodirnite plus za dodavanje više widgeta.</string>
   <string name="pa_guide_dialog_sure">Razumijem</string>
   <string name="pa_guide_dialog_title">Pogledajte našu trgovinu widgeta</string>
@@ -420,6 +448,7 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
   <string name="pa_picker_detail_add_widget_success">Uspješno dodano</string>
   <string name="pa_picker_detail_app_not_in_market">"Ova aplikacija sada ne nudi nikakve widgete"</string>
   <string name="pa_picker_detail_app_not_off_shelf">"Widgeti ove aplikacije više nisu dostupni"</string>
+  <string name="pa_picker_detail_app_widget_in_dev">"Ovaj widget još nije dostupan. Umjesto njega možete provjeriti druge widgete."</string>
   <string name="pa_picker_detail_bottom_bt_source_home">Početni zaslon</string>
   <string name="pa_picker_detail_bottom_bt_source_minus">Zaklj. aplikacija</string>
   <string name="pa_picker_detail_bottom_bt_text_to_home">Dodaj na početni zaslon</string>
@@ -428,6 +457,7 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
   <string name="pa_picker_detail_bottom_bt_text_upgrade">Ažurirajte aplikaciju da koristi njezine widgete</string>
   <string name="pa_picker_detail_bottom_download_app_and_add_widget">Instaliraj aplikaciju</string>
   <string name="pa_picker_detail_bottom_update_app_and_add_widget">Ažuriraj aplikaciju</string>
+  <string name="pa_picker_detail_bt_loading">Samo trenutak…</string>
   <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Otvorite Zaklj. aplikacija da odande dodate widgete.</string>
   <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Upotreba Zaklj. aplikacija</string>
   <string name="pa_picker_detail_download_app_dialog_cancel">Odustani</string>
@@ -450,8 +480,14 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
   <string name="pa_picker_detail_net_error">Mrežna pogreška. Dodirnite za ponovni pokušaj.</string>
   <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Samo trenutak…</string>
   <string name="pa_picker_detail_small_widget">Widgeti</string>
+  <string name="pa_picker_detail_state_error_retry">Nešto nije u redu. Pokušajte ponovno.</string>
+  <string name="pa_picker_detail_suit_price_already_bought">Kupljeno</string>
+  <string name="pa_picker_detail_suit_price_placeholder">Kovanica od 5 mi</string>
   <string name="pa_picker_detail_theme_app_cta">Postavke</string>
   <string name="pa_picker_detail_theme_app_cta_pre">"Da biste mogli koristiti ovaj widget, prvo dopustite Temama da se povežu s internetom. "</string>
+  <string name="pa_picker_detail_theme_app_need_login">Prijava</string>
+  <string name="pa_picker_detail_theme_app_need_login_pre">"Prvo se prijavite na svoj Xiaomi račun. "</string>
+  <string name="pa_picker_detail_view_more">Pogledajte više</string>
   <string name="pa_picker_detail_vp2_indicator">Odabrana stranica %1$d od %2$d</string>
   <string name="pa_picker_detail_wait_wifi_download_maml">Ova će se stavka preuzeti putem Wi-Fi mreže</string>
   <string name="pa_picker_empty">"Widgeti nisu dostupni u ovoj verziji aplikacije.
@@ -461,6 +497,13 @@ Ostanite u toku!"</string>
   <string name="pa_picker_home_request_failed">Mrežna pogreška</string>
   <string name="pa_picker_home_search_hint">Traži widgete</string>
   <string name="pa_picker_home_title">Dodajte widgete</string>
+  <string name="pa_picker_image_text_share">Podijeli</string>
+  <string name="pa_picker_image_text_share_copy_url">Kopiraj URL</string>
+  <string name="pa_picker_image_text_share_more">Više</string>
+  <string name="pa_picker_image_text_share_wechat_favourite">WeChat Favorites</string>
+  <string name="pa_picker_image_text_share_wechat_session">WeChat</string>
+  <string name="pa_picker_image_text_share_wechat_timeline">WeChat Moments</string>
+  <string name="pa_picker_image_text_share_weibo">Weibo</string>
   <string name="pa_picker_item_retry">"Učitavanje stavki nije uspjelo. Pokušajte ponovo."</string>
   <string name="pa_picker_list_app_footer_classic_widget">Android widgeti</string>
   <string name="pa_picker_list_app_title">Aplikacije s widgetima</string>
@@ -473,8 +516,18 @@ Ostanite u toku!"</string>
   <string name="pa_picker_loading">Samo trenutak…</string>
   <string name="pa_picker_maml_list_activity_title">Dodaj widgete</string>
   <string name="pa_picker_no_relevant_content">"Nisam mogao pronaći rezultate"</string>
-  <string name="pa_picker_permission_denied">"Sklad aplikacija treba pristupiti statusu instalacije
+  <string name="pa_picker_order_go_to_allow_cta">Dopusti</string>
+  <string name="pa_picker_order_go_to_login">Prijavite se</string>
+  <string name="pa_picker_order_login_xiaomi_account">Prijavite se na svoj Xiaomi račun kako biste mogli koristiti ovu značajku.</string>
+  <string name="pa_picker_order_theme_app_cta_pre">Dopusti ovoj aplikaciji da se poveže s internetom kako bi mogla koristiti ovu značajku.</string>
+  <string name="pa_picker_permission_denied">"Zaklj. aplikacija mora pristupiti statusu instalacije
 za prikaz widgeta."</string>
+  <string name="pa_picker_purchase_order">Kupljeno</string>
+  <string name="pa_picker_recommend_add_limit_toast">"Ne mogu dodati više widgeta"</string>
+  <string name="pa_picker_recommend_bottom_button_add">Dodaj widget</string>
+  <string name="pa_picker_recommend_bottom_button_download_and_add">Dodaj widget</string>
+  <string name="pa_picker_recommend_download_tip">Kada dodate widget, povezana aplikacija automatski će se preuzeti</string>
+     <string name="pa_picker_recommend_title">Preporučeno za vas</string>
   <string name="pa_picker_request">Postavke</string>
   <string name="pa_picker_retry">Pokušajte ponovo</string>
   <string name="pa_picker_search">Traži</string>
@@ -493,13 +546,18 @@ za prikaz widgeta."</string>
   <string name="pa_picker_search_result_type_widget">Widgeti</string>
   <string name="pa_picker_suit_list_activity_title">Paketi za personalizaciju</string>
   <string name="pa_picker_tab_title_category">Kategorije</string>
-  <string name="pa_picker_tab_title_recommend">Preporučeno</string>
+  <string name="pa_picker_tab_title_fun">Otkrijte</string>
+  <string name="pa_picker_tab_title_recommend">Istaknuto</string>
+  <string name="pa_picker_theme_app_version_error">Došlo je do pogreške</string>
   <string name="pa_picker_tips_count_limit_forbidden">"Ne mogu dodati više widgeta u Zaklj. aplikacija. Izbrišite starije widgete da biste dodali nove."</string>
   <string name="pa_picker_toast_add_successfully">Uspješno dodano</string>
   <string name="pa_picker_toast_count_limit_forbidden">"Ne mogu dodati više widgeta"</string>
   <string name="pa_picker_toast_count_limit_forbidden_for_type">"Ne mogu dodati više widgeta ove vrste"</string>
   <string name="pa_picker_toast_count_limit_warning">Uspješno dodano. Imajte na umu da postavljanje previše widgeta na početni zaslon može usporiti vaš uređaj.</string>
   <string name="pa_picker_toast_screen_cell_locked">"Izgled vašeg početnog zaslona je zaključan. Ne mogu dodati widgete."</string>
+  <string name="pa_picker_widget_select_normal_description">%1$s</string>
+  <string name="pa_picker_widget_select_uninstall_description">%1$s, nije instaliran</string>
+  <string name="pa_picker_widget_select_upgrade_description">%1$s, ažuriranje dostupno</string>
   <string name="pa_privacy_text">Privatnost</string>
   <string name="pa_read_storage_permission_description">Za prikazivanje pozadine vašeg početnog zaslona kao pozadine aplikacije</string>
   <string name="pa_recommend_add_btn">Pokreni</string>
@@ -530,6 +588,8 @@ za prikaz widgeta."</string>
   <string name="pa_setting_bugreport">Povratne informacije</string>
   <string name="pa_setting_new_simplify_title_bar">Zaklj. aplikacija</string>
   <string name="pa_setting_perm_empty">Ovdje nema ništa</string>
+  <string name="pa_setting_personalized_recommenddation_swicth_summary">Dobijte preporuke widgeta na temelju svojih interesa</string>
+  <string name="pa_setting_personalized_recommenddation_swicth_title">Personalizirane preporuke</string>
   <string name="pa_setting_privacy_auth">Dopusti analizu upotrebe aplikacije</string>
   <string name="pa_setting_privacy_auth_summary">"Primat ćete prijedloge na temelju vaših navika korištenja"</string>
   <string name="pa_setting_privacy_category_perm">Dozvole</string>
@@ -640,6 +700,7 @@ za prikaz widgeta."</string>
   <string name="pa_sports_fav_league">Moji događaji</string>
   <string name="pa_sports_fav_title">Moji timovi</string>
   <string name="pa_sports_followed">Pratim</string>
+  <string name="pa_sports_jump_error">"Nije moguće otvoriti stranicu zbog pogreške."</string>
   <string name="pa_sports_league_detail_download_douyu">Preuzmite Douyu za pregled</string>
   <string name="pa_sports_league_detail_download_hupu">Preuzmite Hupu za pregled</string>
   <string name="pa_sports_league_detail_view">Prikaz</string>
@@ -724,9 +785,6 @@ za prikaz widgeta."</string>
   <string name="saturday_shortest">Sub</string>
   <string name="search_menu_title">Traži</string>
   <string name="send">Pošalji</string>
-  <string name="sunday">Nedjelja</string>
-  <string name="sunday_short">Ned</string>
-  <string name="sunday_shortest">Ned</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Čet</string>

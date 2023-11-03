@@ -355,6 +355,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
   <string name="material_minute_suffix">%1$s min</string>
+  <string name="material_slider_range_end">Kraj raspona,</string>
+  <string name="material_slider_range_start">Početak raspona,</string>
   <string name="material_timepicker_clock_mode_description">Prebacite se na način rada sata za unos vremena.</string>
   <string name="material_timepicker_hour">Sat</string>
   <string name="material_timepicker_minute">Minuta</string>
@@ -472,6 +474,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="miuix_appcompat_delete_description">Izbriši</string>
   <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+  <string name="miuix_appcompat_edit">Uredi</string>
   <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
   <string name="miuix_appcompat_search_input_description">Traži</string>
   <string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -522,9 +525,6 @@ Dodirnite + da napravite mapu"</string>
   <string name="month_may">Svibanj</string>
   <string name="month_may_short">Svi</string>
   <string name="month_may_shortest">S</string>
-  <string name="month_medium_april">Tra</string>
-  <string name="month_medium_august">Kol</string>
-  <string name="month_medium_december">Pro</string>
   <string name="month_november">Studeni</string>
   <string name="month_november_short">Stu</string>
   <string name="month_november_shortest">S</string>
@@ -543,6 +543,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
   <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
+  <string name="mtrl_picker_cancel">Odustani</string>
+  <string name="mtrl_picker_confirm">U redu</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Odaberite datum</string>
   <string name="mtrl_picker_date_header_unselected">Odaberite datum</string>

@@ -1465,4 +1465,60 @@ Odmorite se!"</item>
         <item quantity="other">%s aplikacija</item>
         <item quantity="one">%s aplikacija</item>
      </plurals>
+	      <plurals name="app_behavior_desc_duration_usage_time">
+        <item quantity="other">Korišteno %1$d min.</item>
+        <item quantity="one">Korišteno %1$d minutu</item>
+     </plurals>
+     <plurals name="app_behavior_desc_duration_usage_time_end">
+        <item quantity="other">Korišteno %1$d min. do %2$s</item>
+        <item quantity="one">Korišteno %1$d minutu do %2$s</item>
+     </plurals>
+     <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s hrs</item>
+        <item quantity="one">%s hr</item>
+     </plurals>
+     <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s mins</item>
+        <item quantity="one">%s min</item>
+     </plurals>
+     <plurals name="gb_record_time_title">
+        <item quantity="other">%d sek</item>
+        <item quantity="one">%d sek</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%s sati</item>
+        <item quantity="one">%s sat</item>
+     </plurals>
+     <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+     </plurals>
+     <plurals name="power_center_battery_duration_hour_time_format">
+        <item quantity="other">" hrs"</item>
+        <item quantity="one">" hr"</item>
+     </plurals>
+     <plurals name="power_center_battery_duration_min_time_format">
+        <item quantity="other">" min"</item>
+        <item quantity="one">" min"</item>
+     </plurals>
+     <plurals name="power_off_warning_button_ok_time">
+        <item quantity="other">Razumijem (%ds)</item>
+        <item quantity="one">Razumijem (%ds)</item>
+     </plurals>
+     <plurals name="pp_puta">
+        <item quantity="other">%s puta</item>
+        <item quantity="one">%s put</item>
+     </plurals>
+     <plurals name="privacy_pop_puta">
+        <item quantity="other">%s puta</item>
+        <item quantity="one">%s put</item>
+     </plurals>
+     <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Uključite način fokusiranja na %d minutes</item>
+        <item quantity="one">Uključite način fokusiranja na %d minute</item>
+     </plurals>
+     <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+     </plurals>
 </resources>

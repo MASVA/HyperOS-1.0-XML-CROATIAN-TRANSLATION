@@ -47,7 +47,7 @@
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">Pet</string>
     <string name="legacy_title">VPN je spojen</string>
-	    <string name="miuix_access_state_desc">Odabrano</string>
+	  <string name="miuix_access_state_desc">Odabrano</string>
     <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
@@ -58,6 +58,7 @@
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	  <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>

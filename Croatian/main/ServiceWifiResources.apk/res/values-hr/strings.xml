@@ -24,6 +24,10 @@
 %1$s
 
 "</string>
+       <string name="wifi_ca_cert_dialog_message_expiration_text">"Istek certifikata:
+%1$s
+
+"</string>
 	<string name="wifi_ca_cert_dialog_message_hint">"Ovoj mreži dopustite povezivanje samo ako informacije u nastavku izgledaju točne.
 
 "</string>

@@ -68,4 +68,8 @@
         <item quantity="other">Povezano je %1$d uređaja</item>
         <item quantity="one">Povezan je %1$d uređaj</item>
     </plurals>
+	  <plurals name="notification_All_AI_MissedCallTitle">
+        <item quantity="other">Mi AI je umjesto vas odgovorio na %1$d poziva</item>
+        <item quantity="one">Mi AI je umjesto vas odgovorio na %1$d poziv</item>
+     </plurals>
 </resources>

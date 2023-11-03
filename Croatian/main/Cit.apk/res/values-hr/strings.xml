@@ -732,6 +732,7 @@ Molimo odaberite ispravan tipku prema različitim uvjetima vibracije"</string>
   <string name="enrol">Enrol</string>
   <string name="enrolCount">EnrolCount</string>
   <string name="enrolQuality">EnrolQuality</string>
+  <string name="enrollment_error_tip">Strategija kontrole kartice za unos otiska prsta je pokrenuta, provjerite jesu li otisci prstiju jasni i čisti ili izađite iz trenutne stavke testiranja i ponovo pokrenite test.</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="failed_to_get_permission">Otkrivanje kontrole Clouda nije uspjelo, a neke funkcije izgubljene</string>

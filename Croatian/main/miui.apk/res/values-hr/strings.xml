@@ -24,6 +24,11 @@
     <string name="click_to_restore">Vratite stavke sustava da biste mogli normalno koristiti MIUI nakon vraćanja na tvorničke postavke. Dodirnite za početak.</string>
     <string name="close">Zatvori</string>
     <string name="com_android_email">E-pošta</string>
+	 <string name="com_android_deskclock">Sat</string>
+    <string name="com_android_download_ui">Preuzimanja</string>
+    <string name="com_mi_globalbrowser">Mi preglednik</string>
+    <string name="com_miui_gallery">Galerija</string>
+    <string name="com_xiaomi_calendar">Kalendar</string>
     <string name="com_android_soundrecorder">Snimač</string>
     <string name="com_mi_liveassistant">Live Streaming pomoćnik</string>
     <string name="com_miui_calculator">Kalkulator</string>

@@ -83,6 +83,17 @@
   <string name="accessibility_color">Boja</string>
   <string name="accessibility_countdown">Tipka odbrojavanja</string>
   <string name="accessibility_cv_lens_panel_on">Otvorite ploču Pro objektiva</string>
+  <string name="accessibility_cv_watermark_show_location_off">"Koordinate neće biti prikazane"</string>
+  <string name="accessibility_cv_watermark_show_location_on">Koordinate će biti prikazane</string>
+  <string name="accessibility_cv_watermark_show_time_off">Vremenska oznaka je isključena</string>
+  <string name="accessibility_cv_watermark_show_time_on">Vremenska oznaka je uključena</string>
+  <string name="accessibility_focal_lens">%s mm ekvivalentna žarišna duljina</string>
+  <string name="accessibility_street_ev_panel_on">Prikaz vrijednosti izloženosti</string>
+  <string name="accessibility_watermark_device_off">Oznaka uređaja je isključena</string>
+  <string name="accessibility_watermark_device_on">Oznaka uređaja je uključena</string>
+  <string name="accessibility_watermark_time_off">Vremenska oznaka je isključena</string>
+  <string name="accessibility_watermark_time_on">Vremenska oznaka je uključena</string>
+  <string name="accessibility_watermark_userdefine_enable">Opcija prilagođene oznake</string>
   <string name="accessibility_date">Datum</string>
   <string name="accessibility_delay_capture_10s_button">Timer postavljen na 10 sekundi</string>
   <string name="accessibility_delay_capture_3s_button">Timer postavljen na 3 sekunde</string>
@@ -404,6 +415,18 @@ i prilagodite postavke automatski"</string>
   <string name="beauty_lens_none">Zamućenje</string>
   <string name="beauty_lens_use_hint">Koristite veliki otvor blende da zamutite pozadinu i učinite da se stavke u prvom planu istaknu.</string>
   <string name="beauty_makeups_bluefemale">Mraz</string>
+  <string name="beauty_makeups_bms">Balet</string>
+  <string name="beauty_makeups_lts">Milost</string>
+  <string name="beauty_makeups_mll">Porculan</string>
+  <string name="beauty_makeups_myq">Bež</string>
+  <string name="beauty_makeups_qcy">Celadon</string>
+  <string name="beauty_makeups_xqc">Freska</string>
+  <string name="beauty_mo_fe_mm">Film</string>
+  <string name="beauty_mo_ma_mm">Svježe</string>
+  <string name="beauty_mode_confirm_text">Odaberite</string>
+  <string name="beauty_mode_hint_title">Odaberite portretni stil</string>
+  <string name="beauty_mode_item_title1">Svježe</string>
+  <string name="beauty_mode_item_title2">Film</string>
   <string name="beauty_makeups_danyan">Akt</string>
   <string name="beauty_makeups_gentleman">Srebro</string>
   <string name="beauty_makeups_nude">Akt</string>
@@ -631,6 +654,9 @@ i na trenutak izađite iz pregleda"</string>
   <string name="common_signin_button_text">Prijavite se</string>
   <string name="common_signin_button_text_long">Prijavite se s Googleom</string>
   <string name="config_name_delay_capture">Mjerač vremena</string>
+  <string name="config_name_audio_map">Sonogram</string>
+  <string name="config_name_beauty_mode">Portretni stil</string>
+  <string name="config_name_front_flash">Ispuna svjetlom</string>
   <string name="config_name_flash">Flash</string>
   <string name="config_name_group">Grupni selfie</string>
   <string name="config_name_hht">HHT</string>
@@ -668,6 +694,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="confirm_reset_manually_parameter_message">Vratiti sve parametre na njihove zadane vrijednosti?</string>
   <string name="confirm_restore_message">"Vratiti Kameru na zadane postavke?"</string>
   <string name="confirm_restore_title">Vrati na zadane postavke</string>
+  <string name="confirm_truecolor_setting_message">"Dolby Vision ne podržava fokus praćenja pokreta i rezoluciju 720P/8K. Želite li ga ipak uključiti?"</string>
   <string name="connect_view_btn_start">Pokreni</string>
   <string name="connect_view_btn_stop">Zaustavi</string>
   <string name="connect_view_name_camera">Kamera</string>
@@ -794,6 +821,7 @@ Preporučujemo povezivanje na %s GHz Wi-Fi mreže koje podržavaju standard šes
   <string name="dialog_privacy_watermark_msg">Unesite tekst</string>
   <string name="dialog_privacy_watermark_title">Zaštitni potpis</string>
   <string name="dirty_tip_toast">Leća je prljava. Očistite je.</string>
+  <string name="dialog_truecolor_setting_open">Uključi</string>
   <string name="disable_video_snapshot_hint">Snimanje videozapisa onemogućeno je kada su uključeni specijalni efekti.</string>
   <string name="do_not_remind_me">"Ne prikazuj ponovo"</string>
   <string name="doc_shortcut_long">Dokumenti</string>
@@ -1050,6 +1078,41 @@ Snimanje s dva telefona također vam omogućuje povezivanje s drugim uređajem i
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
+  <string name="friend_exit_dialog_message">Uređaji će se međusobno odspojiti ako nastavite. Završiti ovu sesiju sada?</string>
+  <string name="friend_exit_dialog_title">Završiti Assist kameru?</string>
+  <string name="friend_mode_cast_inviting">%1$s želi se povezati s ovim uređajem</string>
+  <string name="friend_mode_description_content">Assist kamera omogućuje dijeljenje pregleda uživo između dva uređaja spojena na istu mrežu i snimanje fotografija s jednog uređaja s drugog.</string>
+  <string name="friend_mode_description_title">O Assist kameri</string>
+  <string name="friend_mode_gallery_toast">Izgleda da nijedna fotografija nije snimljena tijekom ove sesije</string>
+  <string name="friend_mode_intro_1_content">Dva uređaja držite unutar %s metara jedan od drugog i otvorite pomoćnu kameru na oba.</string>
+  <string name="friend_mode_intro_1_title">%d. Otvori Assist kameru</string>
+  <string name="friend_mode_intro_2_content">"Da bi uređaji bili vidljivi jedan drugome, povežite ih oba na istu Wi-Fi mrežu ili povežite jedan uređaj s drugim putem prijenosne pristupne točke.
+Povezivanje uređaja putem žarišne točke moglo bi biti pouzdanije jer vanjske Wi-Fi mreže možda neće dopustiti da uređaji budu vidljivi."</string>
+  <string name="friend_mode_intro_2_content_china">"Da bi uređaji bili vidljivi jedan drugome, povežite ih oba na istu Wi-Fi mrežu ili povežite jedan uređaj s drugim putem prijenosne pristupne točke.
+Povezivanje uređaja putem žarišne točke moglo bi biti pouzdanije jer vanjske Wi-Fi mreže možda neće dopustiti da uređaji budu vidljivi."</string>
+  <string name="friend_mode_intro_2_title">%d. Povežite uređaje zajedno</string>
+  <string name="friend_mode_intro_3_content">"Odaberite uređaj s kojim se želite povezati, pošaljite pozivnicu i prihvatite je na drugom uređaju.
+Koristite pomoćnu kameru u stabilnom mrežnom okruženju; inače bi moglo doći do kašnjenja.
+Ako koristite pristupnu točku za povezivanje, postavite njen AP pojas na %s GHz u Postavke > Veza &amp; dijeljenje > Prijenosna pristupna točka > Postavi prijenosnu pristupnu točku."</string>
+  <string name="friend_mode_intro_3_title">%d. Pokrenite sesiju</string>
+  <string name="friend_mode_introduction_content">Kamera za pomoć omogućuje dijeljenje pregleda uživo između dva uređaja i snimanje fotografija s jednog uređaja s drugog.</string>
+  <string name="friend_mode_introduction_title">O Assist kameri</string>
+  <string name="friend_mode_network_connection_prerequisites">Da biste mogli koristiti pomoćnu kameru, prvo se povežite s Wi-Fi mrežom ili žarišnom točkom.</string>
+  <string name="friend_mode_network_connection_prerequisites_china">Da biste mogli koristiti pomoćnu kameru, prvo se povežite s Wi-Fi mrežom ili žarišnom točkom.</string>
+  <string name="friend_mode_not_found_device">"Nije moguće pronaći uređaje"</string>
+  <string name="friend_mode_re_searching">Traži ponovno</string>
+  <string name="friend_mode_searching">Traženje uređaja…</string>
+  <string name="friend_mode_searching_tips">Povežite dva uređaja na istu Wi-Fi mrežu ili pristupnu točku i otvorite pomoćnu kameru kako biste mogli snimati fotografije jednim uređajem s drugog.</string>
+  <string name="friend_mode_searching_tips_china">Povežite dva uređaja na istu Wi-Fi mrežu ili pristupnu točku i otvorite pomoćnu kameru kako biste mogli snimati fotografije jednim uređajem s drugog.</string>
+  <string name="friend_mode_select_device">Odaberi pomoćni uređaj</string>
+  <string name="friend_mode_transfer_picture">Prijenos fotografija…</string>
+  <string name="frind_sign_button_accessibility">Isključi pomoćnu kameru</string>
+  <string name="function_friend_mode">Kamera za pomoć</string>
+  <string name="gallery_delete_dialog_confirm">Izbriši</string>
+  <string name="gallery_delete_dialog_msg">Izbrisati odabrane stavke sada?</string>
+  <string name="gallery_delete_dialog_title">Brisanje stavki</string>
+  <string name="gallery_description">"Pretpregledi sličica pojavit će se na zaslonu dok snimate fotografije."</string>
+  <string name="gallery_title">Pregledi sličica</string>
   <string name="fromkeyguard_not_permission">Da biste mogli koristiti ovu značajku, najprije otključajte svoj uređaj.</string>
   <string name="front_camera_hint_text_place">Snimanje selfija bit će lakše ako zakrenete telefon</string>
   <string name="front_camera_hint_text_rotate">Zakrenite telefon</string>
@@ -1068,6 +1131,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="hand_gesture_tip">Slikanje dlanom</string>
   <string name="hand_night_exit_button_text">Izlaz iz Hand-held Twilight</string>
   <string name="hdr_exit_button_text">Izlaz iz HDR načina</string>
+  <string name="hdr10plus_mutex_func_alert">"Ova značajka ne radi s HDR10+"</string>
   <string name="height">Visina</string>
   <string name="hibernate_hint">Dodirnite zaslon da probudite Kameru</string>
   <string name="hine_hht">"Pri slabom osvjetljenju, kamera će snimiti više fotografija
@@ -1086,6 +1150,7 @@ izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="hint_subtitle">"Diktirajte titlove dok snimate videozapise"</string>
   <string name="hint_subtitle_prompt">Sada možete diktirati titlove</string>
   <string name="histogram_summary_tip">Prikaži povratne informacije o izloženosti u stvarnom vremenu</string>
+  <string name="heif_mutex_pixel_hdr_alert">"HEIF nije podržan u Ultra HD načinu"</string>
   <string name="hunt_dual_water_mark">Oznaka Dvostruke kamere biti će dodana automatski.</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="id_card_mode_hint_back">Skenirajte stražnju stranu iskaznice</string>
@@ -1249,6 +1314,8 @@ izgledaju veće na fotografijama"</string>
   <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
   <string name="material_minute_suffix">%1$s min</string>
+  <string name="material_slider_range_end">Kraj raspona,</string>
+  <string name="material_slider_range_start">Početak raspona,</string>
   <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
   <string name="material_timepicker_hour">Sat</string>
   <string name="material_timepicker_minute">Minuta</string>
@@ -1524,6 +1591,7 @@ izgledaju veće na fotografijama"</string>
   <string name="mtrl_picker_announce_current_range_selection">Odabir datuma početka: %1$s – Odabir datuma završetka: %2$s</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
   <string name="mtrl_picker_announce_current_selection_none">Ništa</string>
+   <string name="mtrl_picker_cancel">Odustani</string>
   <string name="mtrl_picker_confirm">U redu</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Odaberite datum</string>
@@ -1682,6 +1750,7 @@ Ultra RAW slike štede %d bit podataka zadržavajući još više detalja."</stri
   <string name="popup_tip_3d_beauty_intro_text">3D Uljepšanje</string>
   <string name="popup_tips_near_range_mode">Zatvori fokus</string>
   <string name="popup_tips_privacy_watermark_edit">Uredite zaštitni potpis</string>
+  <string name="portrait_deblur_tips">HD portret</string>
   <string name="portait_effect_entry_blackwhite">B&amp;W</string>
   <string name="portait_effect_entry_cold_white">Svjetlost zvijezda</string>
   <string name="portait_effect_entry_cool">Mint</string>
@@ -1726,6 +1795,7 @@ na svojim fotografijama"</string>
   <string name="portrait_mode_use_hint">"Portretni način zamagljuje pozadinu\ni ističe osobe ispred."</string>
   <string name="portrait_mode_use_hint_for_bokeh">"Isprobajte portretni način.
 Zadržite objekat oštrim dok je pozadina zamagljena."</string>
+  <string name="portrait_repair_tips">Smart HD portret</string>
   <string name="portrait_with_facebeauty_hint">Dostupna je značajka Uljepšanja u Portretnom načinu rada.</string>
   <string name="pref_a_c_f">Sonograf</string>
   <string name="pref_advance_settings">Dodatne postavke</string>
@@ -2141,7 +2211,9 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_volumekey_function_entry_timer_new">Odbrojavanje (%ds)</string>
   <string name="pref_camera_volumekey_function_entry_volume">Glasnoća</string>
   <string name="pref_camera_volumekey_function_entry_zoom">Zoom</string>
+  <string name="pref_camera_volumekey_function_timer_desc">"Neće raditi s videozapisima"</string>
   <string name="pref_camera_volumekey_function_title">Funkcija tipaka glasnoće</string>
+  <string name="pref_camera_volumekey_function_zoom_desc">Radi samo u načinima koji podržavaju zumiranje</string>
   <string name="pref_camera_watermark_title">Dodaj oznaku vremena na fotografiju</string>
   <string name="pref_camera_whitebalance_entry_auto">Auto</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Oblačno</string>
@@ -2275,6 +2347,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_super_night_se_title">Autom. noćni način rada</string>
   <string name="pref_true_colour_video_mode_description">Snimajte videozapise uz Dolby Vision kako biste uhvatili realistične detalje, zadivljujuće boje i upečatljiv kontrast (ova značajka možda neće biti kompatibilna s nekim aplikacijama trećih strana)</string>
   <string name="pref_true_colour_video_mode_introduction">Zapanjujuće vizualno iskustvo, realistični detalji i upečatljiv kontrast</string>
+  <string name="pref_true_colour_video_mode_setting_dec">"Snimite realistične detalje, zapanjujuće boje i upečatljiv kontrast u Video i Pro načinima rada. Fokus praćenja pokreta i H.264 kodiranje nisu podržani. Ova značajka možda nije kompatibilna s nekim aplikacijama trećih strana."</string>
   <string name="pref_true_colour_video_mode_summary">Snimajte 1080P i 4K videozapise u načinima Video i Pro kako biste uhvatili realistične detalje, zadivljujuće boje i upečatljiv kontrast (ova značajka možda neće biti kompatibilna s nekim aplikacijama trećih strana)</string>
   <string name="pref_true_colour_video_mode_title">Dolby Vision</string>
   <string name="pref_userdefine_watermark_title">Vlastiti potpis</string>
@@ -2498,6 +2571,16 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="start_capture">U redu</string>
   <string name="sticker_tab1">Slatko</string>
   <string name="sticker_tab2">Smiješno</string>
+  <string name="street_auto_desc">Automatska udaljenost fokusiranja</string>
+  <string name="street_far_desc">%1$s-metarska udaljenost fokusa</string>
+  <string name="street_middle_desc">%1$s-metarska udaljenost fokusa</string>
+  <string name="street_near_desc">%1$s-metarska udaljenost fokusa</string>
+  <string name="street_preferred_description">Da biste uključili ovu značajku, idite na Postavke > Pokreni kameru i odaberite \"Snimi fotografiju\"</string>
+  <string name="street_tip_far">Smjestite subjekt unutar %d metara</string>
+  <string name="street_tip_middle">Smjestite subjekt unutar %d metara</string>
+  <string name="street_tip_near">Smjesti subjekt unutar %1$s metara</string>
+  <string name="street_top_tip">Dubina polja: %1$sm - %2$sm</string>
+  <string name="street_top_tip_infinity">Dubina polja: %1$sm - %2$s</string>
   <string name="stop_save_low_battery">Spremi (%ds)</string>
   <string name="subtitle_network_exception_tips">"Ne mogu se povezati na mrežu. Ne mogu naći titlove."</string>
   <string name="success_message_import_from_account">Uvezeno</string>
@@ -2570,6 +2653,14 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="tip_ai_audio_off">Audio zumiranje: Isključenoo</string>
   <string name="tip_ai_audio_single_off">Frontalni zvuk: Isključeno</string>
   <string name="tip_ai_off">AI kamera: Isključenoa</string>
+  <string name="tip_beauty_mode_title1">Stil portreta: Svjež</string>
+  <string name="tip_beauty_mode_title2">Portretni stil: Film</string>
+  <string name="tip_friend_mode_connect_when_24GHz">Koristite %s GHz vezu za poboljšanje kvalitete pregleda</string>
+  <string name="tip_friend_mode_display_device_name_connect">Dijeljeni pregled</string>
+  <string name="tip_friend_mode_display_device_name_disconnect">Drugi uređaj je napustio ovu sesiju</string>
+  <string name="tip_friend_mode_display_device_name_force_exit">Drugi uređaj prekinut</string>
+  <string name="tip_friend_mode_initiative_connect_error">Veza je izgubljena. Ponovno se povežite.</string>
+  <string name="tip_friend_mode_passive_connect_error">Izgubljen signal s drugog uređaja. Ponovno se povežite.</string>
   <string name="tip_cvtype_title1">Stil: Leica Authentic</string>
   <string name="tip_cvtype_title2">Stil: Leica Vibrant</string>
   <string name="tip_eis_off">Miran video: Isključeno</string>
@@ -2621,6 +2712,10 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Brzo uzastopno snimanje nije podržano kada je aktivirano "Istakni tonove kože"</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Brzo uzastopno snimanje nije podržano kada je snimanje zvuka UKLJUČENO.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Morate postaviti ISO na 'auto'"</string>
+  <string name="toast_camera_connect_success">Uspješno povezivanje. Pregled sadržaja kamere.</string>
+  <string name="toast_monitor_connect_success">Uspješno povezivanje. Gledanje zajedničkog pregleda.</string>
+  <string name="toast_monitor_connect_timeout">Drugi uređaj je zatvorio zajednički pregled</string>
+  <string name="track_focus_mutex_truecolor_setting_tips">"Fokus praćenja pokreta nije podržan za Dolby Vision/8K/60FPS videozapise"</string>
   <string name="toast_saving">Spremanje fotografija…</string>
   <string name="toast_start_audio_capture">Napravi zvuk kod snimanja fotografije</string>
   <string name="today">Danas</string>
@@ -2632,6 +2727,16 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
+  <string name="tv_picturestyle_color">Nijansa</string>
+  <string name="tv_picturestyle_color_temperature">Toplina</string>
+  <string name="tv_picturestyle_color_tune">Nijansa</string>
+  <string name="tv_picturestyle_custom_color">Tonalitet</string>
+  <string name="tv_picturestyle_custom_color_temperature">Hladno/toplo</string>
+  <string name="tv_picturestyle_custom_color_tune">Cijan/Magenta</string>
+  <string name="tv_picturestyle_custom_texture">Tekstura</string>
+  <string name="tv_picturestyle_custom_tone">Ton</string>
+  <string name="tv_picturestyle_texture">Detalji</string>
+  <string name="tv_picturestyle_tone">Ton</string>
   <string name="ubi_focus_capture_fail">"Ne mogu snimiti fotografiju"</string>
   <string name="ubifocus_capture_warning_message">Za najbolje rezultate, vaša fotografija bi trebala sadržavati objekte i blizu (manje od 1 metra od objektiva) i daleko</string>
   <string name="ultra_ai_pixel_photography_close_tip">AI %s Ultra HD je isklj.</string>
@@ -2688,6 +2793,8 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
   <string name="user_notice_title">Uvjeti i odredbe</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="video_beauty_hint_msg">Prikrijte mrlje dok svi detalji ostaju realistični</string>
+  <string name="video_beauty_hint_title">Potpuno novi Beautify za video</string>
   <string name="video_beauty_tip">Uljepšanje za videozapise</string>
   <string name="video_beauty_tip_beautification">Filteri</string>
   <string name="video_beauty_tip_filter">Filteri</string>
@@ -2709,6 +2816,12 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
   <string name="video_cast_state_exited">Zatvoreno Snimanje s dva uređaja</string>
   <string name="video_cast_state_paused">Zaustavljeno</string>
   <string name="video_effect_entry_blackwhite">B&amp;W</string>
+  <string name="video_effect_entry_classical">Dagerotipija</string>
+  <string name="video_effect_entry_filene">Prošlo</string>
+  <string name="video_effect_entry_green_night">Nokturno</string>
+  <string name="video_effect_entry_literature_art">Poezija</string>
+  <string name="video_effect_entry_orange_honey">Jantar</string>
+  <string name="video_effect_entry_romance">Šarm</string>
   <string name="video_effect_entry_bygone">Bygone</string>
   <string name="video_effect_entry_central">Central</string>
   <string name="video_effect_entry_color_retention">Color pop</string>
@@ -2757,6 +2870,7 @@ Možete koristiti gumbe u nastavku za uređivanje teksta, pregled reprodukcije i
   <string name="video_prompter_shrink_description">Minimiziraj</string>
   <string name="video_prompter_undo_description">Poništi</string>
   <string name="video_reach_size_limit">Dostignuto ograničenje veličine.</string>
+  <string name="video_quality_track_focus_conflict_toast">"Fokus praćenja kretanja nije podržan za 8K/60FPS videozapise"</string>
   <string name="video_shortcut_long">Videozapis</string>
   <string name="video_shortcut_short">Videozapis</string>
   <string name="video_snapshot_hint">Snimite fotografiju tijekom snimanja videozapisa dodirom zaslona za pregled.</string>

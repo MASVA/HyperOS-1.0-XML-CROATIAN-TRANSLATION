@@ -74,6 +74,7 @@
     <string name="apply_warning_content_with_aod">"Koristite Super pozadinu. Ako promijenite pozadinu, ona će se postaviti i na početni i na zaključani zaslon, a Always-on display može se vratiti na zadane postavke. Želite li sada primijeniti?" </string>
     <string name="apply_warning_content_with_maml">"Koristite temu treće strane. Ako promijenite pozadinu, sat vašeg zaključanog zaslona može se vratiti na zadano. Želite li sada postaviti?"</string>
     <string name="apply_warning_title">Postavi pozadinu</string>
+	 <string name="applied_and_added_to_custom_wallpaper">"Uspješno dodano vašoj projekciji slajdova. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Prikaz&lt;/font>&lt;/a>"</string>
     <string name="article_item_hot">Provjerite %s+ popularnih članaka</string>
     <string name="at_least_one">Odaberite barem jednu kategoriju</string>
     <string name="auto_interval">Svaki put kad se uređaj otključa</string>
@@ -711,6 +712,7 @@ mm"</string>
     <string name="pull_to_refresh_refreshing_label">Osvježavanje…</string>
     <string name="pull_to_refresh_release_label">Otpusti za osvježiti</string>
     <string name="qq_application_id" />
+	 <string name="reach_custom_limitation">"Ne mogu dodati više pozadina. &lt;font color ='#3482FF'>&lt;a href='%1$s'>Upravljajte&lt;/font>&lt;/a>"</string>
     <string name="qq_login_btn_content_description">Prijavite se s QQ</string>
     <string name="recommend_switch_desc">Primanje preporuka za sadržaj na temelju vaših sklonosti</string>
     <string name="recommend_switch_dlg_close">Isključi</string>
@@ -755,6 +757,7 @@ mm"</string>
     <string name="see_more">Pogledaj više</string>
     <string name="see_more_content">Pogledaj više</string>
     <string name="select_package">Odaberi verziju</string>
+	 <string name="select_at_least_one_mode">Odaberite način Wallpaper Carousel</string>
     <string name="select_photo_album">Odaberi slike</string>
     <string name="select_picture">Odaberi slike</string>
     <string name="select_picture_des">Dodajte svoje fotografije i mrežne slike u miks kako bi se automatski prikazale u prezentaciji.</string>
@@ -762,7 +765,9 @@ mm"</string>
     <string name="setting_about_item_des">Verzija</string>
     <string name="setting_about_item_title">O Wallpaper Carousel</string>
     <string name="setting_des">Usluge dijaprojekcija pruža Wallpaper Carousel. Potražite \"Wallpaper Carousel\" u Postavkama za prikaz svih dostupnih opcija.</string>
-    <string name="setting_head">Postavke</string>
+    <string name="setting_des_custom_only">Naša značajka dijaprojekcije sada je potpuno prilagodljiva. Možete podesiti koliko se često vaša pozadina mijenja u Postavke > Zaključani zaslon > Postavke Wallpaper Carousel.</string>
+    <string name="setting_des_recommend_selected">"Naša značajka prikaza slajdova sada je potpuno prilagodljiva. Dobijte preporuke slika koje će vam se svidjeti i dodajte svoje. Možete podesiti koliko se često vaša pozadina mijenja u Postavke > Zaključani zaslon > Postavke Wallpaper Carousel."</string>
+	 <string name="setting_head">Postavke</string>
     <string name="setting_ok">Postavke</string>
     <string name="setting_tip">"Ne prikazuj"</string>
     <string name="setting_title">Dijaprojekcija</string>

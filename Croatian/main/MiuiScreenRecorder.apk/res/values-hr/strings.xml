@@ -32,8 +32,8 @@
     <string name="app_name">Snimač zaslona</string>
     <string name="app_notification_channel_record_complete">Obavijesti o završenim snimkama</string>
     <string name="app_notification_info">Trenutno se snima zaslon…</string>
-    <string name="app_notification_record_saved">"Snimka je uspješno spremljena
-Dodirnite za prikaz"</string>
+    <string name="app_notification_record_saved">"Snimka zaslona je spremljena.
+Dodirnite za prikaz."</string>
     <string name="app_notification_title">Snimač zaslona</string>
     <string name="auto_stop_title">Videozapis je uspješno spremljen</string>
     <string name="battery_not_allowed_warning">"Ne mogu snimati kad je baterija manje od %1$s. Provjerite je li baterija napunjena najmanje %2$s."</string>
@@ -102,6 +102,7 @@ Dodirnite za prikaz"</string>
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -169,6 +170,7 @@ Dodirnite za prikaz"</string>
     <string name="permission_microphone_desc">Korištenje mikrofona kao izvora zvuka za snimanje zaslona</string>
     <string name="preference_copied">Sažetak \"%1$s\" kopiran u međuspremnik.</string>
     <string name="privacy_settings">Privatnost</string>
+	 <string name="protect_oneself_when_recording">"Snimanje poziva. Zaštitite svoju i privatnost drugih ljudi dok koristite ovu značajku."</string>
     <string name="quit_recording">Izlaz iz Snimača zaslona</string>
     <string name="record_time_too_short">Snimljeni videozapis je prekratak</string>
     <string name="recording_failure">Ne mogu snimiti, započnite ispočetka</string>

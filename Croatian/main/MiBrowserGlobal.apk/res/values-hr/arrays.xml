@@ -100,4 +100,17 @@
         <item>WhatsApp spremač statusa</item>
         <item>Privatne datoteke</item>
     </string-array>
+	  <string-array name="pref_web_permissions">
+        <item>Ograniči</item>
+        <item>Pitaj</item>
+        <item>Dopusti</item>
+     </string-array>
+     <string-array name="pref_web_permissions_sub_one">
+        <item>Ograniči</item>
+        <item>Pitaj</item>
+     </string-array>
+     <string-array name="pref_web_permissions_sub_two">
+        <item>Ograniči</item>
+        <item>Dopusti</item>
+     </string-array>
 </resources>

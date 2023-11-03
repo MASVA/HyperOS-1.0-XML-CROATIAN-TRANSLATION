@@ -180,6 +180,10 @@
         <item quantity="other">odabrano %d stavki</item>
         <item quantity="one">odabrana %d stavka</item>
     </plurals>
+	     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
+     </plurals>
     <plurals name="new_notifications_msg">
         <item quantity="other">%d novih obavijesti</item>
         <item quantity="one">%d nova obavijest</item>

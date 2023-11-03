@@ -152,4 +152,12 @@
         <item quantity="other">%ds</item>
         <item quantity="one">%ds</item>
      </plurals>
+	      <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">%d-sek. timer za noćni način rada</item>
+        <item quantity="one">%d-sek. timer za noćni način rada</item>
+     </plurals>
+     <plurals name="exit_version_hint">
+        <item quantity="other">"&lt;Data>"Verzija kamere koju koristite nije kompatibilna s modelom vašeg uređaja.&lt;br>Aplikacija će se zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Deinstalirajte ažuriranja kamere i pokušajte ponovno."&lt;/Data>"</item>
+        <item quantity="one">"&lt;Data>"Verzija kamere koju koristite nije kompatibilna s modelom vašeg uređaja.&lt;br>Aplikacija će se zatvoriti za &lt;font color=#FFCE16>&lt;b>%1$d sek&lt;/b>&lt;/font>. Deinstalirajte ažuriranja kamere i pokušajte ponovno."&lt;/Data>"</item>
+     </plurals>
 </resources>

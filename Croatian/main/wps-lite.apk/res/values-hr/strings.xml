@@ -161,6 +161,7 @@
     <string name="ppt_video_install_videoplayer_tip">Instalirajte video player</string>
     <string name="ppt_volume_is_too_low_tip">Stavite slušalice ili pojačajte glasnoću</string>
     <string name="projection_fail">"Nije moguće emitirati. Provjerite vanjski monitor i pokušajte ponovo."</string>
+	  <string name="public_2pic">Izvezi u sliku</string>
     <string name="public_amazon_autosave_finished">Dokument je automatski spremljen</string>
     <string name="public_bad_doc_to_process">"Nevažeći dokument, ne mogu dovršiti radnju"</string>
     <string name="public_bookmark">Oznaka</string>
@@ -180,12 +181,14 @@
     <string name="public_crash_dialog_title">Pošaljite izvještaj o pogrešci</string>
     <string name="public_cut">Obreži</string>
     <string name="public_decryptDocument">Dešifriraj</string>
+	 <string name="public_display_privacy_policy">Pogledajte Pravila o privatnosti</string>
     <string name="public_displayPasswd">Prikaži zaporku</string>
     <string name="public_doc_end_preview_tip">Powered by WPS Office</string>
     <string name="public_edit">Uredi</string>
     <string name="public_enter_phonemode">Uđi u mobilni prikaz</string>
     <string name="public_exit_phonemode">Izađi iz mobilnog prikaza</string>
     <string name="public_exit_play">Izlaz</string>
+	 <string name="public_export_pdf">Izvezi u PDF</string>
     <string name="public_fileNotExist">Datoteka više ne postoji. Datoteka je možda preimenovana, premještena ili izbrisana od strane drugih programa.</string>
     <string name="public_file_cant_write_tips">"Datoteka se ne može spremiti u trenutni direktorij. Spremite u drugi direktorij kao novu datoteku?"</string>
     <string name="public_file_download">Učitavanje datoteke…</string>
@@ -228,6 +231,8 @@
     <string name="public_other_app">Otvori u drugoj aplikaciji</string>
     <string name="public_outline">Sadržaji</string>
     <string name="public_paste">Zalijepi</string>
+	 <string name="public_pdf2word">PDF u Word</string>
+    <string name="public_pdfFillForm">Ispunite obrazac</string>
     <string name="public_pdf_converter_item_name">PDF</string>
     <string name="public_pdf_converter_normal">Regular</string>
     <string name="public_pdf_converter_open_tip">Otvoriti ovaj dokument?</string>
@@ -245,6 +250,7 @@
     <string name="public_permission_storage_disallow_msg">"Nećete moći raditi s dokumentima nakon što opozovete autorizaciju."</string>
     <string name="public_play">Reproduciraj</string>
     <string name="public_ppt_label">Mi Presentation Viewer</string>
+	 <string name="public_privacy_policy">Pravila o privatnosti</string>
 	 <string name="public_privacy_update">&lt;Data>Kako biste u potpunosti razumjeli svoja prava kao korisnika, kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite novu verziju naših &lt;a href=\"%s\">Pravila o privatnosti&lt;/a> prije nego što nastavite.&lt;/Data></string>
     <string name="public_re_licensing">Odobrite autorizaciju</string>
     <string name="public_readOnlyMode">Samo za čitanje</string>
@@ -303,6 +309,7 @@
     <string name="public_wpscloud_recovery_edit_not_save_tips">"Posljednji uređeni sadržaj nije spremljen i vraćen sa WPS Cloud Docs."</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Spremite dokument sigurno</string>
     <string name="public_writer_label">Mi Preglednik teksta</string>
+	 <string name="public_writer2pic">Izvoz u datoteku samo sa slikom</string>
     <string name="public_writer_ui_delete">Izbriši</string>
     <string name="reader_ppt_play_options">Opcije</string>
     <string name="reader_ppt_slide_list_new">Umetni</string>

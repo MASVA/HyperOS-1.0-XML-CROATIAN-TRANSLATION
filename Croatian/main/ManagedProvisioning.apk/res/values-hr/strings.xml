@@ -150,7 +150,10 @@
     <string name="fully_managed_device_provisioning_step_2_subheader">Vaš IT administrator možda može vidjeti vaše podatke i aktivnosti na ovom uređaju.</string>
     <string name="fully_managed_device_provisioning_summary">Na ovom uređaju možete lako pristupati radnim aplikacijama. Ovaj uređaj nije privatan, pa vaš IT administrator možda može vidjeti vaše podatke i aktivnosti. Da biste saznali više, obratite se IT administratoru.</string>
     <string name="fully_managed_device_reset_and_return_button">Poništavanje &amp; vraćanje uređaja</string>
-    <string name="fully_managed_device_with_permission_control_provisioning_summary">Koristite ovaj uređaj za jednostavan pristup svojim poslovnim aplikacijama. Ovaj uređaj nije privatan, pa bi vaš IT administrator možda mogao vidjeti vašu aktivnost i podatke. Vaš IT administrator također može postaviti dopuštenja za aplikacije na ovom uređaju, kao što su dopuštenja za mikrofon, kameru i lokaciju.</string>
+    <string name="fully_managed_device_reset_button">Vraćanje na tvorničke postavke</string>
+    <string name="fully_managed_device_unsupported_DPC_in_headless_mode_header">"Uređaj se ne može postaviti"</string>
+    <string name="fully_managed_device_unsupported_DPC_in_headless_mode_subheader">"Ovaj se uređaj ne može prijaviti u potpuno upravljani način rada. Vratite uređaj na tvorničke postavke i obratite se svom IT administratoru."</string>
+	 <string name="fully_managed_device_with_permission_control_provisioning_summary">Koristite ovaj uređaj za jednostavan pristup svojim poslovnim aplikacijama. Ovaj uređaj nije privatan, pa bi vaš IT administrator možda mogao vidjeti vašu aktivnost i podatke. Vaš IT administrator također može postaviti dopuštenja za aplikacije na ovom uređaju, kao što su dopuštenja za mikrofon, kameru i lokaciju.</string>
     <string name="icon_content_description">Ikona dijaloga</string>
     <string name="if_questions_contact_admin">Ako imate pitanja, obratite se IT administratoru</string>
     <string name="info_anim_title_0">Promijenite način rada</string>

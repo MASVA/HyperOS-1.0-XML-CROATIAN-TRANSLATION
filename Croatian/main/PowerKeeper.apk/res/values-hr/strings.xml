@@ -55,7 +55,8 @@
     <string name="config_no_restrict_description">"Štednja baterije ne ograničava aktivnost aplikacija"</string>
     <string name="config_no_restrict_title">Bez ograničenja</string>
     <string name="config_restrict_function_description">"Zatvori aplikacije nakon 10 minuta aktivnosti u pozadini"</string>
-    <string name="config_restrict_function_title">Ograniči aplikacije u pozadini</string>
+    <string name="config_restrict_function_description_new">Zatvori aplikacije nakon %d minuta aktivnosti u pozadini</string>
+	 <string name="config_restrict_function_title">Ograniči aplikacije u pozadini</string>
     <string name="config_restrict_running_description">Aplikacije će biti zatvorene za uštedu energije</string>
     <string name="config_restrict_running_title">Ograniči aktivnosti u pozadini</string>
     <string name="config_restrict_running_warning">Aplikacija će biti zatvorena kada u pozadini. Možda neće normalno funkcionirati.</string>
@@ -119,6 +120,7 @@
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
