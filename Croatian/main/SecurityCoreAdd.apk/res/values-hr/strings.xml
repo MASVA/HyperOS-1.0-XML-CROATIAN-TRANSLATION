@@ -318,6 +318,10 @@ Poruke će se pojaviti samo u Drugom prostoru."</string>
   <string name="guide_contact_suc_sub_title_desc">Samo će privatni kontakti i poruke biti prikazani u Drugom prostoru</string>
   <string name="guide_contact_suc_title_desc">Uspješno postavljeno</string>
   <string name="guide_contact_title_desc">Prikazati privatne stavke u Drugom prostoru?</string>
+  <string name="guide_media_play_pause">Reproducirajte i pauzirajte videozapise i zvuk</string>
+  <string name="guide_media_process">Prilagodite napredak reprodukcije</string>
+  <string name="guide_media_volume">Prilagodite glasnoću medija</string>
+  <string name="guide_meida_next_previous">Prebacivanje između pjesama</string>
   <string name="guide_page_up_down">Okretanje stranica</string>
   <string name="guide_phone_call_endcall">Odgovaranje i prekidanje poziva prenesenih na tablet</string>
   <string name="guide_pwd_detail_title">"Zaštitite svoje podatke
@@ -511,6 +515,8 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="material_hour_suffix">"%1$s sat"</string>
   <string name="material_minute_selection">Odaberite minute</string>
   <string name="material_minute_suffix">%1$s minuta</string>
+  <string name="material_slider_range_end">Kraj raspona,</string>
+  <string name="material_slider_range_start">Početak raspona,</string>
   <string name="material_timepicker_clock_mode_description">Prebacite se na način rada sata za unos vremena.</string>
   <string name="material_timepicker_hour">Sat</string>
   <string name="material_timepicker_minute">Minuta</string>
@@ -659,6 +665,7 @@ Ako držite tipku %s sekundi, umjesto toga otvorit ćete izbornik za isključiva
   <string name="notification_setting_second_space">Postavite Drugi prostor</string>
   <string name="notification_setting_second_space_desc">Dodajte zaporku Drugog prostora i premjestite podatke</string>
   <string name="notification_tof_gesture_content_text">Uključite ovu značajku za izvođenje različitih radnji bez dodirivanja zaslona</string>
+  <string name="notification_tof_gesture_title">Prepoznavanje beskontaktnih pokreta</string>
   <string name="ok_button">U redu</string>
   <string name="openPasswordGuard">Postavite zaporku Drugog prostora</string>
   <string name="openSuccess">Uključeno</string>
@@ -815,6 +822,7 @@ Odvojite i osigurajte svoje podatke."</string>
   <string name="show_noti_setting">Prikaži Drugi prostor u panelu obavijesti</string>
   <string name="show_private_content">Prikaži privatne stavke</string>
   <string name="show_private_msg">Prikaži privatne poruke</string>
+  <string name="show_private_msg_summary">Prikaži privatne poruke u Drugom prostoru</string>
   <string name="single_key_use">Jedna tipka</string>
   <string name="single_key_use_summary">"Koristite tipku Početna za funkcije koje obavljaju druga 2 gumba.
 Dodirnite tipku Početna za povratak.
@@ -947,7 +955,12 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="switching_files">Premještanje datoteka…</string>
   <string name="switching_photos">Premještanje fotografija…</string>
   <string name="temporary_no_set">Ne sada</string>
+  <string name="the_way_of_wakeup_voice_assistant_summary">Probudite glasovnog asistenta u načinu cijelog zaslona (bez virtualnih tipki)</string>
   <string name="this_function_can_not_use_in_second_space">Ova se funkcija može koristiti samo u Prvom prostoru</string>
+  <string name="three_gesture_down">Povucite 3 prsta prema dolje</string>
+  <string name="three_gesture_horizontal">Povucite vodoravno s %d prsta</string>
+  <string name="three_gesture_long_press">Dodirnite i držite s %d prsta</string>
+  <string name="three_gesture_pc_mode">Uključi PC način</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>

@@ -104,6 +104,7 @@
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Koristite svoj otisak prsta za otključavanje uređaja, potvrdu Mi Pay transakcija ili za prijavu u aplikacije i usluge.</string>
   <string name="desc_international_fingerprint">Koristite svoj otisak prsta za otključavanje uređaja ili za prijavu u aplikacije i usluge.</string>
+  <string name="device_information_usage_desc">Ova vam usluga omogućuje pregled informacija o uređaju, povezivanje uređaja s mrežama i postavljanje njegovih značajki.</string>
   <string name="diagnose_report">Šaljite dijagnostičke podatke da biste locirali i analizirali probleme sustava i poboljšali korisničko iskustvo. Takvi podaci mogu uključivati osobne podatke (npr. IP, lokaciju itd.)</string>
   <string name="disageement_abnormal_download">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu."</string>
   <string name="disagree">Odustani</string>
@@ -120,6 +121,7 @@
   <string name="disagreement_location_service_abnormal">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti usluge lokacije. Usluge lokacije možete uključiti ili isključiti u bilo kojem trenutku u Postavke &gt; Zaštita privatnosti."</string>
   <string name="disagreement_mi_account_abnormal">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti usluge Xiaomi računa. Usluge Xiaomi računa možete uključiti ili isključiti u bilo kojem trenutku u Postavke &gt; Xiaomi račun."</string>
   <string name="disagreement_service_not_working_properly">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti ovu aplikaciju."</string>
+  <string name="disagreement_service_not_working_properly_settings">"Ako ne pristanete odobriti ova dopuštenja, ova usluga neće moći normalno raditi."</string>
   <string name="disagreement_terminate_bluetooth">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti Bluetooth. Možete uključiti i isključiti Bluetooth te dodati Bluetooth uređaje u Postavke &gt; Bluetooth."</string>
   <string name="disagreement_terminate_miuidaemon">"Dopuštenja ćemo koristiti samo kad počnete slati podatke s uređaja kada je njegov zaslon oštećen. Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti ovu aplikaciju."</string>
   <string name="disagreement_terminate_service">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu. U takvim slučajevima možete odabrati deinstaliranje, odjavu ili ograničenje dopuštenja u postavkama."</string>
@@ -147,6 +149,7 @@
   <string name="friday_shortest">P</string>
   <string name="game_introduction">Dodatak za igre omogućuje vam prijavu, stvaranje narudžbi, dovršavanje plaćanja, korištenje kupona i sudjelovanje u promotivnim događajima.</string>
   <string name="get_imei_information">Pristup IMEI</string>
+  <string name="get_imei_information_settings">Pristup jedinstvenom identifikatoru uređaja (IMEI)</string>
   <string name="google_service_introduction">Da bi mogao normalno raditi, Trgovina Play treba se povezati s internetom, pristupiti vašoj lokaciji, moći slati SMS i MMS, snimati zvukove, upućivati pozive, pristupiti događajima iz kalendara, povijesti poziva, senzorima, pohrani, kameri, informacijama o uređaju i računima.</string>
   <string name="home_settings_miui_home">Klasično</string>
   <string name="home_settings_poco_launcher">Ladica za aplikacije</string>
@@ -195,23 +198,23 @@ Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće
 \u0009\u0009Pristupite fotografijama i datotekama pohranjenim na uređaju
 \u0009\u0009Za slanje i primanje prenesenog sadržaja
 \u0009\u0009Pristup informacijama o lokaciji
-\u0009\u0009Za prijenos datoteka putem Bluetooth-a ili Wi-Fi-ja
-\u0009\u0009Uključite ili isključite Bluetooth
+\u0009\u0009Za prijenos datoteka putem Bluetootha ili Wi-Fi-ja
+\u0009\u0009Uključiti ili isključiti Bluetooth
 \u0009\u0009Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha
-\u0009\u0009Uključite ili isključite Wi-Fi
+\u0009\u0009Uključiti ili isključiti Wi-Fi
 \u0009\u0009Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi mreže
 \u0009\u0009Povežite se s uređajima u blizini
 \u0009\u0009Za otkrivanje i povezivanje s uređajima u blizini
 \u0009\u0009Prijenos reprodukcije medija (Mi Smart Play, emitiranje):
-\u0009\u0009Uključite ili isključite Bluetooth
+\u0009\u0009Uključiti ili isključiti Bluetooth
 \u0009\u0009Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha
-\u0009\u0009Uključite ili isključite Wi-Fi
+\u0009\u0009Uključiti ili isključiti Wi-Fi
 \u0009\u0009Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi mreže
 \u0009\u0009Prenesite stavke na druge uređaje
 \u0009\u0009Za uspostavljanje Bluetooth veze između uređaja i prijenos stavki
 \u0009\u0009Pristup informacijama o lokaciji
 \u0009\u0009Za pristup informacijama o uređajima u blizini
-\u0009\u0009Snimi interni zvuk uređaja
+\u0009\u0009Snimanje internog zvuka uređaja
 \u0009\u0009Za prijenos i reprodukciju zvuka između uređaja tijekom emitiranja i zrcaljenja
 \u0009\u0009Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju
 \u0009\u0009Za slanje i primanje prenesenog sadržaja
@@ -220,49 +223,49 @@ Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće
 \u0009\u0009Pristup sadržaju zaslona
 \u0009\u0009Za pristup sadržaju zaslona tijekom snimanja ili emitiranja, uključujući osjetljive podatke kao što su zvuk, zaporke, zaporke za plaćanje, fotografije, poruke itd.
 \u0009\u0009Primopredaja aplikacije (zadaci aplikacije na više uređaja, početni zaslon+):
-\u0009\u0009Uključite ili isključite Bluetooth
+\u0009\u0009Uključiti ili isključiti Bluetooth
 \u0009\u0009Za otkrivanje uređaja u blizini putem Bluetootha
-\u0009\u0009Uključite ili isključite Wi-Fi
-\u0009\u0009Za otkrivanje obližnjih uređaja za emitiranje putem Wi-Fi mreže
+\u0009\u0009Uključiti ili isključiti Wi-Fi
+\u0009\u0009Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi mreže
 \u0009\u0009Pristup MAC adresi uređaja
 \u0009\u0009Za prepoznavanje povezanih uređaja
 \u0009\u0009Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju
 \u0009\u0009Za slanje i primanje prenesenog sadržaja
 \u0009\u0009Prenesite stavke na druge uređaje
-\u0009\u0009Za uspostavljanje Bluetooth veze između uređaja i prijenos sadržaja
-\u0009\u0009Snimi interni zvuk uređaja
+\u0009\u0009Za uspostavljanje Bluetooth veze između uređaja i prijenos stavki
+\u0009\u0009Snimanje internog zvuka uređaja
 \u0009\u0009Za prijenos i reprodukciju zvuka između uređaja tijekom emitiranja i zrcaljenja
 \u0009\u0009Pristup sadržaju zaslona
 \u0009\u0009Za pristup sadržaju zaslona tijekom snimanja ili emitiranja, uključujući osjetljive podatke kao što su zvuk, zaporke, zaporke za plaćanje, fotografije, poruke itd.
-\u0009\u0009Operacije s datotekama (dijeljeni međuspremnik, korištenje kamere s bilješkama):
-\u0009\u0009Uključite ili isključite Bluetooth
+\u0009\u0009Zajednički međuspremnik i snimanje slika s različitih uređaja:
+\u0009\u0009Uključiti ili isključiti Bluetooth
 \u0009\u0009Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha
-\u0009\u0009Uključite ili isključite Wi-Fi
+\u0009\u0009Uključiti ili isključiti Wi-Fi
 \u0009\u0009Za otkrivanje obližnjih uređaja za emitiranje putem Wi-Fi mreže
 \u0009\u0009Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju
 \u0009\u0009Za slanje i primanje prenesenog sadržaja
 \u0009\u0009Pristup međuspremniku
-\u0009\u0009Za dopuštanje aplikacijama pristupa kopiranom sadržaju
-\u0009\u0009Povezivanje uređaja (povećanje brzine mreže, korištenje tipkovnica, miševa i kamera):
+\u0009\u0009Za dopuštanje aplikacijama pristup kopiranom sadržaju
+\u0009\u0009Mrežna pomoć, zajedničke tipkovnice i miševi i dijeljena kamera:
 \u0009\u0009Uključite ili isključite Bluetooth
 \u0009\u0009Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha
-\u0009\u0009Uključite ili isključite Wi-Fi
+\u0009\u0009Uključiti ili isključiti Wi-Fi
 \u0009\u0009Za otkrivanje obližnjih uređaja za emitiranje putem Wi-Fi mreže
 \u0009\u0009Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju
 \u0009\u0009Za slanje i primanje prenesenog sadržaja
 \u0009\u0009Pristup kameri
-\u0009\u0009Za fotografiranje i snimanje videa
-\u0009\u0009Upravljanje uređajima:
-\u0009\u0009Uključite i isključite Bluetooth
+\u0009\u0009Za fotografiranje i snimanje videozapisa
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Uključiti ili isključiti Bluetooth
 \u0009\u0009Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha
-\u0009\u0009 Uključite i isključite Wi-Fi
-\u0009\u0009Za otkrivanje obližnjih uređaja za emitiranje putem Wi-Fi mreže
-\u0009\u0009Snimi interni zvuk uređaja
+\u0009\u0009 Uključiti ili isključiti Wi-Fi
+\u0009\u0009Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi mreže
+\u0009\u0009Snimanje internog zvuka uređaja
 \u0009\u0009Za prijenos i reprodukciju zvuka između uređaja tijekom emitiranja i zrcaljenja
 \u0009\u0009Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju
 \u0009\u0009Za slanje i primanje prenesenog sadržaja
-Ako ne prihvaćate davanje ovih dopuštenja, nećete moći koristiti ove usluge.
-Dostupne usluge međusobnog povezivanja mogu se razlikovati ovisno o verziji vašeg sustava i modelu uređaja. Pronađite više informacija na %s"</string>
+Ako ne prihvatite davanje ovih dopuštenja, nećete moći koristiti ove usluge.
+Dostupne usluge međusobnog povezivanja mogu se razlikovati ovisno o verziji vašeg sustava i modelu uređaja. Pronađite više informacija na %s."</string>
   <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
   <string name="item_contents_wwarning">"Ako izgubite svoj uređaj, nećete moći spriječiti druge ljude da ga koriste i pristupaju vašim podacima ako ne postavite Zaklj. zaslona. Svejedno preskočiti?"</string>
   <string name="item_facerecognition">Otključavanje licem</string>
@@ -289,6 +292,7 @@ Dostupne usluge međusobnog povezivanja mogu se razlikovati ovisno o verziji va�
   <string name="miui14_start_up_slogan">Priprema. Pozor. Kreni.</string>
   <string name="miui_privacy_policy_no_network">"Niste povezani s internetom. Pogledajte Pravila o privatnosti na %s."</string>
   <string name="miui_provision">Početno postavljanje</string>
+  <string name="miui_settings">Postavke</string>
   <string name="miui_terms_no_network">"Niste povezani s internetom. Pogledajte Uvjete pružanja usluge na %s"</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
@@ -446,6 +450,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="permission_enable_disable_bluetooth_summary">Za pronalaženje uređaja u blizini radi povezivanja i prijenosa podataka</string>
   <string name="permission_fast_pairing">Da bi mogao pronaći uređaje u blizini, Mi Link se mora povezati s internetom i zahtijeva sljedeća dopuštenja:</string>
   <string name="permission_get_imei_information_summary">Za prepoznavanje vremena aktivacije uređaja</string>
+  <string name="permission_get_imei_information_summary_settings">Za prikaz informacija i specifikacija uređaja</string>
   <string name="permission_imei_service">Za pristup IMEI za pružanje usluga povezanih s vašim uređajem</string>
   <string name="permission_interaction_introduction">Za spremanje fotografija i videozapisa na uređaj</string>
   <string name="permission_location">Pristup podacima o lokaciji</string>
@@ -562,6 +567,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="require_base_authority_statement">"Za pružanje osnovnih usluga potrebna su sljedeća dopuštenja:
 \u0009\u0009\u0009Pristup IMEI i IMSI"</string>
   <string name="require_basic_applist_and_authority_statement">Za pružanje osnovnih usluga potrebna su sljedeća dopuštenja:</string>
+  <string name="require_device_information_statement">Da biste nam omogućili da vam pružimo osnovne usluge, potrebna su sljedeća dopuštenja:</string>
   <string name="require_miuidaemon_authority_statement">Da biste nam omogućili da vam pružimo osnovne usluge, morate odobriti sljedeća dopuštenja kako bismo mogli prikupljati vaše osobne podatke:</string>
   <string name="require_network_and_authority_statement">Da bi mogla normalno raditi, ova usluga mora se povezati s internetom i zahtijeva sljedeća dopuštenja:</string>
   <string name="require_network_authority_statement">Da biste nam omogućili da vam pružimo osnovne usluge, morate se povezati na internet i odobriti sljedeća dopuštenja kako bismo mogli prikupiti vaše osobne podatke:</string>

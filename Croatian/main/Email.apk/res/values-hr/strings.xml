@@ -1095,6 +1095,7 @@ Pričekajte dok se ne sinkronizira u potpunosti ili pogledate poruku na računal
     <string name="sign_in_dialog_office365">Office 365</string>
     <string name="sign_in_dialog_outlook_enterprise">Outlook za posao (bez kalendara)</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (bez kalendara)</string>
+	 <string name="sign_in_dialog_title">Odaberite način prijave</string>
     <string name="sign_in_no_useful_provider_error">"Ne mogu dobiti konfiguracije protokola od Microsofta. Upotrijebite drugi protokol ili ažurirajte Microsoftov protokol."</string>
     <string name="signature">"
 

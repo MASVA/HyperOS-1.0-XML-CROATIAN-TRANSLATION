@@ -1269,8 +1269,9 @@ Odmorite se!"</item>
         <item quantity="one">%1$s | Ova aplikacija je poslala SMS %2$d put</item>
      </plurals>
      <plurals name="permission_usage_allow_storage">
-        <item quantity="other">%1$s｜访问照片、视频、音频、文件%2$d次</item>
-     </plurals>
+        <item quantity="other">%1$s｜Pristupano fotografijama, video zapisima, zvuku i datotekama %2$d puta</item>
+        <item quantity="one">%1$s｜Pristupano fotografijama, video zapisima, zvuku i datotekama %2$d put</item>
+		</plurals>
      <plurals name="permission_usage_allow_w_calendar">
         <item quantity="other">%1$s | Ova je aplikacija uredila kalendar %2$d puta</item>
         <item quantity="one">%1$s | Ova je aplikacija uredila kalendar %2$d put</item>
@@ -1396,7 +1397,8 @@ Odmorite se!"</item>
         <item quantity="one">%1$s | Ovoj je aplikaciji odbijeno slanje SMS-a %2$d put</item>
      </plurals>
      <plurals name="permission_usage_deny_storage">
-        <item quantity="other">%1$s｜Zabranjen pristup fotografijama, videozapisima, zvuku, datotekama %2$d puta</item>
+		  <item quantity="other">"%1$s｜Nije dopušten pristup fotografijama, videozapisima, zvuku i datotekama %2$d puta"</item>
+        <item quantity="one">"%1$s｜Nije dopušten pristup fotografijama, videozapisima, zvuku i datotekama %2$d put"</item>
      </plurals>
      <plurals name="permission_usage_deny_w_calendar">
         <item quantity="other">%1$s | Ovoj je aplikaciji odbijeno uređivanje kalendara %2$d puta</item>
@@ -1419,7 +1421,8 @@ Odmorite se!"</item>
         <item quantity="one">%1$s | Odbijeno %2$d put</item>
      </plurals>
      <plurals name="permission_usage_projection_screen">
-        <item quantity="other">%1$s｜Snimiti sadržaj zaslona %2$d puta</item>
+		   <item quantity="other">%1$s｜Pristupano ili snimljen sadržaj zaslona %2$d puta</item>
+        <item quantity="one">%1$s｜Pristupano ili snimljen sadržaj zaslona %2$d put</item>
      </plurals>
      <plurals name="permission_usage_recent_day">
         <item quantity="other">prije %1$d dana</item>

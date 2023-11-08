@@ -49,6 +49,9 @@
   <string name="confirm_cancel_task_files">Otkazati slanje datoteka na %1$s?</string>
   <string name="confirm_cancel_task_images">Otkazati slanje slika korisnicima %1$s?</string>
   <string name="copy">Kopiraj</string>
+  <string name="copy_dialog_confirm">Razumijem</string>
+  <string name="copy_dialog_content">Snimke zaslona automatski će se dodati u vaš međuspremnik i mogu se zalijepiti. Ovu značajku možete isključiti u postavkama pretraživanjem \"Dodaj stavke u međuspremnik\".</string>
+  <string name="copy_dialog_title">Pažnja</string>
   <string name="copy_success_toast">Uspješno kopirano</string>
   <string name="cta_agree_desc">Dopustite ovoj aplikaciji da se poveže s internetom i dajte gore navedena obvezna dopuštenja.</string>
   <string name="cta_btn_agree">Prihvaćam</string>

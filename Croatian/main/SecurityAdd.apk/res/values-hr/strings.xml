@@ -187,10 +187,15 @@
     <string name="gb_gpu_tips_texture">Dajte prioritet performansama ili kvaliteti slike</string>
     <string name="gb_gputuner_multi_render">Multithreaded rendering</string>
     <string name="gb_not_support_on_device">"Ova se aplikacija ne može koristiti na vanjskom zaslonu"</string>
+	 <string name="gb_pannel_control_frame_rate_dialog_message">Da biste mogli koristiti ovu značajku, promijenite razlučivost zaslona na WQHD+ u postavkama.</string>
+    <string name="gb_pannel_control_frame_rate_dialog_positive">Postavke</string>
+    <string name="gb_pannel_control_frame_rate_dialog_title">Promjena rezolucije zaslona</string>
+	 <string name="gb_pannel_control_mode_frame_rate">Prioritet broja sličica u sekundi</string>
     <string name="gb_pannel_control_mode_balance">Uravnoteženo</string>
     <string name="gb_pannel_control_mode_custom">Vlastito</string>
     <string name="gb_pannel_control_mode_high_quality">Visoka kvaliteta</string>
     <string name="gb_pannel_control_mode_normal">Zadano</string>
+	 <string name="gb_pannel_control_mode_picture">Prioritet slike</string>
     <string name="gb_pannel_control_mode_power_saving">Ušteda energije</string>
 	 <string name="gb_web_panel_failure_retry">"Nije moguće učitati stavke. Pokušajte ponovno."</string>
     <string name="gb_web_panel_game_loading">Samo trenutak…</string>

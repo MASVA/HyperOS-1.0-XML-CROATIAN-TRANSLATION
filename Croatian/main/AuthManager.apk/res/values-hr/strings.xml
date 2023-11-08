@@ -7,8 +7,8 @@
   <string name="HIPS_Action_Reject">Odbij</string>
   <string name="HIPS_Action_Reject_Once">Odbij jednom</string>
   <string name="HIPS_Action_Reject_This">Ograniči jednom</string>
-  <string name="HIPS_Perm_Access_Gallery">Pristup Galeriji</string>
-  <string name="HIPS_Perm_Access_Gallery_Desc">Omogućite ovoj aplikaciji pristup stavkama u vašoj Galeriji</string>
+  <string name="HIPS_Perm_Access_Gallery">Pristup fotografijama i videozapisima snimljenim kamerom</string>
+  <string name="HIPS_Perm_Access_Gallery_Desc">Dopustite ovoj aplikaciji pristup fotografijama i videozapisima koje je snimila aplikacija Kamera sustava</string>
   <string name="HIPS_Perm_AudioRecorder">Snimanje zvuka</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">snimiti zvuk</string>
   <string name="HIPS_Perm_AutoStart">Pokrenuti kod pokretanja sustava</string>
@@ -224,7 +224,7 @@
   <string name="grant_dialog_button_only_allow_foreground_locate">Ograniči za sad</string>
   <string name="grant_dialog_button_only_allow_foreground_locate_and_dont_ask_again">Uvijek ograniči</string>
   <string name="grant_dialog_storage_category_title">Ova aplikacija zahtijeva dopuštenja za pristup Galeriji i porukama u aplikacijama društvenih medija</string>
-  <string name="grant_dialog_storage_gallery_title">Galerija</string>
+  <string name="grant_dialog_storage_gallery_title">Fotografije i videozapisi snimljeni kamerom</string>
   <string name="grant_dialog_storage_sociality_title">Poruke u aplikacijama društvenih medija</string>
   <string name="group_audio">Glazba i zvuk</string>
   <string name="group_call">Telefon</string>

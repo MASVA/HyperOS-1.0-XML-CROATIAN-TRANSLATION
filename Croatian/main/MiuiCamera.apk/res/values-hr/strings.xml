@@ -2932,6 +2932,19 @@ snimanje i uređivanje videozapisa u pokretu"</string>
   <string name="widget_camera_lens_description">Eksperimentirajte sa žarišnom duljinom</string>
   <string name="widget_camera_lens_none_description">50 mm portretni objektiv</string>
   <string name="widget_camera_lens_talk_back">Profesionalne leće</string>
+  <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+  <string name="xiaomi_update_sdk_connect_download_manager_fail">Povezivanje aplikacije Preuzimanje nije uspjelo, provjerite stanje u Upravljanju aplikacijama.</string>
+  <string name="xiaomi_update_sdk_dialog_message">"Predstavljamo verziju %1$s
+Veličina: %2$s"</string>
+   <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verziju %1$s
+Veličina Delta ažuriranja: %2$s"</string>
+   <string name="xiaomi_update_sdk_dialog_title">%1$s ažuriranje!</string>
+   <string name="yesterday">Jučer</string>
+   <string name="xiaomi_update_sdk_external_storage_unavailable">Pohrana nije dostupna, provjerite SD karticu.</string>
+  <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_update_sdk_update_dialog_cancel">Odustani</string>
+  <string name="xiaomi_update_sdk_update_dialog_ok">Ažuriraj odmah</string>
   <string name="width">Dužina</string>
   <string name="wifi_connect_current_connetion">"Povezani ste na Wi-Fi"</string>
   <string name="wifi_connect_fail">Isteklo je vrijeme veze</string>

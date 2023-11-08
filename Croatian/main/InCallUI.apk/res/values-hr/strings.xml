@@ -170,6 +170,7 @@
   <string name="enter_ai_assistant">Koristi</string>
   <string name="enter_ai_assistant_tip">"AI može pretvoriti tekst u govor ako vam nije zgodno da sada razgovarate. Koristiti AI za ovaj poziv?"</string>
   <string name="focus_notification_on_call">Pozivanje…</string>
+  <string name="focus_notification_on_ringing">Dolazni poziv</string>
   <string name="font_camera_tip">Sklopite uređaj da biste koristili prednju kameru</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>

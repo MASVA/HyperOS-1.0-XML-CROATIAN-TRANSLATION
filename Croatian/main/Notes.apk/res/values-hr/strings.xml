@@ -994,6 +994,8 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="toolbar_theme_description">Odaberite temu</string>
   <string name="toolbar_undo_description">Poništi</string>
   <string name="toolbar_voice_description">Glas</string>
+  <string name="toolbar_voice_done_description">Zaustavi</string>
+  <string name="toolbar_voice_mark_description">Označi</string>
   <string name="trash_folder_name">Smeće</string>
   <string name="trash_folder_reminder_new">Bilješke se čuvaju u smeću %d dana prije nego što se trajno izbrišu</string>
   <string name="tuesday">Utorak</string>

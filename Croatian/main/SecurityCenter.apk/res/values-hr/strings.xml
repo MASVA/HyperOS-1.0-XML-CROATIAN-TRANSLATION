@@ -4,8 +4,8 @@
   <string name="Call_BLACKLIST">Popis blokiranih poziva</string>
   <string name="Call_PRIVATE_CALL">Privatni pozivi</string>
   <string name="Calnetwork_blocked_switch_wifiEFIX">Popis blokiranih predbrojeva</string>
-  <string name="HIPS_Perm_Access_Gallery">Pristup Galeriji</string>
-  <string name="HIPS_Perm_Access_Gallery_Desc">Omogućite ovoj aplikaciji pristup stavkama u vašoj Galeriji</string>
+  <string name="HIPS_Perm_Access_Gallery">Pristup fotografijama i videozapisima snimljenim kamerom</string>
+  <string name="HIPS_Perm_Access_Gallery_Desc">Dopustite ovoj aplikaciji pristup fotografijama i videozapisima koje je snimila aplikacija Kamera sustava</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Uključivanje i isključivanje Bluetootha</string>
   <string name="HIPS_Perm_CallLog_Desc">Zabilježiti i brisati povijest poziva</string>
   <string name="HIPS_Perm_Call_Desc">Izravno pozivati telefonske brojeve</string>
@@ -2366,6 +2366,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_collimator_size">Veličina</string>
   <string name="gb_collimator_style">Tip</string>
   <string name="gb_collimator_toast">Pogled čini ciljanje mnogo praktičnijim</string>
+  <string name="gb_cooler_device_toast">"Vizualno iskustvo poboljšano pomoću
+Xiaomi Gaming Cooler"</string>
   <string name="gb_create_icon_summary">Izradi prečac Početni zaslona</string>
   <string name="gb_description_image_button_answer">Odgovori</string>
   <string name="gb_description_image_button_reject">Odbij</string>
@@ -2639,6 +2641,7 @@ vašeg igranja"</string>
   <string name="group_head_data_location_desc">Isključite da biste ograničili pristup lokaciji za sve aplikacije</string>
   <string name="group_head_data_location_service">Usluge lokacije</string>
   <string name="group_head_data_mic_desc">Isključite da biste ograničili pristup mikrofonu za sve aplikacije</string>
+  <string name="group_head_data_screen_shots_clipboard">Automatski kopiraj snimke zaslona u međuspremnik</string>
   <string name="group_image_video">Fotografije i videozapisi</string>
   <string name="group_location">Lokacija</string>
   <string name="group_microphone">Mikrofon</string>
@@ -4149,7 +4152,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_usage_allow_r_contacts_once">%1$s | Ova je aplikacija pristupila vašim kontaktima</string>
   <string name="permission_usage_allow_receive_sms_once">%1$s | Ova je aplikacija primila SMS</string>
   <string name="permission_usage_allow_send_sms_once">%1$s | Ova je aplikacija poslala SMS</string>
-  <string name="permission_usage_allow_storage_once">%1$s｜Pristup fotografijama, videozapisima, zvuku, datotekama</string>
+  <string name="permission_usage_allow_storage_once">%1$s｜Pristupano fotografijama, videozapisima, zvuku, datotekama</string>
   <string name="permission_usage_allow_w_calendar_once">%1$s | Ova aplikacija uredila je kalendar</string>
   <string name="permission_usage_allow_w_calllog_once">%1$s | Ova je aplikacija uredila vašu povijest poziva</string>
   <string name="permission_usage_allow_w_contacts_once">%1$s | Ova je aplikacija uredila vaše kontakte</string>
@@ -4181,7 +4184,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_usage_deny_r_contacts_once">%1$s | Ovoj aplikaciji je odbijen pristup vašim kontaktima</string>
   <string name="permission_usage_deny_receive_sms_once">%1$s | Ovoj je aplikaciji odbijeno primanje SMS-a</string>
   <string name="permission_usage_deny_send_sms_once">%1$s | Ovoj je aplikaciji odbijeno slanje SMS-a</string>
-  <string name="permission_usage_deny_storage_once">%1$s｜Zabrannjen pristup fotografijama, video zapisima, zvuku, datotekama</string>
+  <string name="permission_usage_deny_storage_once">"%1$s｜Nije dopušten pristup fotografijama, videozapisima, zvuku i datotekama"</string>
   <string name="permission_usage_deny_w_calendar_once">%1$s | Ovoj aplikaciji je odbijeno uređivanje kalendara</string>
   <string name="permission_usage_deny_w_calllog_once">%1$s | Ovoj je aplikaciji odbijeno uređivanje vaše povijesti poziva</string>
   <string name="permission_usage_deny_w_contacts_once">%1$s | Ovoj aplikaciji je odbijeno uređivanje vaših kontakata</string>
@@ -4189,8 +4192,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_usage_deny_wakepath_once">%1$s | Odbijeno</string>
   <string name="permission_usage_now">Sada</string>
   <string name="permission_usage_now_access">Pristupam sada</string>
-  <string name="permission_usage_projection_screen_once">%1$s｜Snimite sadržaj zaslona</string>
-  <string name="permission_usage_projection_screen_use">Snimite sadržaj zaslona</string>
+  <string name="permission_usage_projection_screen_once">%1$s｜Pristupano ili snimljen sadržaj zaslona</string>
+  <string name="permission_usage_projection_screen_use">Pristup ili snimanje sadržaja zaslona</string>
   <string name="permission_usage_terminal_camera_once">"%1$s | Ova je aplikacija koristila kameru ovog uređaja"</string>
   <string name="permission_usage_terminal_camera_use">"Ova aplikacija koristi kameru ovog uređaja"</string>
   <string name="permission_usage_terminal_screen_once">"%1$s Ova je aplikacija koristila zaslon ovog uređaja"</string>

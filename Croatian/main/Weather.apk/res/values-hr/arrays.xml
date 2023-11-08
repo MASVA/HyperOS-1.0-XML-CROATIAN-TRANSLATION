@@ -127,7 +127,7 @@
         <item>Knot (kn)</item>
     </string-array>
     <string-array name="wind_unit_replace">
-        <item>Sila %1$s</item>
+        <item>Jačina %1$s</item>
         <item>%1$skm/h</item>
         <item>%1$sm/s</item>
         <item>%1$smph</item>
@@ -140,4 +140,37 @@
         <item>mph</item>
         <item>kn</item>
     </string-array>
+	 <string-array name="pollution_level_desc_arr">
+       <item>Izvrsno</item>
+        <item>Dobro</item>
+        <item>Lagano zagađeno</item>
+        <item>Umjereno zagađeno</item>
+        <item>Jako zagađeno</item>
+        <item>Jako zagađeno</item>
+        <item>Izvan indeksa</item>
+		</string-array>
+	<string-array name="realtime_humidity_status">
+       <item>Suho</item>
+       <item>Udobno</item>
+       <item>Vlažno</item>
+		 </string-array>
+    <string-array name="realtime_pressure_status">
+        <item>Visok</item>
+        <item>Umjeren</item>
+        <item>Nizak</item>
+    </string-array>
+    <string-array name="realtime_temperature_status">
+        <item>Hladno</item>
+        <item>Cool</item>
+        <item>Udobno</item>
+        <item>Toplo</item>
+        <item>Vruće</item>
+    </string-array>
+    <string-array name="realtime_uv_level">
+       <item>Slab</item>
+        <item>Umjeren</item>
+        <item>Jak</item>
+        <item>Vrlo jak</item>
+        <item>Ozbiljan</item>
+		 </string-array>
 </resources>

@@ -168,7 +168,7 @@
     <string name="friday">Petak</string>
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
-    <string name="gallery_auto_sync_fail_noti_content">Nema dovoljno prostora za pohranu u Cloudu. Nadogradite svoj plan za pohranu za sinkronizaciju fotografija i videozapisa.</string>
+    <string name="gallery_auto_sync_fail_noti_content">"Pohrana u cloudu nije dovoljna. Ne mogu spremiti fotografije."</string>
     <string name="gallery_data_transfer_ddl">Rok: %s</string>
     <string name="gallery_data_transfer_summary">"Stavke iz galerije više se ne mogu sinkronizirati s Xiaomi Cloudom. Preporučujemo da fotografije i videozapise koje ste sinkronizirali s oblakom prenesete na Google fotografije i koristite njihove usluge za sigurnosno kopiranje svojih stavki."</string>
     <string name="gallery_data_transfer_title">Prijenos sinkroniziranih fotografija i videozapisa u Google fotografije</string>

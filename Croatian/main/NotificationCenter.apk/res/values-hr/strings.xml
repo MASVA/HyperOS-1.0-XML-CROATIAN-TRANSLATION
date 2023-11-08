@@ -73,7 +73,7 @@
     <string name="feedback_tip_title">Povratne informacije o kategorijama obavijesti</string>
     <string name="float_notification_snooze_strategy">Sakrij privremeno</string>
     <string name="float_notification_snooze_summary">Povucite prema gore po plutajućoj obavijesti da biste privremeno sakrili nadolazeće</string>
-	 <string name="float_notification_snooze_summary_1_min">Povucite prema gore po plutajuće obavijesti da biste sakrili nadolazeće za %d</string>
+	 <string name="float_notification_snooze_summary_1_min">Povucite prema gore po plutajućoj obavijesti da biste sakrili nadolazeće na %d min.</string>
     <string name="float_notification_snooze_summary_always_float">Uvijek prikaži plutajuće obavijesti</string>
     <string name="float_notification_snooze_summary_until_unlock">Povucite prema gore po plutajuće obavijesti da biste sakrili nadolazeće dok se uređaj ne zaključa</string>
     <string name="float_notifications">Plutajuće obavijesti</string>
@@ -121,6 +121,7 @@
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>

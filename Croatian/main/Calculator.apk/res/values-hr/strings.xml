@@ -37,16 +37,7 @@
     <string name="activating">Aktiviranje…</string>
     <string name="address">Adresa</string>
     <string name="afternoon">PM</string>
-    <string name="age_label_add_to_calendar">Dodaj u kalendar</string>
-    <string name="age_label_dob">Datum rođenja</string>
-    <string name="age_label_hours">Sati</string>
-    <string name="age_label_minutes">Minuta</string>
-    <string name="age_label_next_birthday">Sljedeći rođendan</string>
-    <string name="age_label_today_date">Danas</string>
-    <string name="age_label_total_summary">Sažetak</string>
-    <string name="age_label_weeks">Tjedan</string>
     <string name="allow">Prihvaćam</string>
-    <string name="am">AM</string>
     <string name="app_name">Kalkulator</string>
     <string name="app_notification_info">Kalkulator radi u pozadini</string>
     <string name="base_rate">Osnovna kamatna stopa</string>
