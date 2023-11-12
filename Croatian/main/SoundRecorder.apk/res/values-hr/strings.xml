@@ -305,6 +305,9 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="path_soundrecorder_setting">Aplikacije sustava/Snimač</string>
   <string name="pause">Pauza</string>
   <string name="pause_status_focus_notification">Pauzirano</string>
+  <string name="permission_bluetooth">Pristup statusu Bluetooth veze</string>
+  <string name="permission_bluetooth_dialog_description">Dopustite ovom uređaju da se poveže s uređajima u blizini kako bi mogao mijenjati uređaje prilikom reprodukcije snimaka.</string>
+  <string name="permission_bluetooth_title">Potrebna dopuštenja</string>
   <string name="permission_desc">Pojedinosti o dopuštenjima</string>
   <string name="permission_dialog_cancel">Odustani</string>
   <string name="permission_dialog_ok">Postavke</string>

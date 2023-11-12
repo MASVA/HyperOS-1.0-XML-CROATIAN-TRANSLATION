@@ -187,6 +187,7 @@ dd.MM."</string>
   <string name="kg_classic_item_temperature">Temperatura</string>
   <string name="kg_classic_item_ultraviolet_ray">UV indeks</string>
   <string name="kg_classic_item_vitality">Statistika</string>
+  <string name="kg_classic_item_weather_cloudy">Oblačno</string>
   <string name="kg_classic_item_week">Tjedan</string>
   <string name="kg_classic_item_wind">Vjetar</string>
   <string name="kg_classic_primary_color_label">Primarna boja</string>
@@ -261,6 +262,7 @@ dd.MM."</string>
   <string name="kg_template_title_magazine">Časopis</string>
   <string name="kg_template_title_mine">Zaključani zaslon</string>
   <string name="kg_template_title_rhombus">Romb</string>
+  <string name="kg_tip_cant_get_third_party_wallpaper">"Ne mogu pristupiti pozadini treće strane"</string>
   <string name="kg_wallpaper_scale_hint_text">Uhvatite prstima za obrezivanje</string>
   <string name="label">Oznaka</string>
   <string name="large_time">Veliki sat</string>
