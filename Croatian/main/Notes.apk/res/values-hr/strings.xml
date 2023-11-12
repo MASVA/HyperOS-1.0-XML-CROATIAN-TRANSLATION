@@ -497,7 +497,6 @@ Dodirnite + da napravite mapu"</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
-  <string name="month">Mjesec</string>
   <string name="month_april">Travanj</string>
   <string name="month_april_short">Tra</string>
   <string name="month_april_shortest">T</string>
@@ -535,7 +534,6 @@ Dodirnite + da napravite mapu"</string>
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
-  <string name="morning">AM</string>
   <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
   <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
   <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>

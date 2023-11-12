@@ -716,6 +716,7 @@ Poboljšana sigurnost."</string>
   <string name="navigation_type_title">Navigacija sustavom</string>
   <string name="navigation_type_virtual_key">Tipke</string>
   <string name="network_error">"Ne mogu se povezati na mrežu. Pokušajte ponovo."</string>
+  <string name="new_default_folder_title_tools">Aplikacije sustava</string>
   <string name="new_feature_title">"Što je novo"</string>
   <string name="new_open_personal_assistant_settings_simplified">Zaklj. aplikacija</string>
   <string name="new_privacy_thumbnail_blur_summary">Zamućivanje pregleda aplikacije u Nedavno</string>

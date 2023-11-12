@@ -188,6 +188,7 @@
   <string name="ai_free_creation_container_msg">Na primjer: šetnja plažom</string>
   <string name="ai_free_creation_container_title">Unesite opis</string>
   <string name="ai_free_creation_random_button">Nasumično</string>
+  <string name="ai_free_creation_text_container_tips">"Naš AI generator slike neprestano se poboljšava. Ako niste zadovoljni rezultatima, uvijek možete pokušati ponovno malo kasnije!"</string>
   <string name="ai_free_creation_text_count_exceed_limit">Tekst koji ste unijeli je predugačak</string>
   <string name="ai_free_creation_text_illage">Ovaj opis krši naše standarde zajednice</string>
   <string name="ai_free_theme_subtitle">Na temelju opisa</string>
@@ -207,16 +208,15 @@ Umjesto toga odaberite druge fotografije i pokušajte ponovno."</string>
   <string name="ai_image_over_limit_button_cancel">Razumijem</string>
   <string name="ai_image_over_limit_button_create">Nastavi</string>
   <string name="ai_image_over_limit_title">"Ne mogu stvoriti AI sliku"</string>
-  <string name="ai_image_privacy_detail">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=\"%1$s\"&amp;gt;AI Image Agreement&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="ai_image_privacy_message">" "&lt;Data&gt;" Dobro do&amp;#353;li u AI portrete!&amp;lt;br/&amp;gt;Da bismo vam mogli pru&amp;#382;iti usluge, moramo prikupiti potrebne osobne podatke:&amp;lt;br/&amp;gt;1. Za izraditi AI portrete, morat &amp;#263;ete u&amp;#269;itati &amp;lt;b&amp;gt;fotografije ljudi&amp;lt;/b&amp;gt; na na&amp;#353;e poslu&amp;#382;itelje. Prikupit &amp;#263;emo i obraditi informacije o njihovim &amp;lt;b&amp;gt;licima&amp;lt;/b&amp;gt; kako bismo generirali AI model.&amp;lt;br/&amp;gt;2. Kada prenesete &amp;lt;b&amp;gt;fotografije ljudi&amp;lt;/b&amp;gt;, sinkronizirat &amp;#263;emo &amp;lt;b&amp;gt;njihova imena i profilne fotografije&amp;lt;/b&amp;gt; iz odgovaraju&amp;#263;ih albuma i pridru&amp;#382;iti ove informacije AI slikama .&amp;lt;br/&amp;gt;3.Kada stvarate AI slike na temelju teksta, prikupit &amp;#263;emo &amp;lt;b&amp;gt;description&amp;lt;/b&amp;gt; koji navedete kako bismo generirali slike.&amp;lt;br/&amp;gt;Prikupljamo samo osobne podatke koji je neophodan za specifi&amp;#269;ne zna&amp;#269;ajke na&amp;#353;ih proizvoda i usluga koje koristite. Mo&amp;#382;ete saznati kako prikupljamo i obra&amp;#273;ujemo osobne podatke u &amp;lt;a href=\"%1$s\"&amp;gt;Pravilima o privatnosti AI Portraits&amp;lt;/a&amp;gt;.&amp;lt;br/&amp;gt;Pro&amp;#269;itajte i prihvatite &amp;lt;a href=\"%2$s\"&amp;gt;AI Portraits User Agreement&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%3$s\"&amp;gt;AI Portraits Privacy Policy&amp;lt;/a&amp;gt; prije nego nastavite. "&lt;/Data&gt;" "</string>
+  <string name="ai_image_privacy_message">" "&lt;Data&gt;" Dobro došli u AI portrete!&amp;lt;br/&amp;gt;Da bismo vam mogli pružiti usluge, moramo prikupiti potrebne osobne podatke:&amp;lt;br/&amp;gt;1. Za izraditi AI portrete, morat ćete učitati &amp;lt;b&amp;gt;fotografije ljudi&amp;lt;/b&amp;gt; na naše poslužitelje. Prikupit ćemo i obraditi informacije o njihovim &amp;lt;b&amp;gt;licima&amp;lt;/b&amp;gt; kako bismo generirali AI model.&amp;lt;br/&amp;gt;2. Kada prenesete &amp;lt;b&amp;gt;fotografije ljudi&amp;lt;/b&amp;gt;, sinkronizirat ćemo &amp;lt;b&amp;gt;njihova imena i profilne fotografije&amp;lt;/b&amp;gt; iz odgovarajućih albuma i pridružiti ove informacije AI slikama .&amp;lt;br/&amp;gt;3.Kada stvarate AI slike na temelju teksta, prikupit ćemo &amp;lt;b&amp;gt;opis&amp;lt;/b&amp;gt; koji navedete kako bismo generirali slike.&amp;lt;br/&amp;gt;Prikupljamo samo osobne podatke koji je neophodan za specifične značajke naših proizvoda i usluga koje koristite. Možete saznati kako prikupljamo i obra&amp;#273;ujemo osobne podatke u &amp;lt;a href=\"%1$s\"&amp;gt;Pravilima o privatnosti AI Portraits&amp;lt;/a&amp;gt;.&amp;lt;br/&amp;gt;Pročitajte i prihvatite &amp;lt;a href=\"%2$s\"&amp;gt;AI Portraits Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%3$s\"&amp;gt;AI Portraits Pravila o privatnosti&amp;lt;/a&amp;gt; prije nego nastavite. "&lt;/Data&gt;" "</string>
   <string name="ai_input_name_hint">Unesite ime</string>
   <string name="ai_loading">Samo trenutak…</string>
-  <string name="ai_multi_window_tip">"Ova se stranica ne može vidjeti na podijeljenom zaslonu"</string>
-  <string name="ai_network_failed">"Nije moguće povezati se na mrežu. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
+  <string name="ai_multi_window_tip">"Ovu stranicu nije moguće vidjeti na podijeljenom zaslonu"</string>
+  <string name="ai_network_failed">"Ne mogu se povezati na mrežu. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="ai_new_name_title">Imenujte ovu AI sliku</string>
   <string name="ai_no_access_message">"Izgleda da sada niste beta tester. Prijavite se na Xiaomi zajednicu da počnete stvarati portrete pomoću umjetne inteligencije!"</string>
   <string name="ai_no_access_title">Potrebna su dopuštenja beta testera</string>
-  <string name="ai_no_net_toast">"Nije moguće povezati se na mrežu. Pokušajte ponovno."</string>
+  <string name="ai_no_net_toast">"Ne mogu se povezati na mrežu. Pokušajte ponovno."</string>
   <string name="ai_normal_theme_button">Stvori</string>
   <string name="ai_photo_upload_fail">"Nije moguće prenijeti. Pokušajte ponovno."</string>
   <string name="ai_please_agree_privacy_toast">Prvo prihvatite naše uvjete i odredbe</string>
@@ -317,6 +317,7 @@ Najbolji snimci su odabrani automatski. Više fotografija možete dodati ručno.
   <string name="album_rubbish_page_title">Smeće</string>
   <string name="album_rubbish_tip_title">Moguće suvišni albumi</string>
   <string name="album_scanner">Skener</string>
+  <string name="album_scanner_china">Mi AI Skener</string>
   <string name="album_screen_record">Snimke zaslona</string>
   <string name="album_screen_recorder">Snimač zaslona</string>
   <string name="album_screenshot_and_screen_recorder_name">Snimke zaslona</string>
@@ -752,9 +753,9 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="confirm_merge_face_albums">" "&lt;Data&gt; Spojiti ovaj album s %s &lt;/Data&gt;" "</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Spojiti ove albume s %s &lt;/Data&gt;" "</string>
   <string name="confirm_not_face">Nema podudaranja</string>
-  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Jeste li sigurni da je ovo &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ova osoba &amp;#263;e biti premje&amp;#353;tena u \"%2$s\" album. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_face_is">" "&lt;Data&gt; Jeste li sigurni da je ovo &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ova osoba će biti premještena u \"%2$s\" album. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_face_not">" "&lt;Data&gt;" Jeste li sigurni da ovo nije &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
-  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Jeste li sigurni da su ovo &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ove osobe &amp;#263;e biti premje&amp;#353;tene u \"%2$s\" album. &lt;/Data&gt;" "</string>
+  <string name="confirm_recommandation_multiple_faces_are">" "&lt;Data&gt; Jeste li sigurni da su ovo &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? Ove osobe će biti premještene u \"%2$s\" album. &lt;/Data&gt;" "</string>
   <string name="confirm_recommandation_multiple_faces_not">" "&lt;Data&gt;" Jeste li sigurni da ovo nisu &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%1$s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? "&lt;/Data&gt;" "</string>
   <string name="contact_tip">Kontakt</string>
   <string name="context_menu_add_contact">Dodaj u kontakte</string>
@@ -783,7 +784,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="creativity_summary">Prikaži dodatne mogućnosti kreativnosti i uređivanja</string>
   <string name="creativity_title">Kreativnost</string>
   <string name="crop_label">Obrezane fotografije</string>
-  <string name="cta_agreement_declare">&lt;Data&gt;Kako biste u potpunosti razumjeli va&amp;#353;a prava kao korisnika kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja ove aplikacije.&lt;/Data&gt;</string>
+  <string name="cta_agreement_declare">&lt;Data&gt;Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije korištenja ove aplikacije.&lt;/Data&gt;</string>
   <string name="cta_hybrid_feedback_network_declare">Da biste vidjeli rješenja za najčešće probleme, prvo dopustite ovoj aplikaciji da se poveže s mrežom.</string>
   <string name="cta_network_declare">Za sinkronizaciju fotografija i videozapisa s Xiaomi Cloudom ova se aplikacija mora povezati s internetom.</string>
   <string name="cta_screenthrow_declare">"Da biste mogli emitirati zaslon ovog uređaja na vanjske monitore, ova se aplikacija mora povezati s internetom."</string>
@@ -1584,8 +1585,8 @@ da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
   <string name="map_guide_message">Pogledajte svoje fotografije i videozapise na karti</string>
   <string name="map_location">Premjesti na trenutnu lokaciju</string>
   <string name="map_positioning_failed_tip">"Ne mogu se dobiti informacije o lokaciji zbog slabog signala"</string>
-  <string name="map_privacy_dialog_content">&lt;Data&gt;Ova usluga vam omogu&amp;#263;uje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pru&amp;#382;ili ovu uslugu. Pro&amp;#269;itajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Gallery Map Third Party Data Sharing Statement&amp;lt;/a&amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
-  <string name="map_privacy_dialog_message">&lt;Data&gt;Ova usluga vam omogu&amp;#263;uje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pru&amp;#382;ili ovu uslugu. Pro&amp;#269;itajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Baidu Map Pravila o privatnosti for Open Platform Products i Services&amp;lt;/a&amp;gt; da nau&amp;#269;ite vi&amp;#353;e.&lt;/Data&gt;</string>
+  <string name="map_privacy_dialog_content">&lt;Data&gt;Ova usluga vam omogućuje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pružili ovu uslugu. Pročitajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Gallery Map Third Party Data Sharing Statement&amp;lt;/a&amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="map_privacy_dialog_message">&lt;Data&gt;Ova usluga vam omogućuje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pružili ovu uslugu. Pročitajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Baidu Map Pravila o privatnosti for Open Platform Products i Services&amp;lt;/a&amp;gt; da naučite više.&lt;/Data&gt;</string>
   <string name="map_privacy_dialog_title">Karta galerije</string>
   <string name="map_privacy_policy">Pravila o privatnosti Karta galerije</string>
   <string name="map_privacy_policy_1">Pravila o privatnosti</string>
@@ -2310,7 +2311,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="privacy_cloud_confirm">Uključi sinkronizaciju</string>
   <string name="privacy_cloud_confirm_content1">Xiaomi Cloud Pravila o privatnosti</string>
   <string name="privacy_cloud_confirm_content2">Korisnički ugovor</string>
-  <string name="privacy_cloud_confirm_detail">&lt;Data&gt;"Nakon &amp;#353;to uklju&amp;#269;ite sinkronizaciju, fotografije i videozapisi s ovog ure&amp;#273;aja bit &amp;#263;e preneseni u Xiaomi Cloud i spojeni s prethodno sinkroniziranim stavkama (ako ih ima). Pro&amp;#269;itajte i prihvatite Xiaomi Cloud &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije nego nastavite."&lt;/Data&gt;</string>
+  <string name="privacy_cloud_confirm_detail">&lt;Data&gt;"Nakon što uključite sinkronizaciju, fotografije i videozapisi s ovog ure&amp;#273;aja bit će preneseni u Xiaomi Cloud i spojeni s prethodno sinkroniziranim stavkama (ako ih ima). Pročitajte i prihvatite Xiaomi Cloud &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije nego nastavite."&lt;/Data&gt;</string>
   <string name="privacy_cloud_confirm_detail_negative">Odbijam</string>
   <string name="privacy_cloud_confirm_detail_positive">Prihvaćam</string>
   <string name="privacy_cloud_confirm_rejected">Suglasnost na Pravila o privatnosti Xiaomi Clouda je povučena za ovaj račun. Pokušajte koristiti drugi račun.</string>
@@ -2318,7 +2319,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="privacy_detail_map">Pogledajte Gallery Map Pravila o privatnosti</string>
   <string name="privacy_entrance">Privatnost</string>
   <string name="privacy_map">Gallery Map</string>
-  <string name="privacy_map_detail">&lt;Data&gt;Ova usluga vam omogu&amp;#263;uje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pru&amp;#382;ili ovu uslugu. Pro&amp;#269;itajte i privatite &amp;lt;a href=\"%1$s\"&amp;gt;Baidu Map Pravila o privatnosti for Open Platform Products i Services&amp;lt;/a&amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="privacy_map_detail">&lt;Data&gt;Ova usluga vam omogućuje pregled fotografija i videozapisa s podacima o lokaciji na karti. Koristimo Baidu Map Open SDK kako bismo vam pružili ovu uslugu. Pročitajte i privatite &amp;lt;a href=\"%1$s\"&amp;gt;Baidu Map Pravila o privatnosti for Open Platform Products i Services&amp;lt;/a&amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
   <string name="privacy_map_detail_content">Baidu Map Pravila o privatnosti za Open Platform Products i Services</string>
   <string name="privacy_map_detail_content_new">Gallery Map Third Party Data Sharing Statement</string>
   <string name="privacy_permission">Dopuštenja</string>
@@ -2335,7 +2336,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="privacy_permission_disagree">Nije odobreno</string>
   <string name="privacy_permission_location">Lokacija</string>
   <string name="privacy_permission_location_detail">Za prikaz fotografija i videozapisa na karti</string>
-  <string name="privacy_permission_request_message">&lt;Data&gt;Galeriji je potreban pristup %3$s. Informacije koje prikupljamo koristit &amp;#263;e se u skladu s na&amp;#353;im &amp;lt;a href=\"%1$s\"&amp;gt;\"Uvjeti pru&amp;#382;anja usluge\"&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;\"Pravila o privatnosti\"&amp;lt;/a&amp;gt;. Allow?&lt;/Data&gt;</string>
+  <string name="privacy_permission_request_message">&lt;Data&gt;Galeriji je potreban pristup %3$s. Informacije koje prikupljamo koristit će se u skladu s našim &amp;lt;a href=\"%1$s\"&amp;gt;\"Uvjeti pružanja usluge\"&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;\"Pravila o privatnosti\"&amp;lt;/a&amp;gt;. Allow?&lt;/Data&gt;</string>
   <string name="privacy_permission_request_negative">Ograniči</string>
   <string name="privacy_permission_request_positive">Dopusti</string>
   <string name="privacy_permission_request_title">Potrebna su dopuštenja</string>
@@ -2343,7 +2344,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="privacy_permission_shotcut_detail">Za stvaranje prečaca na početnom zaslonu</string>
   <string name="privacy_permission_storage">Pohrana</string>
   <string name="privacy_permission_storage_detail">Za pohranu fotografija i videozapisa</string>
-  <string name="privacy_reject_map_detail_new">&lt;Data&gt;"Va&amp;#353;e povla&amp;#269;enje suglasnosti za &amp;lt;a href=\"%1$s\"&amp;gt;Gallery Map Third Party Data Sharing Statement&amp;lt;/a&amp;gt; smatrati &amp;#263;e se da odbijate prihvatiti usluge Gallery Map. I dalje &amp;#263;ete mo&amp;#263;i normalno koristiti druge zna&amp;#269;ajke Galerije. Povu&amp;#263;i suglasnost?"&lt;/Data&gt;</string>
+  <string name="privacy_reject_map_detail_new">&lt;Data&gt;"Vaše povlačenje suglasnosti za &amp;lt;a href=\"%1$s\"&amp;gt;Gallery Map Third Party Data Sharing Statement&amp;lt;/a&amp;gt; smatrati će se da odbijate prihvatiti usluge Gallery Map. I dalje ćete moći normalno koristiti druge značajke Galerije. Povući suglasnost?"&lt;/Data&gt;</string>
   <string name="privacy_rejected">Povlačenje suglasnosti</string>
   <string name="privacy_rejected_map">Povlačenje suglasnosti Pravila o privatnosti Gallery Map</string>
   <string name="privacy_rejected_map_detail">"Vaše povlačenje suglasnosti na Pravila o privatnosti Gallery Map smatrat će se odbijanjem prihvaćanja njezinih usluga. Ostale osnovne značajke i usluge neće biti pogođene. Svejedno povući?"</string>
@@ -2812,7 +2813,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="slim_dialog_title">Optimiziraj prostor za pohranu</string>
   <string name="slim_exit_dialog_positive">Zaustavi</string>
   <string name="slim_exit_dialog_title">Zaustavi optimiziranje</string>
-  <string name="slim_finish_upgrade_tip">&lt;Data&gt;Nadogradite svoj plan pohrane u cloudu za sinkronizaciju vi&amp;#353;e stavki u cloud. Dodirnite da &amp;lt;a href=\"%1$s\"&amp;gt;nadogradite sada&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="slim_finish_upgrade_tip">&lt;Data&gt;Nadogradite svoj plan pohrane u cloudu za sinkronizaciju više stavki u cloud. Dodirnite da &amp;lt;a href=\"%1$s\"&amp;gt;nadogradite sada&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="slim_function_summery_first">Držite optimizirane fotografije na svom uređaju i spremite izvornu sliku u cloud</string>
   <string name="slim_function_summery_second">Datoteke stvorene u zadnjih %d dana bit će spremljene na vaš uređaj</string>
   <string name="slim_preference_scanning">Analiziranje fotografija i videozapisa…</string>
@@ -3252,23 +3253,23 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
   <string name="user_agree">Prihvaćam</string>
   <string name="user_agreement2">Uvjeti pružanja usluge</string>
   <string name="user_agreement4">Pravila o privatnosti</string>
-  <string name="user_agreement_hint_3rd_app">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i Xiaomi Ra&amp;#269;un &amp;lt;a href=%3$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_3rd_app_mobile">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Ra&amp;#269;un &amp;lt;a href=%3$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%5$s&amp;gt;Odredbe i uvjete usluga provjere China Mobile&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Ra&amp;#269;un &amp;lt;a href=%3$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%5$s&amp;gt;Odredbe i uvjete usluga verifikacije ra&amp;#269;una eSurfing&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Ra&amp;#269;un &amp;lt;a href=%3$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%5$s&amp;gt;Odredbe i uvjete usluga provjere China Unicom&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_default">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Xiaomi Ra&amp;#269;un &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_default_1">&lt;Data&gt;Pro&amp;#269;itajte i ptihvatite &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_default_extra">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am the &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt; Prva prijava automatski &amp;#263;e izraditi Xiaomi Ra&amp;#269;un"&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_3rd_app">&lt;Data&gt;"Pročitao sam i prihvaćam &amp;lt;a href=%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i Xiaomi Račun &amp;lt;a href=%3$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_3rd_app_mobile">&lt;Data&gt;"Pročitao sam i prihvaćam &amp;lt;a href=%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Račun &amp;lt;a href=%3$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%5$s&amp;gt;Odredbe i uvjete usluga provjere China Mobile&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data&gt;"Pročitao sam i prihvaćam &amp;lt;a href=%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Račun &amp;lt;a href=%3$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%5$s&amp;gt;Odredbe i uvjete usluga verifikacije računa eSurfing&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data&gt;"Pročitao sam i prihvaćam &amp;lt;a href=%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Račun &amp;lt;a href=%3$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%4$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%5$s&amp;gt;Odredbe i uvjete usluga provjere China Unicom&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_default">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi Račun &amp;lt;a href=%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_default_1">&lt;Data&gt;Pročitajte i ptihvatite &amp;lt;a href=%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_default_extra">&lt;Data&gt;"Pročitao sam i prihvaćam the &amp;lt;a href=%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt; Prva prijava automatski će izraditi Xiaomi Račun"&lt;/Data&gt;</string>
   <string name="user_agreement_hint_first_login">"Automatski ćemo izraditi račun ako svoj telefonski broj koristite prvi put."</string>
-  <string name="user_agreement_hint_with_mobile">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Xiaomi Ra&amp;#269;un &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%3$s&amp;gt;Odredbe i uvjete usluga provjere China Mobile&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_with_telecom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Xiaomi Ra&amp;#269;un &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%3$s&amp;gt;Odredbe i uvjete usluga verifikacije ra&amp;#269;una eSurfing&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_with_unicom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Xiaomi Ra&amp;#269;un &amp;lt;a href=%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%3$s&amp;gt;Odredbe i uvjete usluga provjere China Unicom&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_with_mobile">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi Račun &amp;lt;a href=%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%3$s&amp;gt;Odredbe i uvjete usluga provjere China Mobile&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_with_telecom">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi Račun &amp;lt;a href=%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%3$s&amp;gt;Odredbe i uvjete usluga verifikacije računa eSurfing&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_with_unicom">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi Račun &amp;lt;a href=%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i &amp;lt;a href=%3$s&amp;gt;Odredbe i uvjete usluga provjere China Unicom&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="user_alias_self">Osobno</string>
   <string name="user_avatar_update_title">Promjena fotografije profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
   <string name="user_family">"Dom od %1$s"</string>
   <string name="user_name_phone_number">Telefonski broj</string>
-  <string name="user_notice_identify_summary_format">&lt;Data&gt;"Kori&amp;#353;tenjem ove usluge prihva&amp;#263;ate Xiaomi &amp;lt;a href=\"%1$s\"&amp;gt;\"Uvjeti pru&amp;#382;anja usluge\"&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;\"Pravila o privatnosti\"&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_notice_identify_summary_format">&lt;Data&gt;"Korištenjem ove usluge prihvaćate Xiaomi &amp;lt;a href=\"%1$s\"&amp;gt;\"Uvjeti pružanja usluge\"&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;\"Pravila o privatnosti\"&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="user_notice_title">Uvjeti i Odredbe</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>

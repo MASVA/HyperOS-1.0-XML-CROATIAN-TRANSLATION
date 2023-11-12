@@ -507,6 +507,7 @@
     <string name="last_check_canceled">Prethodno skeniranje je otkazano</string>
     <string name="load_only_under_wlan">Učitaj vijesti kada je povezano na Wi-Fi</string>
     <string name="location_not_found">"Ne mogu pronaći datoteku"</string>
+	 <string name="lock_device_toast">Ovaj uređaj je zaključan. Otključajte ga za korištenje programa Čistač.</string>
     <string name="login_immediately">Prijavite se</string>
     <string name="long_click_dialog_summary">Dugi pritisak za dodavanje u iznimke.</string>
     <string name="long_click_dialog_title">Obavijest</string>
@@ -608,7 +609,9 @@
     <string name="msg_update_error_code_no_newer_db">Čistač je u toku s ažuriranjima</string>
     <string name="msg_update_error_code_success">Gotovo</string>
     <string name="msg_update_error_code_unknown_error">Poslužitelji su previše zauzeti, pokušajte ponovo kasnije</string>
-    <string name="name_debuglog_dir">Bsp Debug Log</string>
+	 <string name="native_body">Tijelo</string>
+    <string name="native_headline">Naslov</string>
+    <string name="native_media_view">Prikaz medija</string>
     <string name="nb_clear_set">Očisti predmemoriju, prikaži bateriju i listu blokiranih u panelu obavijesti</string>
     <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
     <string name="news_change">Promijeni</string>
@@ -813,6 +816,7 @@
     <string name="size_peta_byte">PB</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">TB</string>
+	 <string name="skip_ad">Preskoči</string>
     <string name="sms">SMS/MMS</string>
     <string name="sponsored">Sponzorirano</string>
     <string name="start_downloading_app">Početak preuzimanja: %1$s</string>
