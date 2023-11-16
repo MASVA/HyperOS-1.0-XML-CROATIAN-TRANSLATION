@@ -247,7 +247,7 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="alarms_and_reminders_title">Alarmi i podsjetnici</string>
   <string name="alert_dialog_close">Zatvaranje profila</string>
   <string name="alert_dialog_dismiss">Odbaci</string>
-  <string name="alert_dialog_exit_ecm">{count, plural, =1 {Telefon će biti u načinu hitnog povratnog poziva %s min. U tom se načinu ne mogu upotrebljavati aplikacije koje upotrebljavaju podatkovnu vezu. Želite li odmah zatvoriti taj način?} other {Telefon će biti u načinu hitnog povratnog poziva %s min. U tom se načinu ne mogu upotrebljavati aplikacije koje upotrebljavaju podatkovnu vezu. Želite li odmah zatvoriti taj način?} }</string>
+  <string name="alert_dialog_exit_ecm">{count, plural, =1 {Telefon će biti u načinu hitnog povratnog poziva jednu minutu. U tom se načinu ne mogu upotrebljavati aplikacije koje upotrebljavaju podatkovnu vezu. Želite li odmah zatvoriti taj način?} other {Telefon će biti u načinu hitnog povratnog poziva %s min. U tom se načinu ne mogu upotrebljavati aplikacije koje upotrebljavaju podatkovnu vezu. Želite li odmah zatvoriti taj način?} }</string>
   <string name="alert_dialog_exit_ecm_without_data_restriction_hint">"{count, plural, =1 {Telefon će biti u načinu hitnog povratnog poziva 1 minutu.
 Želite li odmah zatvoriti taj način?} other {Telefon će biti u načinu hitnog povratnog poziva %s min.
 Želite li odmah zatvoriti taj način?} }"</string>

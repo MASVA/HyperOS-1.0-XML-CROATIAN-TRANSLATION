@@ -64,10 +64,10 @@
     <string-array name="pollution_level_desc_arr">
         <item>Izvrsno</item>
         <item>Dobro</item>
-        <item>Lagano zagađen</item>
-        <item>Umjereno zagađen</item>
-        <item>Jako zagađen</item>
-        <item>Ozbiljno zagađen</item>
+        <item>Lagano zagađenje</item>
+        <item>Umjereno zagađenje</item>
+        <item>Jako zagađenje</item>
+        <item>Ozbiljno zagađenje</item>
         <item>Iznad indeksa</item>
     </string-array>
     <string-array name="weather_type">
@@ -140,15 +140,6 @@
         <item>mph</item>
         <item>kn</item>
     </string-array>
-	 <string-array name="pollution_level_desc_arr">
-       <item>Izvrsno</item>
-        <item>Dobro</item>
-        <item>Lagano zagađeno</item>
-        <item>Umjereno zagađeno</item>
-        <item>Jako zagađeno</item>
-        <item>Jako zagađeno</item>
-        <item>Izvan indeksa</item>
-		</string-array>
 	<string-array name="realtime_humidity_status">
        <item>Suho</item>
        <item>Udobno</item>

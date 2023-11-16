@@ -1603,7 +1603,7 @@ izgledaju veće na fotografijama"</string>
   <string name="mtrl_picker_invalid_format_use">Koristi: %1$s</string>
   <string name="mtrl_picker_invalid_range">Pogrešan raspon.</string>
   <string name="mtrl_picker_navigate_to_current_year_description">Idi na tekuću godinu %1$d</string>
-  <string name="mtrl_picker_navigate_to_year_description">Idi na godinu %1$d</string>
+  <string name="mtrl_picker_navigate_to_year_description">Idi na godinu %1$s</string>
   <string name="mtrl_picker_out_of_range">Izvan raspona: %1$s</string>
   <string name="mtrl_picker_range_header_only_end_selected">Datum početka – %1$s</string>
   <string name="mtrl_picker_range_header_only_start_selected">%1$s – Datum završetka</string>
@@ -2939,7 +2939,6 @@ Veličina: %2$s"</string>
    <string name="xiaomi_update_sdk_dialog_message_diff">"Predstavljamo verziju %1$s
 Veličina Delta ažuriranja: %2$s"</string>
    <string name="xiaomi_update_sdk_dialog_title">%1$s ažuriranje!</string>
-   <string name="yesterday">Jučer</string>
    <string name="xiaomi_update_sdk_external_storage_unavailable">Pohrana nije dostupna, provjerite SD karticu.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>

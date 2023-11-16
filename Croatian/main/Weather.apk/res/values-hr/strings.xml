@@ -529,7 +529,7 @@ Dodirnite zaslon za ručno dodavanje ili promjenu položaja grada"</string>
     <string name="share_weather_desc">\#MIUI Vrijeme#Danas %1$s %2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">"Ne mogu napraviti snimku zaslona"</string>
-    <string name="shortcut_short_label_24_hour_forecast">%d-satna prognoza</string>
+    <string name="shortcut_short_label_24_hour_forecast">24-satna prognoza</string>
     <string name="shortcut_short_label_recent_forecast">Provjeri vrijeme</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
@@ -602,7 +602,7 @@ Dodirnite zaslon za ručno dodavanje ili promjenu položaja grada"</string>
     <string name="unit">Jedinica</string>
     <string name="unit_temperature">Jedinica temperature</string>
     <string name="unit_wind">Jedinica brzine vjetra</string>
-    <string name="update_night_setting_summary_text">Ažuriraj informacije o vremenu između %1$s i %2$s</string>
+    <string name="update_night_setting_summary_text">Ažuriraj informacije o vremenu između 23:00 i 07:00</string>
     <string name="update_night_setting_title_text">Ažuriraj autom. tijekom noći</string>
     <string name="update_notification_info">Ažuriranje podataka u pozadini…</string>
     <string name="update_setting_title_text">Ažurirajte informacije o vremenu</string>
@@ -626,7 +626,7 @@ Dodirnite zaslon za ručno dodavanje ili promjenu položaja grada"</string>
     <string name="weather_aqi_full_air_quality_forcast">Potpuna prognoza kvalitete zraka</string>
     <string name="weather_introduce">Uvijek s vama, bila kiša ili sunce.</string>
     <string name="weather_main_aqi_desc">AQI</string>
-    <string name="weather_main_minute_hour">%d-satna vjerojatnost kiše</string>
+    <string name="weather_main_minute_hour">2-satne padaline</string>
     <string name="weather_main_speak_tips">Kliknite da biste vrijeme emitirali glasom</string>
     <string name="weather_more_air_quality">Više o kvaliteti zraka</string>
     <string name="weather_permission_agree">Prihvaćam</string>
