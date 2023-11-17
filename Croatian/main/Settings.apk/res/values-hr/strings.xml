@@ -2134,7 +2134,7 @@ Da biste uparili lijevo, provjerite je li uključeno i spremno za uparivanje."</
   <string name="bluetooth_pairing_group_late_bonding">Dodajte novog člana postojećem koordiniranom skupu</string>
   <string name="bluetooth_pairing_key_msg">Kôd za uparivanje putem Bluetootha</string>
   <string name="bluetooth_pairing_page_title">Uparivanje novog uređaja</string>
-  <string name="bluetooth_pairing_pin_error_message">Uparivanje s uređajem %1$s nije uspjelo zbog netočnog PIN-a ili pristupnog ključa.</string>
+  <string name="bluetooth_pairing_pin_error_message">"Netočan PIN ili zaporka. Ne mogu upariti."</string>
   <string name="bluetooth_pairing_pref_title">Uparite novi uređaj</string>
   <string name="bluetooth_pairing_rejected_error_message">Uparivanje odbio uređaj %1$s.</string>
   <string name="bluetooth_pairing_request">Upariti s uređajem %1$s?</string>
@@ -4439,7 +4439,7 @@ Možete vidjeti generirane zapise u aplikaciji Datoteke."</string>
   <string name="enable_service_password_reason">Budući da uključivanje usluge %1$s utječe na enkripciju podataka, morate potvrditi zaporku.</string>
   <string name="enable_service_pattern_reason">Budući da uključivanje usluge %1$s utječe na enkripciju podataka, morate potvrditi uzorak.</string>
   <string name="enable_service_pin_reason">Budući da uključivanje usluge %1$s utječe na enkripciju podataka, morate potvrditi PIN.</string>
-  <string name="enable_service_title">Želite li aplikaciji %1$s dopustiti potpunu kontrolu nad uređajem?</string>
+  <string name="enable_service_title">Usluga će izvršiti sljedeće radnje:</string>
   <string name="enable_sizecompat_freeform">Prisilno dopusti promjenu veličine prozora</string>
   <string name="enable_sizecompat_freeform_summary">Omogućuje aplikacijama s ograničenjima kompatibilnosti da se izvode u prozorima promjenjive veličine</string>
   <string name="enable_snapshot_screenlock">Dugi pritisnite tipku Natrag da snimite fotografiju</string>

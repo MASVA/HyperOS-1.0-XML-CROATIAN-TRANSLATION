@@ -415,13 +415,12 @@ Provjerite postavke mreže i pokušajte ponovno."</string>
     <string name="restore_from_cloud">Vrati Sig. kopiju iz Xiaomi Clouda</string>
     <string name="restore_from_mimover">Pošaljite sa starog uređaja pomoću Xiaomi Mover-a</string>
     <string name="restore_from_this_device">Odaberite sigurnosnu kopiju</string>
-    <string name="restore_header_backup_size">Veličina: %s</string>
+    <string name="restore_header_backup_size">Veličina</string>
     <string name="restore_header_msg">"Prije nego što vratite WeChat podatke, provjerite da WeChat nije instaliran na ovom uređaju. Dok se podaci vraćaju, nemojte otvarati niti koristiti WeChat."</string>
-    <string name="restore_header_title">Ukupna veličina: %s</string>
-    <string name="restore_header_title2">Ukupno Sig. kopije: %s</string>
+    <string name="restore_header_title">Ukupna veličina</string>
+    <string name="restore_header_title2">Uređaji</string>
     <string name="restore_home_screen_apps">Vrati stavke</string>
-    <string name="restore_home_screen_apps_options">"Opcije Sig. kopije
-%s"</string>
+    <string name="restore_home_screen_apps_options">Vrati podatke</string>
     <string name="restore_network_pause">Pauzirano radi uštede mobilnih podataka. Dodirnite za nastavak.</string>
     <string name="restore_network_unconnect">%s (Čekanje na vezu)</string>
     <string name="restore_prepare_item_type_enable">Dostupne Sig. kopije</string>
