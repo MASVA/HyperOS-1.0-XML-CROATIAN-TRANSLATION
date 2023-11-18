@@ -208,7 +208,7 @@ dodirnite dvaput i držite za pomicanje."</string>
 Dodirnite dvaput za prikaz detalja."</string>
 <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, red %2$d, broj %3$d. 
 Dodirnite dvaput za prikaz detalja."</string>
-    <string name="pa_accessibility_picker_order_list_to_theme">Otvori Teme</string>
+   <string name="pa_accessibility_picker_order_list_to_theme">Otvori Teme</string>
   <string name="pa_accessibility_picker_search_cancel">Traka za pretraživanje widgeta. Dodirnite dvaput za odustajanje.</string>
   <string name="pa_accessibility_picker_search_clear">Čisti tekst</string>
   <string name="pa_accessibility_picker_search_tips">Traka za pretraživanje widgeta. Dodirnite dvaput za pretraživanje.</string>
@@ -237,9 +237,9 @@ Dodirnite dvaput za prikaz detalja."</string>
   <string name="pa_announce_for_delete_gadget_and_widget">Widget</string>
   <string name="pa_app_label">Zaklj. aplikacija</string>
   <string name="pa_base_time_just_now">Upravo sada</string>
-  <string name="pa_base_time_month">MM/dd</string>
-  <string name="pa_base_time_year">MM/dd/yyyy</string>
-  <string name="pa_base_year_month_day_all_format_en">MM/dd/yyyy HH:mm:ss</string>
+  <string name="pa_base_time_month">dd.MM</string>
+  <string name="pa_base_time_year">dd.MM.yyyy</string>
+  <string name="pa_base_year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>
   <string name="pa_base_yesterday">Jučer</string>
   <string name="pa_cancel">Otkaži</string>
   <string name="pa_clear">Izbriši</string>
@@ -248,7 +248,7 @@ Dodirnite dvaput za prikaz detalja."</string>
   <string name="pa_cta_dialog_desc_location">Za davanje prijedloga za putovanje na posao</string>
   <string name="pa_cta_dialog_desc_phone_state">Za prepoznavanje vašeg uređaja na temelju IMEI-ja</string>
   <string name="pa_cta_dialog_desc_storage">Za predmemoriju stavki</string>
-  <string name="pa_day_date">MM:dd</string>
+  <string name="pa_day_date">dd:MM</string>
   <string name="pa_day_time">H:mm</string>
   <string name="pa_disclaimer_content">Ovu značajku pruža %1$s. %1$s snosi svu odgovornost u vezi s uslugama koje pruža. Možete kontaktirati %1$s ako imate pitanja.</string>
   <string name="pa_disclaimer_title">Odricanje od odgovornosti</string>

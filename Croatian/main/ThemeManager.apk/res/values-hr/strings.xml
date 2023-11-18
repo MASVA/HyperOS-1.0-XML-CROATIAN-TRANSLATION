@@ -622,16 +622,16 @@ Dodirnite ovdje da biste se sada prijavili."</string>
   <string name="miui_clock_city_name_second">Drugi sat</string>
   <string name="miui_clock_fancy_colon"></string>
   <string name="miui_digital_clock_dot">:</string>
-  <string name="miui_lock_screen_date">dd.MM EEEE</string>
-  <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
+  <string name="miui_lock_screen_date">dd.MM. EEEE</string>
+  <string name="miui_lock_screen_date_12">dd.MM. EEEE</string>
   <string name="miui_lock_screen_date_two_lines">"EEEE
-dd.MM"</string>
+dd.MM."</string>
   <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd.MM"</string>
+dd.MM."</string>
   <string name="miui_lock_screen_large_date">"EEE
-dd.MM"</string>
+dd.MM."</string>
   <string name="miui_lock_screen_large_date_12">"EEE
-dd.MM"</string>
+dd.MM."</string>
   <string name="miui_vertical_time_format_12">"hh
 mm"</string>
   <string name="miui_vertical_time_format_24">"HH

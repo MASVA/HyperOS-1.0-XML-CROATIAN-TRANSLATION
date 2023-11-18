@@ -1537,16 +1537,20 @@ Ako ovoj aplikaciji ne dopustite pristup svim zapisima uređaja, ona i dalje mo�
   <string name="miui_keyboard_shortcut_system_dock">Prikaži dock aplikacije</string>
   <string name="miui_keyboard_shortcut_system_quickly_recent">Prebacivanje između nedavnih aplikacija</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Otključano Bluetooth uređajem</string>
-  <string name="miui_lock_screen_date">dd.MM EEEE</string>
-  <string name="miui_lock_screen_date_12">dd.MM EEEE</string>
+  <string name="miui_lock_screen_date">dd.MM. EEEE</string>
+  <string name="miui_lock_screen_date_12">dd.MM. EEEE</string>
   <string name="miui_lock_screen_date_two_lines">"EEEE
-dd.MM"</string>
+dd.MM."</string>
   <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd.MM"</string>
+dd.MM."</string>
   <string name="miui_lock_screen_large_date">"EEE
-dd.MM"</string>
+dd.MM."</string>
   <string name="miui_lock_screen_large_date_12">"EEE
-dd.MM"</string>
+dd.MM."</string>
+  <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+  <string name="miui_vertical_time_format_24">"HH
+mm"</string>
   <string name="miui_notification_menu_aggregate_feedback">Povratne inf.</string>
   <string name="miui_notification_menu_allow">Dopusti</string>
   <string name="miui_notification_menu_feedback_success">Hvala na povratnim informacijama!</string>
@@ -1783,8 +1787,10 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="no_tiles_add">Nema pločica za dodavanje</string>
   <string name="no_unseen_notif_text">Nema novih obavijesti</string>
   <string name="no_weather_description">Dobivanje informacija o vremenu &gt;</string>
+  <string name="not_default_data_content_description">Nije postavljeno za korištenje podataka</string>
+  <string name="not_support_multi_window">Trenutna aplikacija ne podržava više prozora</string>
+  <string name="notch_status_bar_date_format_12">EE, dd. MMM</string>
   <string name="non_carrier_network_unavailable">Nisu dostupne druge mreže</string>
-  <string name="not_default_data_content_description">Nije postavljeno za upotrebu podataka</string>
   <string name="not_grant_admin">Ne, nemojte ih postaviti za administratore</string>
   <string name="not_set">Nije postavljeno</string>
   <string name="note_task_button_label">Pravljenje bilježaka</string>

@@ -126,11 +126,16 @@ dd.MM."</string>
   <string name="dual_clock_tip">Dvostruki sat je uključen. Dodirnite da biste otvorili Postavke.</string>
   <string name="error_a11y_label">Pogreška: nevažeće</string>
   <string name="error_icon_content_description">Pogreška</string>
-  <string name="evening">PM</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="font_thickness">Podebljani font</string>
   <string name="format_day_desc">Dan u mjesecu: %s</string>
+  <string name="format_full_day_of_week">EEEE</string>
+  <string name="format_full_month_of_year">MMMM</string>
+  <string name="format_month_day_style1">dd.MM.</string>
+  <string name="format_month_day_style2">d.M</string>
+  <string name="format_month_day_week">dd.MM. EEE</string>
+  <string name="format_week_day_style1">d EE</string>
   <string name="format_day_week_desc">Dan u mjesecu: %1$s, %2$s</string>
   <string name="format_lunar_calendar_month_day_desc">Datum prema tradicionalnom kineskom kalendaru: %s</string>
   <string name="format_week_day_style1_desc">%1$s, dan u mjesecu: %2$s</string>
@@ -287,6 +292,20 @@ dd.MM."</string>
   <string name="minimalist_clock">Jednostavan sat</string>
   <string name="miui_clock_city_name_local">Lokalno</string>
   <string name="miui_clock_city_name_second">Drugi sat</string>
+  <string name="miui_lock_screen_date">dd.MM. EEEE</string>
+  <string name="miui_lock_screen_date_12">dd.MM. EEEE</string>
+  <string name="miui_lock_screen_date_two_lines">"EEEE
+dd.MM."</string>
+  <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd.MM."</string>
+  <string name="miui_lock_screen_large_date">"EEE
+dd.MM."</string>
+  <string name="miui_lock_screen_large_date_12">"EEE
+dd.MM."</string>
+  <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+  <string name="miui_vertical_time_format_24">"HH
+mm"</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka inedksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -421,7 +440,6 @@ dd.MM."</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="photo_editor_saving">Spremanje…</string>
   <string name="please_input_signature">Unesite potpis</string>
-  <string name="pm">PM</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="rain_probability_desc">Mogućnost padalina: %s</string>
   <string name="saturday">Subota</string>
@@ -478,9 +496,9 @@ dd.MM."</string>
   <string name="sunset_time_format">Zalazak sunca %s</string>
   <string name="sunset_time_format_desc">Vrijeme zalaska: %s</string>
   <string name="super_wallpaper_date">"EEEE
-dd/MM"</string>
+dd.MM."</string>
   <string name="super_wallpaper_date_inter">"EEEE
-dd/MM"</string>
+dd.MM."</string>
   <string name="temperature_unit">°</string>
   <string name="temporary_style">10 sekundi nakon dodira</string>
   <string name="temporary_style_5">5 sekundi nakon dodira</string>

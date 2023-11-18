@@ -6762,6 +6762,8 @@ Preostali podaci uključuju podatke koji se prenjeli iz prethodnog mjeseca."</st
   <string name="untrust_app_perm_oaid">Dopustite pristup svom virtualnom ID-u</string>
   <string name="untrust_app_perm_title">Aplikacija iz nepoznatog izvora</string>
   <string name="untrust_app_perm_warn">Ova aplikacija dolazi iz nepoznatog izvora i može predstavljati sigurnosni rizik. Može koristiti dolje navedena dopuštenja da ugrozi vašu privatnost. Dodijelite ta dopuštenja nakon pažljivog razmatranja.</string>
+  <string name="unused_apps_switch">Pauziraj aktivnost aplikacije ako se ne koristi</string>
+  <string name="unused_apps_switch_summary">Uklanjanje dopuštenja, brisanje privremenih datoteka i zaustavljanje obavijesti</string>
   <string name="updating_diagnostic_botton">Analiza podataka…</string>
   <string name="upgrade_tvm_component_desc">Kako biste osigurali sigurnost svojih transakcija, ažurirajte dodatak Phone Key Component putem aplikacije Sigurnosti</string>
   <string name="upgrade_tvm_component_title">Ažuriraj dodatak Phone Key Component</string>
