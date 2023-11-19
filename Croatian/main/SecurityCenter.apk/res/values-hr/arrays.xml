@@ -134,7 +134,7 @@
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobilni podaci "</item>
-        <item>"Wi-Fi uporaba "</item>
+        <item>"Wi-Fi "</item>
     </string-array>
     <string-array name="miui_optimization_close_intercept">
         <item>Važno: Više aplikacija sustava može prestati raditi ispravno.</item>
@@ -242,10 +242,19 @@
     </string-array>
     <string-array name="traffic_sort_type">
         <item>"Mobilni podaci "</item>
-        <item>"Wi-Fi uporaba "</item>
+        <item>"Wi-Fi "</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Mobilni podaci "</item>
-        <item>"Wi-Fi uporaba "</item>
+        <item>"Wi-Fi "</item>
     </string-array>
+	 <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Normalno</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+     </string-array>
 </resources>

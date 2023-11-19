@@ -64,7 +64,8 @@
     <string name="cloud_storage_common_functions_text">Često korišteno</string>
 	 <string name="cloud_storage_default_title">Cloud pohrana</string>
 	 <string name="cloud_storage_full_upgrade_default_text">"Nedovoljno prostora za pohranu. Ne mogu sinkronizirati fotografije."</string>
-    <string name="cloud_storage_info_type_drive">Xiaomi Drive</string>
+    <string name="cloud_storage_info_type_creation">Mi Canvas</string>
+	 <string name="cloud_storage_info_type_drive">Xiaomi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Obitelj</string>
     <string name="cloud_storage_info_type_others">Ostalo</string>
@@ -72,7 +73,7 @@
     <string name="cloud_storage_loading_data">Samo trenutak…</string>
     <string name="cloud_storage_manage_title">Upravljajte Cloud prostorom</string>
     <string name="cloud_storage_no_data">Nema još stavki u Cloudu</string>
-	  <string name="cloud_storage_sufficient_text">Nadogradite da biste dobili do %d TB prostora za pohranu</string>
+    <string name="cloud_storage_sufficient_text">Nadogradite da biste dobili do %d TB prostora za pohranu</string>
     <string name="cloud_storage_upgrade_text">Nadogradnja</string>
     <string name="cloud_storage_upgrade_text_now">Nadogradnja</string>
     <string name="cloud_storage_zero_upgrade_button_text_now">Besplatna nadogradnja</string>
@@ -83,9 +84,16 @@
     <string name="connect_wlan_china">Povežite se na Wi-Fi</string>
     <string name="contact_alert_sync_data_merge_dialog_msg">Ako uključite sinkronizaciju, kontakti preneseni s ovog uređaja spojit će se s kontaktima pohranjenim u cloudu. Želite li ipak uključiti sinkronizaciju?</string>
     <string name="copy">Kopiraj</string>
+	 <string name="creation_dialog_message">Pogledajte Mi Canvas podatke na svom tabletu.</string>
+    <string name="creation_dialog_positive_btn">U redu</string>
+    <string name="creation_dialog_title">Pažnja</string>
+    <string name="creation_sync_settings_only_in_wifi">Samo sinkronizacija na Wi-Fi</string>
+    <string name="creation_sync_settings_only_in_wifi_summary">Preporučeno za uštedu mobilnih podataka</string>
+    <string name="creation_sync_settings_preference">Sinkroniziraj platna</string>
+    <string name="creation_sync_settings_summary">Stvorena platna</string>
     <string name="cta_notification_content_text">Dopustite %s povezivanje s internetom kako biste mogli vratiti stavke</string>
     <string name="cta_notification_content_title">"Nije moguće vratiti stavke iz %s"</string>
-	 <string name="customize_notification_btn_text">Nadogradi</string>
+	  <string name="customize_notification_btn_text">Nadogradi</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Ovaj se račun koristi i na drugom uređaju. Spojiti stavke iz više aplikacija (uključujući %1$s i %2$s) s stavkama na ovom uređaju?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Ovaj se račun koristi i na drugom uređaju. Spojiti stavke iz %s sa stavkama na ovom uređaju?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">Ovaj se račun koristi i na drugom uređaju. Spojiti stavke iz %1$s i %2$s sa stavkama na ovom uređaju?</string>
@@ -156,7 +164,7 @@
     <string name="find_device_status_title_phone">Pronađi uređaj</string>
     <string name="find_permission_location_summary">Za lociranje ovog uređaja</string>
     <string name="find_permission_location_title">Pristup lokaciji</string>
-	  <string name="find_permission_phone_sim_info_summary">Za pristup vašoj lokaciji putem SMS-a kada niste povezani na mrežu</string>
+    <string name="find_permission_phone_sim_info_summary">Za pristup vašoj lokaciji putem SMS-a kada niste povezani na mrežu</string>
     <string name="find_permission_phone_sim_info_title">Pristup informacijama o uređaju</string>
     <string name="find_permission_phone_summary">"Za pristup telefonskom broju radi lociranja ovog uređaja kada nije spojen na internet"</string>
     <string name="find_permission_phone_title">Pristup podacima o uređaju</string>
@@ -169,14 +177,15 @@
     <string name="friday_short">Pet</string>
     <string name="friday_shortest">P</string>
     <string name="gallery_auto_sync_fail_noti_content">"Pohrana u cloudu nije dovoljna. Ne mogu spremiti fotografije."</string>
-    <string name="gallery_data_transfer_ddl">Rok: %s</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">"Pohrana u cloudu nije dovoljna. Ne mogu se spremiti fotografije."</string>
+	 <string name="gallery_data_transfer_ddl">Rok: %s</string>
     <string name="gallery_data_transfer_summary">"Stavke iz galerije više se ne mogu sinkronizirati s Xiaomi Cloudom. Preporučujemo da fotografije i videozapise koje ste sinkronizirali s oblakom prenesete na Google fotografije i koristite njihove usluge za sigurnosno kopiranje svojih stavki."</string>
     <string name="gallery_data_transfer_title">Prijenos sinkroniziranih fotografija i videozapisa u Google fotografije</string>
     <string name="gallery_service_termination_announcement">Obavijest o prekidu sinkronizacije Xiaomi Cloud za stavke Galerije i prijenosu na Google fotografije</string>
     <string name="gallery_service_termination_announcement_title">"Stavke iz galerije više se ne mogu sinkronizirati s Xiaomi Cloudom. Preporučujemo prijenos fotografija i videozapisa koje ste sinkronizirali s oblakom u Google fotografije ili posjetite i.mi.com za preuzimanje sinkroniziranih fotografija i videozapise na vaš uređaj. Usluge prijenosa i preuzimanja bit će dostupne do %s, a tada će sve stavke Galerije sinkronizirane s vašim Xiaomi Cloud računom biti trajno izbrisane."</string>
     <string name="gallery_service_termination_btn_continue">Nastavi</string>
     <string name="gallery_service_termination_more_info">Za više detalja pogledajte \"%s\"</string>
-	  <string name="help_and_feedback">Pomoć i povratne inf.</string>
+    <string name="help_and_feedback">Pomoć i povratne inf.</string>
     <string name="hybrid_provider">Pruža %1$s</string>
     <string name="i_know">U redu</string>
     <string name="input_password_hint">Unesite zaporku</string>
@@ -593,7 +602,7 @@ Podaci o lokaciji možda se neće prijaviti kada je mrežna veza loša."</string
     <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_common_charge_hint">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za lociranje, zaključavanje ili brisanje podataka na uređaju ako je izgubljen. Odlazak na &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> omogućuje vam da ga pronađete, zaključate ili poništite.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>plaćena SMS poruka&lt;/b>&lt;/font> bit će poslana automatski za aktiviranje ove usluge. Kada promjenite SIM kartice, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>plaćena SMS poruka&lt;/b>&lt;/font> biti će automatski poslana radi ponovne aktivacije.&lt;br/>Sve SMS naknade nastale gore spomenutim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke.&lt;br />&lt;br />Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.&lt;br />Da bi mogla normalno raditi, ova usluga mora se povezati s internetom i zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka:&lt;br />• Lokacija:&lt;br />Za lociranje vašeg uređaja i prebacivanje u izgubljeni način rada&lt;br />• Poslati SMS:&lt;br />Za lociranje ovog uređaja kada nije povezan s internetom&lt;br />• Pristup informacijama o uređaju:&lt;br />Za pristup telefonskom broju radi lociranja ovog uređaja kada nije povezan s internetom&lt;br />Ako ne pristajete dati takva dopuštenja, nećete moći koristiti ovu uslugu. Ovu uslugu uvijek možete uključiti i isključiti u Postavkama.&lt;br />Pročitajte i prihvatite naše &lt;a href=%2$s>&lt;u>Korisnički ugovor&lt;/u>&lt;/a> i &lt;a href=%3$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a> prije korištenja naših usluga.&lt;br />"</string>
     <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_domestic_charge_hint">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za lociranje, zaključavanje ili brisanje podataka na uređaju ako je izgubljen. Odlazak na &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> omogućuje vam da ga pronađete, zaključate ili poništite.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> bit će poslana automatski za aktiviranje ove usluge. Kada promjenite SIM kartice, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domaća plaćena SMS poruka&lt;/b>&lt;/font> biti će automatski poslana radi ponovne aktivacije.&lt;br/>Sve SMS naknade nastale gore spomenutim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke.&lt;br />&lt;br />Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.&lt;br />Da bi mogla normalno raditi, ova usluga mora se povezati s internetom i zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka:&lt;br />• Lokacija:&lt;br />Za lociranje vašeg uređaja i prebacivanje u izgubljeni način rada&lt;br />• Poslati SMS:&lt;br />Za lociranje ovog uređaja kada nije povezan s internetom&lt;br />• Pristup informacijama o uređaju:&lt;br />Za pristup telefonskom broju radi lociranja ovog uređaja kada nije povezan s internetom&lt;br />Ako ne pristajete dati takva dopuštenja, nećete moći koristiti ovu uslugu. Ovu uslugu uvijek možete uključiti i isključiti u Postavkama.&lt;br />Pročitajte i prihvatite naše &lt;a href=%2$s>&lt;u>Korisnički ugovor&lt;/u>&lt;/a> i &lt;a href=%3$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a> prije korištenja naših usluga.&lt;br />"</string>
     <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_inter_charge_hint">"Dobrodošli u Pronađi uređaj! Ovu uslugu možete koristiti za lociranje, zaključavanje ili brisanje podataka na uređaju ako je izgubljen. Odlazak na &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> omogućuje vam da ga pronađete, zaključate ili poništite.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>međunarodna plaćena SMS poruka&lt;/b>&lt;/font> bit će poslana automatski za aktiviranje ove usluge. Kada promjenite SIM kartice, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>međunarodna plaćena SMS poruka&lt;/b>&lt;/font> biti će automatski poslana radi ponovne aktivacije.&lt;br/>Sve SMS naknade nastale gore spomenutim radnjama naplatit će vaš operater. Xiaomi vam neće naplatiti ove poruke.&lt;br />&lt;br />Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.&lt;br />Da bi mogla normalno raditi, ova usluga mora se povezati s internetom i zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka:&lt;br />• Lokacija:&lt;br />Za lociranje vašeg uređaja i prebacivanje u izgubljeni način rada&lt;br />• Poslati SMS:&lt;br />Za lociranje ovog uređaja kada nije povezan s internetom&lt;br />• Pristup informacijama o uređaju:&lt;br />Za pristup telefonskom broju radi lociranja ovog uređaja kada nije povezan s internetom&lt;br />Ako ne pristajete dati takva dopuštenja, nećete moći koristiti ovu uslugu. Ovu uslugu uvijek možete uključiti i isključiti u Postavkama.&lt;br />Pročitajte i prihvatite naše &lt;a href=%2$s>&lt;u>Korisnički ugovor&lt;/u>&lt;/a> i &lt;a href=%3$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a> prije korištenja naših usluga.&lt;br />"</string>
-	  <string name="privacy_policy">Pravila o privatnosti</string>
+    <string name="privacy_policy">Pravila o privatnosti</string>
     <string name="privacy_policy_reject_confirm_msg">"Nećete moći nastaviti koristiti Xiaomi Cloud ako ne prihvatite njegovu novu verziju &lt;a href=%1$s>&lt;u>Pravila o privatnosti&lt;/u>&lt;/a>. Prihvaćate li ažurirana Pravila o privatnosti?"</string>
     <string name="privacy_policy_reject_confirm_title">Pažnja</string>
     <string name="privacy_policy_revoked_msg">Suglasnost Pravila o privatnosti tvrtke Xiaomi Cloud povučena je za ovaj račun. Pokušajte upotrijebiti drugi račun.</string>

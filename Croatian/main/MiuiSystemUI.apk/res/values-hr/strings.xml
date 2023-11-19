@@ -11,8 +11,8 @@
   <string name="a11y_action_pip_move_right">Pomakni desno</string>
   <string name="a11y_action_pip_move_up">Premjesti gore</string>
   <string name="a11y_pip_menu_entered">Izbornik Slika u slici.</string>
-  <string name="abbrev_month_day_no_year">MMMd</string>
-  <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
+  <string name="abbrev_month_day_no_year">dMMM</string>
+  <string name="abbrev_wday_month_day_no_year_alarm">EEEMdMM</string>
   <string name="abc_action_bar_home_description">Navigacija kući</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
   <string name="abc_action_mode_done">Gotovo</string>
@@ -944,6 +944,12 @@ Nakon što ih izbrišete, morat ćete ponovo postaviti otključavanje otiskom pr
   <string name="forget_password_string_for_esim">&lt;u&gt;Zaboravljen PUK kod&lt;/u&gt;</string>
   <string name="format_day_desc">Dan u mjesecu: %s</string>
   <string name="format_day_week_desc">Dan u mjesecu: %1$s, %2$s</string>
+  <string name="format_full_day_of_week">EEEE</string>
+  <string name="format_full_month_of_year">MMMM</string>
+  <string name="format_month_day_style1">dd.MM.</string>
+  <string name="format_month_day_style2">d.M</string>
+  <string name="format_month_day_week">dd.MM. EEE</string>
+  <string name="format_week_day_style1">d EE</string>
   <string name="format_week_day_style1_desc">%1$s, dan u mjesecu: %2$s</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
@@ -993,6 +999,7 @@ Nakon što ih izbrišete, morat ćete ponovo postaviti otključavanje otiskom pr
   <string name="guest_exit_guest_dialog_message">Sve aplikacije i podaci u ovoj sesiji bit će izbrisani.</string>
   <string name="guest_exit_quick_settings_button">Izađi iz načina rada za goste</string>
   <string name="guest_exit_save_data_button">Spremi</string>
+  <string name="guest_new_guest">Dodaj gosta</string>
   <string name="guest_notification_app_name">Način rada za goste</string>
   <string name="guest_notification_ephemeral">Sve aktivnosti bit će izbrisane pri izlasku</string>
   <string name="guest_notification_non_ephemeral">Možete spremiti ili izbrisati svoju aktivnost pri izlasku</string>
@@ -1551,6 +1558,17 @@ dd.MM."</string>
 mm"</string>
   <string name="miui_vertical_time_format_24">"HH
 mm"</string>
+  <string name="miui_magazine_c_clock_style1_week">EEEE</string>
+  <string name="miui_magazine_c_clock_style2_date">d.M. EE</string>
+  <string name="miui_magazine_c_clock_style2_date_content_description">dd.MM. EEEE</string>
+  <string name="miui_magazine_clock_date">d.M.</string>
+  <string name="miui_magazine_clock_date_content_description">dd.MM</string>
+  <string name="miui_magazine_clock_week">EEE</string>
+  <string name="miui_rhombus_clock_date">dd MMMM</string>
+  <string name="miui_rhombus_clock_week">EEE</string>
+  <string name="miui_rhombus_clock_week_full">EEEE</string>
+  <string name="miui_smart_frame_clock_date">d.M.</string>
+  <string name="miui_smart_frame_clock_week">EEE</string>
   <string name="miui_notification_menu_aggregate_feedback">Povratne inf.</string>
   <string name="miui_notification_menu_allow">Dopusti</string>
   <string name="miui_notification_menu_feedback_success">Hvala na povratnim informacijama!</string>
@@ -1583,10 +1601,6 @@ mm"</string>
   <string name="miui_snooze_user_set_fail">Idite u Postavke &gt; Obavijesti &amp; Centar za kontrolu za više opcija</string>
   <string name="miui_snooze_user_set_success">Uspješno primjenjeno. Idite u Postavke &gt; Obavijesti &amp; Centar za kontrolu za više opcija.</string>
   <string name="miui_unimportant_notifications">Nevažne obavijesti</string>
-  <string name="miui_vertical_time_format_12">"hh
-mm"</string>
-  <string name="miui_vertical_time_format_24">"HH
-mm"</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -2446,6 +2460,7 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="structure_face_data_input_error_away_screen">Malo udaljite telefon od vašeg lica</string>
   <string name="structure_face_data_input_error_expose_features">"Ne mogu vidjeti neke dijelove lica"</string>
   <string name="structure_face_data_input_error_overly_light">Pozadinsko osvjetljenje je prejako</string>
+  <string name="system_ui_aod_date_pattern">ddMMEEE</string>
   <string name="stylus_battery_low_percentage">%s preostale baterije</string>
   <string name="stylus_battery_low_subtitle">Spojite svoju olovku s punjačem</string>
   <string name="sud_back_button_label">Natrag</string>

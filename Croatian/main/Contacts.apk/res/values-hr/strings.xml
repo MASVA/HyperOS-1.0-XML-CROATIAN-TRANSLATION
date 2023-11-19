@@ -1231,6 +1231,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
     <string name="sms_work_pager">Poruka na poslovni dojavljivač</string>
     <string name="special_code_security_exception">"Ne mogu dovršiti radnju. To nije vaš zadani biratelj."</string>
     <string name="splitConfirmation">Ovaj će se kontakt razdvojiti na više kontakata.</string>
+	 <string name="splitConfirmation_title">Želite li razdvojiti kontakt?</string>
     <string name="star">*</string>
     <string name="star_letter">,</string>
     <string name="starredList">"Sa zvjezdicom"</string>

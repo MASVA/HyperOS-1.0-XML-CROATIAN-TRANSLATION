@@ -170,8 +170,8 @@
   <string name="hearing_assist_volume">"Glasnoća mikrofona"</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="item_view_role_description">Kartica</string>
-  <string name="kddi_miui_toast_zen_standard_to_off">"Bešumno je isključeno. Pozivi i obavijesti neće biti utišani."</string>
-  <string name="kddi_miui_toast_zen_to_standard">Bešumno je uključeno. Pozivi i obavijesti će biti utišani.</string>
+  <string name="kddi_miui_toast_zen_standard_to_off">"Bešumno je isključeno. Pozivi i obavijesti nisu utišani."</string>
+  <string name="kddi_miui_toast_zen_to_standard">Bešumno je uključeno. Pozivi i obavijesti su utišani.</string>
   <string name="loading">Nepoznato</string>
   <string name="material_slider_range_end">Kraj,</string>
   <string name="material_slider_range_start">Početak,</string>
@@ -185,12 +185,20 @@
   <string name="miplay_accessibility_prev">Prethodna pjesma</string>
   <string name="miplay_accessibility_seekbar">Traka napretka</string>
   <string name="miplay_accessibility_volume">Glasnoća</string>
+  <string name="miplay_bluetooth_share_des_text">"Korisnici slušalica Xiaomi: otvorite kućište za punjenje ili pritisnite i držite tipku kućišta %ds
+Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth postavkama, a zatim se povežite"</string>
+  <string name="miplay_bluetooth_share_headphone_pairing">Dodajte slušalice za dijeljenje zvuka</string>
+  <string name="miplay_bluetooth_share_subTitle_text">Dijelite zvuk uređaja s drugom osobom</string>
+  <string name="miplay_bluetooth_share_title_text">Dijeli audio</string>
+  <string name="miplay_not_support_hint">"Ova značajka nije podržana"</string>
   <string name="miplay_detail_divider_title">TV &amp; zvučnici</string>
   <string name="miplay_detail_header_no_song">Nema povijesti reprodukcije</string>
   <string name="miplay_device_full_name">%2$s sa %1$s</string>
   <string name="miplay_headset_lc3_hint">Isključite LC3 da biste mogli prebaciti audio izlaz na ovaj uređaj</string>
   <string name="miplay_service_timeout_toast">Veza je istekla. Pokušajte ponovno.</string>
   <string name="miplay_song_title_empty">Nema pjesama</string>
+  <string name="miplay_switch_local_device_when_in_audio_share_hint">Zaustavite dijeljenje zvuka i pokušajte ponovno</string>
+  <string name="miplay_tv_cast_retry_toast">Zaustavite emitiranje i pokušajte ponovno</string>
   <string name="miui_dnd_count_down">Povucite za postavljanje timera</string>
   <string name="miui_dnd_count_down_time">"DND timer
 %s"</string>

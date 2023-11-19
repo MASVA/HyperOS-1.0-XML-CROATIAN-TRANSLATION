@@ -263,6 +263,8 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="function_not_support">Nije podržano na ovom uređaju</string>
+  <string name="gb_gpu_pannel_touch_ctl_dialog_message">"Dodirne kontrole su ažurirane. Sada možete pronaći povezane značajke u Gaming prečacima > Poboljšane dodirne kontrole dok igrate igrice."</string>
+  <string name="gb_gpu_pannel_touch_ctl_dialog_title">Nove dodirne kontrole</string>
   <string name="gesture_function_dialog_message">%1$s koristi se za \"%2$s\". Zamijeniti s \"%3$s\"?</string>
   <string name="gesture_hint_call">Odgovaranje na poziv…</string>
   <string name="gesture_hint_endcall">Završavam poziv...</string>
@@ -928,6 +930,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
   <string name="sunday_shortest">N</string>
+  <string name="superpower_toast_app_select_full_new">Možete dodati do %d stavki u često korištene aplikacije</string>
   <string name="sure_to_use">Potvrdi</string>
   <string name="switchDataSummary">Premještajte stavke između prostora</string>
   <string name="switch_apps_settings">Postavke aplikacija</string>

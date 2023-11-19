@@ -4,6 +4,11 @@
   <string name="login_check_find_device">Dobivanje informacija o sigurnosti uređaja…</string>
   <string name="mibi_app_name">Mi Kredit</string>
   <string name="mibi_applock_config">"Ne mogu postaviti Zaklj. aplikacije tijekom korištenja podijeljenog zaslona."</string>
+  <string name="mibi_format_bill_date">d.M.yyyy</string>
+  <string name="mibi_format_bill_time">dd.MM.yyyy HH:mm</string>
+  <string name="mibi_format_date">dd.MM.yyyy</string>
+  <string name="mibi_format_time">dd.MM.yyyy hh:mmaa</string>
+  <string name="mibi_format_time_giftcard">dd.MM.yyyy HH:mm:ss</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
   <string name="miuix_appcompat_action_mode_select_all">Odaberi sve</string>
   <string name="miuix_appcompat_action_mode_title_empty">Odaberi stavke</string>

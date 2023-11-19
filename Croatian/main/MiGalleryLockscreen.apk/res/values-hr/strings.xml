@@ -73,13 +73,6 @@
     <string name="app_self_upgrade_dlg_postive_btn">Ažuriraj sad</string>
     <string name="app_self_upgrade_dlg_title">Dostupno je ažuriranje</string>
     <string name="app_self_upgrade_toast_downloading_install">Pokretanje ažuriranja…</string>
-    <string name="action_more_dlg_add_to_loop">Dodaj u slideshow</string>
-    <string name="action_more_dlg_apply">Postavi kao pozadinu zaključanog zaslona</string>
-    <string name="action_more_dlg_dislike">"Ovo mi se ne sviđa"</string>
-    <string name="action_more_dlg_my_favor">Dodaj u favorite</string>
-    <string name="action_more_dlg_save">Preuzmi pozadinu</string>
-    <string name="action_more_dlg_settings">Više postavki</string>
-    <string name="action_more_dlg_share">Dijeli</string>   
     <string name="apply">Postavi</string>
 	 <string name="apply_success_toast">Pozadina je uspješno postavljena</string>
 	  <string name="apply_to_above_all">Postavi oboje</string>

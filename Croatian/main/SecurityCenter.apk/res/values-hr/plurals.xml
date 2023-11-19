@@ -1508,11 +1508,11 @@ Odmorite se!"</item>
         <item quantity="other">Razumijem (%ds)</item>
         <item quantity="one">Razumijem (%ds)</item>
      </plurals>
-     <plurals name="pp_puta">
+     <plurals name="pp_times">
         <item quantity="other">%s puta</item>
         <item quantity="one">%s put</item>
      </plurals>
-     <plurals name="privacy_pop_puta">
+     <plurals name="privacy_pop_times">
         <item quantity="other">%s puta</item>
         <item quantity="one">%s put</item>
      </plurals>

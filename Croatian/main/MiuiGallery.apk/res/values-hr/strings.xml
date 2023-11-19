@@ -2456,7 +2456,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="resend_email_success">Uspješno poslano</string>
   <string name="retry_to_create_album">Pokušaj ponovno</string>
   <string name="retry_to_request_qr_code">Pokušaj ponovno</string>
-  <string name="risk_control_deleted_date">dd.MM</string>
+  <string name="risk_control_deleted_date">dd.MM.</string>
   <string name="risk_control_deleted_message">Netko je izbrisao vaše stavke Galerije iz Xiaomi Clouda koristeći %3$s %1$s u %2$s. Jeste li to bili vi?</string>
   <string name="risk_control_deleted_time">HH:mm</string>
   <string name="risk_control_deleted_title">Sigurnosno upozorenje</string>

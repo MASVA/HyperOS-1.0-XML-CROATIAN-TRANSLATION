@@ -166,7 +166,8 @@
     <string name="daily_forecast_detail">Pojedinosti prognoze</string>
     <string name="daily_forecast_detail_date">d/M</string>
     <string name="daily_forecast_no_data">"Ne mogu dobiti informacije o vremenu
-Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>
+Povucite dolje za osvježiti ili provjerite mrežne postavke"</string>,
+    <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ssz"</string>
     <string name="data_provided_by">Podaci dobiveni od</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="dialog_internet_error_title">Dogodila se pogreška</string>
@@ -399,6 +400,7 @@ Dodirnite zaslon za ručno dodavanje ili promjenu položaja grada"</string>
     <string name="more_expanded">Više</string>
     <string name="network_not_available">"Ne mogu se povezati na mrežu"</string>
     <string name="network_unavailable">"Ne mogu se povezati na mrežu."</string>
+	 <string name="news_hour_minute_time_format">dd.MM.yyyy HH:mm</string>
     <string name="night_not_disturb_settings_summary">Blokiraj upozorenja između 23:00 i 07:00</string>
     <string name="night_not_disturb_settings_title">"Ne ometaj noću"</string>
     <string name="no_data">Nema podataka</string>
@@ -471,7 +473,8 @@ Dodirnite zaslon za ručno dodavanje ili promjenu položaja grada"</string>
     <string name="refresh_fail">"Ne mogu se povezati na mrežu"</string>
     <string name="reminder_from_xiaomi_weather_app">Upozorenja aplikacije Vrijeme</string>
     <string name="request_cta_connect_net">Dopustite ovoj aplikaciji da se poveže s internetom i dodijelite gore navedena obvezna dopuštenja.</string>
-    <string name="request_permission_location_dialog_content">Za prikaz informacija o vremenu relevantnim za vašu trenutnu lokaciju</string>
+    <string name="request_permission_background_location_dialog_content">Kako biste osigurali da ova aplikacija uvijek koristi točne podatke o lokaciji, uvijek joj dopustite pristup vašoj lokaciji.</string>
+	 <string name="request_permission_location_dialog_content">Za prikaz informacija o vremenu relevantnim za vašu trenutnu lokaciju</string>
     <string name="request_permission_main_purpose">Prikaz informacija o vremenu</string>
     <string name="request_permission_read_phone_state_dialog_content">Za identificiranje vašeg uređaja</string>
     <string name="request_permission_storage_dialog_content">Za dijeljenje informacija o vremenu u formatu slike</string>
