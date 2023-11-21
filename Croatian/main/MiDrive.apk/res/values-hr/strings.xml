@@ -216,7 +216,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
     <string name="document_file_size">Veličina datoteke: %s</string>
     <string name="document_preview_cancel_text">Zaustavi učitavanje</string>
     <string name="document_preview_download_failed">"Ne mogu učitati. Pokušajte ponovo."</string>
-    <string name="download_done">Uspješno preuzeto</string>
+    <string name="download_done">Preuzimanje je dovršeno</string>
     <string name="download_done_info_for_sys_title">Uspješno preuzeto. Dodirni za pregled.</string>
     <string name="download_fail">"Ne mogu preuzeti"</string>
     <string name="download_failed">"Ne mogu preuzeti"</string>
@@ -842,7 +842,7 @@ Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</stri
     <string name="update_no_update">Trenutna verzija je ažurna</string>
     <string name="update_phone_notice">Promjeni postavke sigurnosti</string>
     <string name="update_progress_dialog_content">Preuzimanje…</string>
-    <string name="upload_done">Uspješno učitano</string>
+    <string name="upload_done">Učitavanje je dovršeno</string>
     <string name="upload_done_info_for_sys_title">Uspješno učitano. Dodirnite za prikaz.</string>
     <string name="upload_error_log">Pošalji dnevnik</string>
     <string name="upload_fail">"Ne mogu učitati”</string>

@@ -60,6 +60,7 @@
     <string name="miuix_appcompat_delete_description">Izbriši</string>
     <string name="miuix_appcompat_deselect_all">Poništi odabir</string>
     <string name="miuix_appcompat_deselect_all_description">Poništi odabir</string>
+	 <string name="miuix_appcompat_edit">Uredi</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Odustani</string>
     <string name="miuix_appcompat_search_input_description">Traži</string>
     <string name="miuix_appcompat_select_all">Odaberi sve</string>
@@ -121,6 +122,7 @@
     <string name="more">Više</string>
     <string name="no_apps">Nema aplikacija</string>
 	 <string name="no_icons">Nema ikona</string>
+	 <string name="other_ime">Druge tipkovnice</string>
     <string name="preference_copied">Sažetak \"%1$s\" kopiran je u međuspremnik.</string>
     <string name="reset">Resetiraj</string>
     <string name="saturday">Subota</string>
