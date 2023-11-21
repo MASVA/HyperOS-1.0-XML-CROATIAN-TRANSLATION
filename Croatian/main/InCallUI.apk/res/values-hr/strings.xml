@@ -66,7 +66,7 @@
   <string name="call_progress_info_user_busy">Druga osoba je sada zauzeta. Nazovite kasnije.</string>
   <string name="call_progress_info_user_call_rejected">Vaš broj trenutno nije dostupan</string>
   <string name="call_record_wait_label">Na čekanju</string>
-  <string name="call_recording_deny_permission_msg">"Odbili ste dopuštenje za snimanje, ne mogu snimiti."</string>
+  <string name="call_recording_deny_permission_msg">"Ne mogu snimati. Najprije odobrite dopuštenja u postavkama."</string>
   <string name="call_recording_error_low_storage">Nema dovoljno mjesta na SD kartici</string>
   <string name="call_recording_error_privacy">"Nije moguće snimati u Gost načinu rada"</string>
   <string name="call_recording_error_sd_access">Pogreška pristupa SD kartice</string>
@@ -324,9 +324,9 @@
   <string name="relay_stop_recorder">Snimanje zaustavljeno</string>
   <string name="remind_unlock_message">Vaš je uređaj sada zaključan. \"%s\ će biti dostupan nakon što otključate uređaj. Otključati sada?"</string>
   <string name="respond_via_sms_custom_message">Vlastiti SMS</string>
-  <string name="saf_permission_content">"Dopuštenja sustava su ažurirana. Da biste mogli snimati pozive, prvo dajte svoje dopuštenje.
+  <string name="saf_permission_content">"Dopuštenja sustava su ažurirana. Da biste mogli snimati pozive, prvo odobrite dopuštenje.
 
-Kako dati dopuštenje
+Kako odobriti dopuštenje
 Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="saf_permission_grant_permission_immediately">Dalje</string>
   <string name="saf_permission_later">Ne sada</string>
@@ -335,6 +335,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="saf_permission_title">Potrebna su dopuštenja</string>
   <string name="saf_permission_use_this_folder">Koristi ovu mapu</string>
   <string name="satellite_call_failed">Signal prekinut. Pokušajte ponovno.</string>
+  <string name="satellite_diable_earpiece">"Ne mogu koristiti slušalice sa satelitskim pozivima"</string>
   <string name="satellite_dialog_button">Plutajući prozor</string>
   <string name="satellite_dialog_cancel">Odustani</string>
   <string name="satellite_guide_down">"Nagnite uređaj prema dolje da
@@ -345,7 +346,7 @@ da stavite ikonu satelita u plavo područje"</string>
   <string name="satellite_guide_right">"Nagnite uređaj udesno
 da stavite ikonu satelita u plavo područje"</string>
   <string name="satellite_guide_searching">Traženje satelita…</string>
-  <string name="satellite_guide_searching_floating">Tražim...</string>
+  <string name="satellite_guide_searching_floating">Tražim…</string>
   <string name="satellite_guide_up">"Nagnite uređaj prema gore da
 stavite loptu u plavo područje"</string>
   <string name="satellite_incall_tip">Zvučnik je uključen</string>
@@ -353,6 +354,7 @@ stavite loptu u plavo područje"</string>
   <string name="satellite_state">"Nemojte pomicati svoj uređaj"</string>
   <string name="satellite_state_connected">"Povezan sa satelitom. Ne pomičite svoj uređaj."</string>
   <string name="satellite_state_connected_floating">"Nemojte pomicati svoj uređaj"</string>
+  <string name="satellite_state_connecting">Povezivanje… (%ds)</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>

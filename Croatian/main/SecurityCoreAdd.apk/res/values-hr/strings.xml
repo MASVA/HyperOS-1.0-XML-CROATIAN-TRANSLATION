@@ -48,7 +48,7 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="airspace_users_full">"Ne mogu izraditi još radih prostora"</string>
   <string name="alwaysUsePrompt">Zapamti moj izbor</string>
   <string name="appData">Instalirane aplikacije</string>
-  <string name="app_name">Komponenta Sigurnosti jezgre</string>
+  <string name="app_name">Dodatak značajki sustava</string>
   <string name="app_switch_key">Nedavno</string>
   <string name="application_label">Postavke unosa</string>
   <string name="auto_disable_screenbuttons_ask">Traži onemogućavanje</string>
@@ -56,10 +56,10 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="auto_disable_screenbuttons_cancel">Odustani</string>
   <string name="auto_disable_screenbuttons_dialog_title">Onemogućiti tipke zaslona za %s?</string>
   <string name="auto_disable_screenbuttons_no">Nikad ne onemogući</string>
-  <string name="auto_disable_screenbuttons_rotation_summary">Kada je vaš uređaj u pejzažnom načinu rada, navigacijski gumbi bit će blokirani</string>
-  <string name="auto_disable_screenbuttons_rotation_title">Blokiraj navigacijske gumbe u pejzažu</string>
-  <string name="auto_disable_screenbuttons_summary">Automatski onemogući navigacijske gumbe prilikom korištenja odabranih aplikacija. Dvaput dodirnite bilo koji navigacijski gumb za ponovno uključivanje.</string>
-  <string name="auto_disable_screenbuttons_title">Automatski onemogući navigacijske gumbe</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">Kada je vaš uređaj u pejzažnom načinu rada, navigacijske tipke bit će blokirane</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Blokiraj navigacijske tipke u pejzažu</string>
+  <string name="auto_disable_screenbuttons_summary">Automatski onemogući navigacijske tipke prilikom korištenja odabranih aplikacija. Dvaput dodirnite bilo koji navigacijski gumb za ponovno uključivanje.</string>
+  <string name="auto_disable_screenbuttons_title">Automatski onemogući navigacijske tipke</string>
   <string name="back">Natrag</string>
   <string name="back_button">Natrag</string>
   <string name="back_double_tap">Dvaput dodirnite natrag</string>
@@ -375,7 +375,7 @@ Također, možete ih preuzeti zasebno."</string>
   <string name="key_gesture_function_dialog_message">%1$s je prečac za %2$s. Zamijeniti s %3$s?</string>
   <string name="key_gesture_function_dialog_negative">Odustani</string>
   <string name="key_gesture_function_dialog_positive">Zamijeni</string>
-  <string name="key_gesture_function_optional">Neobavezni pokreti i gumbi</string>
+  <string name="key_gesture_function_optional">Neobavezni pokreti i tipke</string>
   <string name="key_gesture_function_preview">Pregledi tipki i pokreta</string>
   <string name="key_gesture_function_shortcut">Funkcionalni prečaci</string>
   <string name="key_handwriting_input_summary">Uređivanje kineskog ili engleskog rukom pisanog teksta pomoću vaše olovke</string>
@@ -749,7 +749,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="screen_key_long_press">Dugo pritisnite navigacijske gumbe</string>
   <string name="screen_key_long_press_action">Funkcija okidača</string>
   <string name="screen_key_long_press_timeout">Postavite vrijeme dugog pritiska</string>
-  <string name="screen_key_position">Gumbi za navigaciju</string>
+  <string name="screen_key_position">Tipke za navigaciju</string>
   <string name="screen_key_press">Pritisnite gumbe za navigaciju</string>
   <string name="screen_key_press_action">Funkcija okidača</string>
   <string name="screen_shot">Napravite snimku zaslona</string>

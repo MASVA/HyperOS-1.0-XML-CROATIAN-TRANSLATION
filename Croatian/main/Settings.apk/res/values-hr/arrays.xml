@@ -1389,6 +1389,14 @@
         <item>Mreža je spora zbog slabog signala</item>
         <item>Premještanje…</item>
     </string-array>
+	<string-array name="nfc_notification_mode_summaries">
+        <item>Kartice za plaćanje, pristup i pametni dom</item>
+         <item>Kartice za Bluetooth uparivanje, bežičnu vezu i pametni dom</item>
+		 </string-array>
+    <string-array name="nfc_notification_mode_titles">
+         <item>Sve kartice</item>
+         <item>Kartice koje prepoznaje sustav</item>
+	 </string-array>
     <string-array name="nfc_payment_favor">
         <item>Uvijek</item>
         <item>Osim kada je otvorena druga aplikacija za plaćanje</item>

@@ -271,8 +271,8 @@ zatim povucite za pomicanje"</string>
   <string name="operation_guide_title">Uputstva</string>
   <string name="other_advanced_settings">Dodatne postavke</string>
   <string name="other_operations_title">Drugi vodiči</string>
-  <string name="pin_toast">Povucite prema gore i pritisnite da otkvačite ovu aplikaciju</string>
-  <string name="pin_toast_nav">Pritisnite &amp; držite tipke za povratak i pregled kako biste otkvačili ovu aplikaciju</string>
+  <string name="pin_toast">Povucite prema gore od dna zaslona i pauzirajte da biste otkvačili ovu aplikaciju</string>
+  <string name="pin_toast_nav">Pritisnite i držite tipke za povratak i pregled kako biste otkvačili ovu aplikaciju</string>
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
