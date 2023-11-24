@@ -116,4 +116,12 @@
         <item quantity="other">Terabytes</item>
         <item quantity="one">Terabyte</item>
     </plurals>
+	 <plurals name="delete_msg">
+        <item quantity="other">Izbrisati stavke: %d?</item>
+        <item quantity="one">Izbrisati %d stavku?</item>
+     </plurals>
+     <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Detaljna otplata (%d godina), CNY</item>
+        <item quantity="one">Detaljna otplata (%d godina), CNY</item>
+     </plurals>
 </resources>
