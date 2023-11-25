@@ -646,6 +646,8 @@ biste koristili prednju kameru</string>
   <string name="voice_button_action_up">Pritisni za pričanje</string>
   <string name="voice_input_error_network">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovno."</string>
   <string name="voice_input_error_other">Dogodila se pogreška. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="wallpaper_floral_arrangement_title">Cvjetni aranžman</string>
+  <string name="wallpaper_gradient_title">Gradient</string>
   <string name="wallpaper_geometrically_irregular_title">Apstraktna geometrija</string>
   <string name="wallpaper_group_black_gobi_title">Pijesak Gobija</string>
   <string name="wallpaper_group_black_white_title">Crno i bijelo</string>
@@ -673,8 +675,6 @@ biste koristili prednju kameru</string>
   <string name="wallpaper_group_shadow_geometry_title">Geometrija sjena</string>
   <string name="wallpaper_neon_title">Neon</string>
   <string name="wallpaper_overlapping_space_title">Oblik i sjena</string>
-  <string name="wallpaper_submerged_wing_title">Teksture</string>
-  <string name="wallpaper_wabi_sabi_title">Wabi-sabi</string>
   <string name="waterdrop_preview">Kapljice</string>
   <string name="wifi_assistant_wifi_no_internet">Ova Wi-Fi mreža nema pristup internetu</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Dodirni za prikaz detalja</string>

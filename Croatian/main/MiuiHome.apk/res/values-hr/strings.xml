@@ -941,6 +941,7 @@ Poboljšana sigurnost."</string>
   <string name="switch_screen_button_order">Zamjeni mjesta tipki</string>
   <string name="switch_screen_button_order_desc">Zamjeni mjesta tipki Natrag i Izbornik</string>
   <string name="system_shortcuts_edit">Uredi</string>
+  <string name="system_shortcuts_icon_remove">Ukloni</string>
   <string name="system_shortcuts_more_operation">Informacije o aplikaciji</string>
   <string name="system_shortcuts_remove">Ukloni</string>
   <string name="system_text">Sustav</string>
