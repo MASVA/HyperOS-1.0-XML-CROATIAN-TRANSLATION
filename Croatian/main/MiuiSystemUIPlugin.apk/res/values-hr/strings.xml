@@ -143,6 +143,7 @@
   <string name="dolby_atoms_sound_effect_label">Dolby Atmos</string>
   <string name="drag_to_add_tiles">Pritisnite i držite da biste dodali ili promijenili raspored stavki</string>
   <string name="early_morning">Jutro</string>
+  <string name="emergency_call">Hitni poziv</string>
   <string name="error_icon_content_description">Pogreška</string>
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>

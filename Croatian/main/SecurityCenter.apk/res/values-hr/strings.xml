@@ -2255,6 +2255,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="gamebooster_push_expiring_soon_button">Obnovi</string>
   <string name="gamebooster_push_expiring_soon_title">Game Turbo</string>
+  <string name="gamebox_ai_subtitle">AI titlovi</string>
   <string name="gamebox_app_not_find">Instalirajte najprije aplikaciju.</string>
   <string name="gamebox_brightness">Svjetlina</string>
   <string name="gamebox_browser_not_find">Instalirajte najprije Mi Preglednik</string>
@@ -2362,6 +2363,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="gb_barrage_dnd_conflict_toast">Za korištenje komentara na zaslonu, prvo isključite DND</string>
   <string name="gb_barrage_guide_text">Dodirnite komentar da biste odgovorili ili otvorili plutajući prozor</string>
   <string name="gb_beauty_cold_light">Hladno</string>
+  <string name="gb_beauty_nature_light">Prirodno</string>
+  <string name="gb_beauty_warm_light">Toplo</string>
   <string name="gb_beauty_face">Uljepšajte</string>
   <string name="gb_beauty_light">Ispuna svjetlom</string>
   <string name="gb_collimator_color">Boja</string>
@@ -3142,6 +3145,8 @@ podatkovnu vezu"</string>
   <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
   <string name="material_minute_suffix">%1$s min</string>
+  <string name="material_slider_range_end">Kraj raspona,</string>
+  <string name="material_slider_range_start">Početak raspona,</string>
   <string name="material_timepicker_am">AM</string>
   <string name="material_timepicker_clock_mode_description">Prijeđite na način rada sata da biste unijeli vrijeme.</string>
   <string name="material_timepicker_hour">Sat</string>
@@ -3366,6 +3371,7 @@ Vaš je uređaj sad %s brži."</string>
   <string name="mtrl_picker_a11y_next_month">Promijeni na sljedeći mjesec</string>
   <string name="mtrl_picker_a11y_prev_month">Promijeni na prethodni mjesec</string>
   <string name="mtrl_picker_announce_current_selection">Trenutni izbor: %1$s</string>
+  <string name="mtrl_picker_confirm">U redu</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Odaberite datum</string>
   <string name="mtrl_picker_date_header_unselected">Odaberite datum</string>

@@ -1133,6 +1133,7 @@ Svejedno deaktivirati eSIM?"</string>
   <string name="dual_sim_smart_call_forward_failed">"Nije moguće postaviti"</string>
   <string name="dual_sim_smart_call_forward_failed_cause">Došlo je do mrežne pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="dual_sim_smart_call_forward_summary">"Proslijedi pozive na drugu SIM karticu kada se ne mogu prihvatiti"</string>
+  <string name="dual_sim_smart_call_forward_updating">Samo trenutak…</string>
   <string name="dual_sim_smart_call_forward_title">Proslijedi na drugu SIM karticu</string>
   <string name="duration_disable_summary">Vrijeme trajanja zaslona je ISKLJUČENO</string>
   <string name="duration_enable_summary">Vrijeme trajanja zaslona je UKLJUČENO</string>
@@ -1306,6 +1307,7 @@ Ipak aktivirati eSIM?"</string>
   <string name="fdn_summary">Ograniči odlazne pozive navedenim na FDN popisu ili na brojeve s određenim prefiksima</string>
   <string name="fdn_with_label">Fiksno biranje (%s)</string>
   <string name="feedback">Povratne inf.</string>
+  <string name="feedback_title">Povratne inf.</string>
   <string name="fire_type_description">Vatrogasci</string>
   <string name="fiveg_available_status1">NR dostupan :</string>
   <string name="fiveg_bearer_status1">5G status davatelja usluga :</string>
@@ -1442,7 +1444,7 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="ims_vt_call_quality_set_failed">Nije uspjelo postavljanje video kvalitete</string>
   <string name="ims_vt_call_quality_title">Kvaliteta VT poziva</string>
   <string name="ims_vt_call_quality_unknown">Nepoznato</string>
-  <string name="imsi_protection_warning">Ova mreža prima jedinstveni ID koji se može koristiti za praćenje lokacije uređaja. &lt;annotation id="url"&gt;Saznajte vi&amp;#353;e&lt;/annotation&gt;</string>
+  <string name="imsi_protection_warning">Ova mreža prima jedinstveni ID koji se može koristiti za praćenje lokacije uređaja. &lt;annotation id="url"&gt;Saznajte više&lt;/annotation&gt;</string>
   <string name="inactive_app_active_summary">Aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_app_inactive_summary">Nije aktivno. Dodirnite da biste to promijenili.</string>
   <string name="inactive_apps_title">Neaktivne aplikacije</string>
@@ -1460,11 +1462,11 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="incall_error_out_of_service_wfc">Mobilna mreža nije dostupna. Povežite se s bežičnom mrežom da biste uputili poziv.</string>
   <string name="incall_error_outgoing_call_failed">"Ne mogu uputiti poziv".</string>
   <string name="incall_error_power_off">Za uspostavu poziva, prvo isključite Zrakoplovni način.</string>
-  <string name="incall_error_power_off_thermal">&lt;b&gt;Telefon je prevru&amp;#263;&lt;/b&gt;"
+  <string name="incall_error_power_off_thermal">&lt;b&gt;Telefon je prevruć&lt;/b&gt;"
 
-Nije mogu&amp;#263;e zavr&amp;#353;iti ovaj poziv. Poku&amp;#353;ajte ponovo kada se telefon ohladi.
+Nije moguće završiti ovaj poziv. Pokušajte ponovo kada se telefon ohladi.
 
-Jo&amp;#353; uvijek mo&amp;#382;ete upu&amp;#263;ivati hitne pozive."</string>
+Još uvijek možete upućivati hitne pozive."</string>
   <string name="incall_error_power_off_wfc">Isključite zrakoplovni način ili se povežite s bežičnom mrežom da biste uputili poziv.</string>
   <string name="incall_error_promote_wfc">Uključite poziv putem Wi-Fi-ja da biste uputili poziv.</string>
   <string name="incall_error_satellite_enabled">Onemogućite način satelita da biste uputili poziv.</string>
@@ -1626,12 +1628,12 @@ Jo&amp;#353; uvijek mo&amp;#382;ete upu&amp;#263;ivati hitne pozive."</string>
   <string name="lgu_msim_emm_cause_7_14">"SIM %d mreža ne pruža mobilne podatkovne usluge"</string>
   <string name="lgu_msim_emm_cause_8">"SIM %d ne može registrirati mrežu. Posjetite korisnički servisni centar (+82-2-3416-7010)."</string>
   <string name="lgu_msim_emm_cause_others">"SIM %d se ne može povezati na mrežu. Posjetite korisnički servisni centar (+82-2-3416-7010)."</string>
-  <string name="limited_service_alert_dialog_description">&lt;b&gt;Pozivi u hitnim slu&amp;#269;ajevima putem Wi-Fi poziva&lt;/b&gt;"
-Pozivi hitnim slu&amp;#382;bama nisu mogu&amp;#263;i putem Wi-Fi poziva.
+  <string name="limited_service_alert_dialog_description">&lt;b&gt;Pozivi u hitnim slučajevima putem Wi-Fi poziva&lt;/b&gt;"
+Pozivi hitnim službama nisu mogući putem Wi-Fi poziva.
 
-Ure&amp;#273;aj se automatski prebacuje na mobilnu mre&amp;#382;u (2G/3G) radi upu&amp;#263;ivanja hitnog poziva.
+Ure&amp;#273;aj se automatski prebacuje na mobilnu mrežu (2G/3G) radi upućivanja hitnog poziva.
 
-Pozivi hitnim slu&amp;#382;bama mogu&amp;#263;i su samo u podru&amp;#269;jima pokrivenim mobilnom mre&amp;#382;om."</string>
+Pozivi hitnim službama mogući su samo u područjima pokrivenim mobilnom mrežom."</string>
   <string name="limited_sim_function_notification_message">Pozivi i podatkovne usluge operatera %1$s mogu biti blokirane dok upotrebljavate drugi SIM.</string>
   <string name="limited_sim_function_notification_title">Ograničene funkcije SIM-a</string>
   <string name="limited_sim_function_with_phone_num_notification_message">Pozivi i podatkovne usluge operatera %1$s mogu biti blokirane dok upotrebljavate broj %2$s.</string>
@@ -1649,50 +1651,50 @@ Pozivi hitnim slu&amp;#382;bama mogu&amp;#263;i su samo u podru&amp;#269;jima po
   <string name="livetalk_add_white_list_info">Dodajte telefonski broj za izravno pozivanje.</string>
   <string name="livetalk_avaiable_minute">%1$s min. preostalo</string>
   <string name="livetalk_before_provision">"Pročitao sam i prihvaćam"</string>
-  <string name="livetalk_charge_now">Buy now</string>
-  <string name="livetalk_complete">Done</string>
-  <string name="livetalk_complete_domestic_phone">Make international call using top-up package.</string>
-  <string name="livetalk_complete_international_phone">Make domestic call using top-up package.</string>
-  <string name="livetalk_complete_introduction">Top-up package has been added to your Mi Account and will be used on your next call.</string>
-  <string name="livetalk_complete_name">Switch to top-up package</string>
-  <string name="livetalk_complete_title">Call to complete top-up</string>
+  <string name="livetalk_charge_now">Kupite sada</string>
+  <string name="livetalk_complete">Gotovo</string>
+  <string name="livetalk_complete_domestic_phone">Uputite međunarodni poziv koristeći paket za dopunu.</string>
+  <string name="livetalk_complete_international_phone">Napravite domaći poziv koristeći paket za dopunu.</string>
+  <string name="livetalk_complete_introduction">Paket dopune dodan je vašem Mi računu i koristit će se za vaš sljedeći poziv.</string>
+  <string name="livetalk_complete_name">Prebaci se na paket dopune</string>
+  <string name="livetalk_complete_title">Nazovite da dovršite dopunu</string>
   <string name="livetalk_continue_button">Nastavi</string>
   <string name="livetalk_continue_button_creat_account">Izrada računa</string>
-  <string name="livetalk_creat_account_fialed">Account error</string>
-  <string name="livetalk_dial_direct">Dial directly</string>
-  <string name="livetalk_experience_button">Try now</string>
-  <string name="livetalk_introduction_text">"Low flow, low cost and high quality 
-Super cheap international calls over the Internet"</string>
-  <string name="livetalk_last_step">Back</string>
-  <string name="livetalk_login_experience_button">Sign in</string>
-  <string name="livetalk_login_message">"Sign in with Mi Account
-to start using Top-up package"</string>
-  <string name="livetalk_name">Top-up package</string>
-  <string name="livetalk_network_confirm">OK</string>
-  <string name="livetalk_network_confirm_summary">Top-up packages use about 1KB of mobile data each time a call is connected.</string>
-  <string name="livetalk_network_unavailable">Mreža nije dostupna</string>
-  <string name="livetalk_next_step">Next</string>
-  <string name="livetalk_niece_price_arrow">This feature is available in 13 countries and regions</string>
-  <string name="livetalk_niece_price_summary">International rates, please refer to our using the record</string>
-  <string name="livetalk_niece_price_title">In the closed beta preferential</string>
+  <string name="livetalk_creat_account_fialed">Pogreška računa</string>
+  <string name="livetalk_dial_direct">Birajte izravno</string>
+  <string name="livetalk_experience_button">Isprobajte sada</string>
+  <string name="livetalk_introduction_text">"Nizak protok, niska cijena i visoka kvaliteta
+Super jeftini međunarodni pozivi putem interneta"</string>
+  <string name="livetalk_last_step">Natrag</string>
+  <string name="livetalk_login_experience_button">Prijava</string>
+  <string name="livetalk_login_message">"Prijavite se s Mi računom
+za početak korištenja paketa dopune"</string>
+  <string name="livetalk_name">Paket dopune</string>
+  <string name="livetalk_network_confirm">U redu</string>
+  <string name="livetalk_network_confirm_summary">Paketi dopune koriste oko 1KB mobilnih podataka svaki put kada se uspostavi poziv.</string>
+​  <string name="livetalk_network_unavailable">Mreža nije dostupna</string>
+  <string name="livetalk_next_step">Dalje</string>
+  <string name="livetalk_niece_price_arrow">Ova je značajka dostupna u 13 zemalja i regija</string>
+  <string name="livetalk_niece_price_summary">Međunarodne tarife, pogledajte našu evidenciju korištenja</string>
+  <string name="livetalk_niece_price_title">U preferencijalnoj zatvorenoj beta verziji</string>
   <string name="livetalk_nsufficient_balance">Nedovoljno sredstava.</string>
-  <string name="livetalk_package_introduction_text">Exclusive discount for MIUI users. Less data usage and lower prices.</string>
+  <string name="livetalk_package_introduction_text">Ekskluzivni popust za MIUI korisnike. Manja potrošnja podataka i niže cijene.</string>
   <string name="livetalk_package_name">Stanje računa</string>
-  <string name="livetalk_provider">Provided by %1$s</string>
-  <string name="livetalk_provision">Terms of Service</string>
-  <string name="livetalk_provision_checkbox">Accept Terms of Service</string>
-  <string name="livetalk_provision_second">, and needs to connect to the internet to work normally.</string>
-  <string name="livetalk_provision_title">Provision</string>
-  <string name="livetalk_service_and_short_number_not_support">Service numbers and short numbers are not supported.</string>
+  <string name="livetalk_provider">Osigurao %1$s</string>
+  <string name="livetalk_provision">Uvjeti usluge</string>
+  <string name="livetalk_provision_checkbox">Prihvatite uvjete usluge</string>
+  <string name="livetalk_provision_second"> i mora se spojiti na internet da bi normalno radio.</string>
+  <string name="livetalk_provision_title">Odredba</string>
+  <string name="livetalk_service_and_short_number_not_support">Brojevi usluga i kratki brojevi nisu podržani.</string>
   <string name="livetalk_setting">Postavke nadoplate</string>
   <string name="livetalk_shortcut_title">Paket nadoplate</string>
-  <string name="livetalk_sim_card_not_activated">"SIM card hasn't been activated."</string>
-  <string name="livetalk_unavaiable_info">This service is temporarily unavailable</string>
+  <string name="livetalk_sim_card_not_activated">"SIM kartica nije aktivirana."</string>
+  <string name="livetalk_unavaiable_info">Ova usluga je privremeno nedostupna</string>
   <string name="livetalk_user_config_title">SIM provjera</string>
-  <string name="livetalk_version">Top-up Package Version 0.9 | Beta</string>
-  <string name="livetalk_welcome_description_text">"• Save 70% on your calling charges.• Call any phone in the world, there are no carrier restrictions.• Top up and start calling, there are no complicated settings."</string>
-  <string name="livetalk_welcome_notes_text">"Note: Every call requires 1KB of mobile data; Service and short numbers aren't supported. If you pay for incoming calls, you'll be charged by the carrier when roaming is on.Your carrier may charge for an SMS used to verify this phone number."</string>
-  <string name="livetalk_white_list_number_title">Call without using top-up package</string>
+  <string name="livetalk_version">Paket za dopunu verzija 0.9 | Beta</string>
+  <string name="livetalk_welcome_description_text">"• Uštedite 70% na troškovima poziva.• Zovite bilo koji telefon u svijetu, nema ograničenja operatera.• Nadopunite i počnite zvati, nema kompliciranih postavki."</string>
+  <string name="livetalk_welcome_notes_text">"Napomena: Svaki poziv zahtijeva 1KB mobilnih podataka; Usluga i kratki brojevi nisu podržani. Ako plaćate dolazne pozive, operater će vam naplatiti kada je roaming uključen. Vaš operater može naplatiti SMS korišten za potvrdu ovog telefonskog broja."</string>
+  <string name="livetalk_white_list_number_title">Poziv bez korištenja paketa nadoplate</string>
   <string name="load_networks_progress">Pretraživanje…</string>
   <string name="load_rates_failed">"Ne mogu učitati"</string>
   <string name="loading">Samo trenutak…</string>
@@ -1921,10 +1923,10 @@ Uvijek koristi ovaj broj"</string>
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
-  <string name="mr_button_content_description">Gumb za emitiranje</string>
-  <string name="mr_cast_button_connected">Gumb za emitiranje. Povezan</string>
-  <string name="mr_cast_button_connecting">Gumb za emitiranje. Povezivanje</string>
-  <string name="mr_cast_button_disconnected">Gumb za emitiranje. Veza prekinuta</string>
+  <string name="mr_button_content_description">Tipka za emitiranje</string>
+  <string name="mr_cast_button_connected">Tipka za emitiranje. Povezan</string>
+  <string name="mr_cast_button_connecting">Tipka za emitiranje. Povezivanje</string>
+  <string name="mr_cast_button_disconnected">Tipka za emitiranje. Veza prekinuta</string>
   <string name="mr_cast_dialog_title_view_placeholder">Informacije nisu dostupne</string>
   <string name="mr_chooser_searching">Traženje uređaja</string>
   <string name="mr_chooser_title">Emitiranje na</string>
@@ -3307,7 +3309,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="user_new_profile_name">Novi profil</string>
   <string name="user_new_user_name">Novi korisnik</string>
   <string name="user_nickname">Nadimak</string>
-  <string name="user_set_lock_button">Postavi zaključavanje</string>
+  <string name="user_set_lock_button">Postavite zaključavanje</string>
   <string name="user_setup_button_setup_later">Ne sad</string>
   <string name="user_setup_button_setup_now">Postavi sada</string>
   <string name="user_setup_dialog_message">Provjerite može li osoba uzeti uređaj i postaviti svoj prostor</string>
@@ -3315,7 +3317,8 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="user_setup_profile_dialog_message">Želite li sada postaviti profil?</string>
   <string name="user_switch_to_user">Prelazak na korisnika %s</string>
   <string name="username_title">Korisničko ime</string>
-  <string name="ussdRunning">Pokrenut je USSD kôd…</string>
+  <string name="ussdRunning">USSD kôd je pokrenut…</string>
+  <string name="ussdinitiated_title">USSD sesija je pokrenuta</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="ut_not_support">UT nije dostupan</string>
   <string name="ut_unavailable_to_set_video_cf_toast">UT nije dostupno za postavljanje prosljeđivanja poziva za video, zatvorite ovu stranicu i izađite.</string>
@@ -3332,8 +3335,8 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="vibrating_for_outgoing_call_accepted_summary">Omogućite način vibracije za prihvaćeni odlazni poziv</string>
   <string name="vibrating_for_outgoing_call_accepted_title">Prihvaćena je vibracija za odlazni poziv</string>
   <string name="vice_card_data_in_use_alert">Mogu se generirati dodatne naknade.</string>
-  <string name="vice_slot_volte_data_dialog_message">&lt;Data&gt;&amp;#268;ini se da je va&amp;#353;a trenuta&amp;#269;na mre&amp;#382;na veza nestabilna. Mo&amp;#382;ete se poku&amp;#353;ati automatski prebacivati izme&amp;#273;u podatkovnih SIM kartica. &amp;lt;font color=#ff0000&amp;gt;&amp;lt;b&amp;gt;Kori&amp;#353;tenje ove zna&amp;#269;ajke mo&amp;#382;e dovesti do dodatnih naknada operatera&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;.&lt;/Data&gt;</string>
-  <string name="vice_slot_volte_data_dialog_message_ext">&lt;Data&gt;&amp;#268;ini se da je va&amp;#353;a trenutna mre&amp;#382;na veza nestabilna. Mo&amp;#382;ete se poku&amp;#353;ati automatski prebacivati izme&amp;#273;u podatkovnih SIM kartica. &amp;lt;font color=#ff0000&amp;gt;&amp;lt;b&amp;gt;Kori&amp;#353;tenje ove zna&amp;#269;ajke mo&amp;#382;e stvoriti dodatne naknade operatera&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;.&lt;/Data&gt;</string>
+  <string name="vice_slot_volte_data_dialog_message">&lt;Data&gt;&amp;#268;ini se da je vaša trenutačna mrežna veza nestabilna. Možete se pokušati automatski prebacivati izme&amp;#273;u podatkovnih SIM kartica. &amp;lt;font color=#ff0000&amp;gt;&amp;lt;b&amp;gt;Korištenje ove značajke može dovesti do dodatnih naknada operatera&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;.&lt;/Data&gt;</string>
+  <string name="vice_slot_volte_data_dialog_message_ext">&lt;Data&gt;&amp;#268;ini se da je vaša trenutna mrežna veza nestabilna. Možete se pokušati automatski prebacivati izme&amp;#273;u podatkovnih SIM kartica. &amp;lt;font color=#ff0000&amp;gt;&amp;lt;b&amp;gt;Korištenje ove značajke može stvoriti dodatne naknade operatera&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;.&lt;/Data&gt;</string>
   <string name="vice_slot_volte_data_dialog_open">Uključi</string>
   <string name="vice_slot_volte_data_switch_prompt">Uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice tijekom VoLTE poziva. To može generirati dodatne naknade za podatke. Kontaktirajte svog lokalnog operatera za pojedinosti o vašem planu podataka.</string>
   <string name="vice_slot_volte_data_switch_summary">Tijekom VoLTE poziva, uređaj će se povezati s mobilnom podatkovnom mrežom pomoću sekundarne SIM kartice</string>
@@ -3582,7 +3585,7 @@ Pohrana vjerodajnica možda neće omogućena"</string>
   <string name="wifitrackerlib_connected_via_app">Povezano putem aplikacije %1$s</string>
   <string name="wifitrackerlib_connected_via_network_scorer">Automatski povezano putem aplikacije %1$s</string>
   <string name="wifitrackerlib_connected_via_network_scorer_default">Automatski povezano putem ocjenjivača mreže</string>
-  <string name="wifitrackerlib_imsi_protection_warning">Ova mreža prima ID SIM-a koji se može koristiti za praćenje lokacije uređaja. &lt;annotation id="url"&gt;Saznajte vi&amp;#353;e&lt;/annotation&gt;</string>
+  <string name="wifitrackerlib_imsi_protection_warning">Ova mreža prima ID SIM-a koji se može koristiti za praćenje lokacije uređaja. &lt;annotation id="url"&gt;Saznajte više&lt;/annotation&gt;</string>
   <string name="wifitrackerlib_osu_completing_sign_up">Dovršavanje registracije…</string>
   <string name="wifitrackerlib_osu_connect_failed">Povezivanje nije uspjelo</string>
   <string name="wifitrackerlib_osu_opening_provider">Otvaranje usluge %1$s</string>

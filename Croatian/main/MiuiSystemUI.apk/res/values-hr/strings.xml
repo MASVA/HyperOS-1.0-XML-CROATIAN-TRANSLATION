@@ -1564,7 +1564,6 @@ mm"</string>
   <string name="miui_magazine_clock_date">d.M.</string>
   <string name="miui_magazine_clock_date_content_description">dd.MM</string>
   <string name="miui_magazine_clock_week">EEE</string>
-  <string name="miui_restart_button_description">Ponovo pokrenite za najbolji prikaz</string>
   <string name="miui_rhombus_clock_date">dd MMMM</string>
   <string name="miui_rhombus_clock_week">EEE</string>
   <string name="miui_rhombus_clock_week_full">EEEE</string>
