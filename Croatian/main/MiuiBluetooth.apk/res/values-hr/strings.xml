@@ -252,6 +252,7 @@ Audio"</string>
   <string name="bt_plugin_update_dialog_cancle">Ne sada</string>
   <string name="bt_plugin_update_dialog_title">Bluetooth ažuriranje</string>
   <string name="bt_plugin_update_dialog_update">Ažuriraj</string>
+  <string name="bt_plugin_update_dialog_updating">Bluetooth %1$s ažuriranje</string>
   <string name="bt_plugin_update_done_dialog_exit">Primijeni</string>
   <string name="bt_plugin_update_done_dialog_msg">Da biste primijenili promjene, Postavke će se zatvoriti, a Bluetooth će se prekinuti.</string>
   <string name="bt_plugin_update_done_dialog_title">Primijeni promjene</string>
@@ -351,6 +352,7 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="disconnect_Channel">Odspoji kanal</string>
   <string name="disconnect_device">Odspoji uređaj</string>
   <string name="easy_tether_auto_connect_summary">Automatski uključite mobilni hotspot i povežite se kada uređaji u blizini s istim računom trebaju pristup internetu.</string>
+  <string name="easy_tether_auto_connect_toast">"Povezan na hotspot %1$s. Postavite ograničenja podataka u Postavkama tog uređaja > Osobni hotspot."</string>
   <string name="easy_tether_cancel">Odustani</string>
   <string name="easy_tether_confirm">Potvrdi</string>
   <string name="easy_tether_next_auto_connect">Povezati se automatski sljedeći put?</string>
@@ -552,6 +554,15 @@ Brži protokol veze."</string>
   <string name="local_backup_password_toast_confirmation_mismatch">"Zaporke se ne podudaraju"</string>
   <string name="local_backup_password_toast_success">Nova zaporka Sig. kopije postavljena</string>
   <string name="local_backup_password_toast_validation_failure">"Ne mogu postaviti zaporku Sig. kopije"</string>
+  <string name="lyra_account_ap_summary">Dopustite obližnjim tabletima i računalima prijavljenima na vaš Xiaomi račun da uključe hotspot na ovom uređaju i povežu se s njim</string>
+  <string name="lyra_account_ap_title">Mrežna pomoć</string>
+  <string name="lyra_auto_connect_cancel">Odustani</string>
+  <string name="lyra_auto_connect_check_box">Automatsko povezivanje uređaja prijavljenih na vaš Xiaomi račun (kasnije možete isključiti ovu značajku u postavkama)</string>
+  <string name="lyra_auto_connect_confirm">Poveži se</string>
+  <string name="lyra_auto_connect_header">%1$s hotspot</string>
+  <string name="lyra_auto_connect_msg">"Izgleda da ovaj uređaj nije povezan s mrežom. Možete se povezati s ovim hotspot."</string>
+  <string name="lyra_auto_connect_summary">"Automatski uključi hotspot i poveži s njom obližnje uređaje prijavljene na svoj Xiaomi račun ako nisu povezani s mrežom"</string>
+  <string name="lyra_auto_connect_title">Automatski uključi hotspot</string>
   <string name="managed_user_title">Sve radne aplikacije</string>
   <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
   <string name="material_hour_selection">Odaberite sat</string>

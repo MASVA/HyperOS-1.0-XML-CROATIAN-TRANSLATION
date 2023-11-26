@@ -1278,6 +1278,10 @@ Posljednji put pokrenuto %2$s"</string>
   <string name="automatic_storage_manager_text">Kada je pohrana gotovo puna, uklanjaju se sigurnosne kopije fotografija i videozapisa. I dalje ih možete pronaći na Google fotografijama.</string>
   <string name="automatic_system_heap_dump_summary">Automatski izradi snimku memorije za Android sustav kad koristi previše memorije</string>
   <string name="automatic_system_heap_dump_title">Automatski izrađuj snimke memorije sustava</string>
+  <string name="autoui_mode_guide_text">Optimizirajte izglede unutar aplikacije za kompatibilne aplikacije za poboljšanje vizualnog iskustva</string>
+  <string name="autoui_mode_name">Optimizirajte izgled aplikacije</string>
+  <string name="autoui_mode_no_support_apps">"Nisam mogao pronaći kompatibilne aplikacije"</string>
+  <string name="autoui_search_hint">Pretraživanje aplikacija</string>
   <string name="available_size">%s dostupno</string>
   <string name="available_via_app">Dostupno putem mreže %1$s</string>
   <string name="available_via_carrier">Dostupno putem mreže %1$s</string>
@@ -7318,6 +7322,13 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="mi_upi_settings">Mi Pay račun</string>
   <string name="mi_wallet">Mi Wallet</string>
   <string name="mi_wallet_desc">Mi Wallet</string>
+  <string name="mibi_cta_CANCEL">Odustani</string>
+  <string name="mibi_cta_CheckBox">"Ne prikazuj ovo više"</string>
+  <string name="mibi_cta_OK">U redu</string>
+  <string name="mibi_cta_description">"Za korištenje dijeljenja veze potrebna je pretplata. Ako niste za pretplatu, kontaktirajte My au.
+%s"</string>
+  <string name="mibi_cta_title">Dijelenje veze</string>
+  <string name="mibi_privacy_manage_user_license">Web</string>
   <string name="mic_toggle_description">Za aplikacije i usluge. Ako je ta postavka isključena, podaci mikrofona i dalje se mogu dijeliti kad nazovete broj hitne službe.</string>
   <string name="mic_toggle_title">Pristup mikrofonu</string>
   <string name="micloud_service_summary">Sinkronizirajte popis aplikacija, izradite Sig. kopiju postavki sustava i izgleda Poč. zaslona</string>

@@ -1524,4 +1524,8 @@ Odmorite se!"</item>
         <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
      </plurals>
+	  <plurals name="storage_compact_warning">
+        <item quantity="other">Uređivanje %1$d dopuštenja</item>
+        <item quantity="one">Uređivanje %1$d dopuštenja</item>
+     </plurals>
 </resources>

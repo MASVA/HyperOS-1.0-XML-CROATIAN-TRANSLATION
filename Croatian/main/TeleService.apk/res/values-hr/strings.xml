@@ -3351,6 +3351,8 @@ Obratite se mobilnom operateru ako problem potraje."</string>
   <string name="vm_change_pin_old_pin">Stari PIN</string>
   <string name="vm_change_pin_progress_message">Pričekajte.</string>
   <string name="vm_changed">Broj govorne pošte je promijenjen.</string>
+  <string name="voice_link_switch_summary">Koristite podatkovnu SIM karticu za pomoć pri povezivanju poziva kada niste povezani na internet</string>
+  <string name="voice_link_switch_title">Pozivanje uz pomoć podataka</string>
   <string name="voice_number_setting_primary_user_only">Postavke govorne pošte može izmijeniti samo primarni korisnik.</string>
   <string name="voice_privacy">Privatnost za glasovnu uslugu</string>
   <string name="voice_privacy_summary">Uključi poboljšani način privatnosti</string>

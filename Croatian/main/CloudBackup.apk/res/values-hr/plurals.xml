@@ -80,4 +80,12 @@
         <item quantity="other">Preostalo je otprilike %s min</item>
         <item quantity="one">Preostala je otprilike %s min</item>
     </plurals>
+	 <plurals name="days_and_size_without_backup">
+        <item quantity="other">%1$d dana od posljednje sigurnosne kopije | Novi podaci: %2$s</item>
+        <item quantity="one">%1$d dan od posljednje sigurnosne kopije | Novi podaci: %2$s</item>
+    </plurals>
+    <plurals name="days_without_backup">
+        <item quantity="other">%d dana od posljednje sigurnosne kopije</item>
+        <item quantity="one">%d dan od posljednje sigurnosne kopije</item>
+    </plurals>
 </resources>

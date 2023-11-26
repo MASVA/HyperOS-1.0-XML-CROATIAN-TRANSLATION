@@ -78,7 +78,7 @@ Podaci neće biti izbrisani."</string>
    <string name="no_log">Nema dostupnih sažetaka</string>
    <string name="no_mirror">Sve dodatne veze su trenutno offline, pokušajte kasnije…</string>
    <string name="no_network">Nema mrežnog pristupa.</string>
-   <string name="no_update">Trenutni HyperOS verzija je ažurna!</string>
+   <string name="no_update">Trenutna HyperOS verzija je ažurna!</string>
    <string name="no_wifi_msg">"Korištenje mobilnih podataka može stvoriti dodatne troškove. Povežite se na Wi-Fi za preuzimanje ažuriranja."</string>
    <string name="no_wifi_title">Poveži se na Wi-Fi</string>
    <string name="no_xioamieu">"Ne koristite HyperOS ROM izrađen od strane Xiaomi.eu tima!
