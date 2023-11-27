@@ -1576,12 +1576,12 @@ mm"</string>
   <string name="miui_notification_menu_more_setting">Više</string>
   <string name="miui_notification_menu_msg_fold">Grupirati zajedno sve obavijesti od %1$s?</string>
   <string name="miui_notification_menu_msg_not_allow">Ograničiti sve obavijesti od %1$s?</string>
-  <string name="miui_notification_menu_msg_unfocus">"Namjeravate isključiti reflektor obavijesti za %1$s. Ove će se obavijesti normalno prikazivati. Isključiti sada?"</string>
+  <string name="miui_notification_menu_msg_unfocus">"Namjeravate isključiti svjetlo obavijesti za %1$s. Ove će se obavijesti normalno prikazivati. Isključiti sada?"</string>
   <string name="miui_notification_menu_msg_unfold">Prikazati %1$s obavijesti odvojeno?</string>
   <string name="miui_notification_menu_setting_success">Gotovo</string>
   <string name="miui_notification_menu_snooze">Odgodi</string>
   <string name="miui_notification_menu_title_not_allow">Ograniči</string>
-  <string name="miui_notification_menu_unfocus">Isključi reflektor obavijesti</string>
+  <string name="miui_notification_menu_unfocus">Isključi svjetlo obavijesti</string>
   <string name="miui_notification_menu_unfold">Označi kao važno</string>
   <string name="miui_notification_slide_menu_msg_ongoing">Želite li sada ograničiti trajne obavijesti za \"%1$s\"?</string>
   <string name="miui_notification_slide_menu_ongoing">Ograniči trajne obavijesti</string>
