@@ -229,9 +229,6 @@ Dodirnite dvaput za prikaz detalja."</string>
   <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Odabrani widget. Povucite za dodavanje ove stavke u Zaklj. aplikacija.</string>
   <string name="pa_accessibility_picker_widget_group_all" formatted="false">Trgovina widgeta. Odaberite za prikaz svih widgeta za %s. Dodirnite dvaput za pregled svih widgeta za %s.</string>
   <string name="pa_accessibility_picker_widget_group_item" formatted="false">Trgovina widgeta. Odabrano %s. Dodirnite dvaput za otvaranje opisa widgeta. Stavka sadrži %s widget.</string>
-    <string name="pa_accessibility_picker_widget_item_add_to_desktop">%s</string>
-    <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">%s</string>
-    <string name="pa_accessibility_picker_widget_item_add_to_third">%s</string>
   <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Dodirnite dvaput za uređivanje.</string>
   <string name="pa_accessibility_widget_slected_status">Odabrano: %1$s. Status instalacije: %2$s.</string>
   <string name="pa_announce_for_delete_gadget_and_widget">Widget</string>
@@ -445,6 +442,7 @@ Ekspresnu dostavu možete pratiti i na službenim stranicama kurirskih službi."
   <string name="pa_picker_detail_add_maml_net_unavailable">"Nisam se mogao povezati s mrežom. Provjerite postavke mreže i pokušajte ponovo."</string>
   <string name="pa_picker_detail_add_to_home">Dodaj na početni zaslon</string>
   <string name="pa_picker_detail_add_to_minus">Dodaj u Zaklj. aplikacija</string>
+  <string name="pa_picker_detail_add_to_stack">Dodaj grupi</string>
   <string name="pa_picker_detail_add_widget_success">Uspješno dodano</string>
   <string name="pa_picker_detail_app_not_in_market">"Ova aplikacija sada ne nudi nikakve widgete"</string>
   <string name="pa_picker_detail_app_not_off_shelf">"Widgeti ove aplikacije više nisu dostupni"</string>
@@ -527,7 +525,7 @@ za prikaz widgeta."</string>
   <string name="pa_picker_recommend_bottom_button_add">Dodaj widget</string>
   <string name="pa_picker_recommend_bottom_button_download_and_add">Dodaj widget</string>
   <string name="pa_picker_recommend_download_tip">Kada dodate widget, povezana aplikacija automatski će se preuzeti</string>
-     <string name="pa_picker_recommend_title">Preporučeno za vas</string>
+  <string name="pa_picker_recommend_title">Preporučeno za vas</string>
   <string name="pa_picker_request">Postavke</string>
   <string name="pa_picker_retry">Pokušajte ponovo</string>
   <string name="pa_picker_search">Traži</string>
@@ -544,10 +542,14 @@ za prikaz widgeta."</string>
   <string name="pa_picker_search_result_type_recommend">Preporučeno</string>
   <string name="pa_picker_search_result_type_suit">Skupovi widgeta</string>
   <string name="pa_picker_search_result_type_widget">Widgeti</string>
+  <string name="pa_picker_stack_operate_empty_title">"Nema ništa ovdje.
+Dodajte widgete za početak."</string>
+  <string name="pa_picker_stack_operate_title">Uređivanje grupe</string>
   <string name="pa_picker_suit_list_activity_title">Paketi za personalizaciju</string>
   <string name="pa_picker_tab_title_category">Kategorije</string>
   <string name="pa_picker_tab_title_fun">Otkrijte</string>
   <string name="pa_picker_tab_title_recommend">Istaknuto</string>
+  <string name="pa_picker_toast_count_limit_for_stack">Dodajte do 10 stavki</string>
   <string name="pa_picker_theme_app_version_error">Došlo je do pogreške</string>
   <string name="pa_picker_tips_count_limit_forbidden">"Ne mogu dodati više widgeta u Zaklj. aplikacija. Izbrišite starije widgete da biste dodali nove."</string>
   <string name="pa_picker_toast_add_successfully">Uspješno dodano</string>
@@ -717,6 +719,8 @@ za prikaz widgeta."</string>
   <string name="pa_sports_widget_empty_football">Nogomet</string>
   <string name="pa_sports_widget_empty_game">Honor of Kings</string>
   <string name="pa_sports_widget_empty_recommend">Preporučeno</string>
+  <string name="pa_stack_summary">Pomaknite widgete s novim informacijama prema vrhu</string>
+  <string name="pa_stack_text">Premjesti ažurirane stavke gore</string>
   <string name="pa_stock_add_stock_button">Dodaj</string>
   <string name="pa_stock_change_cp_code_alert">Ova operacija može uzrokovati nepravilan prikaz podataka</string>
   <string name="pa_stock_change_cp_code_error">"Ne mogu promijeniti izvor podataka"</string>
@@ -760,6 +764,10 @@ za prikaz widgeta."</string>
   <string name="pa_vertical_center">Okomiti izgled. Poravnano po sredini.</string>
   <string name="pa_vertical_left">Okomiti izgled. Poravnano ulijevo.</string>
   <string name="pa_vertical_right">Okomiti izgled. Desno poravnato.</string>
+  <string name="pa_widget_advert_loading_dialog_message">Samo trenutak…</string>
+  <string name="pa_widget_menu_edit_card_in_stack">Uređivanje \"%s\"</string>
+  <string name="pa_widget_menu_edit_stack">Uređivanje grupe</string>
+  <string name="pa_widget_menu_remove_card_in_stack">Ukloni \"%s\"</string>
   <string name="pa_widget_menu_edit">Uredi</string>
   <string name="pa_widget_menu_remove">Ukloni</string>
   <string name="pa_widget_menu_replace">Prebacivanje</string>
@@ -785,6 +793,9 @@ za prikaz widgeta."</string>
   <string name="saturday_shortest">Sub</string>
   <string name="search_menu_title">Traži</string>
   <string name="send">Pošalji</string>
+  <string name="sunday">Nedjelja</string>
+  <string name="sunday_short">Ned</string>
+  <string name="sunday_shortest">Ned</string>
   <string name="thursday">Četvrtak</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Čet</string>

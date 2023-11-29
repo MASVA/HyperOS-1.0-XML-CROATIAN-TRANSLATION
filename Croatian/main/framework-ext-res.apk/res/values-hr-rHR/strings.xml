@@ -681,6 +681,8 @@ biste koristili prednju kameru</string>
   <string name="wallpaper_group_shadow_geometry_title">Geometrija sjena</string>
   <string name="wallpaper_neon_title">Neon</string>
   <string name="wallpaper_overlapping_space_title">Oblik i sjena</string>
+  <string name="wallpaper_submerged_wing_title">Teksture</string>
+  <string name="wallpaper_wabi_sabi_title">Wabi-sabi</string>
   <string name="waterdrop_preview">Kapljice</string>
   <string name="wifi_assistant_wifi_no_internet">Ova Wi-Fi mreža nema pristup internetu</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Dodirni za prikaz detalja</string>

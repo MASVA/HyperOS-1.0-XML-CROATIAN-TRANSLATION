@@ -113,6 +113,7 @@
   <string name="download_status_paused">Pauzirano</string>
   <string name="download_success">Preuzimanje je dovršeno</string>
   <string name="download_wait_connect">Čekanje na povezivanje</string>
+  <string name="download_waiting">Na čekanju</string>
   <string name="downloaded_empty">Prazno</string>
   <string name="downloading">Preuzimanje…</string>
   <string name="downloading_empty">Prazno</string>

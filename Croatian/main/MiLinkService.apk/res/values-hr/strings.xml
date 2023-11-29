@@ -52,7 +52,7 @@ vaše uređaje?"</string>
   <string name="appcirculate_fragment_circulate_device_list_app_deliver">Otvorite \"%1$s\" na drugom uređaju</string>
   <string name="appcirculate_fragment_circulate_device_list_button_cancel">Odustani</string>
   <string name="appcirculate_fragment_circulate_device_list_button_confirm">Traži ponovno</string>
-  <string name="appcirculate_fragment_circulate_device_list_text_none">&lt;u&gt;"Ne možete prona&amp;#263;i svoje uređaje?"&lt;/u&gt;</string>
+  <string name="appcirculate_fragment_circulate_device_list_text_none">&lt;u&gt;"Ne možete pronaći svoje uređaje?"&lt;/u&gt;</string>
   <string name="appcirculate_fragment_circulate_device_list_text_searching">Traženje uređaja u blizini…</string>
   <string name="appcirculate_toast_busy">Čini se da drugi uređaj sada prenosi datoteke. Pričekajte da prijenos završi i pokušajte ponovo.</string>
   <string name="appcirculate_toast_cancel">Otkazano</string>
@@ -373,7 +373,7 @@ Vaši uređaji?"</string>
   <string name="connect_settings_share_clipboard">Međuspremnik</string>
   <string name="connect_settings_share_launcher">Home screen+</string>
   <string name="connect_settings_share_notification">Obavijesti</string>
-  <string name="connect_settings_summary">&lt;Data&gt;Automatski otkrijte obližnje uređaje koji su prijavljeni na vaš Xiaomi račun i povežite ih međusobno za obavljanje raznih zadataka na više uređaja. &amp;lt;a href=%1$s&amp;gt;Saznajte više&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+  <string name="connect_settings_summary"><Data>Automatski otkrijte obližnje uređaje koji su prijavljeni na vaš Xiaomi račun i povežite ih međusobno za obavljanje raznih zadataka na više uređaja. &lt;a href=%1$s>Saznajte više&lt;/a></Data></string>
   <string name="connect_settings_summary_connection_service">Dopustite svojim uređajima da međusobno komuniciraju bežično</string>
   <string name="connect_settings_summary_corp_phone">Odgovarajte na pozive na obližnjim tabletima ili računalima prijavljenima na svoj Xiaomi račun</string>
   <string name="connect_settings_summary_hyper_mind">Automatski prilagođava obližnje uređaje vašim potrebama na temelju vaših obrazaca korištenja. Ovu značajku pokreće Mi AI.</string>
@@ -420,8 +420,8 @@ Vaši uređaji?"</string>
   <string name="dialog_nearbydevice_permission_message">Dopustite ovom uređaju pristup uređajima u blizini kako bi mogao koristiti značajke emitiranja.</string>
   <string name="dialog_nearbydevice_permission_title">Potrebna su dopuštenja</string>
   <string name="dialog_nfc_cast_wifi_off">Uključite Wi-Fi kako biste mogli emitirati putem NFC-a. Uključiti sada?</string>
-  <string name="dialog_no_device_message">&lt;Data&gt;&amp;lt;xliff:g id=count refersto=1&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt;. Povežite svoj mobilni uređaj i TV na istu Wi-Fi mrežu.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;xliff:g id=count refersto=2&amp;gt;%2$d&amp;lt;/xliff:g&amp;gt;. Na nekim modelima televizora ova je značajka dostupna samo kada je uključeno zrcaljenje zaslona. Pogledajte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomo&amp;#263;\"&amp;lt;/a&amp;gt; kako bi saznali više.&lt;/Data&gt;</string>
-  <string name="dialog_no_device_message_china">&lt;Data&gt;&amp;lt;xliff:g id=count refersto=1&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt;. Povežite svoj mobilni uređaj i TV na istu Wi-Fi mrežu.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt;&amp;lt;xliff:g id=count refersto=2&amp;gt;%2$d&amp;lt;/xliff:g&amp;gt;. Na nekim modelima televizora ova je značajka dostupna samo kada je uključeno zrcaljenje zaslona. Pogledajte &amp;lt;a href=milink://com.milink.service/specification&amp;gt;\"Pomo&amp;#263;\"&amp;lt;/a&amp;gt; kako bi saznali više.&lt;/Data&gt;</string>
+  <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Povežite svoj mobilni uređaj i TV na istu Wi-Fi mrežu.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Na nekim modelima televizora ova je značajka dostupna samo kada je uključeno emitiranje zaslona. Pogledajte &lt;a href=milink://com.milink.service/specification>\"Pomoć\"&lt;/a> da saznate više.</Data></string>
+  <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Povežite svoj mobilni uređaj i TV na istu Wi-Fi mrežu.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. Na nekim modelima televizora ova je značajka dostupna samo kada je uključeno emitiranje zaslona. Pogledajte &lt;a href=milink://com.milink.service/specification>\"Pomoć\"&lt;/a> da saznate više.</Data></string>
   <string name="dialog_ok">U redu</string>
   <string name="dialog_only_suport_content">Streamajte fotografije, videozapise ili glazbu</string>
   <string name="dialog_open_wifi_bt">Uključi</string>
@@ -475,14 +475,14 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
   <string name="global_privacy">Uvjeti i odredbe</string>
-  <string name="global_privacy_detail">&lt;Data&gt;"Pročitajte i prihvatite naše &amp;lt;a href=%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije korištenja ove aplikacije.&amp;lt;br&amp;gt; Ako se ne slažete s korištenjem gore spomenutih usluga, ne&amp;#263;ete mo&amp;#263;i koristiti neke značajke ove aplikacije; međutim, osnovna funkcionalnost i dalje &amp;#263;e vam biti dostupna."&lt;/Data&gt;</string>
+  <string name="global_privacy_detail"><Data>"Pročitajte i prihvatite naš &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> prije korištenja ove aplikacije.&lt;br>Ako ne prihvatite korištenje gore navedenih usluga, nećete moći koristiti neke značajke ove aplikacije; međutim, njegova osnovna funkcionalnost i dalje će vam biti dostupna."</Data></string>
   <string name="global_privacy_explain">Dobrodošli u Emitiranje! Ova aplikacija pruža sljedeće usluge:</string>
   <string name="global_privacy_feature">Korištenje minimiziranih prozora, emitiranje s isključenim zaslonom i skrivanje privatnih stavki.</string>
   <string name="global_privacy_main">"Emitiranje stavki sa zaslona telefona na veći vanjski monitor."</string>
   <string name="global_privacy_negative">"Ne prihvaćam"</string>
   <string name="global_privacy_positive">Prihvaćam</string>
   <string name="global_privacy_screencast">Tijekom snimanja ili emitiranja, usluga koja pruža ovu značajku može uhvatiti sve osjetljive podatke koji se prikazuju na vašem zaslonu ili reproduciraju s vašeg uređaja, uključujući osjetljive podatke kao što su zvuk, zaporke, podaci o plaćanju, fotografije i poruke.</string>
-  <string name="global_privacy_tip">&lt;Data&gt;Moramo prikupiti potrebne osobne podatke kako bismo vam pružili osnovne usluge i optimizirali postupak emitiranja. Možete naučiti kako postupamo s podacima koje prikupljamo u našim &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;. U bilo kojem trenutku možete povu&amp;#263;i svoju suglasnost na Pravila o privatnosti u Postavkama.&lt;/Data&gt;</string>
+  <string name="global_privacy_tip"><Data>Moramo prikupiti potrebne osobne podatke kako bismo vam pružili osnovne usluge i optimizirali postupak emitiranja. Možete naučiti kako postupamo s podacima koje prikupljamo u našim &lt;a href=%1$s>Pravila o privatnosti&lt;/a>. Svoju suglasnost na Pravila o privatnosti možete povući u bilo kojem trenutku u postavkama.</Data></string>
   <string name="guide_confirm_button_text">Pokreni</string>
   <string name="guide_exit_button_content_description">Izlaz</string>
   <string name="guide_next_button_text">Saznajte više</string>
@@ -629,6 +629,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="km_synergy_error">"Veza je istekla. Provjerite jesu li Bluetooth i Wi-Fi uključeni na oba uređaja i jesu li unutar dometa veze."</string>
   <string name="km_synergy_error_china">"Veza je istekla. Provjerite jesu li Bluetooth i Wi-Fi uključeni na oba uređaja i jesu li unutar dometa veze."</string>
   <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
+  <string name="material_hour_24h_suffix">%1$s sati</string>
   <string name="material_hour_selection">Odaberite sat</string>
   <string name="material_hour_suffix">%1$s h</string>
   <string name="material_minute_selection">Odaberite minute</string>
@@ -855,7 +856,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="privacy_agree">Slažem se</string>
   <string name="privacy_confirm_revoke_and_exit_btn">Povlačenje</string>
   <string name="privacy_detail">Dopustite ovoj aplikaciji da se poveže s internetom i dajte potrebna dopuštenja prije nego što nastavite.</string>
-  <string name="privacy_detail_extra">&lt;Data&gt;Neke značajke pruža tre&amp;#263;i pružatelj usluga HappyCast. Prije upotrebe ove značajke pročitajte i prihvatite &amp;lt;a href=%1$s&amp;gt;HappyCast Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;HappyCast Korisnički ugovor&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="privacy_detail_extra"><Data>Neke značajke pruža treći pružatelj usluga HappyCast. Prije korištenja ove značajke, pročitajte i prihvatite &lt;a href=%1$s>HappyCast Pravila o privatnosti&lt;/a> i &lt;a href=%2$s>HappyCast Korisnički ugovor&lt;/a>.</Data></string>
   <string name="privacy_explain">"Dobrodošli u Emitiranje! Emitiranje omogućuje projiciranje stavki sa zaslona vašeg telefona na veći vanjski monitor. Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:"</string>
   <string name="privacy_give_up_revoke_btn">Odustani</string>
   <string name="privacy_i_know_btn">Nastavi</string>
@@ -880,7 +881,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="privacy_permission_wlan_china">Uključivanje i isključivanje Wi-Fi-ja</string>
   <string name="privacy_permission_wlan_desc">Pronalaženje dostupnih uređaja u blizini</string>
   <string name="privacy_permission_wlan_desc_china">Pronalaženje dostupnih uređaja u blizini</string>
-  <string name="privacy_phone_read_theme_privacy_policy">&lt;Data&gt;"Pročitao sam i prihva&amp;#263;am \"&amp;lt;font color=\"#8C93B0\"&amp;gt;&amp;lt;/color&amp;gt;&amp;lt;a href=\"%1$s \"&amp;gt;Izjavu o povlačenju suglasnosti na Pravila privatnosti Xiaomi međusobnog povezivanja&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt;\"."&lt;/Data&gt;</string>
+  <string name="privacy_phone_read_theme_privacy_policy"><Data>"Pročitao sam i prihvaćam \"&lt;font color=\"#8C93B0\">&lt;/color>&lt;a href=\"%1$s\">Izjavu o povlačenju suglasnosti na Pravila privatnosti Xiaomi međusobnog povezivanja&lt;/a>&lt;/font>\"."</Data></string>
   <string name="privacy_positive">Prihvaćam</string>
   <string name="privacy_read_statement">Prvo prihvatite odredbe i uvjete</string>
   <string name="privacy_revoke_agree_detail_content">"%1$d. Prije nastavka provjerite imate li pravo povući suglasnost.
@@ -910,11 +911,11 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="privacy_setting_show_lelink_policy">Pogledajte HappyCast Pravila o privatnosti</string>
   <string name="privacy_setting_show_policy">Pogledajte Pravila o privatnosti</string>
   <string name="privacy_setting_show_user_agreement">Pogledajte Korisnički ugovor</string>
-  <string name="privacy_text_1">&lt;Data&gt;"Dobro došli u Emitiranje! Emitiranje omogu&amp;#263;uje projiciranje stavki sa zaslona vašeg telefona na ve&amp;#263;i vanjski monitor.
-&amp;#352;titit &amp;#263;emo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Neke značajke pruža tre&amp;#263;i pružatelj usluga HappyCast. Prije korištenja ove značajke, pročitajte i prihvatite &amp;lt;a href=%2$s&amp;gt;HappyCast Pravnu izjavu&amp;lt;/a&amp;gt; i &amp;lt;a href=%1$s&amp;gt;HappyCast Pravila privatnosti&amp;lt;/a&amp;gt;.
-Kako bi mogla normalno raditi, ova se aplikacija mora spojiti na internet i zahtijeva sljede&amp;#263;a dopuštenja kako bi prikupila vaše osobne podatke:"&lt;/Data&gt;</string>
-  <string name="privacy_text_2">&lt;Data&gt;"Ako ne pristajete dati takva dopuštenja ili dijeliti i učitati svoje osobne podatke, ne&amp;#263;ete mo&amp;#263;i koristiti ovu aplikaciju. U takvim slučajevima možete deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
-Pročitajte i prihvatite naše &amp;lt;a href=%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije korištenja ove značajke."&lt;/Data&gt;</string>
+  <string name="privacy_text_1"><Data>"Dobro došli u Casting! Emitiranje omogućuje projiciranje stavki sa zaslona vašeg telefona na veći vanjski monitor.
+Štitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Neke značajke pruža treći pružatelj usluga HappyCast. Prije korištenja ove značajke, pročitajte i prihvatite &lt;a href=%2$s>HappyCast Pravnu izjavu&lt;/a> i &lt;a href=%1$s>HappyCast Pravila o privatnosti&lt;/a>.
+Kako bi mogla normalno raditi, ova se aplikacija mora spojiti na internet i zahtijeva sljedeća dopuštenja kako bi prikupila vaše osobne podatke:"</Data></string>
+   <string name="privacy_text_2"><Data>"Ako ne pristajete dati takva dopuštenja ili dijeliti i učitati svoje osobne podatke, nećete moći koristiti ovu aplikaciju. U takvim slučajevima možete deinstalirati ovu aplikaciju, odjaviti se ili ograničiti dopuštenja u postavkama.
+Pročitajte i prihvatite naš &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> prije korištenja ove značajke."</Data></string>
   <string name="privacy_text_pemission">"　　•Pristup slikama i spremanje na svoj uređaj kako biste te stavke projicirali na vanjske monitore
   • Snimati pozive i zvuk kako biste emitirali zvuk na vanjskim uređajima
   • Pristup telefonskom broju, IMEI i IMSI kako biste identificirali svoj uređaj
@@ -965,12 +966,12 @@ Pročitajte i prihvatite naše &amp;lt;a href=%1$s&amp;gt;Korisnički ugovor&amp
   <string name="screen_projection_entrance_list">Pogledajte dostupne uređaje</string>
   <string name="screen_projection_entrance_list_new">Pogledajte popis dostupnih uređaja za emitiranje</string>
   <string name="screen_projection_example_document_hint_miui15">*Stavke će biti prikazane na obližnjem TV-u</string>
-  <string name="screen_projection_example_document_hint_new">&lt;Data&gt;*Za korištenje ove značajke idite na Datoteke &amp;gt; Dokumenti i dodirnite ikonu &amp;lt;img src=../drawable/ic_cast_icon_photo.png/&amp;gt;.&lt;/Data&gt;</string>
+  <string name="screen_projection_example_document_hint_new"><Data>*Za korištenje ove značajke idite na Datoteke > Dokumenti i dodirnite ikonu &lt;img src=../drawable/ic_cast_icon_photo.png/> icon.</Data></string>
   <string name="screen_projection_example_document_summary">Prikažite prezentacije na vanjskom monitoru dok telefonom prelazite s dijapozitiva i pregledavate bilješke. Idite u Datoteke &gt; Dokumenti da isprobate ovu značajku.</string>
   <string name="screen_projection_example_document_summary_miui15">Prikaz slajdova prezentacije na TV-u dok koristite ovaj uređaj kao daljinski upravljač</string>
   <string name="screen_projection_example_document_title">Dokumenti</string>
   <string name="screen_projection_example_gallery_hint_miui15">*Da biste mogli emitirati fotografije i videozapise, odaberite stavku u galeriji, dodirnite \"Dijeli\", a zatim dodirnite ikonu \"Emitiraj\".</string>
-  <string name="screen_projection_example_gallery_hint_new">&lt;Data&gt;*Za korištenje ove značajke idite u Galeriju, odaberite fotografiju, dodirnite \"Pošalji\" na donjoj traci i dodirnite &amp;lt;img src=../drawable/ic_cast_icon_photo .png/&amp;gt; ikonu.&lt;/Data&gt;</string>
+  <string name="screen_projection_example_gallery_hint_new"><Data>*Za korištenje ove značajke idite u Galeriju, odaberite fotografiju, dodirnite \"Pošalji\" na donjoj traci i dodirnite &lt;img src=../drawable/ic_cast_icon_photo.png/> icon.</Data></string>
   <string name="screen_projection_example_gallery_summary">Dodirnite tipku Dijeli ispod stavke u aplikaciji Galerija da biste je prikazali na vanjskom monitoru.</string>
   <string name="screen_projection_example_gallery_summary_miui15">Pogledajte svoje fotografije i videozapise na TV ekranu</string>
   <string name="screen_projection_example_gallery_title">Fotografije &amp; videozapisi</string>
@@ -1033,6 +1034,7 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
   <string name="tile_label">Emitiranje</string>
+  <string name="tile_label_v2">Usluge međusobnog povezivanja</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
   <string name="toast_guide_show_more">Saznajte više</string>
   <string name="toast_guide_title">Istražite nove značajke</string>
@@ -1047,7 +1049,7 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="trust_device_desc">"Ovi će se uređaji ovdje pojaviti prvo kad su u blizini"</string>
-  <string name="trust_device_dialog_desc">&lt;Data&gt;"%s pojavit &amp;#263;e se među dostupnim uređajima prvi kad je u blizini ako ga označite kao pouzdan.&amp;lt;br&amp;gt;&amp;lt;br&amp;gt; Pouzdanim uređajima &amp;lt;a href=milink://com.milink.service/trust&amp;gt;možete upravljati&amp;lt;/a&amp;gt; u Postavkama."&lt;/Data&gt;</string>
+  <string name="trust_device_dialog_desc"><Data>"%s pojaviti će se među dostupnim uređajima kada je u blizini ako ga označite kao pouzdanog.&lt;br>&lt;br>Pouzdanim uređajima &lt;a href=milink://com.milink.service/trust>možete upravljati&lt;/a> u Postavkama."</Data></string>
   <string name="trust_device_dialog_pos">Vjerujem</string>
   <string name="trust_device_dialog_title">Vjerujete li ovom uređaju?</string>
   <string name="trust_device_manager">Upravljanje pouzdanim uređajima</string>

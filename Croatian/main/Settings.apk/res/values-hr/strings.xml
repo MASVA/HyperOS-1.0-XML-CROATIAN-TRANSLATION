@@ -1115,11 +1115,13 @@ Promijeniti postavke sada?"</string>
   <string name="assist_gesture_training_suggestion_summary_including_alarms">Razgovarajte s Asistentom, utišajte alarme i pozive</string>
   <string name="assist_gesture_training_suggestion_title">Stisnite i pustite za Asistent</string>
   <string name="assistance_category_title">Pristupačnost</string>
+  <string name="assistant_add_fail">"Ne mogu sada slušati. Pričekajte minutu ili dvije i pokušajte ponovno."</string>     <string name="assistant_operate_timeout">Request timed out. Try again.</string>
   <string name="assistant_corner_gesture_summary">Prijeđite prstom prema gore iz donjeg kuta da biste pokrenuli aplikaciju digitalnog asistenta.</string>
   <string name="assistant_corner_gesture_title">Prijeđite prstom da biste pokrenuli asistenta</string>
   <string name="assistant_gesture_category_title">Digitalni asistent</string>
   <string name="assistant_long_press_home_gesture_summary">Pritisnite i držite gumb početnog zaslona da biste pokrenuli aplikaciju digitalnog asistenta.</string>
   <string name="assistant_long_press_home_gesture_title">Držite tipku početnog zaslona za Asistenta</string>
+  <string name="assistant_operate_timeout">Zahtjev je istekao. Pokušajte ponovno.</string>
   <string name="assistant_security_warning">Pomoćnik će moći čitati podatke o aplikacijama koje se upotrebljavaju u vašem sustavu, uključujući podatke vidljive na zaslonu ili podatke kojima se može pristupiti u aplikacijama.</string>
   <string name="assistant_security_warning_agree">Prihvaćam</string>
   <string name="assistant_security_warning_disagree">Ne prihvaćam</string>
@@ -1149,6 +1151,7 @@ Promijeniti postavke sada?"</string>
   <string name="audio_share_cancel">Ne hvala</string>
   <string name="audio_share_confirm">Dijeli</string>
   <string name="audio_synced">Audio sinkroniziran</string>
+  <string name="auracast_scan_not_support">"Nije povezano s kompatibilnim slušalicama. Ne mogu pronaći emitiranje u blizini."</string>
   <string name="auto_adjst_effect_summary">Prilagodi temperaturu boje ambijentalnom svjetlu automatski</string>
   <string name="auto_adjust_effect_title">Prilagodi temperaturu boje automatski</string>
   <string name="auto_anc_closed">Isključeno</string>
@@ -1861,6 +1864,13 @@ Možete otključati pomoću sata kada se vaše lice ili otisak prsta ne prepozna
   <string name="bluetooth_audio_share_request_disable_title">Promijeniti uređaj?</string>
   <string name="bluetooth_audio_share_request_disconnect">"Ako sada prekinete vezu, vaši uređaji neće automatski dijeliti zvuk sljedeći put kada se povežete. Svejedno prekinuti vezu?"</string>
   <string name="bluetooth_audoi_share">" | Dijeljenje zvuka"</string>
+  <string name="bluetooth_auracast_assist_add_source">Slušajte</string>
+  <string name="bluetooth_auracast_assist_leave_broadcast">Zaustavi</string>
+  <string name="bluetooth_auracast_password_input_hint">Unesite kod veze</string>
+  <string name="bluetooth_auracast_source_and_assistant_text">Emitiranje zvuka na druge uređaje i traženje audio emitiranja u blizini</string>
+  <string name="bluetooth_auracast_source_available_connect">Emitiranja u blizini</string>
+  <string name="bluetooth_auracast_source_explain_summary">Kada je uključeno, ljudi u blizini mogu primati zvuk s vašeg uređaja pomoću koda za povezivanje</string>
+  <string name="bluetooth_auracast_source_opend_summary">"Kôd veze: "</string>
   <string name="bluetooth_battery_level">%1$s baterije</string>
   <string name="bluetooth_battery_level_untethered">L: baterija na %1$s, D: baterija na %2$s</string>
   <string name="bluetooth_bc_profile_summary_connected">Povezano s BA poslužiteljem</string>
@@ -1869,6 +1879,7 @@ Možete otključati pomoću sata kada se vaše lice ili otisak prsta ne prepozna
   <string name="bluetooth_blacklist_cancel_remove_device">Odustani</string>
   <string name="bluetooth_blacklist_remove_device">Odblokiraj</string>
   <string name="bluetooth_broadcast">Emitiranje</string>
+  <string name="bluetooth_broadcast_audio">Emitiranje zvuka</string>
   <string name="bluetooth_broadcast_audio_dialog_title">Pokreni emitiranje</string>
   <string name="bluetooth_broadcast_audio_onlysource">Emitiranje zvuka s ovog uređaja</string>
   <string name="bluetooth_broadcast_audio_started_toast">"Ne zaboravite prekinuti emitiranje na vrijeme. Audio emitiranje prazni bateriju."</string>
@@ -5475,6 +5486,8 @@ Podaci sigurnosnih kopija ne uračunavaju se u kvotu pohrane na Disku. Velike da
   <string name="guest_reset_guest_dialog_title">Poništiti gostujuću sesiju?</string>
   <string name="guest_resetting">Poništavanje gostujuće sesije…</string>
   <string name="guide_button_text">Razumijem</string>
+  <string name="guide_summary_1">Emitiranje zvuka na uređaje u blizini</string>
+  <string name="guide_summary_2">Slušajte emitiranja koja dijele drugi ljudi</string>
   <string name="guide_text_center">"Prijeđite prstom ravno prema gore po sredini zaslona.
 Područje u kojem možete potvrditi zaključavanje zaslona bit će poravnato po sredini."</string>
   <string name="guide_text_left">"Povucite prstom ravno prema gore iz donjeg lijevog kuta.
@@ -7572,8 +7585,9 @@ Ne možete poništiti ovu radnju!"</string>
   <string name="miui_data_usage_menu_metered">Mobilni hotspot</string>
   <string name="miui_device_control_description">Prikaži aplikacije koje podržavaju kontrole uređaja kako bi mogle kontrolirati kompatibilne pametne kućne uređaje</string>
   <string name="miui_disturb_title">DND</string>
+  <string name="miui_desktop_mode_settings">Radna stanica</string>
   <string name="miui_enable_service_title">Usluga će obavljati ove radnje:</string>
-  <string name="miui_experience_optimization">Uključi MIUI optimizaciju</string>
+  <string name="miui_experience_optimization">Uključite MIUI optimizaciju</string>
   <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">Odustani</string>
   <string name="miui_face_data_input_dialog_message_for_sensor_light_virtual">"Za najbolje rezultate pri korištenju otključavanja licem, nemojte dopustiti da vaš uređaj automatski prilagođava svjetlinu zaslona"</string>
   <string name="miui_face_data_input_dialog_ok_btn_for_sensor_light_virtual">U redu</string>
@@ -8986,6 +9000,7 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="password">Zaporka</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
   <string name="password_and_security">Zaporke &amp; sigurnost</string>
+  <string name="password_check_fail">Netočan kod</string>
   <string name="password_entrance_title">Postavi Zaklj. zaslona</string>
   <string name="password_guard">Zaporka</string>
   <string name="password_null">Polje zaporke ne može biti prazno</string>

@@ -92,4 +92,7 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
     </plurals>
+	 <plurals name="remember_number_habit">
+        <item quantity="other">Upamtili ste %1$d navika</item>
+    </plurals>
 </resources> 

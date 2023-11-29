@@ -41,6 +41,10 @@
   <string name="contentDescription">Pomicanje prozora</string>
   <string name="copy">Kopiraj</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
+  <string name="desktop_btn_cancel">Odustani</string>
+  <string name="desktop_btn_continue">Pokreni</string>
+  <string name="desktop_mode_guide_summary">Način rada radne stanice omogućuje vam otvaranje više aplikacija u plutajućim prozorima dodirivanjem njihovih ikona na docku aplikacije.</string>
+  <string name="desktop_mode_guide_title">Radna stanica</string>
   <string name="dock_location_left">Lijevo</string>
   <string name="dock_location_right">Točno</string>
   <string name="dock_location_title">Lokacija docka aplikacije</string>
@@ -191,6 +195,9 @@ zatim povucite za pomicanje"</string>
   <string name="how_to_use_freeform">Kako koristiti plutajuće prozore</string>
   <string name="miui_bubbles_notification">Oblačići za razgovor</string>
   <string name="miui_bubbles_notification_status_opened">Uključeno</string>
+  <string name="miui_desktop_mode_settings">Radna stanica</string>
+  <string name="miui_desktop_mode_settings_title">Radna stanica</string>
+  <string name="miui_desktop_mode_video_description">Dodirnite ikone aplikacija na docku za otvaranje aplikacija u plutajućim prozorima. Možete uključiti i isključiti način rada radne stanice u centru za kontrolu.</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>

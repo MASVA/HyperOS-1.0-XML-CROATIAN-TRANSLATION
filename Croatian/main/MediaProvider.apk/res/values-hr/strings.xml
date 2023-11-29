@@ -162,11 +162,11 @@
   <string name="not_set">Nije postavljeno</string>
   <string name="notification_sound_default">Zadani zvuk obavijesti</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
-  <string name="permission_audio">Želite li dopustiti aplikaciji &lt;b&gt;^1&lt;/b&gt; da izmjeni ili izbri&amp;#353;e ovu glazbu?</string>
-  <string name="permission_images">Želite li dopustiti aplikaciji &lt;b&gt;^1&lt;/b&gt; da izmjeni ili izbri&amp;#353;e ovu sliku?</string>
+  <string name="permission_audio">Želite li dopustiti aplikaciji &lt;b&gt;^1&lt;/b&gt; da izmjeni ili izbriše ovu glazbu?</string>
+  <string name="permission_images">Želite li dopustiti aplikaciji &lt;b&gt;^1&lt;/b&gt; da izmjeni ili izbriše ovu sliku?</string>
   <string name="permission_required">Za izmjenu ili brisanje te stavke potrebno je dopuštenje.</string>
   <string name="permission_required_action">Nastavi</string>
-  <string name="permission_video">Želite li dopustiti aplikaciji &lt;b&gt;^1&lt;/b&gt; da izmjeni ili izbri&amp;#353;e ovaj videozapis?</string>
+  <string name="permission_video">Želite li dopustiti aplikaciji &lt;b&gt;^1&lt;/b&gt; da izmjeni ili izbriše ovaj videozapis?</string>
   <string name="picker_albums">Albumi</string>
   <string name="picker_albums_empty_message">Nema albuma</string>
   <string name="picker_app_label">Birač fotografija</string>
@@ -229,4 +229,42 @@
   <string name="unable_to_delete_ringtone">Brisanje prilagođene melodije zvona nije moguće</string>
   <string name="unknown">Nepoznato</string>
   <string name="upgrade_msg">Nadogradnja baze podataka medija.</string>
-</resources>
+  <string name="picker_add_button_multi_select">Dodaj (^1)</string>
+  <string name="picker_add_button_multi_select_permissions">Dopusti (^1)</string>
+  <string name="picker_album_item_count">{count, plural, =1 {^1 stavka} other {^1 stavki} }</string>
+  <string name="picker_album_media_empty_message">Nema podržanih fotografija ili videozapisa</string>
+  <string name="picker_banner_cloud_account_changed_desc">Fotografije od %1$s sada su uključene ovdje</string>
+  <string name="picker_banner_cloud_account_changed_title">%1$s račun ažuriran</string>
+  <string name="picker_banner_cloud_choose_account_desc">Da biste ovdje uključili fotografije od %1$s, odaberite račun u aplikaciji</string>
+  <string name="picker_banner_cloud_choose_account_title">Odaberi %1$s račun</string>
+  <string name="picker_banner_cloud_choose_app_button">Odaberi aplikaciju</string>
+  <string name="picker_banner_cloud_choose_app_desc">Da biste ovdje uključili sigurnosno kopirane fotografije, odaberite medijsku aplikaciju u oblaku u postavkama</string>
+  <string name="picker_banner_cloud_choose_app_title">Odaberite medijsku aplikaciju u oblaku</string>
+  <string name="picker_banner_cloud_dismiss_button">Odbaci</string>
+  <string name="picker_banner_cloud_first_time_available_desc">Možete odabrati fotografije s %1$s računa %2$s</string>
+  <string name="picker_banner_cloud_first_time_available_title">Sigurnosno kopirane fotografije sada su uključene</string>
+  <string name="picker_browse">Pregledaj…</string>
+  <string name="picker_error_dialog_body">Provjerite internetsku vezu i pokušajte ponovno</string>
+  <string name="picker_error_dialog_positive_action">Pokušaj ponovno</string>
+  <string name="picker_error_dialog_title">Problem pri reprodukciji videa</string>
+  <string name="picker_error_snackbar">"Nije moguće reproducirati video"</string>
+  <string name="picker_header_permissions">Odaberite stavke za dopuštanje pristupa</string>
+  <string name="picker_settings">Aplikacija za medije u cloudu</string>
+  <string name="picker_settings_description">Pristupite svojim medijima u cloudu kada vas aplikacija ili web-mjesto zatraže da odaberete fotografije ili videozapise</string>
+  <string name="picker_settings_no_provider">Ništa</string>
+  <string name="picker_settings_selection_message">Pristup medijima u cloudu iz</string>
+  <string name="picker_settings_system_settings_menu_title">Aplikacija za medije u cloudu</string>
+  <string name="picker_settings_title">Aplikacija za medije u cloudu</string>
+  <string name="picker_settings_toast_error">Trenutačno nije moguće promijeniti aplikaciju za medije u cloudu.</string>
+  <string name="preference_copied">\"%1$s\" kopiran u međuspremnik.</string>
+  <string name="preloading_progress_message">%1$d od %2$d spremno</string>
+  <string name="safety_protection_icon_label">Sigurnosna zaštita</string>
+​  <string name="select_up_to">{count, plural, =1 {Odaberite do ^1 stavku} other {Odaberite do ^1 stavki} }</string>
+  <string name="settings_label">Postavke</string>
+  <string name="settingslib_category_personal">Osobno</string>
+  <string name="settingslib_category_work">Posao</string>
+  <string name="transcode_alert_channel">Upozorenja izvornog transkodiranja</string>
+  <string name="transcode_progress_channel">Napredak izvornog transkodiranja</string>
+  <string name="v7_preference_off">ISKLJUČENO</string>
+  <string name="v7_preference_on">UKLJUČENO</string>
+  </resources>

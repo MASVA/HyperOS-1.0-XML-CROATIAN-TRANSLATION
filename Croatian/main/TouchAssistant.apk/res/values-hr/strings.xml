@@ -170,6 +170,7 @@
     <string name="saturday">Subota</string>
     <string name="saturday_short">Sub</string>
     <string name="saturday_shortest">S</string>
+	 <string name="screen_rotation_freeze_message">Orijentacija zaključanog zaslona u pejzažnom načinu</string>
     <string name="search_menu_title">Traži</string>
     <string name="send">Pošalji</string>
     <string name="show_on_keyguard">Prikaži na Zaklj. zaslonu</string>

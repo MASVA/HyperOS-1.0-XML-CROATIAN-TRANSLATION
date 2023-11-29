@@ -429,7 +429,7 @@
     <string name="superpower_app_mms">Poruke</string>
     <string name="superpower_app_phone">Telefon</string>
     <string name="superpower_battery_dangerous">Priključite punjač što je prije moguće</string>
-    <string name="superpower_date">EEE dd.MM</string>
+    <string name="superpower_date">EEE dd.MM.</string>
     <string name="superpower_dialog_app_select_content">Aplikacije treće strane obično troše više energije od sistemskih aplikacija. Dodati svejedno?</string>
     <string name="superpower_dialog_app_select_title">Pažnja</string>
 	 <string name="superpower_dialog_button_ok">U redu</string>
@@ -446,7 +446,8 @@
     <string name="superpower_time">h:mm</string>
     <string name="superpower_time_24">H:mm</string>
     <string name="superpower_toast_app_select_full">Često korištenim aplikacijama možete dodati do 6 stavki</string>
-    <string name="support_game_booster_tips">Ubzravanje brzine &amp; poboljšanje doživljaja igranja</string>
+    <string name="superpower_toast_app_select_full_new">Možete dodati do %d stavki u često korištene aplikacije</string>
+	 <string name="support_game_booster_tips">Ubzravanje brzine &amp; poboljšanje doživljaja igranja</string>
     <string name="sys_cpu_title">Upotreba CPU-a</string>
     <string name="sys_freememory_title">Dostupno</string>
     <string name="sys_title_gamebooster_unit_gb">G</string>

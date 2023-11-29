@@ -60,6 +60,7 @@ dodane na popis blokiranih"</string>
 Pokušajte ponovno."</string>
 	 <string name="add_to_browser_favorite_failed">"Ne mogu dodati"</string>
 	 <string name="add_to_browser_favorite_success">Uspješno dodano</string>
+	 <string name="add_to_block_cta_failed">Dodijelite Sigurnosti potrebna dopuštenja da biste mogli dodavati stavke na popis blokiranih</string>
 	 <string name="add_video">Dodaj videozapis</string>
 	 <string name="adding_attachments">Pričekajte završetak dodavanja stavki u dijaprojekciju.</string>
 	 <string name="adding_attachments_title">Dodavanje privitaka</string>
