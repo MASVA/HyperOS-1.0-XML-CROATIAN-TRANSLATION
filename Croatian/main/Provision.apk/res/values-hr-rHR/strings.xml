@@ -122,6 +122,7 @@
   <string name="disagreement_mi_account_abnormal">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti usluge Xiaomi računa. Usluge Xiaomi računa možete uključiti ili isključiti u bilo kojem trenutku u Postavke &gt; Xiaomi račun."</string>
   <string name="disagreement_service_not_working_properly">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti ovu aplikaciju."</string>
   <string name="disagreement_service_not_working_properly_settings">"Ako ne pristanete odobriti ova dopuštenja, ova usluga neće moći normalno raditi."</string>
+  <string name="disagreement_service_not_working_properly_with_media_storage">"Ako ne pristanete odobriti ova dopuštenja, usluga neće moći normalno raditi."</string>
   <string name="disagreement_terminate_bluetooth">"Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti Bluetooth. Možete uključiti i isključiti Bluetooth te dodati Bluetooth uređaje u Postavke &gt; Bluetooth."</string>
   <string name="disagreement_terminate_miuidaemon">"Dopuštenja ćemo koristiti samo kad počnete slati podatke s uređaja kada je njegov zaslon oštećen. Ako ne pristanete odobriti ta dopuštenja, nećete moći koristiti ovu aplikaciju."</string>
   <string name="disagreement_terminate_service">"Ako ne pristanete odobriti ta dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu. U takvim slučajevima možete odabrati deinstaliranje, odjavu ili ograničenje dopuštenja u postavkama."</string>
@@ -285,6 +286,8 @@ Dostupne usluge međusobnog povezivanja mogu se razlikovati ovisno o verziji va�
   <string name="location_introduction_qcom">Usluge lokacije koriste pozicioniranje za pružanje usluga specifičnih za lokaciju. Kada vaš uređaj koristi usluge lokacije, QCC modul će se povezati s mrežom kako bi se ubrzao proces pozicioniranja.</string>
   <string name="location_location">Agencije za hitno spašavanje mogu dobiti vaše trenutno mjesto na zahtjev</string>
   <string name="lockscreen_introduction">Wallpaper Carousel omogućava vam da svakodnevno dobijate nove slike pozadina Zaklj. zaslona.</string>
+  <string name="media_storage_devices">Uređaji za pohranu medija</string>
+  <string name="media_storage_introduction">Ova usluga omogućuje aplikacijama pristup i spremanje fotografija, videozapisa, zvuka i datoteka.</string>
   <string name="message_introduction">Ovu aplikaciju možete koristiti za slanje i primanje SMS poruka.</string>
   <string name="mi_account_introduction">Xiaomi račun vam omogućuje registraciju, prijavu i upravljanje računima sustava.</string>
   <string name="mint_keyboard_oobe_checkbox">"Pročitao sam i prihvatio Pravila o privatnosti Mint Keyboard"</string>
@@ -465,6 +468,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="permission_login_introduction">Za prijavu i upravljanje sistemskim računima</string>
   <string name="permission_make_a_call">Upućivati pozive</string>
   <string name="permission_make_a_call_fast_application_summary">Za omogućavanje brzim aplikacijama upućivanje poziva;</string>
+  <string name="permission_media_storage_summary">Za provjeru kako aplikacije koriste dopuštenja povezana s privatnošću dok pristupaju datotekama</string>
   <string name="permission_message_introduction">Za slanje poruka blokiranim kontaktima</string>
   <string name="permission_number">Pristup broju telefona</string>
   <string name="permission_number_introduction">Za uspostavljanje Bluetooth veze sa sustavima automobila i Bluetooth slušalicama</string>
