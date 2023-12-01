@@ -767,6 +767,10 @@ Dodajte widgete za početak."</string>
   <string name="pa_widget_advert_loading_dialog_message">Samo trenutak…</string>
   <string name="pa_widget_menu_edit_card_in_stack">Uređivanje \"%s\"</string>
   <string name="pa_widget_menu_edit_stack">Uređivanje grupe</string>
+  <string name="pa_widget_menu_improve_edit">Uredi</string>
+  <string name="pa_widget_menu_improve_remove">Ukloni</string>
+  <string name="pa_widget_menu_improve_remove_card_in_stack">Ukloni \"%s\"</string>
+  <string name="pa_widget_menu_improve_replace">Zamjeni</string>
   <string name="pa_widget_menu_remove_card_in_stack">Ukloni \"%s\"</string>
   <string name="pa_widget_menu_edit">Uredi</string>
   <string name="pa_widget_menu_remove">Ukloni</string>
