@@ -12,7 +12,7 @@
   <string name="a11y_action_pip_move_up">Premjesti gore</string>
   <string name="a11y_pip_menu_entered">Izbornik Slika u slici.</string>
   <string name="abbrev_month_day_no_year">dMMM</string>
-  <string name="abbrev_wday_month_day_no_year_alarm">EEEMdMM</string>
+  <string name="abbrev_wday_month_day_no_year_alarm">EEEdMMM</string>
   <string name="abc_action_bar_home_description">Navigacija kući</string>
   <string name="abc_action_bar_up_description">Idi gore</string>
   <string name="abc_action_mode_done">Gotovo</string>
