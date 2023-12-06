@@ -1600,7 +1600,7 @@ mm"</string>
   <string name="miui_snooze_until_unlock_screen">Dok je zaključan</string>
   <string name="miui_snooze_user_set_fail">Idite u Postavke &gt; Obavijesti &amp; Centar za kontrolu za više opcija</string>
   <string name="miui_snooze_user_set_success">Uspješno primjenjeno. Idite u Postavke &gt; Obavijesti &amp; Centar za kontrolu za više opcija.</string>
-  <string name="miui_unimportant_notifications">Nevažne obavijesti</string>
+  <string name="miui_unimportant_notifications">Ranije obavijesti</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>

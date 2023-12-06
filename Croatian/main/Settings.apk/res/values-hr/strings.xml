@@ -1115,7 +1115,7 @@ Promijeniti postavke sada?"</string>
   <string name="assist_gesture_training_suggestion_summary_including_alarms">Razgovarajte s Asistentom, utišajte alarme i pozive</string>
   <string name="assist_gesture_training_suggestion_title">Stisnite i pustite za Asistent</string>
   <string name="assistance_category_title">Pristupačnost</string>
-  <string name="assistant_add_fail">"Ne mogu sada slušati. Pričekajte minutu ili dvije i pokušajte ponovno."</string>     <string name="assistant_operate_timeout">Request timed out. Try again.</string>
+  <string name="assistant_add_fail">"Ne mogu sada slušati. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
   <string name="assistant_corner_gesture_summary">Prijeđite prstom prema gore iz donjeg kuta da biste pokrenuli aplikaciju digitalnog asistenta.</string>
   <string name="assistant_corner_gesture_title">Prijeđite prstom da biste pokrenuli asistenta</string>
   <string name="assistant_gesture_category_title">Digitalni asistent</string>

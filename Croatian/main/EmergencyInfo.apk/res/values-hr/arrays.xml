@@ -288,4 +288,9 @@
         <item>Brzina animacije 5x</item>
         <item>Brzina animacije 10x</item>
     </string-array>
+	 <string-array name="organ_donor_values">
+        <item>Da</item>
+        <item>Ne</item>
+		   <item></item>
+    </string-array>
 </resources>

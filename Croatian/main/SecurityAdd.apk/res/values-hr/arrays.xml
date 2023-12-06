@@ -17,4 +17,19 @@
         <item>Uravnoteženo</item>
         <item>Zadano</item>
     </string-array>
+	     <string-array name="gb_gpu_custom_cut_texture">
+        <item>Uravnoteženo</item>
+        <item>Visoka kvaliteta</item>
+     </string-array>
+     <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Uravnoteženo</item>
+        <item>Zadano</item>
+     </string-array>
+	  <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Niski</item>
+        <item>Standard</item>
+        <item>Visoki</item>
+        <item>Najviši</item>
+        <item>Zadano</item>
+     </string-array>
 </resources>

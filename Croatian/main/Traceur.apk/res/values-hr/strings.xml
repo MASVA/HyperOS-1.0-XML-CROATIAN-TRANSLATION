@@ -708,6 +708,16 @@ Audio"</string>
   <string name="standby_bucket_summary">"Stanje aplikacije u mirovanju: %s"</string>
   <string name="start_new_trace">Pokreni novo praćenje</string>
   <string name="status_unavailable">Nije dostupno</string>
+  <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+  <string name="status_bar_toggle_data">Mob. podaci</string>
+  <string name="status_bar_toggle_lock">Zaklj.</string>
+  <string name="status_bar_toggle_mute">Bešumno</string>
+  <string name="status_bar_toggle_rotate">Rotacija isklj.</string>
+  <string name="status_bar_toggle_screenshot">Snimka zaslona</string>
+  <string name="status_bar_toggle_torch">Svjetiljka</string>
+  <string name="status_bar_toggle_vibrate">Vibracija</string>
+  <string name="status_bar_toggle_wifi">Wi-Fi</string>
+  <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="stop_on_bugreport">Zaustavite praćenje za izvješća o programskim pogreškama</string>
   <string name="stop_on_bugreport_summary">Zaustavlja aktivna bilježenja praćenja kad se pokrene izrada izvješća o programskim pogreškama</string>
   <string name="stop_tracing">Zaustavite bilježenje tragova</string>

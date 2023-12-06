@@ -196,12 +196,14 @@ Pritisnite dvaput i držite za povlačenje."</string>
   <string name="pa_accessibility_picker_home_smallBanner_slected"> %1$s. 
 Dodirnite dvaput za početak.</string>
   <string name="pa_accessibility_picker_home_title">Dodaj widget</string>
+  <string name="pa_accessibility_picker_home_widget_slected_no_drag">"%1$s, %2$s, status instalacije: %3$s.
+Dodirnite dvaput za prikaz detalja."</string>
   <string name="pa_accessibility_picker_home_widget_replace">Odabrano %s. Promjena widgeta.</string>
   <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. 
 Dvaput dodirnite tipku ispod njega da biste ga zamijenili drugim widgetom.</string>
   <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Status instalacije: %3$s. Tipka \"Promjeni\" je ispod. 
 Dodirnite dvaput za promjeniti.</string>
-<string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Status instalacije: %3$s, 
+<string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, status instalacije: %3$s, 
 dodirnite dvaput za detalje,
 dodirnite dvaput i držite za pomicanje."</string>
 <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, status instalacije: %3$s.
