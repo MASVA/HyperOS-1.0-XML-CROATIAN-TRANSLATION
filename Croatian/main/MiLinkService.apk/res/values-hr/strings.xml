@@ -396,6 +396,7 @@ Vaši uređaji?"</string>
   <string name="copy">Kopiraj</string>
   <string name="current_wifi_tv">Trenutna mreža</string>
   <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
+  <string name="device_busy">Uređaj je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="device_desc_trust">Pouzdani uređaji</string>
   <string name="device_permission_authorize_dialog_message">Kad se ovo dopuštenje da, ovaj uređaj će moći koristiti %s za snimanje fotografija i videozapisa.</string>
   <string name="device_permission_authorize_dialog_title">Dodijeli dopuštenja za kameru na %s</string>
@@ -406,6 +407,7 @@ Vaši uređaji?"</string>
   <string name="device_type_name_phone">Telefon</string>
   <string name="dialog_can_not_find_device">"Ne mogu pronaći uređaje u blizini"</string>
   <string name="dialog_cancle">Odustani</string>
+  <string name="dialog_close">Isključi</string>
   <string name="dialog_connect_fail">"Povezivanje nije uspjelo"</string>
   <string name="dialog_connect_retry">Dodirnite za ponovni pokušaj</string>
   <string name="dialog_connect_verify_perssion">Prvo autorizirajte emitiranje na televizoru</string>
@@ -435,6 +437,9 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
   <string name="dialog_scan_message_china">"%1$d. Povežite telefon i TV s istom Wi-Fi mrežom.
 
 %2$d. Pogledajte \"Pomoć\" kako bi saznali više."</string>
+  <string name="dialog_scanning_close_dual_wifi_china">Isključite \"Dvopojasno povećanje brzine Wi-Fi mreže\" da biste mogli emitirati. Isključiti ovu značajku sada?</string>
+  <string name="dialog_scanning_close_dual_wifi_global">Isključite \"Dvopojasno povećanje brzine Wi-Fi mreže\" da biste mogli emitirati. Isključiti ovu značajku sada?</string>
+  <string name="dialog_scanning_close_tethering">Isključite hotspot da biste mogli emitirati. Isključiti hotspot sada?</string>
   <string name="dialog_scanning_device">Traženje uređaja u blizini…</string>
   <string name="dialog_scanning_precondition">Uključite Wi-Fi i Bluetooth na svom telefonu za korištnje bežičnog zaslona.</string>
   <string name="dialog_scanning_precondition_new_china">Uključite Wi-Fi, Bluetooth i usluge lokacije da biste mogli koristiti emitiranje. Uključiti sada?</string>
@@ -442,8 +447,9 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
   <string name="dialog_select_tv">Odaberite uređaj (%1$d)</string>
   <string name="dialog_show_help">Pomoć</string>
   <string name="disconnect">Zaustavi emitiranje</string>
-  <string name="dual_wifi_warning_china">Isključite dual Wi-Fi i pokušajte ponovno</string>
-  <string name="dual_wifi_warning_global">Uključite dual Wi-Fi i pokušajte ponovno</string>
+  <string name="dp_casting_start_hint">Povezan putem kabela. Emitiranje je završilo.</string>
+  <string name="dual_wifi_warning_china">Isključite dvostruki Wi-Fi i pokušajte ponovno</string>
+  <string name="dual_wifi_warning_global">Uključite dvostruki Wi-Fi i pokušajte ponovno</string>
   <string name="enable_screen_projection_summary">Emitiraj sadržaj zaslona na vanjski monitor</string>
   <string name="enable_screen_projection_summary_new">Emitirajte zaslon mobilnog uređaja na obližnje televizore i druge vanjske monitore</string>
   <string name="err_toast_msg_audio_support_support_only">Ovaj uređaj podržava samo prijenos audio reprodukcije. Pokušajte povući audio karticu.</string>
@@ -509,7 +515,10 @@ Pogledajte pomoć ako imate problema sa povezivanjem."</string>
   <string name="hang_up_alert_dialog_pos">U redu</string>
   <string name="hang_up_alert_dialog_title">O emitiranju kada je zaslon isključen</string>
   <string name="headset_circulate_connect_success">Povezano</string>
-  <string name="headset_content_description">Slušalice povezane s ovim uređajem. Dvaput pritisnite za aktiviranje. Pritisnite s dva prsta i povucite za prijenos reprodukcije.</string>
+  <string name="head_toast_connecting">Povezivanje…</string>
+  <string name="head_toast_fail">"Ne mogu se povezati"</string>
+  <string name="head_toast_success">Uspješno povezan</string>
+  <string name="headset_content_description">Slušalice su povezane s ovim uređajem. Dvaput pritisnite za aktiviranje. Pritisnite s dva prsta i povucite za prijenos reprodukcije.</string>
   <string name="help_page_text_01">Pomoć</string>
   <string name="help_page_text_02">Što je emitiranje?</string>
   <string name="help_page_text_03">"Emitiranje projicira stavke s zaslona vašeg telefona na veći vanjski monitor. Omogućuje vam da dijelite slike i videozapise s prijateljima i obitelji, pa čak i da zajedno igrate igre. Potrošnja energije vašeg telefona obično se ne mijenja kada koristite ovu značajku."</string>
@@ -1000,7 +1009,7 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
   <string name="settings_cross_notify_hidden">Sakrij sadržaj obavijesti</string>
   <string name="settings_cross_notify_hidden_tips">Prikaži obavijesti na drugim uređajima sa skrivenim sadržajem i dodirnite za otkrivanje</string>
   <string name="settings_cross_notify_manager">Obavijesti na povezanim uređajima</string>
-  <string name="settings_cross_notify_power">Niska baterija</string>
+  <string name="settings_cross_notify_power">Slaba baterija</string>
   <string name="settings_cross_notify_system">Obavijesti sustava</string>
   <string name="settings_cross_notify_tips">Prikaži obavijesti na obližnjim tabletima ili računalima koja se koriste kada je ovaj uređaj zaključan</string>
   <string name="sever_stream_control_btn_exit">Zaustavi</string>
@@ -1008,6 +1017,7 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
   <string name="sever_stream_control_btn_preview">Pregled</string>
   <string name="sever_stream_control_btn_resume">Nastavi</string>
   <string name="sever_stream_push_state_idle">Pregled je isključen na ovom uređaju</string>
+  <string name="sever_stream_push_state_idle2">Pregled je isključen</string>
   <string name="sever_stream_push_state_pause">Pauzirano</string>
   <string name="sever_stream_push_state_pushing">Dijeljenje feeda kamere…</string>
   <string name="share_desktop_with_car">Podijelite Home screen s automobilom</string>
