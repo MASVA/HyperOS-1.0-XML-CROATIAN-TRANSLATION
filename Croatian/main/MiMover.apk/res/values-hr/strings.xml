@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="PRD_summary_1">Ako prenesete podatke iz ovih aplikacija sa starog uređaja na novi, podaci na novom uređaju (uključujući povijest razgovora) bit će prebrisani.</string>
+  <string name="PRD_summary_2" />
+  <string name="PRD_summary_3" />
+  <string name="PRD_summary_4">Isključivanje Wi-Fi-ja ili promjena Wi-Fi mreže tijekom procesa prijenosa može uzrokovati neuspjeh procesa prijenosa.</string>
+  <string name="PRD_summary_4_china">Isključivanje Wi-Fi-ja ili promjena Wi-Fi mreže tijekom procesa prijenosa može uzrokovati neuspjeh procesa prijenosa.</string>
+  <string name="PRD_summary_5">Velike brzine prijenosa mogu uzrokovati da se vaš uređaj zagrije više nego inače. Budite sigurni da će se vaš uređaj ohladiti kada prijenos završi.</string>
+  <string name="PRD_title_1">1. Sljedeće aplikacije već imaju podatke na vašem novom uređaju:</string>
+  <string name="PRD_title_2">WeChat</string>
+  <string name="PRD_title_3">QQ</string>
+  <string name="PRD_title_4">2. Budite oprezni tijekom procesa prijenosa</string>
+  <string name="PRD_title_5">3. Vaš uređaj može postati vruć tijekom procesa prijenosa</string>
   <string name="abc_action_bar_home_description">Početna</string>
   <string name="abc_action_bar_up_description">Gore</string>
   <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
@@ -674,6 +685,7 @@ Otvorite WeChat i idite na Ja &gt; Postavke &gt; Općenito &gt; Sigurnosno kopir
 - Pohrana"</string>
   <string name="request_all_permission_title">Potrebna su dopuštenja</string>
   <string name="request_permission">Dopusti</string>
+  <string name="require_permission">Dodirnite da biste dali dopuštenje za prijenos stavki</string>
   <string name="restore_data_to_device_content">"Vaše su stavke sinkronizirane s Xiaomi Cloudom.
 Prijavite se na svoj Xiaomi račun kako biste ih vratili."</string>
   <string name="restore_data_to_device_title">Vratite stavke na ovaj uređaj</string>
@@ -705,7 +717,9 @@ Oslobodite barem %s."</string>
   <string name="scanner_send_dialog_btn">Razumijem</string>
   <string name="scanner_send_dialog_message">Ne isključujte Wi-Fi ili prebacivajte između mreža tijekom prijenosa.</string>
   <string name="scanner_size_selected">Odabrano: %s</string>
+  <string name="scanner_subtitle_prd">Pažljivo pročitajte sljedeće informacije prije nego što provjerite svaku stavku i započnete proces prijenosa.</string>
   <string name="scanner_time_remained">Procijenjeno vrijeme prijenosa: %s</string>
+  <string name="scanner_title_prd">Važne informacije</string>
   <string name="scanner_title_tip">Odaberite stavke za prijenos</string>
   <string name="scanner_wechat_overwrite_hit">Zbog postavljenih ograničenja aplikacija trećih strana, povijest razgovora i ostali podaci aplikacija na Vašem novom uređaju bit će zamijenjeni onima s Vašeg starog uređaja tek kada je prijenos završen.</string>
   <string name="search_action_mode_cancel">Odustani</string>
@@ -742,7 +756,7 @@ Oslobodite barem %s."</string>
   <string name="sender_finish_title">Uspješno preneseno</string>
   <string name="sender_scanning_code">Postavite sliku u okvir</string>
   <string name="sender_scanning_connecting">Povezivanje s novim uređajem…</string>
-  <string name="set_app_suspend">Sada se sigurnosno kopira ova aplikacija. Pričekajte da se sigurnosna kopija završi i pokušajte ponovo.</string>
+  <string name="set_app_suspend">Ova se aplikacija sada sigurnosno kopira. Pričekajte da se sigurnosna kopija završi i pokušajte ponovo.</string>
   <string name="set_new_device_account">Sinkronizacija s Xiaomi računom</string>
   <string name="set_new_device_lock">Postavi zaključavanje zaslona</string>
   <string name="set_new_device_more">Više postavki sustava…</string>
@@ -750,6 +764,7 @@ Oslobodite barem %s."</string>
   <string name="set_new_device_title">Postavljanje novog uređaja…</string>
   <string name="set_new_device_wlan">Postavite Wi-Fi</string>
   <string name="settings_phone">Postavke telefona</string>
+  <string name="settings_photo">Postavke galerije</string>
   <string name="settings_powerkeeper">Podaci brojača koraka</string>
   <string name="settings_sms">Postavke Poruka</string>
   <string name="settings_system">Postavke sustava</string>

@@ -72,7 +72,7 @@
   <string name="carousel_privacy">&lt;Data&gt;"Pro&amp;#269;itajte i prihvatite na&amp;#353;eg pouzdanog pru&amp;#382;atelja tre&amp;#263;e strane &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja Wallpaper Carousela."&lt;/Data&gt;</string>
   <string name="carousel_setting">Postavite svoj Zaklj. zaslon</string>
   <string name="carousel_setting_sub">Wallpaper Carousel pokazat će vam nove priče svaki put kada otključate svoj uređaj</string>
-  <string name="carrier_introduction_china">"Kako bi vam pružili bolje usluge, procesi koji se izvode na vašem uređaju (uključujući SystemHelper, RegService i Carrier Services) mogu povremeno slati podatke koji se odnose na vaš uređaj i SIM karticu (uključujući IMEI, IMSI, MSISDN, MEID, ICCID, MAC adresu, MIUI verziju, Android verziju, model uređaja i osnovne hardverske specifikacije), kao i približne informacije o lokaciji (uključujući regiju, koordinate, identifikator područja i ID bazne stanice) operateru putem Wi-Fi-ja, mobilne podatkovne mreže ili besplatnog SMS-a. Prijevoznik obećava da će analizirati relevantne informacije samo radi poboljšanja kvalitete usluga ili pružanja prilagođenih usluga ili tehnologija i neće otkriti relevantne informacije trećim stranama u bilo kojem obliku koji vas osobno identificira. Posebna izjava prijevoznika ima prednost. U vezi troškova korištenja ove usluge posavjetujte se sa svojim operaterom."</string>
+  <string name="carrier_introduction_china">"Kako bi vam pružili bolje usluge, procesi koji se izvode na vašem uređaju (uključujući SystemHelper, RegService i Carrier Services) mogu povremeno slati podatke koji se odnose na vaš uređaj i SIM karticu (uključujući IMEI, IMSI, MSISDN, MEID, ICCID, MAC adresu, HyperOS verziju, Android verziju, model uređaja i osnovne hardverske specifikacije), kao i približne informacije o lokaciji (uključujući regiju, koordinate, identifikator područja i ID bazne stanice) operateru putem Wi-Fi-ja, mobilne podatkovne mreže ili besplatnog SMS-a. Prijevoznik obećava da će analizirati relevantne informacije samo radi poboljšanja kvalitete usluga ili pružanja prilagođenih usluga ili tehnologija i neće otkriti relevantne informacije trećim stranama u bilo kojem obliku koji vas osobno identificira. Posebna izjava prijevoznika ima prednost. U vezi troškova korištenja ove usluge posavjetujte se sa svojim operaterom."</string>
   <string name="check_box_label">&lt;Data&gt;"Uklju&amp;#269;ivanjem ove zna&amp;#269;ajke prihva&amp;#263;ate &amp;lt;a href=%1$s&amp;gt;Xiaomi Interconnectivity Services Privacy Policy&amp;lt;/a &amp;gt;."&lt;/Data&gt;</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clock_introduction">Ovu aplikaciju možete koristiti za prikaz vremena, kao i korištenje timera, svjetskog sata, štoperice, postavljanje alarma i još mnogo toga.</string>
@@ -81,14 +81,14 @@
   <string name="cm_terms_content">"U cilju poboljšanja usluge koje vam pruža operater mobilne mreže po vašem izboru može učitati Vaše osobne podatke i informacije o ovom uređaju na svoje poslužitelje koji koriste Wi-Fi mreže ili mobilnu podatkovnu vezu. Ove će se informacije koristiti isključivo u statističke svrhe, kako bi se poboljšala kvaliteta usluga i pruži vam se više personaliziranih sadržaja. Ti se podaci neće koristiti za vašu osobnu identifikaciju i neće biti dani na uvid trećim osobama."</string>
   <string name="cm_terms_title">Sporazum operatera mobilne mreže</string>
   <string name="compass_introduction">Ovu aplikaciju možete koristiti za navigaciju, kao i za pregled koordinata, atmosferskog tlaka i nadmorske visine.</string>
-  <string name="congratulation_label">"Spremni ste za MIUI!"</string>
+  <string name="congratulation_label">"Spremni ste za HyperOS!"</string>
   <string name="congratulation_pre_label">Samo trenutak…</string>
   <string name="congratulation_pre_title">Priprema sustava…</string>
   <string name="congratulation_swipe">Povucite prema gore za ulaz u sustav</string>
   <string name="congratulation_title">Postavljanje je dovršeno</string>
   <string name="content_description_complete">Dovršeno</string>
   <string name="content_description_language_picker">Odaberi jezik</string>
-  <string name="content_description_miui_version">MIUI 14</string>
+  <string name="content_description_miui_version">HyperOS</string>
   <string name="content_description_start">Start</string>
   <string name="content_introduction">Centar za sadržaj objedinjuje sadržaj i usluge s više kanala. Ovdje možete čitati članke, gledati videozapise, pregledavati svakodnevno predstavljene stavke i primati preporuke za sadržaj.</string>
   <string name="continue_to_enable_accessibility">Držite pritisnuta dva prsta da omogućite pristupačnost.</string>
@@ -136,15 +136,15 @@
   <string name="expand_button_title">Napredno</string>
   <string name="fail_to_generate_qr_code">"Ne mogu generirati QR kôd. Otvorite ponovno ovu stranicu."</string>
   <string name="fast_application_introduction">Service framework brzih aplikacija osnovni je servisni framework koji podržava brzu distribuciju i rad aplikacija.</string>
-  <string name="fast_pairing_introduction">Mi Link koristi MIUI Bluetooth mogućnosti za brzo povezivanje s obližnjim Bluetooth uređajima.</string>
+  <string name="fast_pairing_introduction">Mi Link koristi HyperOS Bluetooth mogućnosti za brzo povezivanje s obližnjim Bluetooth uređajima.</string>
   <string name="font_hint_large">Zadana veličina teksta</string>
   <string name="font_hint_normal">Povećaj veličinu teksta</string>
   <string name="font_settings_sub_title">Odaberi font sustava</string>
   <string name="font_settings_title">Postavke fonta</string>
   <string name="font_use_case_text_example">Tijelo</string>
   <string name="font_use_case_title_example">Naslov</string>
-  <string name="framework_introduction">Xiaomi Services Framework omogućuje vam upotrebu Xiaomi računa, Mi Push, Mi Stats i MIUI BI.</string>
-  <string name="framwork_base_service">Da bismo vam pružili ove usluge, Xiaomi Services Framework (Xiaomi račun, Mi Push, Mi Stats, MIUI BI) treba se povezati s internetom, pristupiti vašoj lokaciji, broju telefona, IMEI i IMSI i omogućiti vašem uređaju da prima push obavijesti.</string>
+  <string name="framework_introduction">Xiaomi Services Framework omogućuje vam upotrebu Xiaomi računa, Mi Push, Mi Stats i HyperOS BI.</string>
+  <string name="framwork_base_service">Da bismo vam pružili ove usluge, Xiaomi Services Framework (Xiaomi račun, Mi Push, Mi Stats, HyperOS BI) treba se povezati s internetom, pristupiti vašoj lokaciji, broju telefona, IMEI i IMSI i omogućiti vašem uređaju da prima push obavijesti.</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -163,7 +163,7 @@
   <string name="install_preinstall_app">Učitavanje aplikacija…</string>
   <string name="intent_filter_verification_service">Intent Filter Verification Service</string>
   <string name="interconnection_communication_introduction">Xiaomi internetske komunikacijske usluge omogućuju vam otkrivanje, povezivanje i komunikaciju s drugim Xiaomi uređajima.</string>
-  <string name="interconnection_service_summary">"Xiaomi Interconnectivity Services omogućuju vašim uređajima međusobnu bežičnu interakciju. Ove usluge uključuju Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share i kasting.
+  <string name="interconnection_service_summary">"Xiaomi Interconnectivity Services omogućuju vašim uređajima međusobnu bežičnu interakciju. Ove usluge uključuju Mi Smart Hub, Mi Smart Play, HyperOS+ Beta, Mi Share i kasting.
 Da bi mogli normalno raditi, ovi servisi moraju se povezati na internet i zahtijevati sljedeća dopuštenja:
 \u0009\u0009Mi Smart Hub:
 \u0009\u0009Uključiti i isključiti Wi-Fi
@@ -193,7 +193,7 @@ Da bi mogli normalno raditi, ovi servisi moraju se povezati na internet i zahtij
 \u0009\u0009Snimanje zvuka
 \u0009\u0009Za prijenos audio reprodukcije na povezani tijekom emitiranja
 Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti Xiaomi Interconnectivity Services.
-Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće biti dostupne na svim modelima uređaja ili za sve verzije sustava. Posjetite MIUI web stranicu (www.miui.com) da provjerite kompatibilnost."</string>
+Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće biti dostupne na svim modelima uređaja ili za sve verzije sustava. Posjetite HyperOS web stranicu (https://hyperos.mi.com) da provjerite kompatibilnost."</string>
   <string name="interconnection_service_summary_china">"Usluge Xiaomi Interconnectivity Services omogućuju vašim uređajima međusobnu bežičnu interakciju. Možete koristiti Xiaomi Interconnectivity Services za kontrolu uređaja, prijenos audio i video reprodukcije, kombiniranje značajki uređaja ili pokretanje zadataka na jednom uređaju i nastavak s njima u istoj aplikaciji na drugim povezanim uređajima. Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja:
 \u0009\u0009Mi Share:
 \u0009\u0009Pristupite fotografijama i datotekama pohranjenim na uređaju
@@ -385,7 +385,7 @@ Dostupne usluge međusobnog povezivanja mogu se razlikovati ovisno o verziji va�
   <string name="other_settings">Dodatne postavke</string>
   <string name="other_settings_ad_dialog_agree">Uključi</string>
   <string name="other_settings_ad_dialog_content">"Kad su preporuke za prilagođene oglase isključene, i dalje ćete vidjeti istu količinu oglasa kao i kad je značajka uključena. Oglasi, međutim, više neće biti relevantni jer se neće temeljiti na vašim osobnim željama."</string>
-  <string name="other_settings_ad_dialog_content_for_global">"Kada su prilagođene preporuke oglasa isključene, i dalje ćete vidjeti istu količinu oglasa u aplikacijama MIUI sustava kao i kada je značajka uključena. Međutim, oglasi od Xiaomija i platformi trećih strana, više neće biti relevantni jer se neće temeljiti na vašim osobnim preferencijama."</string>
+  <string name="other_settings_ad_dialog_content_for_global">"Kada su prilagođene preporuke oglasa isključene, i dalje ćete vidjeti istu količinu oglasa u aplikacijama HyperOS sustava kao i kada je značajka uključena. Međutim, oglasi od Xiaomija i platformi trećih strana, više neće biti relevantni jer se neće temeljiti na vašim osobnim preferencijama."</string>
   <string name="other_settings_ad_dialog_disagree">Isključi</string>
   <string name="other_settings_ad_disable_summary">Uključi personalizirane oglase</string>
   <string name="other_settings_ad_enable">Personalizirana Preporuka oglasa</string>
@@ -395,10 +395,10 @@ Dostupne usluge međusobnog povezivanja mogu se razlikovati ovisno o verziji va�
   <string name="other_settings_alarm_assistance_summary">"Podatke o svojoj lokaciji možete poslati policiji koristeći SMS ili mobilne podatke automatski dok zovete 110, 120, 119 ili 192. Pročitajte i prihvatite naše &lt;a href=\"%1$s\"&gt;Korisnički ugovor&lt;/a&gt; i &lt;a href=\"%2$s\"&gt;Pravila o privatnosti&lt;/a&gt; prije korištenja ove značajke."</string>
   <string name="other_settings_alarm_assistance_user">Korisnički ugovor</string>
   <string name="other_settings_auto_update">Instaliraj automatski</string>
-  <string name="other_settings_auto_update_summary">MIUI će odabrati najbolji trenutak za instaliranje ažuriranja.</string>
-  <string name="other_settings_auto_update_summary_v1">Dopustite MIUI-ju da odabere najbolje vrijeme za preuzimanje i instaliranje ažuriranja. Vaš će se uređaj automatski ponovno pokrenuti radi primjene promjena.</string>
+  <string name="other_settings_auto_update_summary">HyperOS će odabrati najbolji trenutak za instaliranje ažuriranja.</string>
+  <string name="other_settings_auto_update_summary_v1">Dopustite HyperOS-u da odabere najbolje vrijeme za preuzimanje i instaliranje ažuriranja. Vaš će se uređaj automatski ponovno pokrenuti radi primjene promjena.</string>
   <string name="other_settings_enhanced_lockscreen">Wallpaper Carousel</string>
-  <string name="other_settings_enhanced_lockscreen_for_india">Pogled za Mi</string>
+  <string name="other_settings_enhanced_lockscreen_for_india">Pogled za HyperOS</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">Pravila o privatnosti</string>
   <string name="other_settings_enhanced_lockscreen_summary">Dobijte slike i priče koje se dnevno isporučuju na vaš Zaklj. zaslon. Primjenjuju se Uvjeti i odredbe.</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">Uvjeti i odredbe</string>
@@ -407,18 +407,18 @@ Dostupne usluge međusobnog povezivanja mogu se razlikovati ovisno o verziji va�
 Autom. ažuriranja možete isključiti u GetApps &gt; Postavke &gt; Autom. ažuriranja."</string>
   <string name="other_settings_location">Lokacije</string>
   <string name="other_settings_location_summary">Dopustite aplikacijama i web-lokacijama pristup informacijama o vašoj lokaciji radi pružanja usluga temeljenih na lokaciji</string>
-  <string name="other_settings_quality_service">Dopuštenja za MIUI Daemon</string>
-  <string name="other_settings_quality_service_summary">MIUI Daemon koristi se za poboljšanje stabilnosti i performansi sustava. Da bi mogla normalno raditi, ovoj usluzi su potrebna dopuštenja za pristup i spremanje stavki u pohranu uređaja.</string>
-  <string name="other_settings_upload_debug_log_detail">"Pomozite poboljšati doživljaj MIUI uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, MIUI sustav i stabilnost aplikacije i još mnogo toga.
-Podaci koje ćete poslati sadržavat će opće podatke o vašem uređaju i načinu na koji ga upotrebljavate (npr. Razina baterije, aktivnost sustava i aplikacija i pogreške). Podaci će se koristiti za poboljšanje MIUI uređaja.
+  <string name="other_settings_quality_service">Dopuštenja za HyperOS Daemon</string>
+  <string name="other_settings_quality_service_summary">HyperOS Daemon koristi se za poboljšanje stabilnosti i performansi sustava. Da bi mogla normalno raditi, ovoj usluzi su potrebna dopuštenja za pristup i spremanje stavki u pohranu uređaja.</string>
+  <string name="other_settings_upload_debug_log_detail">"Pomozite poboljšati doživljaj HyperOS uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, HyperOS sustav i stabilnost aplikacije i još mnogo toga.
+Podaci koje ćete poslati sadržavat će opće podatke o vašem uređaju i načinu na koji ga upotrebljavate (npr. Razina baterije, aktivnost sustava i aplikacija i pogreške). Podaci će se koristiti za poboljšanje HyperOS uređaja.
 Isključivanje ove značajke ne utječe na sposobnost uređaja da šalje podatke potrebne za osnovne usluge kao što su ažuriranja sustava i sigurnost.
-Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; Privatnost &gt; Korištenje i dijagnostika."</string>
-  <string name="other_settings_upload_debug_log_summary">Pomozite poboljšati doživljaj MIUI uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, MIUI sustav i stabilnost aplikacije i još mnogo toga.</string>
+Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; Privatnost &gt; Korištenje i dijagnostika."</string>
+  <string name="other_settings_upload_debug_log_summary">Pomozite poboljšati doživljaj HyperOS uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, HyperOS sustav i stabilnost aplikacije i još mnogo toga.</string>
   <string name="other_settings_upload_debug_log_title">Pošaljite podatke o korištenju i dijagnostici</string>
   <string name="other_settings_user_experience">Program iskustva korisnika</string>
-  <string name="other_settings_user_experience_summary">Pomozite nam poboljšati naše proizvode i usluge tako što ćete s nama podijeliti svoju statistiku korištenja.</string>
+  <string name="other_settings_user_experience_summary">"Pomozite nam poboljšati naše proizvode i usluge tako što ćete s nama podijeliti svoju statistiku korištenja i analitiku." </string>
   <string name="other_settings_user_experience_summary_index">Detalji</string>
-  <string name="permission_MIUIDaemon_introduction">MIUI Daemon omogućuje vam prijenos podataka s uređaja kada je njegov zaslon oštećen.</string>
+  <string name="permission_MIUIDaemon_introduction">HyperOS Daemon omogućuje vam prijenos podataka s uređaja kada je njegov zaslon oštećen.</string>
   <string name="permission_access_calendar">Pristup kalendaru</string>
   <string name="permission_access_calendar_fast_application_summary">Za omogućavanje brzim aplikacijama pristup kalendaru:</string>
   <string name="permission_account">Pristup informacijama o računu</string>
@@ -435,7 +435,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="permission_clock_info_introduction">Za spremanje podataka alarma</string>
   <string name="permission_contact">Pristup kontaktima</string>
   <string name="permission_contact_describe">Pristup kontaktima</string>
-  <string name="permission_contact_describe_MIUIDaemon_summary">Za provjeru vašeg identiteta.</string>
+  <string name="permission_contact_describe_HyperOSDaemon_summary">Za provjeru vašeg identiteta.</string>
   <string name="permission_contact_describe_bluetooth_summary">Za omogućavanje pristupa kontaktima drugim kompatibilnim uređajima koje povezujete s ovim uređajem. To će se dogoditi samo kada uključite Bluetooth ili uredite svoje kontakte dok je Bluetooth uključen.</string>
   <string name="permission_contact_describe_desktop_summary">Za korištenje značajke kontakta za hitne slučajeve na početnom zaslonu u Lite načinu rada i prikaz obavijesti o razgovorima</string>
   <string name="permission_contact_describe_message_summary">Za prikaz odgovarajućih kontaktnih podataka SMS -a i MMS -a.</string>
@@ -590,8 +590,8 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="service_fast_pairing_policy">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Mi Link Privacy Policy&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
   <string name="service_interconnection_communication">Xiaomi Internet Communication Services</string>
   <string name="service_location_share_policy">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Location Services Privacy Statement&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
-  <string name="service_mi_account">Xiaomi račun</string>
-  <string name="service_name_MIUIDaemon">MIUI Daemon</string>
+  <string name="service_name_MIUIDaemon">Xiaomi račun</string>
+  <string name="service_name_HyperOSDaemon">HyperOS Daemon</string>
   <string name="service_name_address_dialing">Kontakti i Telefon</string>
   <string name="service_name_album">Galerija</string>
   <string name="service_name_application_package">Alat za instalaciju paketa</string>
@@ -629,7 +629,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="servicestate_title">Izjava o osnovnim uslugama</string>
   <string name="setting_locale">Postavljanje regije…</string>
   <string name="shut_down">Isključivanje</string>
-  <string name="sim_activation_introduction">Usluga aktivacije SIM kartice provjerava podatke trenutno umetnute SIM kartice kako bi se uvjerila da usluge MIUI mogu normalno raditi. Ove usluge uključuju Pronađi uređaj, Mi poruku, izradu Xiaomi računa pomoću telefonskih brojeva te sinkronizaciju poruka i povijesti poziva.</string>
+  <string name="sim_activation_introduction">Usluga aktivacije SIM kartice provjerava podatke trenutno umetnute SIM kartice kako bi se uvjerila da usluge HyperOS mogu normalno raditi. Ove usluge uključuju Pronađi uređaj, Mi poruku, izradu Xiaomi računa pomoću telefonskih brojeva te sinkronizaciju poruka i povijesti poziva.</string>
   <string name="sim_card_detecting">Provjeravam SIM karticu…</string>
   <string name="sim_card_detecting_check">"Ne mogu pronaći SIM karticu. Provjerite je li SIM kartica pravilno umetnuta i imate li dovoljno sredstava na svom računu."</string>
   <string name="sim_card_detecting_confirm_turn_on_network">Dopustiti povezivanje s mobilnim podatkovnim mrežama? Ako to učinite, SIM kartica koju umetnete koristit će se za povezivanje s mobilnim podatkovnim mrežama.</string>
@@ -665,12 +665,13 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="term_condition_detail">"Svakodnevno dobivajte zapanjujuće slike i uzbudljive priče na zaključanom zaslonu. Ova značajka neće koristiti vaše podatke za prilagodbu bez vašeg pristanka. Pročitajte i složite se s pružateljima sadržaja treće strane &lt;a href =%1$s&gt;Pravila o privatnosti&lt;/a&gt; i &lt;a href =%2$s&gt;Korisnički ugovor&lt;/a&gt; prije korištenja ove značajke."</string>
   <string name="terms_of_label_period">". "</string>
   <string name="terms_of_label_separator">", "</string>
+  <string name="terms_of_label_space">" "</string>
   <string name="terms_of_use">Uvjeti i Odredbe</string>
   <string name="terms_of_use_label_MSA">MSA</string>
-  <string name="terms_of_use_label_Mistore">Mi Store system plug-in</string>
+  <string name="terms_of_use_label_Mistore">Mi Store</string>
   <string name="terms_of_use_label_RMS">Upravitelj dopuštenja</string>
   <string name="terms_of_use_label_ai_assistant">AI Pomoćnik</string>
-  <string name="terms_of_use_label_app_vault">Zaklj. aplikacija</string>
+  <string name="terms_of_use_label_app_vault">Mi Link</string>
   <string name="terms_of_use_label_back">Usluga sigurnosnog kopiranja</string>
   <string name="terms_of_use_label_ble">Davatelj spojenih lokacija</string>
   <string name="terms_of_use_label_cloud">Xiaomi Cloud</string>
@@ -680,13 +681,13 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="terms_of_use_label_home">Poč. zaslon</string>
   <string name="terms_of_use_label_htmlViewer">HTML Viewer</string>
   <string name="terms_of_use_label_htmlviewer">HTML Viewer</string>
-  <string name="terms_of_use_label_info_assistant">Mi Link</string>
+  <string name="terms_of_use_label_info_assistant">Zaklj. aplikacija</string>
   <string name="terms_of_use_label_joyose">Joyose</string>
-  <string name="terms_of_use_label_landscape">funkcionalnost optimizacije pejzažnog prikaza</string>
+  <string name="terms_of_use_label_landscape">Pejzažni prikaz</string>
   <string name="terms_of_use_label_mab">MAB</string>
   <string name="terms_of_use_label_mi_account">Komponente Xiaomi računa</string>
-  <string name="terms_of_use_label_miuiDaemon">MIUI Daemon</string>
-  <string name="terms_of_use_label_miuisdk">MIUI SDK</string>
+  <string name="terms_of_use_label_miuiDaemon">HyperOS Daemon</string>
+  <string name="terms_of_use_label_miuisdk">HyperOS SDK</string>
   <string name="terms_of_use_label_os">OS AI Postavke</string>
   <string name="terms_of_use_label_package">Alat za instalaciju paketa</string>
   <string name="terms_of_use_label_parallel_windows">Paralelni prozori</string>
@@ -695,7 +696,7 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="terms_of_use_label_power_performance">Baterija i performanse</string>
   <string name="terms_of_use_label_quickapp">Brze aplikacije</string>
   <string name="terms_of_use_label_secure">Aplikacija sigurnih elemenata</string>
-  <string name="terms_of_use_label_simcard">Mi SIM usluge aktivacije</string>
+  <string name="terms_of_use_label_simcard">SIM usluge aktivacije</string>
   <string name="terms_of_use_label_smart_service">Pametne usluge</string>
   <string name="terms_of_use_label_statistics">Statistika</string>
   <string name="terms_of_use_label_system_quality_monitoring">Praćenje kvalitete sustava</string>
@@ -703,8 +704,8 @@ Ovom značajkom možete upravljati u Postavke&gt; Zaporke &amp; sigurnost &gt; P
   <string name="terms_of_use_label_translation">Usluga prevođenja</string>
   <string name="terms_of_use_label_unionplay_security">UnionPay TSM Secure Element (Xiaomi verzija)</string>
   <string name="terms_of_use_label_updater">Ažuriranje</string>
-  <string name="terms_of_use_label_use_location_and_network_global">Prije korištenja MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, sljedeće će se usluge povezati s mrežom i pristupiti vašoj lokaciji:</string>
-  <string name="terms_of_use_label_use_network_china">Prije korištenja MIUI-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, na mrežu će se povezati sljedeće usluge:</string>
+  <string name="terms_of_use_label_use_location_and_network_global">Prije korištenja HyperOS-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, sljedeće će se usluge povezati s mrežom i pristupiti vašoj lokaciji:</string>
+  <string name="terms_of_use_label_use_network_china">Prije korištenja HyperOS-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, na mrežu će se povezati sljedeće usluge:</string>
   <string name="terms_of_use_label_wallpaper">Slika pozadine</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 

@@ -876,6 +876,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="stylus_connect_fail_not_match_tablet">"Stylus nije kompatibilan s tabletom"</string>
   <string name="stylus_connect_fail_not_open_gps">"Nije moguće povezati se. Uključite usluge lokacije i pokušajte ponovno."</string>
   <string name="stylus_connecting">Povezivanje…</string>
+  <string name="stylus_dislocation_summary">Ovdje pričvrstite olovku</string>
   <string name="stylus_focus_welcome">Upoznajte Xiaomi Focus Pen</string>
   <string name="stylus_function_and_action">Značajke</string>
   <string name="stylus_function_summary">Značajke</string>
@@ -986,7 +987,7 @@ za ulazak u Drugi prostor sa Zaklj. zaslona"</string>
   <string name="tof_learn_gesture_operation_success">Gotovo!</string>
   <string name="tof_learn_gesture_position_tip">Držite ruku od %1$d do %2$d cm od kamere i izvedite pokret nakon što se pojavi ikona ruke</string>
   <string name="tof_learn_incall_company">Mi Mobile</string>
-  <string name="tof_learn_incall_date">Petak</string>
+  <string name="tof_learn_incall_date">Čet</string>
   <string name="tof_learn_incall_from">S vašeg Xiaomi 13</string>
   <string name="tof_learn_incall_location">Changsha, China Telecom</string>
   <string name="tof_learn_up_gesture_position_tip">Držite svoju ruku %1$d do %2$d cm od kamere s dlanom okrenutim prema dolje i izvedite pokret nakon što se pojavi ikona ruke</string>

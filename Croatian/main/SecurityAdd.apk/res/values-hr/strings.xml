@@ -172,6 +172,8 @@
     <string name="gb_gpu_dialog_button_countdown">Razumijem (%s)</string>
     <string name="gb_gpu_dialog_message">Primjenjuju se trenutne postavke GPU-a za \"%s\". Ponovo pokrenite igru da biste primijenili postavke.</string>
     <string name="gb_gpu_dialog_titile">GPU postavke</string>
+	 <string name="gb_gpu_pannel_touch_ctl_dialog_message">"Dodirne kontrole su ažurirane. Sada možete pronaći povezane značajke u Prečaci igara > Poboljšane dodirne kontrole dok igrate igrice."</string>
+    <string name="gb_gpu_pannel_touch_ctl_dialog_title">Nove dodirne kontrole</string>
     <string name="gb_gpu_rader_graph">Kvaliteta slike</string>
     <string name="gb_gpu_rader_maxfps">Najviši frame rate</string>
     <string name="gb_gpu_rader_remain">Performanse</string>
