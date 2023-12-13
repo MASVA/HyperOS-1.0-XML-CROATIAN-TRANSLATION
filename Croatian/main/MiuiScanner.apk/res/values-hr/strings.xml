@@ -33,7 +33,7 @@
     <string name="address">Adresa:</string>
     <string name="adjustment_area">Prilagodi</string>
     <string name="agree_app_use">Skeniranje QR kodova i drugih slika (neke će značajke možda zahtijevati pristup vašoj lokaciji)</string>
-    <string name="agree_btn">Slažem se</string>
+    <string name="agree_btn">Prihvaćam</string>
     <string name="agree_camera_permission">Za korištenje kamere za skeniranje stavki</string>
     <string name="agree_camera_permission_message">Za korištenje kamere za skeniranje stavki</string>
     <string name="agree_storage_permission">Za pristup i uvoz slika galerije i spremanje datoteka</string>
@@ -58,11 +58,11 @@
     <string name="business_no_result">"Ne mogu prepoznati posjetnicu. Pokušajte ponovo."</string>
     <string name="calender">Kalendar</string>
     <string name="call_anyone">Poziv</string>
-    <string name="call_phone_permissions_text">Dopustite Skeneru upućivanje poziva kako bi mogao koristiti ovu značajku.</string>
+    <string name="call_phone_permissions_text">Dopustite aplikaciji Skener upućivanje poziva kako bi mogao koristiti ovu značajku.</string>
     <string name="calories_logo_text">AI podršku pruža Health Hope</string>
     <string name="calories_request_interface_text">AI podrška</string>
     <string name="camera_error_title">Pogreška kamere</string>
-    <string name="camera_permissions_text">Dopustite Skeneru pristup kameri kako bi mogao koristiti ovu značajku.</string>
+    <string name="camera_permissions_text">Dopustite aplikaciji Skener pristup kameri kako bi mogao koristiti ovu značajku.</string>
     <string name="camera_stealth_mode_message">Povezivanje s kamerom nije moguće. Ako je potrebna kamera, isključite Prikriveni način rada.</string>
     <string name="camera_stealth_mode_title">Prikriveni način rada je omogućen</string>
     <string name="can_only_be_English_Chinese">Jezik mrežnog prevođenja može biti samo engleski i pojednostavljeni kineski</string>
@@ -571,7 +571,7 @@
     <string name="query_tracking">Isporuka</string>
     <string name="query_tracknum">Provjerite narudžbu ekspresne dostave</string>
     <string name="qureyGoods">Traži proizvode</string>
-    <string name="read_contacts_permissions_text">Dopustite Skeneru pristup kontaktima kako bi mogli koristiti ovu značajku.</string>
+    <string name="read_contacts_permissions_text">Dopustite aplikaciji Skener pristup kontaktima kako bi mogli koristiti ovu značajku.</string>
     <string name="recognition_form_fail_10010">"Pogreška 010: Ne mogu prepoznati. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
     <string name="recognition_form_fail_1003">"Pogreška 003: Ne mogu prepoznati. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
     <string name="recognition_form_fail_1005">"Pogreška 005: Ne mogu prepoznati. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
@@ -662,11 +662,11 @@
     <string name="shopping_vendor_info">Powered by Taobao</string>
     <string name="smart_scan_code">Pametni skener</string>
     <string name="spaceIsLow_content">Nema dovoljno prostora na unutarnjoj pohrani. Oslobodite nešto prostora.</string>
-    <string name="storage_permissions_text">Dopustite Skeneru pristup pohrani uređaja kako biste mogli koristiti ovu značajku.</string>
+    <string name="storage_permissions_text">Dopustite aplikaciji Skener pristup pohrani uređaja kako biste mogli koristiti ovu značajku.</string>
     <string name="store_feedback_prompt">Prvo unesite povratne informacije</string>
     <string name="store_location_dialog">Ovu uslugu pruža Dianping. Sve fotografije koje napravite dok koristite ovu uslugu, uključujući s njima povezane informacije o lokaciji, dijelit će se Dianpingu kako bi dobili informacije o trgovinama.</string>
     <string name="store_location_fail">"Nije bilo moguće dobiti informacije o lokaciji"</string>
-    <string name="store_location_prompt">Dopusti Skeneru pristup vašoj lokaciji kako bi mogao prepoznati trgovine</string>
+    <string name="store_location_prompt">Dopustite aplikaciji Skener pristup vašoj lokaciji kako bi mogao prepoznati trgovine</string>
     <string name="store_module_title">Trgovina</string>
     <string name="store_no_date">"Ne mogu prepoznati trgovinu"</string>
     <string name="store_title">Skeniraj znak trgovine</string>

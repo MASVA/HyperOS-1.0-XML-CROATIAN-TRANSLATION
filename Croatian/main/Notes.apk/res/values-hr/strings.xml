@@ -146,8 +146,8 @@
   <string name="clip_resource_deleted">Ova stavka više nije dostupna</string>
   <string name="close">Zatvori</string>
   <string name="cloud_trash_bin_title">Izbriši bilješke u Xiaomi Cloudu</string>
-  <string name="confirm_cancel">"Ne slažem se"</string>
-  <string name="confirm_ok">Slažem se</string>
+  <string name="confirm_cancel">"Ne prihvaćam"</string>
+  <string name="confirm_ok">Prihvaćam</string>
   <string name="continuous_default_hint">Kopirajte tekst, spremajte slike i snimke zaslona kao isječke</string>
   <string name="continuous_new_excerpt_title">Novi isječak</string>
   <string name="copy">Kopiraj</string>
@@ -174,7 +174,7 @@
   <string name="date_time_picker_has_not_set_alarm">"Alarm nije postavljen"</string>
   <string name="date_time_picker_has_set_alarm">Alarm uspješno postavljen</string>
   <string name="db_downgrade_clear_button">Izbriši podatke aplikacije</string>
-  <string name="db_downgrade_clear_date_reminder">"Prebacivanje na drugu MIUI verziju zahtijeva brisanje podataka aplikacije za Bilješke. Prije nego što to učinite, provjerite jeste li napravili Sig. kopiju bilježaka na Xiaomi Cloud."</string>
+  <string name="db_downgrade_clear_date_reminder">"Prebacivanje na drugu HyperOS verziju zahtijeva brisanje podataka aplikacije Bilješke. Prije nego što to učinite, provjerite jeste li napravili Sig. kopiju na Xiaomi Cloud."</string>
   <string name="default_folder_name">"Mapa bez naziva"</string>
   <string name="default_update_documents">Dostupno je ažuriranje. Ažurirati sada?</string>
   <string name="delete_folder_dialog_tile">Izbriši mapu</string>
@@ -186,7 +186,7 @@
   <string name="dialog_button_i_know">Razumijem</string>
   <string name="dialog_button_move">Premjesti</string>
   <string name="dialog_expert_as_markdown">Izvezi kao Markdown</string>
-  <string name="dialog_privacy_revoke_tips">"Nakon opoziva autorizacije, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Ipak opozvati autorizaciju? Da biste osigurali sigurnost računa, prijavite se na i.mi.com prije nego što opozovete autorizaciju za usluge Xiaomi Cloud."</string>
+  <string name="dialog_privacy_revoke_tips">"Nakon opoziva suglasnosti, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Svejedno opozvati suglasnost? Da biste osigurali sigurnost računa, prijavite se na i.mi.com prije nego što opozovete suglasnost usluga Xiaomi Cloud."</string>
   <string name="dialog_share_as_pic">Podijeli bilješku kao sliku</string>
   <string name="dialog_share_as_text">Podijeli bilješku kao tekst</string>
   <string name="dialog_share_title">Podijeli bilješku</string>
@@ -199,9 +199,9 @@
   <string name="dlg_info_creating_message">Izrada poruke…</string>
   <string name="dlg_info_save_to_gallery_message">Spremanje slike u Galeriju…</string>
   <string name="dlg_info_save_to_local_message">Spremanje…</string>
-  <string name="dlg_message_password_reset">"Zaporka skrivenih bilješki biti će zamijenjena s Zaporkom zaštite privatnosti koja funkcionira za fotografije, bilješke i skrivene mape"</string>
+  <string name="dlg_message_password_reset">"Zaporka skrivenih bilješki biti će zamijenjena s zaporkom zaštite privatnosti koja funkcionira za fotografije, bilješke i skrivene mape"</string>
   <string name="dlg_message_set_password">Zaporka zaštite privatnosti funkcionira za fotografije, bilješke i skrivene mape</string>
-  <string name="dlg_message_use_privacy_password">Upotrijebi Zaporku zaštite privatnosti. Funkcionira za fotografije, bilješke i skrivene mape</string>
+  <string name="dlg_message_use_privacy_password">Koristi zaporku zaštite privatnosti. Funkcionira za fotografije, bilješke i skrivene mape</string>
   <string name="dlg_move_message">Premještanje…</string>
   <string name="dlg_privacy_message">Skrivanje…</string>
   <string name="dlg_quick_delete_title">Brzo brisanje</string>
@@ -210,7 +210,7 @@
   <string name="dlg_title_confirm_alarm_silent">Utišaj alarme</string>
   <string name="dlg_title_password_reset">Nadogradite vašu zaporku</string>
   <string name="dlg_title_set_password">Postavi zaporku</string>
-  <string name="dlg_title_use_privacy_password">Upotrijebi Zaporku zaštite privatnosti</string>
+  <string name="dlg_title_use_privacy_password">Upotrijebi zaporku zaštite privatnosti</string>
   <string name="dlg_unhide_message">Otkrivanje…</string>
   <string name="dlg_unmark_privacy_message">Otkrivanje…</string>
   <string name="dlg_update_cancel">Ne sad</string>
@@ -259,7 +259,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="empty_folder_no_notes">Nema ništa</string>
   <string name="empty_note_mark_privacy_error">"Ne mogu sakriti praznu bilješku"</string>
   <string name="enable_sync">Sinkroniziraj</string>
-  <string name="enable_sync_desc">Sinkronizirati vaše bilješke s vašim Xiaomi Računom (%1$s)?</string>
+  <string name="enable_sync_desc">Sinkronizirati vaše bilješke s vašim Xiaomi računom (%1$s)?</string>
   <string name="error_contact_not_exist">"Kontakt ne postoji"</string>
   <string name="error_hide_empty_note">"Ne mogu sakriti praznu bilješku"</string>
   <string name="error_icon_content_description">Pogreška</string>
@@ -348,7 +348,6 @@ Dodirnite + da napravite mapu"</string>
   <string name="last_excerpt_unfinish_hint">Najnoviji isječak je nepotpun</string>
   <string name="loading_text">Samo trenutak…</string>
   <string name="login_sync">Prijavi se &amp; sinkr.</string>
-  <string name="lunar_day">Lunar %1$s</string>
   <string name="manage_folders">Upravljanje mapama</string>
   <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
   <string name="material_hour_selection">Odaberite sat</string>
@@ -572,7 +571,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="network_error_info">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
   <string name="network_timeout_info">"Ne mogu se povezati s mrežom. Pokušajte ponovno."</string>
   <string name="new_alert_title_delete">Izbriši bilješke</string>
-  <string name="new_app_name">Mi Bilješke</string>
+  <string name="new_app_name">Bilješke</string>
   <string name="new_audio_create_cancel_talkback_des">Otkazano</string>
   <string name="new_audio_create_done_talkback_des">Izrađeno</string>
   <string name="new_audio_create_guide_tip">Pritisnite i držite za stvaranje glasovne bilješke</string>
@@ -681,9 +680,9 @@ Dodirnite + da napravite mapu"</string>
   <string name="permission_storage_desc_pad_new_v12">Za dodavanje slika u bilješke i spremanje bilješki kao slika</string>
   <string name="permission_storage_desc_pad_v12">Za dodavanje slika u bilješke i spremanje bilješki kao slika</string>
   <string name="permission_storage_desc_v12">Za dodavanje slika u bilješke i spremanje bilješki kao slike</string>
-  <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI prikupit &amp;#263;e va&amp;#353;e glasovne snimke i ID ure&amp;#273;aja da prepi&amp;#353;e zvuk i izradi glasovne bilje&amp;#353;ke. Saznajte vi&amp;#353;e u Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-  <string name="permission_xiaoai_desc_m">&lt;Data&gt;Kako bi pru&amp;#382;io usluge transkripcije govora u tekst, Mi AI treba prikupiti audio ulaz i IMEI va&amp;#353;eg ure&amp;#273;aja. Pro&amp;#269;itajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Izjavu Bilje&amp;#353;ki o dijeljenju podataka tre&amp;#263;e strane&amp;lt;/a&amp;gt; prije nego nastavite. Tako&amp;#273;er mo&amp;#382;ete saznati vi&amp;#353;e &amp;#269;itanjem Mi AI &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-  <string name="permission_xiaoai_desc_new">&lt;Data&gt;Kako bi pru&amp;#382;io usluge transkripcije govora u tekst, Mi AI treba prikupiti audio ulaz i ID va&amp;#353;eg ure&amp;#273;aja, koji se nasumi&amp;#269;no generira. Pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=\"%1$s\"&amp;gt;Bilje&amp;#353;ke Izjava o dijeljenju podataka tre&amp;#263;e strane&amp;lt;/a&amp;gt; prije nego nastavite. Tako&amp;#273;er mo&amp;#382;ete saznati vi&amp;#353;e &amp;#269;itaju&amp;#263;i Mi AI &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI prikupit će vaše glasovne snimke i ID uređaja da prepiše zvuk i izradi glasovne bilješke. Saznajte više u Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="permission_xiaoai_desc_m">&lt;Data&gt;Kako bi pružio usluge transkripcije govora u tekst, Mi AI treba prikupiti audio ulaz i IMEI vašeg uređaja. Pročitajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Izjavu Bilješki o dijeljenju podataka treće strane&amp;lt;/a&amp;gt; prije nego nastavite. Također možete saznati više čitanjem Mi AI &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="permission_xiaoai_desc_new">&lt;Data&gt;Kako bi pružio usluge transkripcije govora u tekst, Mi AI treba prikupiti audio ulaz i ID vašeg uređaja, koji se nasumično generira. Pročitajte i prihvatite naše &amp;lt;a href=\"%1$s\"&amp;gt;Bilješke Izjava o dijeljenju podataka treće strane&amp;lt;/a&amp;gt; prije nego nastavite. Također možete saznati više čitajući Mi AI &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="permission_xiaoai_title">Pretvaranje govora u tekst</string>
   <string name="permlab_accessNote">Pristup bilješkama</string>
   <string name="pm">PM</string>

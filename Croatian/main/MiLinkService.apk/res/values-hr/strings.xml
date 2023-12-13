@@ -344,6 +344,7 @@ Vaši uređaji?"</string>
   <string name="close">Zatvori</string>
   <string name="close_auxiliary_wifi_hint">Isključite \"Pojačajte Wi-Fi brzinu\" da biste mogli emitirati</string>
   <string name="close_auxiliary_wifi_hint_china">Isključite \"Pojačajte Wi-Fi brzinu\" da biste mogli emitirati</string>
+  <string name="close_dp_casting_hint">Odspojite kabel i pokušajte ponovno</string>
   <string name="close_hotspot_hint">Isključite prijenosni hotspot prije emitiranja</string>
   <string name="close_hotspot_hint_DFS">Za prijenos stavki na TV, prvo isključite hotspot.</string>
   <string name="close_invisible_mode_dialog_cancel">Odustani</string>
@@ -822,6 +823,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="mtrl_timepicker_cancel">Odustani</string>
   <string name="mtrl_timepicker_confirm">U redu</string>
   <string name="nfc_connect_failed_toast">"Nije moguće emitirati. Pokušajte ponovo."</string>
+  <string name="notify_content">Pokreni u pozadini</string>
   <string name="no_permission">"Ne mogu vidjeti ovu stranicu"</string>
   <string name="normal_device_desc">"Uređaji s kojima ste se povezali, ali ih niste označili kao pouzdane"</string>
   <string name="normal_device_desc_limit">"Uređaji s kojima ste se povezali, ali ih niste označili kao pouzdane"</string>

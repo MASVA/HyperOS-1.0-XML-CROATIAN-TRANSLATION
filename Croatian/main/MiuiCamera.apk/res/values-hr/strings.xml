@@ -2536,9 +2536,9 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="simple_mode_title">Jednostavan način</string>
   <string name="slideshow">Dijaprojekcija</string>
   <string name="slow_shutter_description_title">Sporo zatvarač</string>
-  <string name="slow_shutter_tip1">Pratite predmete koji se kreću pri slabom osvjetljenju.</string>
+  <string name="slow_shutter_tip1">Pratite predmete koja su u pokretu pri slabom osvjetljenju.</string>
   <string name="slow_shutter_tip2">Isprobajte sporo okidanje u različitim scenama.</string>
-  <string name="slow_shutter_tip3">Ovaj efekt dobro funkcionira kod ljudi koji trče i vozila koja se kreću.</string>
+  <string name="slow_shutter_tip3">Ovaj efekt dobro funkcionira kod ljudi koji trče i vozila koja su u pokretu.</string>
   <string name="slow_shutter_tip4">Snimite zamućenje pokreta u pozadini.</string>
   <string name="slow_shutter_tip5">I držite svoj predmet jasnim.</string>
   <string name="slow_shutter_title2">Snimite pokret</string>
@@ -2555,8 +2555,11 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="softlight_fragment_tab_name_brightness">Svjetlina</string>
   <string name="softlight_fragment_tab_name_color_temp">Temperatura</string>
   <string name="softlight_fragment_tab_name_lighting_mode">Petlja</string>
+  <string name="sorftlight_style_candle">Svijeća</string>
   <string name="sorftlight_style_cold">Hladno</string>
   <string name="sorftlight_style_cold_alert">Ured</string>
+  <string name="sorftlight_style_cole_white">Cool</string>
+  <string name="sorftlight_style_warm_white">Toplo</string>
   <string name="sorftlight_style_nature">Prirodno</string>
   <string name="sorftlight_style_nature_alert">Na otvorenom</string>
   <string name="sorftlight_style_warm">Toplo</string>

@@ -29,7 +29,7 @@
     <string name="abc_toolbar_collapse_description">Sažmi</string>
     <string name="actionbar_button_up_description">Natrag</string>
     <string name="age">Dob</string>
-    <string name="allow">Slažem se</string>
+    <string name="allow">Prihvaćam</string>
     <string name="app_name">Kalkulator</string>
     <string name="baby_care">Njega dojenčadi</string>
     <string name="base_rate">Osnovna kamatna stopa</string>
@@ -70,7 +70,7 @@
     <string name="currency_update_support">Tečajnu listu pruža Webull.</string>
     <string name="currency_update_time_format">Devizni tečaj osigurava Webull (%s)</string>
     <string name="currency_update_updating">Ažuriranje stope…</string>
-    <string name="data_analysis">Analysis</string>
+    <string name="data_analysis">Analiza</string>
     <string name="date_format">dd.MM.yyyy</string>
     <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
     <string name="daughter">Kći</string>
@@ -289,7 +289,7 @@ Jednogodišnji i petogodišnji LPR će se citirati 20. u mjesecu (mogu doći do 
     <string name="negDesc">Promjeni između temperatura ispod i iznad nule</string>
     <string name="new_privacy_string"><Data>"Dobrodošli u Kalkulator!&lt;br/>Ova aplikacija sadrži sljedeće značajke:&lt;br/>• Osnovni kalkulator&lt;br/>• Znanstveni kalkulator&lt;br/>• Univerzalni pretvarač (npr. valuta, mjerne jedinice itd.)&lt;br/>• Predlošci za izračun kredita, ulaganja, EMI i još mnogo toga&lt;br/>Možete saznati kako postupamo s podacima koje prikupljamo u našim &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>. Pročitajte i prihvatite naše &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%3$s\">Pravila o privatnosti&lt;/a> prije korištenja Kalkulatora. Svoju suglasnost na Pravila o privatnosti Kalkulatora možete povući u Postavkama u bilo kojem trenutku. Ako ne prihvatite naša Pravila o privatnosti, nećete moći koristiti neke značajke ove aplikacije; međutim, njegova osnovna funkcionalnost i dalje će vam biti dostupna."</Data></string>
     <string name="none">Ništa</string>
-    <string name="normal">Normal</string>
+    <string name="normal">Normalno</string>
     <string name="not_set">Nije postavljeno</string>
     <string name="not_supported_due_to_language">Ova značajka dostupna je samo za kineski jezik</string>
     <string name="ok">U redu</string>
