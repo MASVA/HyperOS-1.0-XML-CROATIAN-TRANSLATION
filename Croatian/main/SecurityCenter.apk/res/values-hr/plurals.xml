@@ -331,7 +331,7 @@
     </plurals>
     <plurals name="gb_dialog_record_way_ai_desc">
         <item quantity="other">Automatski snimajte ključne trenutke i generirajte videozapise s istaknutim trenucima. Možete odabrati da ih trajno spremite nakon svake sesije igranja. Nespremljeni videozapisi automatski će se izbrisati nakon %1$d dana.</item>
-         <item quantity="other">Automatski snimajte ključne trenutke i generirajte videozapise s istaknutim trenucima. Možete odabrati da ih trajno spremite nakon svake sesije igranja. Nespremljeni videozapisi automatski će se izbrisati nakon %1$d dana.</item>
+         <item quantity="one">Automatski snimajte ključne trenutke i generirajte videozapise s istaknutim trenucima. Možete odabrati da ih trajno spremite nakon svake sesije igranja. Nespremljeni videozapisi automatski će se izbrisati nakon %1$d dana.</item>
     </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
         <item quantity="other">Spremljeno %d AI snimki u Game Turbo</item>
@@ -707,8 +707,8 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="one">%d stavka</item>
     </plurals>
     <plurals name="pc_extreme_mode_count_down_title">
-        <item quantity="other">Your device is out of battery. Entering Hibernation mode in %1$d seconds.</item>
-        <item quantity="one">Your device is out of battery. Entering Hibernation mode in %1$d second.</item>
+        <item quantity="other">Baterija vašeg uređaja je prazna. Ulazak u stanje hibernacije za %1$d sek.</item>
+        <item quantity="one">Baterija vašeg uređaja je prazna. Ulazak u stanje hibernacije za %1$d sek.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s dana</item>
@@ -1067,7 +1067,7 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="one">%s hr</item>
     </plurals>
     <plurals name="power_battery_minute">
-        <item quantity="other">%s mins</item>
+        <item quantity="other">%s min</item>
         <item quantity="one">%s min</item>
     </plurals>
     <plurals name="power_center_battery_charge_number">
