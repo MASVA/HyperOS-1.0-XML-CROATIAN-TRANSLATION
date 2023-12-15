@@ -188,6 +188,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="decompress_destination_error">"Ne mogu raspakirati datoteke na ovom mjestu."</string>
   <string name="decompress_encrypted_rar_not_supported">Šifrirana RAR datoteka nije podržana.</string>
   <string name="decompress_fail">"Ne mogu raspakirati datoteke."</string>
+  <string name="decompress_fail_contains_special_characters">"Nije moguće komprimirati. Imena komprimiranih datoteka ne smiju sadržavati posebne znakove."</string>
   <string name="decompress_input_password">Unesite zaporku</string>
   <string name="decompress_password_error">Pogrešna zaporka. Pokušajte ponovo…</string>
   <string name="decompress_success">Raspakiranje završeno</string>
@@ -205,7 +206,7 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="delete_folder">Izbrisati ovu mapu?</string>
   <string name="des_hide_pwd">Sakrij zaporku</string>
   <string name="des_show_pwd">Prikaži zaporku</string>
-  <string name="dialog_account_permission_denied_msg">Dopustite ovoj aplikaciji pristup računima uređaja kako bi se mogla prijaviti na Mi Drive. Ovu dozvolu možete dati u postavkama.</string>
+  <string name="dialog_account_permission_denied_msg">Dopustite ovoj aplikaciji pristup računima uređaja kako bi se mogla prijaviti na Mi Drive. Ovo dopuštenje možete dati u postavkama.</string>
   <string name="dialog_account_permission_denied_negative_button">Odustani</string>
   <string name="dialog_account_permission_denied_positive_button">Postavke</string>
   <string name="dialog_account_permission_denied_title">Potrebna dopuštenja</string>
@@ -587,13 +588,14 @@ Pokušajte premjestiti datoteke sa svog uređaja na Mi Drive."</string>
   <string name="operation_decompressing">Raspakiranje…</string>
   <string name="operation_del_fav">Uklanjanje iz favorita…</string>
   <string name="operation_delete">Izbriši</string>
+  <string name="operation_delete_confirm_dcim_message_folder">DCIM je mapa galerije. Ako izbrišete ovu mapu, sve stavke unutar nje također će biti trajno izbrisane iz Galerije. Svejedno izbrisati ovu mapu?</string>
   <string name="operation_delete_confirm_message">Izbrisati?</string>
   <string name="operation_delete_confirm_message_folder">"Sav sadržaj mape biti će izbrisan.
 "</string>
   <string name="operation_deleting">Brisanje…</string>
   <string name="operation_download">Preuzimanje</string>
   <string name="operation_download_error_no_space">Nedovoljno prostora za pohranu</string>
-  <string name="operation_download_error_other">Došlo je do sistemske pogreške. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="operation_download_error_other">Došlo je do pogreške sustava. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="operation_download_error_title">"Nije moguće preuzeti"</string>
   <string name="operation_editor">Uredi</string>
   <string name="operation_encrypt_summary">Šifriranje datoteka u privatnoj mapi. Dešifriranje velikih datoteka može potrajati duže od očekivanog.</string>
