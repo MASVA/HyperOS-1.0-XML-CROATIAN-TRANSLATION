@@ -77,7 +77,6 @@
 	 <string name="ear_scan_headset_disconnect_positive">Razumijem</string>
 	 <string name="ear_scan_headset_disconnect_title">Prekinuto</string>
 	 <string name="ear_scan_left_ear">Lijevo</string>
-	 <string name="ear_scan_process_text">%d%%</string>
 	 <string name="ear_scan_re_scan_button_text">Ponovo skeniraj</string>
 	 <string name="ear_scan_redo_dialog_msg">"Ako nastavite, ponovno ćete pokrenuti skeniranje ušnog kanala i test pristajanja. Prethodni zapisi kalibracije bit će izbrisani. Svejedno nastaviti?"</string>
 	 <string name="ear_scan_redo_dialog_title">Skenirati ponovo?</string>
