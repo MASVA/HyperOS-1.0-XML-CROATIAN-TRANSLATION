@@ -797,8 +797,8 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="datetimepicker_dialog_title">Promijeni vrijeme</string>
   <string name="datetimepicker_updatetime_failed">"Ne mogu promijeniti vrijeme"</string>
   <string name="datetimepicker_updatetime_success">Vrijeme je uspješno promijenjeno</string>
-  <string name="debugging_info">Podaci o uklanjanju pogrešaka uspješno su generirani. Dodirnite U redu za otvaranje mape.</string>
-  <string name="debugging_tip">Generiranje podataka o uklanjanju pogrešaka </string>
+  <string name="debugging_info">Podaci o otklanjanju pogrešaka uspješno su generirani. Dodirnite U redu za otvaranje mape.</string>
+  <string name="debugging_tip">Generiranje podataka o otklanjanju pogrešaka </string>
   <string name="decrypt_video_failed">"Ne mogu pripremiti videozapis"</string>
   <string name="decrypting_video">Priprema videozapisa…</string>
   <string name="default_device_name">Nepoznati uređaj</string>

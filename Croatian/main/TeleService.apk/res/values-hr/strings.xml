@@ -84,10 +84,10 @@
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_PUK_SUCCESS">PUK otključavanje bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_SUCCESS">Otključavanje podskupa SIM-a mreže bilo je uspješno.</string>
   <string name="PERSOSUBSTATE_SIM_NETWORK_SUCCESS">Otključavanje SIM-a mreže bilo je uspješno.</string>
-  <string name="PERSOSUBSTATE_SIM_NS_SP_ENTRY">NS_SP unlock PIN</string>
-  <string name="PERSOSUBSTATE_SIM_NS_SP_ERROR">NS_SP unlock request unsuccessful.</string>
-  <string name="PERSOSUBSTATE_SIM_NS_SP_IN_PROGRESS">Requesting NS_SP unlock…</string>
-  <string name="PERSOSUBSTATE_SIM_NS_SP_SUCCESS">NS_SP unlock successful.</string>
+  <string name="PERSOSUBSTATE_SIM_NS_SP_ENTRY">NS_SP PIN za otključavanje</string>
+  <string name="PERSOSUBSTATE_SIM_NS_SP_ERROR">NS_SP zahtjev za otključavanje nije uspio.</string>
+  <string name="PERSOSUBSTATE_SIM_NS_SP_IN_PROGRESS">Traži se otključavanje NS_SP-a…</string>
+  <string name="PERSOSUBSTATE_SIM_NS_SP_SUCCESS">NS_SP otključavanje uspješno.</string>
   <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_ENTRY">Otključavanje SIM-a PIN  mob. operatera</string>
   <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_ERROR">Otključavanje SIM-a mob. operatera nije uspjelo.</string>
   <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_IN_PROGRESS">Zahtjev za otključavanje SIM-a mob. operatera…</string>

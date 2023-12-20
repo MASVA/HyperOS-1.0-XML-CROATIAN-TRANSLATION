@@ -40,7 +40,7 @@
     <string name="accessibility_wifi_three_bars">Wi-Fi signal ima tri stupca.</string>
     <string name="accessibility_wifi_two_bars">Wi-Fi signal ima dva stupca.</string>
     <string name="active_input_method_subtypes">Aktivni načini unosa</string>
-    <string name="adb_keys_warning_message">Želite li opozvati pristup uklanjanju pogrešaka putem USB-a sa svih računala koja ste prethodno autorizirali?</string>
+    <string name="adb_keys_warning_message">Želite li opozvati pristup otklanjanju pogrešaka putem USB-a sa svih računala koja ste prethodno autorizirali?</string>
     <string name="adb_warning_message">Otklanjanje pogrešaka putem USB-a namijenjeno je samo u razvojne svrhe. Može se upotrijebiti za kopiranje podataka s računala na uređaj i obrnuto, instalaciju aplikacija na uređaju bez obavijesti i za čitanje dnevničkih zapisa.</string>
     <string name="adb_warning_title">Omogućiti otklanjanje pogrešaka putem USB-a?</string>
     <string name="add_channel">Dodaj kanal</string>

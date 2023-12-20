@@ -540,8 +540,8 @@
   <string name="small_freeform_memory_toast_app_type">"Ne mogu sada otvoriti. Ova aplikacija zahtijeva previše memorije da bi mogla raditi."</string>
   <string name="small_freeform_memory_toast_game_type">"Ne mogu sada otvoriti. Ova igra zahtijeva previše memorije da bi mogla raditi."</string>
   <string name="softap_notifif_summary">Povezano: %d</string>
-  <string name="softap_notifif_title">Hotspot \"%s\" uključen</string>
-  <string name="softap_stat_toast">Hotspot ije uključen</string>
+  <string name="softap_notifif_title">Hotspot je \"%s\" uključen</string>
+  <string name="softap_stat_toast">Hotspot je uključen</string>
   <string name="southwestmountain_preview">Planine</string>
   <string name="spaceage">Svemirsko doba</string>
   <string name="split_screen">Otvori podijeljeni zaslon</string>
@@ -593,7 +593,7 @@
   <string name="sunlight_notification_content">Prilagodi svjetlinu jakog ambijentalnog svjetlu automatski</string>
   <string name="sunlight_notification_title">Uključi način rada Sunčeve svjetlosti</string>
   <string name="sunrise">Izlazak sunca</string>
-  <string name="super_resolution_maintain_tips">"Super razlucija još nije dostupna."</string>
+  <string name="super_resolution_maintain_tips">"Super rezlucija još nije dostupna."</string>
   <string name="surprise">Iznenađenje</string>
   <string name="swipe_up_to_continue_using">Povucite prema gore za nastavak</string>
   <string name="switch_brand_desc_tv">Sigurnosne usluge pruža Spaces Mobile</string>

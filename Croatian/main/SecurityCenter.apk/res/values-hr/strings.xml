@@ -272,7 +272,7 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="apn_exception_summary">Testiranje konfiguracije APN-a mobilnog operatera</string>
   <string name="apn_exception_title">Provjerite postavke APN-a</string>
   <string name="apn_exception_wap_summary">WAP je sada nestabilan. Prebaci na NET.</string>
-  <string name="app_behavior_about_content_no_link">"MIUI može prikazati kada su aplikacije pokrenule druge aplikacije, automatski se pokrenule, koristile dopuštenja i izvodile osjetljive radnje. Zbog problema sa kompatibilnošću verzije Androida, neki od ovih zapisa možda nisu točni. Ako pronađete zapis ponašanja aplikacije koji nije točan, prijavite nam ga putem aplikacije \"Usluge &amp; Povratna inf.\"."</string>
+  <string name="app_behavior_about_content_no_link">"HyperOS može prikazati kada su aplikacije pokrenule druge aplikacije, automatski se pokrenule, koristile dopuštenja i izvodile osjetljive radnje. Zbog problema sa kompatibilnošću verzije Androida, neki od ovih zapisa možda nisu točni. Ako pronađete zapis ponašanja aplikacije koji nije točan, prijavite nam ga putem aplikacije \"Usluge &amp; Povratna inf.\"."</string>
   <string name="app_behavior_about_negative">Prijavite netočnosti</string>
   <string name="app_behavior_about_positive">Razumijem</string>
   <string name="app_behavior_about_setting">Postavke</string>
@@ -453,7 +453,7 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="app_manager_apps_generation_summary">Ažurirajte da koristite najnovije značajke</string>
   <string name="app_manager_appupdate_remind">Obavijesti o ažuriranjima</string>
   <string name="app_manager_as_dlg_msg">Dopuštanje autom. pokretanja aplikacije može povećati količinu memorije i trajanje baterije. Dopustiti svejedno?</string>
-  <string name="app_manager_as_dlg_msg_new">"Dopuštanje autom. pokretanja aplikacije može povećati količinu memorije i trajanje baterije koju koristi. MIUI će optimizirati dopuštenja za autom. pokretanje aplikacija koje ne koristite često kako bi poboljšao performanse vašeg uređaja."</string>
+  <string name="app_manager_as_dlg_msg_new">"Dopuštanje autom. pokretanja aplikacije može povećati količinu memorije i trajanje baterije koju koristi. HyperOS će optimizirati dopuštenja za autom. pokretanje aplikacija koje ne koristite često kako bi poboljšao performanse vašeg uređaja."</string>
   <string name="app_manager_as_dlg_title">Pažnja</string>
   <string name="app_manager_back">Natrag</string>
   <string name="app_manager_bipartition">Dvojne aplikacije</string>
@@ -538,7 +538,7 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="app_manager_permission_manager_title">Dopuštenja</string>
   <string name="app_manager_permission_notify_summary">Obavijesti znački, plutajućih prozora i Zaklj. zaslona</string>
   <string name="app_manager_permission_notify_title">Obavijesti</string>
-  <string name="app_manager_permission_power_saving_summary">MIUI Štednja baterije</string>
+  <string name="app_manager_permission_power_saving_summary">HyperOS Štednja baterije</string>
   <string name="app_manager_permission_power_saving_title">Štednja baterije</string>
   <string name="app_manager_permission_read_contact_over">Pristupano kontaktima 100000+ puta</string>
   <string name="app_manager_permission_read_mms_over">Pročitano SMS-a 100000+ puta</string>
@@ -548,7 +548,7 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="app_manager_permission_startself_title">Autom. pokretanja</string>
   <string name="app_manager_permission_summary_reject">Ograniči sve</string>
   <string name="app_manager_power">Dopuštenja</string>
-  <string name="app_manager_powerkeeper_miui_auto">MIUI Štednja baterije</string>
+  <string name="app_manager_powerkeeper_miui_auto">HyperOS Štednja baterije</string>
   <string name="app_manager_powerkeeper_no_bg">Ograniči aktivnosti u pozadini</string>
   <string name="app_manager_powerkeeper_no_restrict">Bez ograničenja</string>
   <string name="app_manager_powerkeeper_restrict_bg">Ograniči aplikacije u pozadini</string>
@@ -598,7 +598,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="app_manager_uninstall">Deinstaliraj</string>
   <string name="app_manager_uninstall_button_text">Deinstaliraj</string>
   <string name="app_manager_uninstall_notify_title">Deinstalirajte rijetko korištene aplikacije</string>
-  <string name="app_manager_uninstall_protected_dlg_msg">Deinstaliranje aplikacija sustava može spriječiti neke MIUI komponente da rade ispravno. Deinstalirati svejedno?</string>
+  <string name="app_manager_uninstall_protected_dlg_msg">Deinstaliranje aplikacija sustava može spriječiti neke HyperOS komponente da rade ispravno. Deinstalirati svejedno?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Deinstaliranje aplikacija sustava</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Odgovarajuće dvojne aplikacije će biti uklonjene zajedno s podacima aplikacija.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Deinstaliranje dvojne aplikacije će ukloniti sve podatke aplikacije.</string>
@@ -610,7 +610,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="app_manager_usage_record_title">Korištenje aplikacije</string>
   <string name="app_manager_wake_path_card_title">Povijest lančanog pokretanja (2 dana)</string>
   <string name="app_manager_wakepath_dialog_buttontext">Razumijem</string>
-  <string name="app_manager_wakepath_dialog_summary">Lančano se pokretanje događa kada neka aplikacija pokrene drugu aplikaciju u pozadini. To može istrošiti bateriju i smanjiti performanse sustava. MIUI bi normalno blokirao lančano pokretanje.</string>
+  <string name="app_manager_wakepath_dialog_summary">Lančano se pokretanje događa kada neka aplikacija pokrene drugu aplikaciju u pozadini. To može istrošiti bateriju i smanjiti performanse sustava. HyperOS bi normalno blokirao lančano pokretanje.</string>
   <string name="app_manager_wakepath_dialog_title">O lančanom pokretanju</string>
   <string name="app_managere_not_have_app">Prazno</string>
   <string name="app_manger_des_separator">", "</string>
@@ -780,7 +780,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="apps_item_sms_default_set_success">Uspješno postavljeno!</string>
   <string name="apps_item_sms_reset_button_text">Vrati zadane postavke</string>
   <string name="apps_item_sms_title">Zadana aplikacija za slanje poruka je zamijenjena</string>
-  <string name="apps_item_summary_sms">"%s sada upravlja vašim SMS-om. Za stabilnije i sigurnije iskustvo umjesto toga upotrijebite aplikaciju sustava MIUI."</string>
+  <string name="apps_item_summary_sms">"%s sada upravlja vašim SMS-om. Za stabilnije i sigurnije iskustvo umjesto toga upotrijebite aplikaciju sustava HyperOS."</string>
   <string name="apps_item_summary_system_rooted">ROOT pristup je dopušten. Vratite na zadane postavke kako bi izbjegli sigurnosne rizike.</string>
   <string name="apps_item_summary_system_update">Neke greške su ispravljene u novoj verziji tako da plaćanja budu još više sigurnija.</string>
   <string name="apps_item_title_system">Ažuriranje sustava</string>
@@ -809,7 +809,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="auto_start_close">Ograniči</string>
   <string name="auto_start_hint">Pažnja</string>
   <string name="auto_start_hint_desc">"%1$s neće moći primati dolazne poruke u stvarnom vremenu ako isključite automatsko pokretanje. Svejedno isključiti?"</string>
-  <string name="auto_start_tips">"MIUI će optimizirati dopuštenja za autom. pokretanje aplikacija koje ne koristite često za poboljšanje performansi uređaja."</string>
+  <string name="auto_start_tips">"HyperOS će optimizirati dopuštenja za autom. pokretanje aplikacija koje ne koristite često za poboljšanje performansi uređaja."</string>
   <string name="auto_task_allow_suggestion">Prijedlozi pametnih zadataka</string>
   <string name="auto_task_available_device">Dostupni uređaji</string>
   <string name="auto_task_condition_choose_battery_level_down">Kada baterija dosegne određenu razinu</string>
@@ -824,7 +824,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="auto_task_condition_time_pick_title">Postavi timer</string>
   <string name="auto_task_condition_time_text">U %s</string>
   <string name="auto_task_conncet_to_some_device">Povežite se na %s</string>
-  <string name="auto_task_create_success">Uspješno kreiran zadatak</string>
+  <string name="auto_task_create_success">Zadatak uspješno kreiran</string>
   <string name="auto_task_custom_time">Postavi vrijeme</string>
   <string name="auto_task_custom_time_lable">min</string>
   <string name="auto_task_default_add_action">Dodaj radnju</string>
@@ -914,7 +914,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="auto_task_operation_mobile_data">Mobilni podaci</string>
   <string name="auto_task_operation_modify_string">Uredi %s</string>
   <string name="auto_task_operation_mute">Bešumno</string>
-  <string name="auto_task_operation_no_op">"Nemoj odabrati ovu radnju"</string>
+  <string name="auto_task_operation_no_op">Ništa</string>
   <string name="auto_task_operation_open">Uključeno</string>
   <string name="auto_task_operation_open_string">Uključi %s</string>
   <string name="auto_task_operation_string_comma">,</string>
@@ -924,7 +924,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="auto_task_operation_sync">Sinkr.</string>
   <string name="auto_task_operation_vibration">Vibracija</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
-  <string name="auto_task_please_select_item">Odaber stavke</string>
+  <string name="auto_task_please_select_item">Odaberi stavke</string>
   <string name="auto_task_result_summary_text">Postavi autom. zadatke za Štednju baterije</string>
   <string name="auto_task_rule_bluetooth">%2$s možete otvoriti automatski kada koristite Bluetooth s %1$s. Želite li sada izraditi ovaj zadatak?</string>
   <string name="auto_task_rule_map_location">Usluge lokacije možete automatski uključiti dok koristite karte. Želite li sada izraditi ovaj zadatak?</string>
@@ -955,7 +955,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="auto_task_voice_dialog_alarm_title">Alarmi</string>
   <string name="auto_task_voice_dialog_call_title">Pozivi, obavijesti, podsjetnici</string>
   <string name="auto_task_voice_dialog_media_title">Glazba, igre, mediji</string>
-  <string name="autostart_now_tip">"Blokirano \"%1$s\" da otvori \"%2$s\" "</string>
+  <string name="autostart_now_tip">"\"%1$s\" blokiran da otvori \"%2$s\" "</string>
   <string name="back">Natrag</string>
   <string name="back_app_name">Vrati se na Zaklj. aplikacija</string>
   <string name="back_description_securitycenter">Natrag</string>
@@ -979,7 +979,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="battery_charge_estimating">Izračun…</string>
   <string name="battery_charge_full">Napunjeno</string>
   <string name="battery_charging_prompt">Punjenje</string>
-  <string name="battery_desc_ambient_display">Baterija iskorištena Uvijek uključeno zaslonom</string>
+  <string name="battery_desc_ambient_display">Baterija iskorištena Always-on zaslonom</string>
   <string name="battery_desc_apps">Baterija iskorištena aplikacijom</string>
   <string name="battery_desc_bluetooth">Baterija iskorištena značajkom Bluetooth</string>
   <string name="battery_desc_display">Baterija iskorištena za zaslon i pozadinsko svjetlo</string>
@@ -1021,7 +1021,7 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="battery_stats_on_battery">%1$s na bateriji</string>
   <string name="battery_stats_phone_signal_label">Signal mob. mreže</string>
   <string name="battery_stats_screen_on_label">Zaslon</string>
-  <string name="battery_stats_wake_lock_label">Budan</string>
+  <string name="battery_stats_wake_lock_label">Uključen</string>
   <string name="battery_stats_wifi_running_label">Wi-Fi</string>
   <string name="battery_status_good">Radi normalno</string>
   <string name="battery_status_level_excellent">Izvrsno</string>
@@ -1032,8 +1032,8 @@ Nećete izgubiti podatke aplikacije."</string>
   <string name="battery_status_unknown">Nepoznata pogreška</string>
   <string name="battery_temperature_title">Temperatura</string>
   <string name="beauty_fc_assistant">Pomoćnik prednje kamere</string>
-  <string name="beauty_fc_assistant_summary_common">Koristiti dodatne značajke s prednjom kamerom</string>
-  <string name="beauty_fc_auto_brightness">Automatski podešavati svjetlinu dopunskog svjetla</string>
+  <string name="beauty_fc_assistant_summary_common">Koristi dodatne značajke s prednjom kamerom</string>
+  <string name="beauty_fc_auto_brightness">Automatski podesi svjetlinu dopunskog svjetla</string>
   <string name="beauty_fc_fill_lamp">Ispuna svjetlom</string>
   <string name="beauty_fc_fill_lamp_new">Prednja ispuna svjetlom</string>
   <string name="beauty_fc_light">Svjetlina</string>
@@ -1510,7 +1510,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cs_title_pickup">Smanjenje buke</string>
   <string name="cs_title_smart_subtitle">Transkripcija podnaslova</string>
   <string name="cs_title_ultraclear">Ultra HD način</string>
-  <string name="cta_HIPS_Perm_Location_Desc">Za korištenje informacija o vašoj lokaciji u MIUI centru za upozorenje, hitnom SOS-u, štednji baterije aplikacije i sigurnosnom skeneru plaćanja, kao i za omogućavanje približne lokacije</string>
+  <string name="cta_HIPS_Perm_Location_Desc">Za korištenje informacija o vašoj lokaciji u HyperOS centru za upozorenje, hitnom SOS-u, štednji baterije aplikacije i sigurnosnom skeneru plaćanja, kao i za omogućavanje približne lokacije</string>
   <string name="cta_agree_desc">Kako biste mogli koristiti naše usluge, dopustite ovoj aplikaciji da se poveže s internetom i odobrite gore navedena dopuštenja.</string>
   <string name="cta_button_text_agree">U redu</string>
   <string name="cta_button_text_cancel">Odustani</string>
@@ -1522,8 +1522,8 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cta_dialog_negative">Izlaz</string>
   <string name="cta_dialog_positive">Slažem se</string>
   <string name="cta_dialog_title">Uvjeti i odredbe</string>
-  <string name="cta_main_purpose">"Dobro došli u Sigurnost! Aplikaciju i njene module možete koristiti (uključujući MIUI sigurnosne komponente i usluge sustava) da oslobodite prostor za pohranu, skenirate svoj uređaj na viruse, kontrolirate potrošnju baterije, optimizirate svoj uređaj za igranje igara , upravljate aplikacijama, primate rana upozorenja o potresima i još mnogo toga. MIUI Sigurnosne komponente povezivat će se s internetom i obavljati sigurnosna skeniranja dok instalirate aplikacije i vršite plaćanja."</string>
-  <string name="cta_main_purpose_new">"Dobro došli u Sigurnost! Aplikaciju i njene module možete koristiti (uključujući MIUI sigurnosne komponente i usluge sustava) da oslobodite prostor za pohranu, skenirate svoj uređaj na viruse, kontrolirate potrošnju baterije, optimizirate svoj uređaj za igranje igara , upravljate aplikacijama, primate rana upozorenja o potresima i još mnogo toga. MIUI Sigurnosne komponente povezivat će se s internetom i obavljati sigurnosna skeniranja dok instalirate aplikacije i vršite plaćanja."</string>
+  <string name="cta_main_purpose">"Dobro došli u Sigurnost! Aplikaciju i njene module možete koristiti (uključujući HyperOS sigurnosne komponente i usluge sustava) da oslobodite prostor za pohranu, skenirate svoj uređaj na viruse, kontrolirate potrošnju baterije, optimizirate svoj uređaj za igranje igara , upravljate aplikacijama, primate rana upozorenja o potresima i još mnogo toga. HyperOS Sigurnosne komponente povezivat će se s internetom i obavljati sigurnosna skeniranja dok instalirate aplikacije i vršite plaćanja."</string>
+  <string name="cta_main_purpose_new">"Dobro došli u Sigurnost! Aplikaciju i njene module možete koristiti (uključujući HyperOS sigurnosne komponente i usluge sustava) da oslobodite prostor za pohranu, skenirate svoj uređaj na viruse, kontrolirate potrošnju baterije, optimizirate svoj uređaj za igranje igara , upravljate aplikacijama, primate rana upozorenja o potresima i još mnogo toga. HyperOS Sigurnosne komponente povezivat će se s internetom i obavljati sigurnosna skeniranja dok instalirate aplikacije i vršite plaćanja."</string>
   <string name="cta_settings">Dopusti povezivanje s internetom i pristup lokaciji</string>
   <string name="current_network_state_not_need_diagnose">Povezivanje s internetom je u redu</string>
   <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Za korištenje popisa blokiranih i upućivanje poziva kontaktima za hitne slučajeve kada se izdaju upozorenja o potresu</string>
@@ -1535,7 +1535,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="custom_define_permission_desc_android.permission.SEND_SMS">Za korištenje popisa blokiranih i slanje kalibracijskih poruka vašem mobilnom operateru</string>
   <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Za brisanje poruka s popisa blokiranih</string>
   <string name="custom_define_permission_desc_android.permission.group.SENSORS">Za otkrivanje seizmičkih valova za praćenje potresa</string>
-  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za pružanje značajki relevantnih za vašu lokaciju u MIUI centru za upozorenje, hitnom SOS-u, štednji baterije aplikacije, sigurnosnom skeneru plaćanja i približnoj usluzi lokacije</string>
+  <string name="custom_define_permission_desc_android.permission_group.LOCATION">Za pružanje značajki relevantnih za vašu lokaciju u HyperOS centru za upozorenje, hitnom SOS-u, štednji baterije aplikacije, sigurnosnom skeneru plaćanja i približnoj usluzi lokacije</string>
   <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Za snimanje zvuka tijekom korištenja Game Turbo</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za čišćenje smeća i obavljanje antivirusnih skeniranja</string>
   <string name="customize_limit_pkg">%s (prilagođeno)</string>
@@ -1543,7 +1543,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="daily_card_setting_fragment_daily_card_brand">Davatelj usluga</string>
   <string name="daily_card_setting_fragment_daily_card_brand_value">Odaberite davatelja usluga</string>
   <string name="daily_card_setting_fragment_daily_card_setting">Postavke dnevnog plana podataka</string>
-  <string name="daily_card_setting_fragment_daily_card_summary">"MIUI će postaviti ograničenje podataka i aplikacija s neograničenim podacima prema davatelju usluga kojeg odaberete. Ako vaš davatelja usluga nije na popisu, odaberite \"Ostalo\" i ručno postavite dnevni plan podataka."</string>
+  <string name="daily_card_setting_fragment_daily_card_summary">"HyperOS će postaviti ograničenje podataka i aplikacija s neograničenim podacima prema davatelju usluga kojeg odaberete. Ako vaš davatelja usluga nije na popisu, odaberite \"Ostalo\" i ručno postavite dnevni plan podataka."</string>
   <string name="daily_card_setting_fragment_daily_package">Ograničenje dnevnih podataka</string>
   <string name="daily_card_setting_fragment_month_package">Mjesečni paket podataka</string>
   <string name="daily_card_setting_fragment_package_summary">Ako vaš dnevni paket podataka sadrži mjesečni paket podataka, upotrebljavat će se prije dnevnog paketa.</string>
@@ -1571,16 +1571,16 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="data_usage_leisure_warning_title">Ograničenje uporabe podataka</string>
   <string name="data_usage_limit_body">Dodirnite za uključivanje mobilnih podataka.</string>
   <string name="data_usage_limit_snoozed_body">Premašeno ograničenje uporabe podataka za ovaj mjesec.</string>
-  <string name="data_usage_mobile_dialog_title">"Već ste iskoristili 5GB mobilnih podataka. MIUI će isključiti mobilne podatke."</string>
+  <string name="data_usage_mobile_dialog_title">"Već ste iskoristili 5GB mobilnih podataka. HyperOS će isključiti mobilne podatke."</string>
   <string name="data_usage_mobile_limit_snoozed_title">Uporaba podataka premašena</string>
   <string name="data_usage_mobile_limit_title">Postignuto ograničenje podataka</string>
   <string name="data_usage_no_total_package_body">Dodirnite za postavljanje ograničenja uporabe podataka</string>
   <string name="data_usage_no_total_package_body_dual">Ograničenje uporabe podataka za %s nije postavljeno</string>
   <string name="data_usage_no_total_package_title">Postavi ograničenje Uporabe podataka</string>
-  <string name="data_usage_protected_dialog_message">"MIUI će isključiti mobilne podatke kako bi spriječio stvaranje dodatnih troškova.
+  <string name="data_usage_protected_dialog_message">"HyperOS će isključiti mobilne podatke kako bi spriječio stvaranje dodatnih troškova.
 
 Vaš mobilni operater može vam naplatiti dodatne naknade ako ponovo uključite mobilne podatke."</string>
-  <string name="data_usage_protected_notify_message">MIUI će isključiti mobilne podatke kako bi spriječio stvaranje dodatnih troškova.</string>
+  <string name="data_usage_protected_notify_message">HyperOS će isključiti mobilne podatke kako bi spriječio stvaranje dodatnih troškova.</string>
   <string name="data_usage_protected_notify_title">"Već ste iskoristili 5GB mobilnih podataka"</string>
   <string name="data_usage_restricted_body">Dodirnite da uključite podatke u pozadini</string>
   <string name="data_usage_restricted_title">Pozadinski podaci ograničeni</string>
@@ -1684,8 +1684,8 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="dialog_button_yes">Da</string>
   <string name="dialog_change_package_type_summary">Promjena vrste plana podataka vratit će sve postavke uporabe podataka (npr. ograničenja podataka) na njihove zadane vrijednosti. Želite li sada promijeniti vrstu plana podataka?</string>
   <string name="dialog_change_package_type_title">Promjena vrste plana podataka</string>
-  <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je MIUI spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
-  <string name="dialog_msg_auto_start_declare_global">Neke aplikacije mogu netočno naznačiti da ih je MIUI spriječio u pokretanju. Provjerite dopuštenja koja su dodijeljena pojedinačnim aplikacijama u Postavkama.</string>
+  <string name="dialog_msg_auto_start_declare">Pojedine sigurnosne aplikacije mogu pogrešno upućivati na to da ih je HyperOS spriječio od pokretanja. Provjerite dopuštenja koja su odobrena za pojedine aplikacije u Postavke &gt; Aplikacije.</string>
+  <string name="dialog_msg_auto_start_declare_global">Neke aplikacije mogu netočno naznačiti da ih je HyperOS spriječio u pokretanju. Provjerite dopuštenja koja su dodijeljena pojedinačnim aplikacijama u Postavkama.</string>
   <string name="dialog_msg_create_icon_content">Želite li odmah dodati prečac na početni zaslon?</string>
   <string name="dialog_msg_create_icon_not_remain_anymore">"Ne prikazuj više"</string>
   <string name="dialog_msg_delete_icon_content_pad">Sigurnost vam omogućuje da očistite smeće na svom uređaju, pronađete i neutralizirate viruse, uštedite bateriju, upravljate dopuštenjima i više.</string>
@@ -2072,7 +2072,7 @@ Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona
   <string name="first_settings_default_location_subtitle">Ukloni podatke o lokaciji s dijeljenih fotografija</string>
   <string name="first_settings_default_location_title">Podijeli bez podataka o lokaciji prema zadanim postavkama</string>
   <string name="first_settings_share_enable">Dodaj značku \"Sigurno dijeljenje\"</string>
-  <string name="first_settings_share_enable_subtitle">Stavke koje dijelite na WeChatu pojavit će se s MIUI značkom</string>
+  <string name="first_settings_share_enable_subtitle">Stavke koje dijelite na WeChatu pojavit će se s HyperOS značkom</string>
   <string name="first_settings_subtitle">Ovdje su vam dostupne sigurne mogućnosti dijeljenja:</string>
   <string name="first_settings_title">Zaštitite svoju privatnost</string>
   <string name="five_percent_total_pkg">%s (5%% od mjes. podataka)</string>
@@ -2716,7 +2716,7 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="guide_operator_text">"Vaš trenutni operater: "</string>
   <string name="guide_primary_text">"Koristite aplikaciju Sigurnost\nda biste upravljali vašim mobilnim podacima"</string>
   <string name="guide_quck_open">Uključi</string>
-  <string name="guide_second_text">"Nakon što postavite operatera, MIUI će pratiti promet mobilnih podataka svakodnevno slanjem besplatnog SMS-a mobilnom operateru. Kada MIUI otkrije ste premašili ograničenje podataka, on će vas isključiti iz mreže te vas obavijestiti."</string>
+  <string name="guide_second_text">"Nakon što postavite operatera, HyperOS će pratiti promet mobilnih podataka svakodnevno slanjem besplatnog SMS-a mobilnom operateru. Kada HyperOS otkrije ste premašili ograničenje podataka, on će vas isključiti iz mreže te vas obavijestiti."</string>
   <string name="guide_wait_setting">Ne sada</string>
   <string name="handle_bar_summary_wifi_unknown">Nepoznato</string>
   <string name="handle_bar_title_apps">Aplikacije</string>
@@ -2921,7 +2921,7 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="load_only_under_wlan">Učitaj samo kada je povezano na Wi-Fi</string>
   <string name="loading">Samo trenutak…</string>
   <string name="loading_text_format" formatted="false">Uklanjanje privatnih podataka s fotografija %d/%d</string>
-  <string name="local_ip_exception_summary">"Ne mogu dobiti lokalnu IP adresu. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Pov. informacije i pošaljite izvješće sa svog uređaja."</string>
+  <string name="local_ip_exception_summary">"Ne mogu dobiti lokalnu IP adresu. Da prijavite HyperOS-u ovaj problem, idite u aplikaciju Pov. informacije i pošaljite izvješće sa svog uređaja."</string>
   <string name="location">Lokacija</string>
   <string name="lock_all_title">Zaključaj sve aplikacije</string>
   <string name="lock_mode_title">Postavke zaključavanja</string>
@@ -3201,8 +3201,8 @@ Vaš je uređaj sad %s brži."</string>
   <string name="midrop_post_notification_contentText">Prenosite datoteke brzinama do 50 Mbps sa Mi Drop-om</string>
   <string name="midrop_post_notification_contentTitle">Trebate prenijeti datoteke?</string>
   <string name="miui_blur_location">Približna lokacija</string>
-  <string name="miui_optimization_close_final_tip">Isključiti MIUI optimizaciju?</string>
-  <string name="miui_optimization_close_title">Ova je značajka namijenjena programerima i možda nije prikladna za opće korisnike. Isključivanje MIUI optimizacije moglo bi donijeti sljedeće promjene:</string>
+  <string name="miui_optimization_close_final_tip">Isključiti HyperOS optimizaciju?</string>
+  <string name="miui_optimization_close_title">Ova je značajka namijenjena programerima i možda nije prikladna za opće korisnike. Isključivanje HyperOS optimizacije moglo bi donijeti sljedeće promjene:</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -3421,7 +3421,7 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string name="network_speed_for_apps_title">Veza</string>
   <string name="network_speed_for_apps_total">Brzina veze</string>
   <string name="network_test_speed">Testiraj brzinu Wi-Fi-ja</string>
-  <string name="network_traffic_warning_text">"MIUI ovdje ne može izračunati statističke podatke uporabe podataka za pojedinačne aplikacije sustava. Moći ćete vidjeti informacije povezane s uporabom podataka u pojedinostima aplikacije u slučaju da ta aplikacija aktivno upotrebljava mobilne podatke."</string>
+  <string name="network_traffic_warning_text">"HyperOS ovdje ne može izračunati statističke podatke uporabe podataka za pojedinačne aplikacije sustava. Moći ćete vidjeti informacije povezane s uporabom podataka u pojedinostima aplikacije u slučaju da ta aplikacija aktivno upotrebljava mobilne podatke."</string>
   <string name="network_traffic_warning_title">Uporaba podataka za aplikacije sustava</string>
   <string name="networkchanged_exception_summary">Mrežno povezivanje se promijenilo. Testirajte ponovno.</string>
   <string name="networkchanged_exception_title">Način povezivanja se promijenio</string>
@@ -3535,7 +3535,7 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string name="notification_quick_charging_title">Brzo punjenje</string>
   <string name="notification_subtitle">Dodirnite da uključite</string>
   <string name="notification_summary_cmcc_app_check">Dodirni za prikaz detalja.</string>
-  <string name="notification_sysapp_cracked_text">Trenutna MIUI verzija je izmijenjena</string>
+  <string name="notification_sysapp_cracked_text">Trenutna HyperOS verzija je izmijenjena</string>
   <string name="notification_sysapp_cracked_title">Otkriven je sigurnosni rizik</string>
   <string name="notification_title_cmcc_app_check">Dana (%d) od zadnje provjere</string>
   <string name="notification_title_firewall_blocked">Blokirano</string>
@@ -3706,7 +3706,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="optimize_result_button_update_now">Ažuriraj</string>
   <string name="optimize_result_header_view_summary">Povećaj brzinu</string>
   <string name="optimize_result_summary_sucurity_risk">Neke sigurnosne značajke su isključene. Uključite ove značajke kako bi vaš uređaj bio sigurniji:</string>
-  <string name="optimize_result_summary_system_default_settings">"Korištenje zadanih MIUI aplikacija povećava razinu stabilnosti i sigurnosti sustava."</string>
+  <string name="optimize_result_summary_system_default_settings">"Korištenje zadanih HyperOS aplikacija povećava razinu stabilnosti i sigurnosti sustava."</string>
   <string name="optimize_result_title_sucurity_risk">Pronađen sigurnosni rizik</string>
   <string name="optimize_result_title_system_default_settings">Zadane postavke sustava su promijenjene</string>
   <string name="optimize_result_title_uninstall_apps">Deinstaliraj aplikacije</string>
@@ -3837,7 +3837,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_fast_charge_notifi_switch_title">Obavijesti o povečavanju</string>
   <string name="pc_fast_charge_notifi_title">%dW punjenje</string>
   <string name="pc_fast_charge_notifi_title_on">Zaustavi povećavati brzinu punjenja</string>
-  <string name="pc_fast_charge_switch_summary">"Uključite kako biste ubrzali proces punjenja. MIUI će dati prednost brzini punjenja i pritom osigurati sigurnost vašeg uređaja. Što je baterija praznija, brže će se puniti. Ova značajka može zagrijati vaš uređaj."</string>
+  <string name="pc_fast_charge_switch_summary">"Uključite kako biste ubrzali proces punjenja. HyperOS će dati prednost brzini punjenja i pritom osigurati sigurnost vašeg uređaja. Što je baterija praznija, brže će se puniti. Ova značajka može zagrijati vaš uređaj."</string>
   <string name="pc_fast_charge_switch_summary_new">Podsjeti da povećate brzinu punjenja kada je priključen isporučeni punjač i baterija padne ispod zadane razine</string>
   <string name="pc_fast_charge_switch_title">Povećajte brzinu punjenja</string>
   <string name="pc_fast_charge_switch_toast_message">Promjene će se primijeniti prilikom sljedećeg punjenja ovog uređaja</string>
@@ -4028,7 +4028,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_instruction_dont_disturb">Ovo dopuštenje omogućuje aplikacijama uključivanje i isključivanje DND načina rada.</string>
   <string name="permission_instruction_draw_overlay">Ovo dopuštenje omogućuje aplikacijama prikaz plutajućih prozora preko bilo kojeg drugog sučelja na vašem uređaju, što može utjecati na uobičajeno korištenje drugih aplikacija. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za čitanje ili prikupljanje privatnih podataka (npr. zaporke) kroz prozirne plutajuće prozore.</string>
   <string name="permission_instruction_external_storage">Ovo dopuštenje omogućuje aplikacijama pristup fotografijama, medijima i datotekama na vašem uređaju. Budite oprezni s ovim dopuštenjem kako biste izbjegli nepotrebno otkrivanje privatnih podataka.</string>
-  <string name="permission_instruction_gallery">Ako aplikacijama dopustite pristup datotekama u vlastitim mapama, MIUI vam omogućuje da odlučite želite li i tim aplikacijama pristupiti stavkama u vašoj Galeriji kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, ova promjena neće biti dostupna za njih.</string>
+  <string name="permission_instruction_gallery">Ako aplikacijama dopustite pristup datotekama u vlastitim mapama, HyperOS vam omogućuje da odlučite želite li i tim aplikacijama pristupiti stavkama u vašoj Galeriji kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, ova promjena neće biti dostupna za njih.</string>
   <string name="permission_instruction_get_accounts">Ovo dopuštenje omogućuje aplikacijama pristup popisu računa pohranjenih na vašem uređaju. Ovaj popis može sadržavati sve vaše osobne račune koje su stvorile instalirane aplikacije, kao i račune s platformi društvenih medija i alata za komunikaciju.</string>
   <string name="permission_instruction_get_identifier">Pristup identifikatoru uređaja</string>
   <string name="permission_instruction_install_shortcuts">Ovo dopuštenje omogućuje aplikacijama stvaranje prečaca na početnom zaslonu.</string>
@@ -4078,8 +4078,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="permission_instruction_send_sms">Ovo dopuštenje omogućuje aplikacijama slanje tekstnih poruka, što može generirati dodatne naknade. Zlonamjerne aplikacije mogu koristiti ovo dopuštenje za slanje plaćenih poruka bez vašeg suglasnosti.</string>
   <string name="permission_instruction_shake">"Ovo dopuštenje omogućuje aplikacijama praćenje orijentacije i kretanja vašeg uređaja (npr. drmanje, naginjanje i rotacija)"</string>
   <string name="permission_instruction_show_locked">Ovo dopuštenje omogućuje aplikacijama prikaz stavki na zaključanom zaslonu. Zlonamjerne aplikacije mogu upotrijebiti ovo dopuštenje za prikazivanje dosadnih oglasa.</string>
-  <string name="permission_instruction_sociality">Ako aplikacijama dopuštate pristup datotekama u vlastitim mapama, MIUI vam omogućuje da odlučite želite li i tim aplikacijama pristupiti datotekama generiranim u aplikacijama društvenih mreža kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, ova promjena neće biti dostupna za njih.</string>
-  <string name="permission_instruction_storage">Ako aplikacijama dopustite pristup datotekama u vlastitim mapama, MIUI vam omogućuje da odlučite želite li i tim aplikacijama pristupiti stavkama u vašoj Galeriji i datotekama generiranim u aplikacijama društvenih medija kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, promjena neće biti dostupna za njih.</string>
+  <string name="permission_instruction_sociality">Ako aplikacijama dopuštate pristup datotekama u vlastitim mapama, HyperOS vam omogućuje da odlučite želite li i tim aplikacijama pristupiti datotekama generiranim u aplikacijama društvenih mreža kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, ova promjena neće biti dostupna za njih.</string>
+  <string name="permission_instruction_storage">Ako aplikacijama dopustite pristup datotekama u vlastitim mapama, HyperOS vam omogućuje da odlučite želite li i tim aplikacijama pristupiti stavkama u vašoj Galeriji i datotekama generiranim u aplikacijama društvenih medija kako bi zaštitili vašu privatnost. Kako aplikacije s Android API razinom 29 ili novijom već podržavaju particije za pohranu, promjena neće biti dostupna za njih.</string>
   <string name="permission_instruction_touch_pay">Ovo dopuštenje omogućuje aplikacijama beskontaktno plaćanje.</string>
   <string name="permission_instruction_transfer_data_to_other_devices">Prijenos podataka na druge uređaje</string>
   <string name="permission_instruction_use_sip">Ovo dopuštenje omogućuje aplikacijama upotrebu SIP video usluga.</string>
@@ -4276,7 +4276,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_dialog_msg_bottom">Trajanje baterije možete povećati do %1$dh %2$dm. Uključiti Štednju baterije?</string>
   <string name="power_center_dialog_msg_title">Uključite da dobijete %1$s dodatnog vremena. Sljedeće radnje će se poduzeti za štednju baterije:</string>
   <string name="power_center_dialog_msg_title_screen_on">"Dobit ćete %1$s vremena zaslona uređaja ako uključite ovu značajku. Evo mjera koje će uštedjeti bateriju:"</string>
-  <string name="power_center_dialog_msg_top">Kada je uključena Štednja baterije, MIUI će izvršiti sljedeće optimizacije:</string>
+  <string name="power_center_dialog_msg_top">Kada je uključena Štednja baterije, HyperOS će izvršiti sljedeće optimizacije:</string>
   <string name="power_center_hints_scan_danger_result">Sada možete riješiti probleme baterije</string>
   <string name="power_center_list_item_auto_brightness">Automatski podesite svjetlinu zaslona</string>
   <string name="power_center_list_item_battery_status_time">h</string>
@@ -4294,7 +4294,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_center_night_charge_noti_title">Optimizirano punjenje je uključeno</string>
   <string name="power_center_night_charge_protection">Optimizirano punjenje</string>
   <string name="power_center_night_charge_protection_setting">Pogledajte više opcija u Sigurnost &gt; Baterija.</string>
-  <string name="power_center_night_charge_protection_summary">Kako bi smanjio starenje baterije, MIUI uči iz vaše svakodnevne rutine punjenja kako bi smanjio nepotrebno kontinuirano punjenje</string>
+  <string name="power_center_night_charge_protection_summary">Kako bi smanjio starenje baterije, HyperOS uči iz vaše svakodnevne rutine punjenja kako bi smanjio nepotrebno kontinuirano punjenje</string>
   <string name="power_center_one_key_save">Optimiziraj</string>
   <string name="power_center_ontime_boot">Vrijeme uključivanja</string>
   <string name="power_center_ontime_shutdown">Vrijeme isključivanja</string>
@@ -4398,7 +4398,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_customizer_user_define_mode">Naziv</string>
   <string name="power_customizer_user_define_name">Moj profil</string>
   <string name="power_dailog_night_charge_protection_done">Razumijem</string>
-  <string name="power_dailog_night_charge_protection_summary">Čini se da je baterija većinu vremena potpuno napunjena, što može ubrzati njezino starenje. MIUI je uključio optimizirano punjenje kako biste izbjegli takve probleme.</string>
+  <string name="power_dailog_night_charge_protection_summary">Čini se da je baterija većinu vremena potpuno napunjena, što može ubrzati njezino starenje. HyperOS je uključio optimizirano punjenje kako biste izbjegli takve probleme.</string>
   <string name="power_dailog_night_charge_protection_summary_new">"Čini se da bateriju ovog uređaja često držite potpuno napunjenom, što može ubrzati njezino starenje. Zaštita od noćnog punjenja je uključena kako bi se automatski prilagodilo trajanje punjenja i očuvala dugovječnost baterije."</string>
   <string name="power_dialog_auto_clean_memory_summary">Kad je uređaj zaključan, obriši procese koji troše bateriju</string>
   <string name="power_dialog_auto_clean_memory_title">Očisti memoriju nakon zaključavanja</string>
@@ -4638,7 +4638,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pp_app_permission_settings">Dopuštenja aplikacije</string>
   <string name="pp_app_permission_settings_detail">Dopustite aplikacijama upotrebu dopuštenja povezanih s privatnošću</string>
   <string name="pp_app_reads_clipboard_smart_reminder">Zaštitite međuspremnik</string>
-  <string name="pp_app_reads_clipboard_smart_reminder_detail">"MIUI će odlučiti smiju li aplikacije pristupiti vašem međuspremniku. Kad to učine, primit ćete obavijest."</string>
+  <string name="pp_app_reads_clipboard_smart_reminder_detail">"HyperOS će odlučiti smiju li aplikacije pristupiti vašem međuspremniku. Kad to učine, primit ćete obavijest."</string>
   <string name="pp_app_warning_permission_tips">Primite obavijesti o ponašanju aplikacije</string>
   <string name="pp_app_warning_permission_tips_detail">Primite obavijesti kada aplikacije pristupaju vašoj lokaciji, snimaju zvuk ili koriste kameru</string>
   <string name="pp_block_mac">Ograničite pristup MAC adresi</string>
@@ -4663,7 +4663,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pp_interception_net_visit_content_manager">Zaštitite Galeriju i datoteke aplikacija društvenih mreža</string>
   <string name="pp_interception_net_visit_content_manager_detail">Odaberite kojim aplikacijama je dopušten pristup vašim fotografijama, videozapisima i povijesti chata</string>
   <string name="pp_lab_compact_blur_location">Aplikacije koje pristupaju približnoj lokaciji</string>
-  <string name="pp_lab_compact_blur_location_summary">"Odaberite \"Zadano\" za korištenje Androidove funkcije približne lokacije ili \"Sve\" za prebacivanje na MIUI."</string>
+  <string name="pp_lab_compact_blur_location_summary">"Odaberite \"Zadano\" za korištenje Androidove funkcije približne lokacije ili \"Sve\" za prebacivanje na HyperOS."</string>
   <string name="pp_local_msg">Informacije o lokaciji</string>
   <string name="pp_manage_apps_location_information">Dopustite aplikacijama pristup vašoj lokaciji</string>
   <string name="pp_manage_track">Nadgledajte tragače</string>
@@ -4681,7 +4681,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pp_privacy_lab_blur_location">Približna lokacija</string>
   <string name="pp_privacy_lab_blur_location_summary">Depersonalizirajte podatke o svojoj lokaciji omogućavajući aplikacijama pristup vašoj približnoj lokaciji</string>
   <string name="pp_privacy_lab_clipboard">Zaštitite međuspremnik</string>
-  <string name="pp_privacy_lab_clipboard_summary">Dopustite MIUI-ju da odluči može li aplikacija pristupiti međuspremniku i primati obavijesti kad to učini</string>
+  <string name="pp_privacy_lab_clipboard_summary">Dopustite HyperOS-ju da odluči može li aplikacija pristupiti međuspremniku i primati obavijesti kad to učini</string>
   <string name="pp_privacy_lab_operator_get_number">Zahtijeva odobrenje za pristup broju telefona</string>
   <string name="pp_privacy_lab_operator_get_number_summary">Tražite od aplikacija da traže vaše dopuštenje kada žele pristupiti vašem broju telefona za prijavu</string>
   <string name="pp_privacy_lab_operator_introduction">Pažnja</string>
@@ -4721,7 +4721,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pref_about_traffic_title">Postavke uporabe podataka</string>
   <string name="pref_add_traffic_pkg">Dodatno kupljeni podaci</string>
   <string name="pref_adjust_data_usage">Predložak poruke mobilnog operatera</string>
-  <string name="pref_adjust_data_usage_summary">Nakon što promijenite predložak za kalibraciju, MIUI će ga koristiti da dobije statističke podatke o korištenju podataka od vašeg mobilnog operatera</string>
+  <string name="pref_adjust_data_usage_summary">Nakon što promijenite predložak za kalibraciju, HyperOS će ga koristiti da dobije statističke podatke o korištenju podataka od vašeg mobilnog operatera</string>
   <string name="pref_adjust_data_usage_value">Promjenjeno</string>
   <string name="pref_adjust_traffic_data">Postavite uporabu podataka</string>
   <string name="pref_allow_connect_network_title">Međunarodni roaming podataka</string>
@@ -4807,7 +4807,7 @@ Isklj. maks.: %2$s</string>
   <string name="pref_specified_adjust">Postavljanje prilagođenog ograničenja podataka</string>
   <string name="pref_specified_traffic_settings">Postavke ograničenja podataka</string>
   <string name="pref_summary_lock_screen_memory_clean">Očisti automatski kad je uređaj zaključan</string>
-  <string name="pref_summary_upload_data_usage">Prijavite podatke o uporabi podataka kako biste nam pomogli poboljšati MIUI usluge. Proces izvješćivanja bit će proveden u skladu s našim Pravilima o Privatnosti.</string>
+  <string name="pref_summary_upload_data_usage">Prijavite podatke o uporabi podataka kako biste nam pomogli poboljšati HyperOS usluge. Proces izvješćivanja bit će proveden u skladu s našim Pravilima o Privatnosti.</string>
   <string name="pref_summary_virus_white_list">Spriječi odabrane aplikacije od čišćenja</string>
   <string name="pref_title_declaration">Odricanje odgovornosti</string>
   <string name="pref_title_diagnostics_show_float_notification">Plutajuće obavijesti</string>
@@ -4902,15 +4902,15 @@ Isklj. maks.: %2$s</string>
   <string name="privacy_dialog_call_item_1">Pristup podacima o uređaju</string>
   <string name="privacy_dialog_call_item_2">Upućivanje poziva</string>
   <string name="privacy_dialog_call_item_3">Pristup statusu uređaja</string>
-  <string name="privacy_dialog_call_message">"MIUI prema zadanim postavkama ne dopušta aplikacijama trećih strana da rade sljedeće:"</string>
+  <string name="privacy_dialog_call_message">"HyperOS prema zadanim postavkama ne dopušta aplikacijama trećih strana da rade sljedeće:"</string>
   <string name="privacy_dialog_call_result">"I dalje ćete moći normalno koristiti aplikacije i usluge trećih strana. Međutim, ako naiđete na bilo kakve probleme, slobodno nam pošaljite upit."</string>
   <string name="privacy_dialog_call_title">Zaštitite pozive</string>
-  <string name="privacy_dialog_camera_message">"Da bi zaštitio vašu privatnost, MIUI ne dopušta aplikacijama da koriste vašu kameru u pozadini."</string>
+  <string name="privacy_dialog_camera_message">"Da bi zaštitio vašu privatnost, HyperOS ne dopušta aplikacijama da koriste vašu kameru u pozadini."</string>
   <string name="privacy_dialog_camera_title">Ograniči korištenje kamere u pozadini</string>
   <string name="privacy_dialog_content_part1">Dobrodošli u Sigurnost! Ova aplikacija provjerava ima li na uređaju otpada i virusa, kao i omogućuje upravljanje aplikacijama, kontrolu upotrebe mobilnih podataka, blokiranje poziva i poruka i još mnogo toga.</string>
   <string name="privacy_dialog_content_part2"><Data>Aplikacija Sigurnost treba prikupiti potrebne osobne podatke kako bi vam pružila svoje usluge i mogla poboljšati svoje značajke. Možete saznati kako postupamo s podacima koje prikupljamo u našim &lt;a href=\"%1$s\">Pravila privatnosti&lt;/a>. Svoju suglasnost na Pravila o privatnosti možete povući u postavkama u bilo kojem trenutku</Data></string>
   <string name="privacy_dialog_content_part3"><Data>"Pročitajte i prihvatite naš &lt;a href=\"%2$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> prije korištenja aplikacije. Ako ne prihvatite korištenje gore navedenih usluga, nećete moći koristiti neke značajke ove aplikacije; međutim, njezine osnovne funkcije i dalje će vam biti dostupne."</Data></string>
-  <string name="privacy_dialog_danger_mission_message">Android ima više dopuštenja visokog rizika (npr. Dopuštenje za slanje push obavijesti). Da bismo zaštitili vašu privatnost, MIUI će vas pitati dopuštate li takvo ponašanje i pružati mogućnosti ograničenja.</string>
+  <string name="privacy_dialog_danger_mission_message">Android ima više dopuštenja visokog rizika (npr. Dopuštenje za slanje push obavijesti). Da bismo zaštitili vašu privatnost, HyperOS će vas pitati dopuštate li takvo ponašanje i pružati mogućnosti ograničenja.</string>
   <string name="privacy_dialog_danger_mission_title">Dopuštenja visokog rizika</string>
   <string name="privacy_dialog_feedback">Povratna inf.</string>
   <string name="privacy_dialog_message">"Kada se povežete s internetom, ta će poruka, zajedno s informacijama o mobilnom operateru, biti šifrirana i poslana na Mi poslužitelje kako bismo poboljšali nadzor nad uporabom podataka."</string>
@@ -4948,7 +4948,7 @@ Isklj. maks.: %2$s</string>
   <string name="privacy_flares_recent_detail_more">Ova je aplikacija koristila osjetljivo dopuštenje</string>
   <string name="privacy_global_guide_permission_guide_text">"Primit ćete upozorenje na traci statusa kada aplikacije snimaju zvuk ili upotrebljavaju kameru. Da biste saznali koja aplikacija to radi, dodirnite upozorenje."</string>
   <string name="privacy_guide_permission_guide_text">U traci statusa možete primiti upozorenje kada aplikacije pristupaju vašoj lokaciji, snimaju zvukove ili fotografiraju.</string>
-  <string name="privacy_guide_permission_use_text">MIUI će brojati i prikazati koliko puta aplikacija koristi osjetljiva dopuštenja, uključujući lokaciju, kontakt, povijest poziva i pristup pohrani, kao i snimanje zvuka. Možete saznati koliko puta svaka aplikacija upotrebljava ta dopuštenja i odrediti trebate li prilagoditi postavke dopuštenja.</string>
+  <string name="privacy_guide_permission_use_text">HyperOS će brojati i prikazati koliko puta aplikacija koristi osjetljiva dopuštenja, uključujući lokaciju, kontakt, povijest poziva i pristup pohrani, kao i snimanje zvuka. Možete saznati koliko puta svaka aplikacija upotrebljava ta dopuštenja i odrediti trebate li prilagoditi postavke dopuštenja.</string>
   <string name="privacy_hide_other_permissions">Sakrij druga dopuštenja</string>
   <string name="privacy_informed_title">Statistika</string>
   <string name="privacy_input_icon_layout_status_bg_content_enable">Zaštićeno</string>
@@ -4965,7 +4965,7 @@ Isklj. maks.: %2$s</string>
   <string name="privacy_look_all_permission_times">Sve aplikacije</string>
   <string name="privacy_look_privacy">Pravila o privatnosti</string>
   <string name="privacy_manage_title">Upravljaj</string>
-  <string name="privacy_mask_summary">Umjesto vašeg stvarnog identifikatora, MIUI će aplikacijama treće strane pružiti virtualni ID (PAID). Sprečava aplikacije da prate vaše ponašanje i postavke i štiti vašu privatnost.</string>
+  <string name="privacy_mask_summary">Umjesto vašeg stvarnog identifikatora, HyperOS će aplikacijama treće strane pružiti virtualni ID (PAID). Sprečava aplikacije da prate vaše ponašanje i postavke i štiti vašu privatnost.</string>
   <string name="privacy_mask_title">Virtualni ID je uključen</string>
   <string name="privacy_mode_dialog_title">Gost način</string>
   <string name="privacy_more_info_title">Saznajte više o značajkama zaštite privatnosti</string>
@@ -5113,7 +5113,7 @@ Povući suglasnost sada?"</string>
   <string name="privacy_show_password_summary">Kratko vrijeme zadrži zaporke vidljivima</string>
   <string name="privacy_special_permission_summary">Nadgledajte kako aplikacije koriste osjetljiva dopuštenja</string>
   <string name="privacy_special_permission_title">Posebna dopuštenja</string>
-  <string name="privacy_summary">Saznajte o zaštiti privatnosti u MIUI 12</string>
+  <string name="privacy_summary">Saznajte o zaštiti privatnosti u HyperOS 12</string>
   <string name="privacy_thumbnail_blur_category_financial">Financije</string>
   <string name="privacy_thumbnail_blur_category_other">Ostalo</string>
   <string name="privacy_thumbnail_blur_category_photography">Fotografija &amp; videozapisi</string>
@@ -5145,7 +5145,7 @@ Povući suglasnost sada?"</string>
   <string name="protection_category_recommend_title">Preporučene promjene (%d)</string>
   <string name="protection_category_security_title">Očisti (%d)</string>
   <string name="protocol_exception_title">Dijagnostika protokola mreže</string>
-  <string name="protocol_loop_back_exception_summary">Testiranje Lokalne povratne petlje nije uspio. Da prijavite MIUI-u ovaj problem, idite u aplikaciju Pov. informacije i pošaljite izvješće sa svog uređaja..</string>
+  <string name="protocol_loop_back_exception_summary">Testiranje Lokalne povratne petlje nije uspio. Da prijavite HyperOS-u ovaj problem, idite u aplikaciju Pov. informacije i pošaljite izvješće sa svog uređaja..</string>
   <string name="provision_back">Natrag</string>
   <string name="provision_next">Dalje</string>
   <string name="provision_skip_underline">Preskoči</string>
@@ -5296,7 +5296,7 @@ Povući suglasnost sada?"</string>
   <string name="safe_result_item_info_system_antivirus">Zaštita od virusa krađe identiteta</string>
   <string name="safe_result_item_info_system_root">ROOT siguran</string>
   <string name="safe_result_item_info_system_scan">Nadziranje plaćanja je uključeno</string>
-  <string name="safe_result_item_info_system_version">MIUI Sustav je ažuran</string>
+  <string name="safe_result_item_info_system_version">HyperOS Sustav je ažuran</string>
   <string name="safe_result_item_info_wifi_arp">Nema ARP napada</string>
   <string name="safe_result_item_info_wifi_connection">Wi-Fi povezan</string>
   <string name="safe_result_item_info_wifi_dns">DNS poslužitelj siguran</string>
@@ -5362,7 +5362,7 @@ Povući suglasnost sada?"</string>
   <string name="security_center_slogan">Držite svoj uređaj brzim i sigurnim</string>
   <string name="security_guide_bubble_text">Otvori</string>
   <string name="security_guide_summary">One-stop mjesto za alate i usluge</string>
-  <string name="security_guide_title">MIUI Utility Kit</string>
+  <string name="security_guide_title">HyperOS Utility Kit</string>
   <string name="security_protection_bottom_slogon">Sigurnost u najboljem slučaju</string>
   <string name="security_protection_title">Sigurnost</string>
   <string name="security_scan_card_clean_now">Skeniraj</string>
@@ -5421,7 +5421,7 @@ Povući suglasnost sada?"</string>
   <string name="settings_privacy_revoke_desc">Isključivanjem prečaca povlačite svoju suglasnost na Sigurnosna pravila o privatnosti.</string>
   <string name="settings_privacy_revoke_title">Povlačenje suglasnosti</string>
   <string name="settings_privacy_settings_title">Privatnost</string>
-  <string name="settings_share_enable_summary">Stavke koje dijelite na WeChatu pojavit će se s MIUI značkom</string>
+  <string name="settings_share_enable_summary">Stavke koje dijelite na WeChatu pojavit će se s HyperOS značkom</string>
   <string name="settings_share_info">Ovdje su dostupne sigurne mogućnosti dijeljenja za stavke koje dijelite iz Galerije i Datoteka:</string>
   <string name="settings_show_detail">Prikaži detalje</string>
   <string name="settings_tip">Idite u Galerija &gt; Postavke za prikaz više opcija</string>
@@ -5599,7 +5599,7 @@ Povući suglasnost sada?"</string>
   <string name="sp_background_risk_dialog_summary">, provjeri i popravi probleme s plaćanjem.</string>
   <string name="sp_background_risk_dialog_summary_new">Trenutno okruženje plaćanja može predstavljati sigurnosne rizike. Odvojite trenutak da saznate više.</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Povezani ste s javnom Wi-Fi mrežom koja može biti nesigurna. Provjerite je li plaćanje zaštićeno prije nego što ga dovršite.</string>
-  <string name="sp_background_risk_dialog_title">MIUI je otkrio rizik</string>
+  <string name="sp_background_risk_dialog_title">HyperOS je otkrio rizik</string>
   <string name="sp_background_risk_dialog_title_wifi_approve">Upozorenje javnog Wi-Fi-ja</string>
   <string name="sp_background_risk_type_messaging">Aplikacija za slanje poruka sustava je promijenjena</string>
   <string name="sp_background_risk_type_root">Sustav je ROOT-an</string>
@@ -5620,7 +5620,7 @@ Povući suglasnost sada?"</string>
   <string name="sp_lock_screen_password_summary">Postavite Zaklj. zaslona</string>
   <string name="sp_lock_screen_password_title">Zaklj. zaslona</string>
   <string name="sp_micare_summary">Osobna sigurnost</string>
-  <string name="sp_micare_title">MIUI Centar za upozorenja</string>
+  <string name="sp_micare_title">HyperOS Centar za upozorenja</string>
   <string name="sp_monitored_apps_count_zero">Nema zaštićenih aplikacija za plaćanje</string>
   <string name="sp_monitored_apps_list_title">Postavke nadziranja</string>
   <string name="sp_more_security_settings">Dodatne postavke</string>
@@ -6024,7 +6024,7 @@ Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubi
   <string name="suggest_to_use_mi_sim">Koristite Mi Sim da biste spriječili stvaranje dodatnih troškova operatera.</string>
   <string name="summary_app_lock_disable">Zaštitite svoje podatke sa Zaklj. aplikacija</string>
   <string name="summary_app_update_new">Ažurirajte aplikacije za pristup novim značajkama</string>
-  <string name="summary_auto_update">MIUI će odabrati najprikladnije vrijeme za preuzimanje i instaliranje ažuriranja.</string>
+  <string name="summary_auto_update">HyperOS će odabrati najprikladnije vrijeme za preuzimanje i instaliranje ažuriranja.</string>
   <string name="summary_background_connection">Ograničili ste pozadinsku vezu za ovu aplikaciju.</string>
   <string name="summary_block_calls_from_cantacts">"Pozivi od kontakata su blokirani."</string>
   <string name="summary_block_calls_from_strangers">Pozivi od stranaca su blokirani</string>
@@ -6134,12 +6134,12 @@ Formatiranjem će se izbrisati postojeći sadržaj na ^2. Da biste izbjegli gubi
   <string name="support_game_booster_tips">Ubzravanje brzine &amp; poboljšanje doživljaja igranja</string>
   <string name="sys_app_prot_cracked_confirm">Razumijem</string>
   <string name="sys_app_prot_cracked_login">Prijavite se s Xiaomi Računom</string>
-  <string name="sys_app_prot_cracked_text_login">"Trenutna MIUI verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost.
+  <string name="sys_app_prot_cracked_text_login">"Trenutna HyperOS verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost.
 
 Pobrinite se da znate odakle ovaj uređaj dolazi, i obratite se ovlaštenom Xiaomi servisu u vašem području da biste dobili pomoć."</string>
-  <string name="sys_app_prot_cracked_text_unlogin">"Trenutna MIUI verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost. Prijavite se sa svojim Xiaomi Računom da biste isključili ovo upozorenje.
+  <string name="sys_app_prot_cracked_text_unlogin">"Trenutna HyperOS verzija je izmijenjena te dovodi sigurnost vašeg uređaja u opasnost. Prijavite se sa svojim Xiaomi Računom da biste isključili ovo upozorenje.
   
-Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle ovaj uređaj dolazi i obratite se ovlaštenom Xiaomi servisu u vašem području."</string>
+Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate odakle ovaj uređaj dolazi i obratite se ovlaštenom Xiaomi servisu u vašem području."</string>
   <string name="sys_app_prot_cracked_title">Sigurnosni rizik</string>
   <string name="sys_cpu_title">Upotreba CPU-a</string>
   <string name="sys_freememory_title">Dostupno</string>
@@ -6265,7 +6265,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Dijagnostika dovršena, problemi lokacije ispravljeni.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Dijagnostika dovršena, lokacija i problemi mobilnog operatera ispravljeni.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_success_toast">Uspješno promjenjeno</string>
-  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Rezultat: Ne mogu dovršiti dijagnostiku&lt;br/&gt;&lt;br/&gt;Prijavite ovaj problem kako bi pomogli da MIUI poboljša dijagnostičke alate&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Rezultat: Ne mogu dovršiti dijagnostiku&lt;br/&gt;&lt;br/&gt;Prijavite ovaj problem kako bi pomogli da HyperOS poboljša dijagnostičke alate&lt;/font&gt;"</string>
   <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Rezultat: Pogrešna lokacija&lt;br/&gt;&lt;br/&gt;Postavite lokaciju: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Aktualna lokacija: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">Mreža opratera nije pronađena</string>
   <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Pogreška&lt;/font&gt;"</string>
@@ -6275,9 +6275,9 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_diagnostic_status_success_brand">"&lt;font color='#3EC234'&gt;Mreža operatera odgovorila&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_timeout">"&lt;font color='#CC0000'&gt;Isteklo vrijeme veze&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_updating">Testiranje…</string>
-  <string name="tc_diagnostic_success_notification_summary">Prijavite ovaj problem kako bi pomogli da MIUI poboljša dijagnostičke alate</string>
+  <string name="tc_diagnostic_success_notification_summary">Prijavite ovaj problem kako bi pomogli da HyperOS poboljša dijagnostičke alate</string>
   <string name="tc_diagnostic_success_notification_title">Mreža i marka mobilnog operatera su ispravni</string>
-  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Rezultat: Mreža operatora i i marka ispravno postavljeni&lt;br/&gt;&lt;br/&gt;Ne mogu dovršiti podešavanje:&lt;br/&gt;1. Statistika operatera možda nije pouzdana na početku ili na kraju mjeseca.&lt;br/&gt;2. Značajke aplikacije Sigurnost nisu ažurirane.&lt;br/&gt;&lt;br/&gt;Prijavite ovaj problem kako bi pomogli da MIUI poboljša dijagnostičke alate&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'&gt;Rezultat: Mreža operatora i i marka ispravno postavljeni&lt;br/&gt;&lt;br/&gt;Ne mogu dovršiti podešavanje:&lt;br/&gt;1. Statistika operatera možda nije pouzdana na početku ili na kraju mjeseca.&lt;br/&gt;2. Značajke aplikacije Sigurnost nisu ažurirane.&lt;br/&gt;&lt;br/&gt;Prijavite ovaj problem kako bi pomogli da HyperOS poboljša dijagnostičke alate&lt;/font&gt;"</string>
   <string name="tc_diagnostic_title">Dijagnostika mreže</string>
   <string name="tc_diagnostic_upload_button">Prijavi</string>
   <string name="tc_diagnostic_upload_no_network">Hvala vam za povratnu informaciju! Vaše će izvješće biti poslano kada se povežete s mrežom.</string>
@@ -6299,7 +6299,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_sms_report_get_sms_timeout">Istek vremena zahtjeva</string>
   <string name="tc_sms_report_get_success">"Primljen SMS izvješća uporabe podataka od mobilnog operatera. Uvjerite se da je točan
   i pošaljite ga nama."</string>
-  <string name="tc_sms_report_get_success_notify_body">Uvjerite se da je izvješće točno i pošaljite ga MIUI.</string>
+  <string name="tc_sms_report_get_success_notify_body">Uvjerite se da je izvješće točno i pošaljite ga HyperOS.</string>
   <string name="tc_sms_report_get_success_notify_title">Primljen SMS izvješća uporabe podataka</string>
   <string name="tc_sms_report_geting_sms">Dobivanje izvješća SMS-a…</string>
   <string name="tc_sms_report_notify_correction_body">Idi u-&gt; Sigurnost-&gt; Uporaba podataka i pokušajte ponovno ručno.</string>
@@ -6311,7 +6311,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="tc_sms_report_notify_get_timeout_body">Istek vremena obrade. Potvrdi sa svojim operaterom da je upit koda SMS-om koji ste unijeli je ispravan.</string>
   <string name="tc_sms_report_notify_get_timeout_title">"Ne mogu dobiti SMS o uporabi podataka"</string>
   <string name="tc_sms_report_receive_content">Sadržaj izvješća SMS-a uporabe podataka (Potvrda statistike o uporabi podataka)</string>
-  <string name="tc_sms_report_receive_content_null">"​Pomozite nam poboljšati ovu značajku!&lt;br/&gt;Evo kako:&lt;br/&gt;1. Idite na \"Provjeri naredbu SMS\" i \"Broj primatelja\"&lt;br/&gt;2. Dodirnite \"Dobivanje SMS predloška\"&lt;br/&gt;3. Pričekajte SMS poruku od svog mobilnog operatera &lt;br/&gt;4. Dodirnite \"Pošalji MIUI\"​"</string>
+  <string name="tc_sms_report_receive_content_null">"​Pomozite nam poboljšati ovu značajku!&lt;br/&gt;Evo kako:&lt;br/&gt;1. Idite na \"Provjeri naredbu SMS\" i \"Broj primatelja\"&lt;br/&gt;2. Dodirnite \"Dobivanje SMS predloška\"&lt;br/&gt;3. Pričekajte SMS poruku od svog mobilnog operatera &lt;br/&gt;4. Dodirnite \"Pošalji HyperOS\"​"</string>
   <string name="tc_sms_report_receive_num">Broj primatelja</string>
   <string name="tc_sms_report_send_num">Broj operatora #</string>
   <string name="tc_sms_report_summary">Pomozite nam poboljšati ovu značajku slanjem izvješća kada je informacija uporabe podataka netočna ili ne uspijeva ažuriranje</string>
@@ -6370,7 +6370,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="thermal_tips_message">Igranje igara u načinu Performansi može dovesti do problema s pregrijavanjem.</string>
   <string name="thermal_tips_title">Pažnja</string>
   <string name="third_application">Instalirane aplikacije</string>
-  <string name="third_desktop_dialog_content">Budući da aplikacije za pokretače od trećih strana mogu rezultirati problemima kao što su curenje podataka, neuobičajeno trošenje baterije i usporenost, itd. Samo one koje je potvrdio MIUI mogu se postaviti kao zadani pokretač.</string>
+  <string name="third_desktop_dialog_content">Budući da aplikacije za pokretače od trećih strana mogu rezultirati problemima kao što su curenje podataka, neuobičajeno trošenje baterije i usporenost, itd. Samo one koje je potvrdio HyperOS mogu se postaviti kao zadani pokretač.</string>
   <string name="third_desktop_dialog_ok">Razumijem</string>
   <string name="third_desktop_dialog_title">Pogreška</string>
   <string name="three_percent_total_pkg">%s (3%% od mjes. podataka)</string>
@@ -6438,7 +6438,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_dark_mode">"Neke se stavke ne prikazuju ispravno"</string>
   <string name="title_data_flow">Nadziri uporabu podataka</string>
   <string name="title_data_flow_monitor">Nadzor uporabe podataka je uključen</string>
-  <string name="title_default_app">"MIUI %s nije postavljena kao zadana aplikacija"</string>
+  <string name="title_default_app">"HyperOS %s nije postavljen kao zadana aplikacija"</string>
   <string name="title_dev_model_off">"Opcije Raz. programera isključene"</string>
   <string name="title_dev_no">Opcije Raz. programera uključene</string>
   <string name="title_dev_yes">Opcije Raz. programera isključene</string>
@@ -6463,7 +6463,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_live_talk_purchase">Uključite paket nadoplate</string>
   <string name="title_mifi_insurance">Produljeno jamstvo</string>
   <string name="title_miui_update">Dostupno ažuriranje</string>
-  <string name="title_miui_update_latest">MIUI je ažuran</string>
+  <string name="title_miui_update_latest">HyperOS je ažuran</string>
   <string name="title_mms_no">Filter poruka je isključen</string>
   <string name="title_mms_yes">Filter poruka je uključen</string>
   <string name="title_network_switch">Povezivanje s mrežom</string>
@@ -6505,7 +6505,7 @@ Ukoliko niste mijenjali MIUI na bilo koji način, budite sigurni da znate odakle
   <string name="title_result_screen_display">Always-on zaslon</string>
   <string name="title_result_start_activity">Otvori aplikaciju</string>
   <string name="title_result_switch">Isključi</string>
-  <string name="title_result_touch">Haptic feedback</string>
+  <string name="title_result_touch">Haptičke porvatne inf.</string>
   <string name="title_result_twinkle">Način rada protiv treperenja</string>
   <string name="title_result_typeface">Veličina teksta &amp; debljina fonta</string>
   <string name="title_result_wlan">Wi-Fi</string>
@@ -6967,7 +6967,7 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="warningcenter_action_check">Prikaži</string>
   <string name="warningcenter_alert_home">Lokacija</string>
   <string name="warningcenter_alert_room">Soba</string>
-  <string name="warningcenter_alert_source">MIUI Centar za upozoravanje | Izvor podataka: %s</string>
+  <string name="warningcenter_alert_source">HyperOS Centar za upozoravanje | Izvor podataka: %s</string>
   <string name="warningcenter_alert_time">Vrijeme</string>
   <string name="warningcenter_alert_warning_time">Vrijeme primitka: %s</string>
   <string name="warningcenter_disaster_search_keywords">Upozorenja vremena</string>
@@ -7010,7 +7010,7 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="warningcenter_policeassist_privacy"><Data>"Pročitao sam i prihvaćam &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>."</Data></string>
   <string name="warningcenter_policeassist_title">Lokacija za hitne slučajeve</string>
   <string name="warningcenter_smarthome">Mi Home</string>
-  <string name="warningcenter_title">MIUI Centar za upozoravanje</string>
+  <string name="warningcenter_title">HyperOS Centar za upozoravanje</string>
   <string name="website">Web stranica</string>
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>

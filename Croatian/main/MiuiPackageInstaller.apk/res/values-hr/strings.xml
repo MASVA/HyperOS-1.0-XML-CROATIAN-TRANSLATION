@@ -461,7 +461,7 @@
 	<string name="mtrl_timepicker_cancel">Odustani</string>
 	<string name="mtrl_timepicker_confirm">U redu</string>
 	<string name="net_work_error_msg">"Ne mogu se povezati s mrežom radi izvođenja sigurnosne provjere"</string>
-	<string name="net_work_error_retry">Try again</string>
+	<string name="net_work_error_retry">Pokušaj ponovno</string>
 	<string name="network_error_info">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
 	<string name="network_timeout_info">"Ne mogu se povezati s mrežom. Pokušajte ponovno."</string>
 	<string name="no_check_risk">Nema otkrivenih rizika</string>
