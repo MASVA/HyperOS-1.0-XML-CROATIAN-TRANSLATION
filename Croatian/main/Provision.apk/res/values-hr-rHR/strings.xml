@@ -55,6 +55,7 @@
   <string name="app_name">Odredbe</string>
   <string name="application_package_introduction">Alat za instalaciju paketa koristi se za instaliranje aplikacija trećih strana, uključujući usluge skeniranja prije instalacije i preporuke aplikacija nakon instalacije.</string>
   <string name="application_permissions">Dopuštenja aplikacije</string>
+  <string name="aquire_device_info">Pristup informacijama o uređaju</string>
   <string name="authority_introduction">Upravitelj dopuštenja osnovna je usluga koja vam omogućuje upravljanje dopuštenjima aplikacije na ovom uređaju.</string>
   <string name="back">Natrag</string>
   <string name="backup_introduction">Ovu aplikaciju možete koristiti za izradu sigurnosnih kopija i vraćanje stavki na vaš uređaj.</string>
@@ -66,14 +67,14 @@
   <string name="calculator_introduction">Ovu aplikaciju možete koristiti za izračunavanje, pretvaranje jedinica i valuta i procjenu otplate hipoteke.</string>
   <string name="camera_application_introduction">Ovu aplikaciju možete koristiti za snimanje fotografija i videozapisa.</string>
   <string name="camera_introduction">Kameru možete koristiti za snimanje fotografija i videozapisa.</string>
-  <string name="carousel_cookies_content">&lt;Data&gt;Kada dodirnete slike i pri&amp;#269;e u Wallpaper Carouselu, njihove pune verzije otvorit &amp;#263;e se u va&amp;#353;em pregledniku. Na&amp;#353; davatelj sadr&amp;#382;aja tre&amp;#263;e strane od povjerenja tada mo&amp;#382;e preporu&amp;#269;iti dodatni sadr&amp;#382;aj i oglase koji su prilago&amp;#273;eni va&amp;#353;im interesima. Ako pristanete aktivirati ovu zna&amp;#269;ajku, oni &amp;#263;e postaviti kola&amp;#269;i&amp;#263;e u va&amp;#353; preglednik, kao &amp;#353;to je opisano u ovome &amp;lt;a href=\"%1$s\"&amp;gt;Cookie Policy&amp;lt;/a&amp;gt;. If you decline cookies, Wallpaper Carousel will still work but its content and recommendations might stop being relevant to you. You can always change your preferences in Settings.&lt;/Data&gt;</string>
+  <string name="carousel_cookies_content">&lt;Data&gt;Kada dodirnete slike i priče u Wallpaper Carouselu, njihove pune verzije otvorit će se u vašem pregledniku. Naš davatelj sadržaja treće strane od povjerenja tada može preporučiti dodatni sadržaj i oglase koji su prilago&amp;#273;eni vašim interesima. Ako pristanete aktivirati ovu značajku, oni će postaviti kolačiće u vaš preglednik, kao što je opisano u ovome &amp;lt;a href=\"%1$s\"&amp;gt;Cookie Policy&amp;lt;/a&amp;gt;. If you decline cookies, Wallpaper Carousel will still work but its content and recommendations might stop being relevant to you. You can always change your preferences in Settings.&lt;/Data&gt;</string>
   <string name="carousel_cookies_subtitle">Kolačići nam omogućuju da personaliziramo vaše iskustvo Zaklj. zaslona.</string>
   <string name="carousel_cookies_title">Personalizirani sadržaj i kolačići</string>
-  <string name="carousel_privacy">&lt;Data&gt;"Pro&amp;#269;itajte i prihvatite na&amp;#353;eg pouzdanog pru&amp;#382;atelja tre&amp;#263;e strane &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja Wallpaper Carousela."&lt;/Data&gt;</string>
+  <string name="carousel_privacy">&lt;Data&gt;"Pročitajte i prihvatite našeg pouzdanog pružatelja treće strane &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; prije korištenja Wallpaper Carousela."&lt;/Data&gt;</string>
   <string name="carousel_setting">Postavite svoj Zaklj. zaslon</string>
   <string name="carousel_setting_sub">Wallpaper Carousel pokazat će vam nove priče svaki put kada otključate svoj uređaj</string>
   <string name="carrier_introduction_china">"Kako bi vam pružili bolje usluge, procesi koji se izvode na vašem uređaju (uključujući SystemHelper, RegService i Carrier Services) mogu povremeno slati podatke koji se odnose na vaš uređaj i SIM karticu (uključujući IMEI, IMSI, MSISDN, MEID, ICCID, MAC adresu, HyperOS verziju, Android verziju, model uređaja i osnovne hardverske specifikacije), kao i približne informacije o lokaciji (uključujući regiju, koordinate, identifikator područja i ID bazne stanice) operateru putem Wi-Fi-ja, mobilne podatkovne mreže ili besplatnog SMS-a. Prijevoznik obećava da će analizirati relevantne informacije samo radi poboljšanja kvalitete usluga ili pružanja prilagođenih usluga ili tehnologija i neće otkriti relevantne informacije trećim stranama u bilo kojem obliku koji vas osobno identificira. Posebna izjava prijevoznika ima prednost. U vezi troškova korištenja ove usluge posavjetujte se sa svojim operaterom."</string>
-  <string name="check_box_label">&lt;Data&gt;"Uklju&amp;#269;ivanjem ove zna&amp;#269;ajke prihva&amp;#263;ate &amp;lt;a href=%1$s&amp;gt;Xiaomi Interconnectivity Services Privacy Policy&amp;lt;/a &amp;gt;."&lt;/Data&gt;</string>
+  <string name="check_box_label">&lt;Data&gt;"Uključivanjem ove značajke prihvaćate &amp;lt;a href=%1$s&amp;gt;Xiaomi Interconnectivity Services Privacy Policy&amp;lt;/a &amp;gt;."&lt;/Data&gt;</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clock_introduction">Ovu aplikaciju možete koristiti za prikaz vremena, kao i korištenje timera, svjetskog sata, štoperice, postavljanje alarma i još mnogo toga.</string>
   <string name="close">Zatvori</string>
@@ -424,6 +425,7 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="permission_account">Pristup informacijama o računu</string>
   <string name="permission_account_introduction">Za prijavu pomoću Xiaomi računa</string>
   <string name="permission_application_package_introduction">Za pristup pohrani radi analize i skeniranja instalacijskih paketa</string>
+  <string name="permission_application_scope_description">"Ova dopuštenja koristimo samo kada provodimo sigurnosnu provjeru i nećemo ih koristiti ni u koje druge svrhe."</string>
   <string name="permission_authority_describe">Pristup popisu aplikacija instaliranih na ovom uređaju</string>
   <string name="permission_authority_describe_applist_summary">Za upravljanje dopuštenjima aplikacije</string>
   <string name="permission_backup">Pristup pohrani</string>
@@ -557,11 +559,12 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="privacy_title">Uvjeti &amp; Pravila o privatnosti</string>
   <string name="protect_persoanl_info_statement">Zaštititi ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.</string>
   <string name="provision_back">Natrag</string>
-  <string name="provision_inputmethod_policy_description">&lt;Data&gt;Pogledajte &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt; va&amp;#353;e odabrane tipkovnice.&lt;/Data&gt;</string>
+  <string name="provision_inputmethod_policy_description">&lt;Data&gt;Pogledajte &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt; vaše odabrane tipkovnice.&lt;/Data&gt;</string>
   <string name="provision_inputmethod_policy_description1">Pravila o privatnosti</string>
   <string name="provision_next">Dalje</string>
   <string name="provision_skip_underline">Preskoči</string>
   <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier je usluga koja upravlja procesima sustava.</string>
+  <string name="read_application_info">Pristup informacijama o aplikaciji</string>
   <string name="recommend_font">MiSans</string>
   <string name="recommended_font_mark">Preporučeno</string>
   <string name="recorder_introduction">Možete koristiti ovu aplikaciju za snimanje zvuka i pohranu snimki na Xiaomi Cloud.</string>
@@ -576,6 +579,8 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="require_network_and_authority_statement">Da bi mogla normalno raditi, ova usluga mora se povezati s internetom i zahtijeva sljedeća dopuštenja:</string>
   <string name="require_network_authority_statement">Da biste nam omogućili da vam pružimo osnovne usluge, morate se povezati na internet i odobriti sljedeća dopuštenja kako bismo mogli prikupiti vaše osobne podatke:</string>
   <string name="require_network_authority_statement_dual">Da bi mogla normalno raditi, ova usluga mora se povezati s internetom i zahtijeva sljedeća dopuštenja:</string>
+  <string name="safe_open_service">Sigurne otvorene usluge</string>
+  <string name="safe_open_service_introduction">Sigurne otvorene usluge pomažu programerima i pružaju sigurnosne mogućnosti na razini sustava za zaštitu korisnika i njihove privatnosti.</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
@@ -587,9 +592,9 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="send">Pošalji</string>
   <string name="service_agreement">"Pročitao sam i prihvatio uvjete i odredbe."</string>
   <string name="service_company_adjust_content">Xunlei Network Services User Agreement</string>
-  <string name="service_fast_pairing_policy">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Mi Link Privacy Policy&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="service_fast_pairing_policy">&lt;Data&gt;Pročitajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Mi Link Privacy Policy&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
   <string name="service_interconnection_communication">Xiaomi Internet Communication Services</string>
-  <string name="service_location_share_policy">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Location Services Privacy Statement&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="service_location_share_policy">&lt;Data&gt;Pročitajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Location Services Privacy Statement&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
   <string name="service_name_MIUIDaemon">Xiaomi račun</string>
   <string name="service_name_HyperOSDaemon">HyperOS Daemon</string>
   <string name="service_name_address_dialing">Kontakti i Telefon</string>
@@ -620,11 +625,11 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="service_name_security">Sigurnost</string>
   <string name="service_name_service_framework">Mi Services Framework</string>
   <string name="service_name_systemdesktop">Dodatak za uslugu početnog zaslona</string>
-  <string name="service_policy">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
+  <string name="service_policy">&lt;Data&gt;Pročitajte i prihvatite naše &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
   <string name="service_policy_adjust_content">Xunlei Pravila o privatnosti</string>
-  <string name="service_policy_download">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Xunlei Pravila o privatnosti&amp;lt;/a &amp;gt; i &amp;lt;a href=%1$s&amp;gt;Xunlei Network Services User Agreement&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="service_policy_download">&lt;Data&gt;Pročitajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Xunlei Pravila o privatnosti&amp;lt;/a &amp;gt; i &amp;lt;a href=%1$s&amp;gt;Xunlei Network Services User Agreement&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
   <string name="service_privacy_index">Pravila o privatnosti</string>
-  <string name="service_security_over_r">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt; prije kori&amp;#353;tenja aplikacije Sigurnost.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;In accordance with U skladu s Androidom 11 standardima, jednokratno dopu&amp;#353;tenje &amp;#263;e se povu&amp;#263;i u roku od 5 sekundi nakon &amp;#353;to odgovaraju&amp;#263;a aplikacija prestane raditi. Ako otvorite aplikaciju tijekom tog kratkog vremenskog razdoblja, dopu&amp;#353;tenje &amp;#263;e se povu&amp;#263;i nakon toga.&lt;/Data&gt;</string>
+  <string name="service_security_over_r">&lt;Data&gt;Pročitajte i prihvatite naše &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt; prije korištenja aplikacije Sigurnost.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;In accordance with U skladu s Androidom 11 standardima, jednokratno dopuštenje će se povući u roku od 5 sekundi nakon što odgovarajuća aplikacija prestane raditi. Ako otvorite aplikaciju tijekom tog kratkog vremenskog razdoblja, dopuštenje će se povući nakon toga.&lt;/Data&gt;</string>
   <string name="service_sim_activation">Aktivacija SIM kartice</string>
   <string name="servicestate_title">Izjava o osnovnim uslugama</string>
   <string name="setting_locale">Postavljanje regije…</string>
@@ -738,6 +743,8 @@ Prije korištenja ove značajke morate prihvatiti Pravila o privatnosti Mint Key
   <string name="user_agreement">Korisnički ugovor</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
+  <string name="verify_application_security">Za provjeru sigurnosti aplikacije</string>
+  <string name="verify_device_security">Za provjeru sigurnosti uređaja</string>
   <string name="voice_assist_advice">Mi AI omogućuje vam korištenje glasovnih kontrola, ali troši više energije (+1% svakih sat vremena).</string>
   <string name="voice_assist_condition">"U ovim ćete slučajevima moći koristiti Mi AI:
 1. Kada je zaslon uključen.

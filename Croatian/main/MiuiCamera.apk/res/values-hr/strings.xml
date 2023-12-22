@@ -203,11 +203,12 @@
   <string name="accessibility_panorama_review_cancel">Odustani</string>
   <string name="accessibility_peak">Tipka vrha fokusa</string>
   <string name="accessibility_picturesize_1_1_button">Omjer slike 1:1</string>
-  <string name="accessibility_picturesize_3_4_button">Omjer slike 3.4</string>
+  <string name="accessibility_picturesize_2_3_button">Omjer slike 2:3</string>
+  <string name="accessibility_picturesize_3_4_button">Omjer slike 3:4</string>
   <string name="accessibility_picturesize_8_9_button">Omjer slike 8:9</string>
   <string name="accessibility_picturesize_9_16_button">Omjer slike 9:16</string>
   <string name="accessibility_picturesize_fullscreen_button">Omjer slike cijeli zaslon</string>
-  <string name="accessibility_picturesize_real_cinematic_button">Omjer širine i visine dva zarez tri devet puta jedan</string>
+  <string name="accessibility_picturesize_real_cinematic_button">Omjer širine i visine 2:3/9:1</string>
   <string name="accessibility_portrait_button">Portretni način</string>
   <string name="accessibility_portrait_depth_effect_panel_on">Portret panel</string>
   <string name="accessibility_preview_button">Pregled</string>
@@ -234,6 +235,7 @@
   <string name="accessibility_select_all">Odaberi sve</string>
   <string name="accessibility_select_all_end">Odabrano sve</string>
   <string name="accessibility_selected">Odabrano</string>
+  <string name="accessibility_selected_cancle">Poništi odabir</string>
   <string name="accessibility_setting">Postavke</string>
   <string name="accessibility_setting_button">Dodatne postavke</string>
   <string name="accessibility_shutter_button">Tipka okidača</string>
@@ -371,7 +373,12 @@ i prilagodite postavke automatski"</string>
   <string name="aperture_no_wide_camera_tip">Otvor blende se može podesiti samo za glavnu kameru</string>
   <string name="app_details">Detalji:</string>
   <string name="audio_focus_exit_button_text">Isključi Audio fokus</string>
+  <string name="audio_gain_adjust_overhigh_tip">Daljnje podešavanje glasnoće može rezultirati niskom kvalitetom</string>
+  <string name="audio_gain_mutex_3d_tip">"Podešavanje glasnoće ne radi s dimenzionalnim imerzivnim zvukom"</string>
+  <string name="audio_gain_mutex_all_tip">"Prilagodba glasnoće ne radi s dimenzionalnim imerzivnim zvukom ili pametnim smanjenjem buke"</string>
+  <string name="audio_gain_mutex_nr_tip">"Prilagodba glasnoće ne radi s pametnim smanjenjem buke"</string>
   <string name="audio_map_summary_tip">Pratite glasnoću lijevog i desnog kanala u stvarnom vremenu i prilagodite ga pomoću klizača</string>
+  <string name="audio_track_mutex_truecolor_setting_tips">"Praćenje izvora nije podržano za videozapise Dolby Vision/8K/%sFPS"</string>
   <string name="auto">Autom.</string>
   <string name="auto_hibernation_enter_tip">O isključivanju zaslona…</string>
   <string name="auto_recommend_switch_lens">Otkriveno je više osoba. Promjenite na 0,6X za najbolji učinak.</string>
@@ -379,7 +386,7 @@ i prilagodite postavke automatski"</string>
   <string name="autozoom_disabled_hint">Praćenje objekta u pokretu zaustavljeno</string>
   <string name="autozoom_hint">Prati objekt u pokretu</string>
   <string name="autozoom_landscape_hint">Snimajte u pejzažnom načinu za najbolji efekat</string>
-  <string name="auxiliary_close_status">Dodatni efekti su Isključenoi</string>
+  <string name="auxiliary_close_status">Dodatni efekti su Isključeni</string>
   <string name="auxiliary_exposure_feedback_status">Provjera ekspozicije je uključena</string>
   <string name="auxiliary_focus_peak_status">Vrh fokusiranja je uključen</string>
   <string name="auxiliary_lens_identifies_weak_light">Pomoćna leća prepoznaje slabo svjetlo</string>
@@ -526,6 +533,8 @@ i na trenutak izađite iz pregleda"</string>
   <string name="center_mark">Oznaka centra</string>
   <string name="character_counter_content_description">Uneseni znakovi %1$d od %2$d</string>
   <string name="character_counter_overflowed_content_description">Ograničenje broja znakova premašilo je %1$d od %2$d</string>
+  <string name="cine_image_modify_layout_content_description">Promijeni izgled</string>
+  <string name="cine_screen_prompt">Isključi zaslon nakon %d min</string>
   <string name="cinemaster_cancel">Odustani</string>
   <string name="cinemaster_confirm">Izlaz</string>
   <string name="cinemaster_connect_exit_message">Izaći iz postavljanja više kamera?</string>
@@ -544,6 +553,21 @@ i na trenutak izađite iz pregleda"</string>
   <string name="cinemaster_toast_monitor_disconnect">Monitor isključen iz postavljanja više kamera</string>
   <string name="cinemaster_toast_monitor_play_error">Kamera %s isključena iz postavljanja više kamera zbog pogreške</string>
   <string name="cinemaster_wifi_24g_tips">"Prebacite se na %s GHz mrežu za povećanje stabilnosti feeda monitora"</string>
+  <string name="cinematic_flare_circle">Redovito</string>
+  <string name="cinematic_flare_oval">Široki</string>
+  <string name="cinematic_focus_view_bg_tip">Praćenje automatskog fokusa je zaključano</string>
+  <string name="cinematic_guide_item1_des">Kamera će se automatski fokusirati na predmet videozapisa tijekom snimanja. Kad se subjekt promijeni, automatski se mijenja i fokus.</string>
+  <string name="cinematic_guide_item1_des_new">Fokus će automatski biti na predmetu videozapisa i mijenjat će se kako se scena mijenja. Dvaput dodirnite predmet kako biste zaključali fokus na njemu. Možete promijeniti zaključani fokus dvostrukim dodirom drugog subjekta.</string>
+  <string name="cinematic_guide_item1_title">Automatski fokus</string>
+  <string name="cinematic_guide_item2_des">Podržavajući i standardne i efekte zamućenja širokog zaslona, možete prilagoditi intenzitet zamućenja kako biste svojim videozapisima dali kinematografski efekt dubinske oštrine.</string>
+  <string name="cinematic_guide_item2_title">Zamućivanje</string>
+  <string name="cinematic_guide_title">O filmskom načinu</string>
+​  <string name="cinematic_intro_des">Automatski fokusirajte glavni predmet videozapisa i glatko mijenjajte fokus i dubinsku oštrinu kako biste svojim videozapisima dali kinematografski učinak</string>
+  <string name="cinematic_intro_title">Filmski način</string>
+  <string name="cinematic_lock_tip">Dvaput dodirnite predmet za zaključavanje praćenja automatskog fokusa</string>
+  <string name="cinematic_panel_rv_dolly_zoom">xxxx</string>
+  <string name="cinematic_panel_rv_intell_dolly">xxxx</string>
+  <string name="cinematic_unlock_tip">Dvaput dodirnite predmet za otključavanje praćenja automatskog fokusa. Dvaput dodirnite drugu temu za promjenu.</string>
   <string name="clear_effects">Očisti efekte</string>
   <string name="clear_text_end_icon_content_description">Izbriši tekst</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
@@ -685,7 +709,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="confirm_install_scanner_message">"Skener vam omogućuje skeniranje QR kodova, barkodova i još mnogo toga. Ne morate se povezati s internetom da biste ga instalirali."</string>
   <string name="confirm_install_scanner_title">Instalirajte Skener aplikaciju</string>
   <string name="confirm_location_alert">Zapamti lokacije fotografija</string>
-  <string name="confirm_location_message">&lt;Data&gt;Dobro do&amp;#353;li u kameru! Ozna&amp;#269;avanje va&amp;#353;ih fotografija i videozapisa lokacijama na kojima su snimljene u&amp;#269;init &amp;#263;e va&amp;#353;u galeriju organiziranijom i pomo&amp;#263;i vam da br&amp;#382;e prona&amp;#273;ete stavke. Neke zna&amp;#269;ajke mo&amp;#382;da ne&amp;#263;e biti dostupne ako ograni&amp;#269;ite dodavanje informacija o lokaciji.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Za&amp;#353;titit &amp;#263;emo va&amp;#353;e osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti.&lt;/Data&gt;</string>
+  <string name="confirm_location_message">&lt;Data&gt;Dobro došli u kameru! Označavanje vaših fotografija i videozapisa lokacijama na kojima su snimljene učinit će vašu galeriju organiziranijom i pomoći vam da brže pronađete stavke. Neke značajke možda neće biti dostupne ako ograničite dodavanje informacija o lokaciji.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti.&lt;/Data&gt;</string>
   <string name="confirm_location_title">Zapamtiti lokacije fotografija?</string>
   <string name="confirm_recording_fail_calling_alert">"Ne mogu snimati tijekom poziva."</string>
   <string name="confirm_recording_fail_recorder_busy_alert">"Druga aplikacija možda već koristi mikrofon uređaja za snimanje."</string>
@@ -695,6 +719,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="confirm_restore_message">"Vratiti Kameru na zadane postavke?"</string>
   <string name="confirm_restore_title">Vrati na zadane postavke</string>
   <string name="confirm_truecolor_setting_message">"Dolby Vision ne podržava fokus praćenja pokreta i rezoluciju 720P/8K. Želite li ga ipak uključiti?"</string>
+  <string name="confirm_truecolor_setting_message_i">"Dolby Vision ne podržava fokus praćenja pokreta, praćenje izvora i rezoluciju 720P/8K. Želite li ga ipak uključiti?"</string>
   <string name="connect_view_btn_start">Pokreni</string>
   <string name="connect_view_btn_stop">Zaustavi</string>
   <string name="connect_view_name_camera">Kamera</string>
@@ -705,6 +730,7 @@ i na trenutak izađite iz pregleda"</string>
   <string name="connect_view_sub_title_monitor">Povezane kamere</string>
   <string name="connect_view_sub_title_new">"Postavljanje više kamera koristi veću propusnost za smanjenje kašnjenja.
 Preporučujemo povezivanje na %s GHz Wi-Fi mreže koje podržavaju standard šeste generacije."</string>
+  <string name="connect_view_sub_title_new2" formatted="false">"Postavljanje više kamera koristi veću propusnost radi smanjenja kašnjenja. Preporučujemo povezivanje na %1s GHz Wi-Fi mreže koje podržavaju standard šeste generacije. 4K %2sFPS nije podržan."</string>
   <string name="connect_view_title">Postavljanje više kamera</string>
   <string name="connect_view_toast_start_error_camera">"Nije moguće pokrenuti kameru. Pokušajte ponovno."</string>
   <string name="connect_view_toast_start_error_monitor">"Nije moguće pokrenuti monitor. Pokušajte ponovno."</string>
@@ -732,7 +758,7 @@ Preporučujemo povezivanje na %s GHz Wi-Fi mreže koje podržavaju standard šes
   <string name="crop_saved">Obrezana slika spremljena je u %s.</string>
   <string name="cta_mimoji_msg">Dobrodošli u Fun Cam! Ovu aplikaciju možete koristiti za snimanje fotografija i videozapisa. Da bi mogla normalno raditi, ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja za prikupljanje vaših osobnih podataka:</string>
   <string name="cta_mimoji_perm_type">Obavezna dopuštenja (koriste se za osnovne značajke i usluge ove aplikacije)</string>
-  <string name="cta_mimoji_user_links">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite na&amp;#353; &amp;lt;a href =%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije kori&amp;#353;tenja ove aplikacije.&lt;/Data&gt;</string>
+  <string name="cta_mimoji_user_links">&lt;Data&gt;Pročitajte i prihvatite naš &amp;lt;a href =%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; prije korištenja ove aplikacije.&lt;/Data&gt;</string>
   <string name="cta_mimoji_user_tips">"Ako se ne slažete s dodjeljivanjem obveznih dopuštenja ili dijeljenjem i slanjem vaših osobnih podataka, nećete moći koristiti ovu aplikaciju. Ako ne odobrite neobavezna dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, osnovna funkcionalnost i dalje će vam biti dostupna. Uvijek možete ograničiti dozvole ili povući svoj pristanak u Postavkama."</string>
   <string name="cta_msg">Dobrodošli u Kameru! Ovu aplikaciju možete koristiti za fotografiranje i snimanje videozapisa. Ova se aplikacija treba povezati s internetom i zahtijeva sljedeća neobavezna dopuštenja:</string>
   <string name="cta_perm_cam">Koristi Kameru</string>
@@ -749,7 +775,7 @@ Preporučujemo povezivanje na %s GHz Wi-Fi mreže koje podržavaju standard šes
   <string name="cta_perm_type">"Izborna dopuštenja (koristi se za dodatne značajke dok ih upotrebljavate)"</string>
   <string name="cta_perm_voice">Korištenje mikrofona</string>
   <string name="cta_perm_voice_desc">Za snimanje zvuka tijekom snimanja videozapisa</string>
-  <string name="cta_user_tips">&lt;Data&gt;Da biste u potpunosti razumjeli va&amp;#353;a prava kao korisnika, kao i na&amp;#269;ine na koje koristimo va&amp;#353;e podatke, pro&amp;#269;itajte i prihvatite na&amp;#353;a &amp;lt;a href =%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="cta_user_tips">&lt;Data&gt;Da biste u potpunosti razumjeli vaša prava kao korisnika, kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naša &amp;lt;a href =%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="custom_content_unavailable_alert">"Ne mogu koristiti tekst koji ste unijeli. Pokušajte nešto drugo."</string>
   <string name="custom_shutter_sound_select">Prilagođeni zvuk zatvarača</string>
   <string name="custom_sound_art">Retro</string>
@@ -822,6 +848,12 @@ Preporučujemo povezivanje na %s GHz Wi-Fi mreže koje podržavaju standard šes
   <string name="dialog_privacy_watermark_title">Zaštitni potpis</string>
   <string name="dirty_tip_toast">Leća je prljava. Očistite je.</string>
   <string name="dialog_truecolor_setting_open">Uključi</string>
+  <string name="dir_audio_type_all">Višesmjerno</string>
+  <string name="dir_audio_type_audio_track">Praćenje izvora</string>
+  <string name="dir_audio_type_audio_zoom">Audio zumiranje</string>
+  <string name="dir_audio_type_back">Stražnji</string>
+  <string name="dir_audio_type_dual">Putanja</string>
+  <string name="dir_audio_type_front">Naprijed</string>
   <string name="disable_video_snapshot_hint">Snimanje videozapisa onemogućeno je kada su uključeni specijalni efekti.</string>
   <string name="do_not_remind_me">"Ne prikazuj ponovo"</string>
   <string name="doc_shortcut_long">Dokumenti</string>
@@ -995,13 +1027,17 @@ Snimanje s dva telefona također vam omogućuje povezivanje s drugim uređajem i
   <string name="expand_button_title">Napredno</string>
   <string name="exposed_dropdown_menu_content_description">Prikaži padajući izbornik</string>
   <string name="eye_light">Eye sparkle</string>
-  <string name="eye_light_angel">Angel</string>
+  <string name="eye_light_angel">Anđeo</string>
   <string name="eye_light_comic">Manga</string>
-  <string name="eye_light_crescent">Crescent</string>
-  <string name="eye_light_nature">Nature</string>
-  <string name="eye_light_rainbow">Rainbow</string>
-  <string name="eye_light_star">Stars</string>
-  <string name="eye_light_window">Window</string>
+  <string name="eye_light_crescent">Polumjesec</string>
+  <string name="eye_light_nature">Priroda</string>
+  <string name="eye_light_rainbow">Duga</string>
+  <string name="eye_light_star">Zvijezde</string>
+  <string name="eye_light_window">Prozor</string>
+  <string name="face_ae_strategy_switch">Postavke mjerenja</string>
+  <string name="face_ae_strategy_switch_e_p">Prosjek</string>
+  <string name="face_ae_strategy_switch_f_p">Lice</string>
+  <string name="face_ae_strategy_switch_summary">Odredite ekspoziciju na temelju lica vašeg subjekta ili upotrijebite cijelu scenu za stvaranje prosjeka za konačnu postavku ekspozicije</string>
   <string name="face_age_info">Godine: %d</string>
   <string name="face_analyze_info">Godine: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Žena</string>
@@ -1126,6 +1162,8 @@ Ako koristite pristupnu točku za povezivanje, postavite njen AP pojas na %s GHz
 izraz lica koji će biti sintetiziran u fotografiju"</string>
   <string name="guide_pop_window_msg_cv_lens">Dodirnite za isprobavanje Pro objektiva</string>
   <string name="guide_pop_window_msg_mimoji">Dodirnite za korištenje avatara</string>
+  <string name="guide_pop_window_msg_picture_style">Dodirnite za korištenje prilagođenih fotografskih stilova</string>
+  <string name="guide_pop_window_msg_picture_style_add">Spremi trenutne parametre kao unaprijed postavljene</string>
   <string name="guide_pop_window_msg_softlight">Dodirnite za podešavanje slabe bljeskalice</string>
   <string name="hand_gesture_open_tip">Pokažite dlan u kameru da biste pokrenuli timer</string>
   <string name="hand_gesture_tip">Slikanje dlanom</string>
@@ -1303,6 +1341,17 @@ izgledaju veće na fotografijama"</string>
   <string name="manual">Ručno</string>
   <string name="manual_picture_style">Parameteri</string>
   <string name="manual_picture_style_desc_custom">Prilagođeni stil fotografije</string>
+  <string name="manual_picture_style_desc_custom_add_equivalent">Identični unaprijed postavljeni \"%s\" već postoji</string>
+  <string name="manual_picture_style_desc_custom_add_hint">Unaprijed postavljen naziv</string>
+  <string name="manual_picture_style_desc_custom_add_hint_format">C%1$s%2$d</string>
+  <string name="manual_picture_style_desc_custom_delete_title">Izbrisati \"%s\" sada?</string>
+  <string name="manual_picture_style_desc_custom_import">Uvoz</string>
+  <string name="manual_picture_style_desc_custom_import_content">Mogu se uvesti samo unaprijed postavljene postavke u *.zip formatu.</string>
+  <string name="manual_picture_style_desc_custom_import_error">Došlo je do pogreške pri analizi</string>
+  <string name="manual_picture_style_desc_custom_import_title">Uvoz unaprijed postavljenog stila</string>
+  <string name="manual_picture_style_desc_custom_official_blue">Nježno plava</string>
+  <string name="manual_picture_style_desc_custom_official_classic">Klasični film</string>
+  <string name="manual_picture_style_desc_custom_official_contrast">Visoki kontrast</string>
   <string name="manual_picture_style_desc_new">Parameteri</string>
   <string name="manual_picture_style_new">Stil</string>
   <string name="manually_raw_hint">RAW</string>
@@ -1324,13 +1373,18 @@ izgledaju veće na fotografijama"</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
   <string name="measure_whitebalance_button">Izmjeri</string>
   <string name="measure_whitebalance_text">"Postavite list bijelog papira 6 cm udaljen od leće stražnjeg kamere i snimite fotografiju."</string>
-  <string name="message_snap_double_confirm">Duži pritisak na tipku za glasnoću sada aktivira NFC. Zamijeniti ovu značajku?</string>
-  <string name="metering_parameter_description_average">Prosječno mjerenje: uzima u obzir sva područja vaše slike, najbolje funkcionira za ravnomjerno osvijetljene scene.</string>
-  <string name="metering_parameter_description_central">Središnje mjerenje: Uglavnom se fokusira na središnje područje kadra i daje dužnu pažnju svjetlini okolnog područja. Najbolje za snimanje objekata u središtu kadra.</string>
-  <string name="metering_parameter_description_spot">Mjerenje u točki: fokusira se na jednu točku, dajući vam preciznu kontrolu nad ekspozicijom.</string>
+  <string name="metering_parameter_description_average">Prosječno mjerenje: uzima u obzir sva područja vaše slike i najbolje funkcionira s ravnomjerno osvijetljenim scenama.</string>
+  <string name="metering_parameter_description_central">Središnje mjerenje: Fokusira se prvenstveno na središte kadra, uzimajući u obzir prosjek kadra. Najbolje za snimanje objekata u središtu kadra.</string>
+  <string name="metering_parameter_description_spot">Mjerenje u točki: Fokusira se na jednu točku i podržava odvajanje točaka mjerenja i fokusa. Prikladno za snimanje silueta i drugih scena s visokim kontrastom.</string>
+  <string name="midnight">Noć</string>
+  <string name="mimoji_Glasses_color_accessibility">Boja naočala: %1$s</string>
+  <string name="mimoji_Glasses_style_accessibility">Naočale: %1$s</string>
   <string name="mimetype">MIME vrsta</string>
   <string name="mimoji_app_name">Zabavna kamera</string>
   <string name="mimoji_back">Natrag</string>
+  <string name="mimoji_bear_accessibility">Snimak glave medvjeda</string>
+  <string name="mimoji_beard_color_accessibility">Boja dlake na licu: %1$s</string>
+  <string name="mimoji_beard_style_accessibility">Dlake na licu: %1$s</string>
   <string name="mimoji_bg_center">Raskrižja</string>
   <string name="mimoji_bg_classroom">Učionica</string>
   <string name="mimoji_bg_diagonal">Nagib</string>
@@ -1345,6 +1399,8 @@ izgledaju veće na fotografijama"</string>
   <string name="mimoji_bg_wall">Palača</string>
   <string name="mimoji_bg_warm_white">Topla bijela</string>
   <string name="mimoji_bg_water_wave">Valovi</string>
+  <string name="mimoji_black_accessibility">Snimak glave crnca</string>
+  <string name="mimoji_black_human_accessibility">Snimka cijelog tijela crnca</string>
   <string name="mimoji_body_emoticon">Tijelo</string>
   <string name="mimoji_body_horizontal_screen_tips">"Avatari cijelog tijela nisu podržani u pejzažnom načinu rada"</string>
   <string name="mimoji_cancle">Odustani</string>
@@ -1363,6 +1419,7 @@ izgledaju veće na fotografijama"</string>
   <string name="mimoji_cartoon_rabbit">Zeko</string>
   <string name="mimoji_cartoon_rabbit_mechanical">Robot bunny</string>
   <string name="mimoji_cartoon_sadness">Tužan</string>
+  <string name="mimoji_cat_accessibility">Snimak glave mačke</string>
   <string name="mimoji_check_beyond_20_degrees">Gledajte ravno u kameru</string>
   <string name="mimoji_check_face_occlusion">"Nemojte blokirati lice"</string>
   <string name="mimoji_check_face_too_close">Udaljite kameru od lica</string>
@@ -1376,12 +1433,22 @@ izgledaju veće na fotografijama"</string>
   <string name="mimoji_cloth_suit">Odijela</string>
   <string name="mimoji_cloth_trousers">Donji dio</string>
   <string name="mimoji_cloth_upper">Gornji dio</string>
+  <string name="mimoji_color_anime_accessibility">Strip u boji</string>
+  <string name="mimoji_colorless_anime_accessibility">Crno-bijeli strip</string>
+  <string name="mimoji_colorless_line_accessibility">Crno-bijele linije</string>
+  <string name="mimoji_colorless_print_accessibility">Crno-bijeli ispis</string>
+  <string name="mimoji_colorless_sketch_accessibility">Crno-bijela skica</string>
   <string name="mimoji_confirm">U redu</string>
+  <string name="mimoji_create_customize_accessibility">Stvorite prilagođeni znak</string>
   <string name="mimoji_create_emoticon">Izradite paket naljepnica</string>
   <string name="mimoji_create_emoticon_error">"Ne mogu izraditi paket naljepnica"</string>
   <string name="mimoji_create_emoticon_progress">Izrada paketa naljepnica…</string>
   <string name="mimoji_create_tips">Gledajte ravno u kameru</string>
   <string name="mimoji_custom_image">Vlastiti avatar</string>
+  <string name="mimoji_customize_accessibility">Prilagođeni znak</string>
+  <string name="mimoji_cyberpunk_accessibility">Snimak glave cyberpunk žene</string>
+  <string name="mimoji_cyberpunk_human_accessibility">Snimka cijelog tijela cyberpunk žene</string>
+  <string name="mimoji_default_accessibility">Zadani znak</string>
   <string name="mimoji_delete">&lt;font fgcolor="#ffff0000"&gt;Izbriši&lt;/font&gt;</string>
   <string name="mimoji_delete_dialog_title">Izbrisati avatar?</string>
   <string name="mimoji_delete_mimoji">Izbriši</string>
@@ -1397,25 +1464,47 @@ izgledaju veće na fotografijama"</string>
   <string name="mimoji_detect_tips">Držite lice unutar okvira</string>
   <string name="mimoji_detect_unknow_failed">Nepoznata pogreška</string>
   <string name="mimoji_ear">Uši</string>
+  <string name="mimoji_ear_style_accessibility">Uši: %1$s</string>
   <string name="mimoji_earring">Naušnice</string>
+  <string name="mimoji_earrings_style_accessibility">Naušnice: %1$s</string>
   <string name="mimoji_edit_abandon_alert">Odbaciti sve promjene?</string>
   <string name="mimoji_edit_abandon_capture_alert">Odbaciti sve promjene?</string>
   <string name="mimoji_edit_back_alert">Sve promjene bit će odbačene nakon što se vratite. Vratiti se svejedno?</string>
   <string name="mimoji_edit_cancel_alert">Sve promjene bit će odbačene. Otkazati svejedno?</string>
   <string name="mimoji_edit_mimoji">Uredi avatar</string>
   <string name="mimoji_editor">Uredi</string>
+  <string name="mimoji_emoticon_angry_head_accessibility">Izraz lica: Ljut</string>
+  <string name="mimoji_emoticon_angry_human_accessibility">Govor tijela: Ljut</string>
+  <string name="mimoji_emoticon_fight_human_accessibility">Govor tijela: Ohrabrujući</string>
+  <string name="mimoji_emoticon_happy_head_accessibility">Izraz lica: Sretan</string>
+  <string name="mimoji_emoticon_hi_human_accessibility">Govor tijela: Pozdrav</string>
+  <string name="mimoji_emoticon_like_human_accessibility">Govor tijela: Odobravanje</string>
+  <string name="mimoji_emoticon_love_head_accessibility">Izraz lica: Ljubazan</string>
+  <string name="mimoji_emoticon_love_human_accessibility">Govor tijela: Ljubazan</string>
+  <string name="mimoji_emoticon_loveyou_head_accessibility">Izraz lica: Pun ljubavi</string>
+  <string name="mimoji_emoticon_ok_head_accessibility">Izraz lica: Ugodan</string>
+  <string name="mimoji_emoticon_ok_human_accessibility">Govor tijela: Ugodan</string>
+  <string name="mimoji_emoticon_sad_head_accessibility">Izraz lica: Tužan</string>
   <string name="mimoji_emoticon_save">Spremi paket naljepnica</string>
   <string name="mimoji_emoticon_with_jpeg_save">Spremi i slike također</string>
   <string name="mimoji_eye">Oči</string>
   <string name="mimoji_eye_shape">Oblik oka</string>
+  <string name="mimoji_eye_style_accessibility">Oči: %1$s</string>
   <string name="mimoji_eyebrow">Obrve</string>
   <string name="mimoji_eyebrow_shape">Oblik obrva</string>
+  <string name="mimoji_eyebrow_style_accessibility">Obrve: %1$s</string>
+  <string name="mimoji_eyebrow_color_accessibility">Boja obrva: %1$s</string>
   <string name="mimoji_eyeglass">Naočale</string>
+  <string name="mimoji_eyelash_style_accessibility">Naočale: %1$s</string>
   <string name="mimoji_eyelash">Trepavice</string>
   <string name="mimoji_eyelid">Očni kapci</string>
+  <string name="mimoji_eyelids_style_accessibility">Očni kapci: %1$s</string>
+  <string name="mimoji_face_shape_accessibility">Lice: %1$s</string>
   <string name="mimoji_featured_face">Lice</string>
+  <string name="mimoji_filter_cyberpunk_accessibility">Cyberpunk</string>
   <string name="mimoji_fragment_tab_name">Avatari naljepnica</string>
   <string name="mimoji_freckle">Pjege</string>
+  <string name="mimoji_freckle_style_accessibility">Pjege: %1$s</string>
   <string name="mimoji_gif">GIF</string>
   <string name="mimoji_gif_accelerate">Brzina</string>
   <string name="mimoji_gif_clear_bg">Ukloni pozadinu</string>
@@ -1423,9 +1512,18 @@ izgledaju veće na fotografijama"</string>
   <string name="mimoji_gif_edit_title">Uredi GIF</string>
   <string name="mimoji_gif_record_time_short">Snimljeni videozapis je prekratak</string>
   <string name="mimoji_gif_reverse">Obrni</string>
+  <string name="mimoji_green_blue_accessibility">Zelena i plava</string>
+  <string name="mimoji_hair_color_accessibility">Boja kose: %1$s</string>
+  <string name="mimoji_hair_style_accessibility">Frizura: %1$s</string>
   <string name="mimoji_hairstyle">Kosa</string>
+  <string name="mimoji_hanbok_f_accessibility">Snimak glave žene u tradicionalnoj nošnji</string>
+  <string name="mimoji_hanbok_f_human_accessibility">Snimka cijelog tijela žene u tradicionalnoj nošnji</string>
+  <string name="mimoji_hanbok_m_accessibility">Snimak glave čovjeka u tradicionalnoj nošnji</string>
+  <string name="mimoji_hanbok_m_human_accessibility">Snimka cijelog tijela muškarca u tradicionalnoj nošnji</string>
   <string name="mimoji_head_emoticon">Glava</string>
   <string name="mimoji_headwear">Šeširi</string>
+  <string name="mimoji_headwear_color_accessibility">Boja dodataka: %1$s</string>
+  <string name="mimoji_headwear_style_accessibility">Dodaci: %1$s</string>
   <string name="mimoji_human_astronaut">Astronaut</string>
   <string name="mimoji_human_blue_haired_girls">Plava kosa</string>
   <string name="mimoji_human_boys_with_glasses">Naočale</string>
@@ -1435,15 +1533,27 @@ izgledaju veće na fotografijama"</string>
   <string name="mimoji_human_doggy_headgear_girls">Doggy</string>
   <string name="mimoji_human_motorcyclists">Biker</string>
   <string name="mimoji_human_witches">Vještica</string>
+  <string name="mimoji_mark_style_accessibility">Oznaka ljepote: %1$s</string>
   <string name="mimoji_mole">Madeži</string>
+  <string name="mimoji_mouth_color_accessibility">Boja usana: %1$s</string>
+  <string name="mimoji_mouth_style_accessibility">Usne: %1$s</string>
   <string name="mimoji_mouth_type">Usta</string>
   <string name="mimoji_mustache">Dlake na licu</string>
+  <string name="mimoji_non_filter_accessibility">Bez filtera</string>
   <string name="mimoji_nose">Nos</string>
   <string name="mimoji_nose_lisps">Nos i usne</string>
+  <string name="mimoji_nose_style_accessibility">Nos: %1$s</string>
   <string name="mimoji_on_create">Izradi avatar</string>
   <string name="mimoji_ornament">Pribor</string>
+  <string name="mimoji_panda_accessibility">Snimak glave pande</string>
+  <string name="mimoji_pig_accessibility">Snimak glave svinje</string>
+  <string name="mimoji_punk_accessibility">Snimak glave pankera</string>
+  <string name="mimoji_punk_human_accessibility">Snimka punkera</string>
+  <string name="mimoji_rabbit_accessibility">Snimak glave zečića</string>
   <string name="mimoji_recapture">Počni ispočetka</string>
   <string name="mimoji_recapture_alert">Sve promjene bit će odbačene nakon što počnete ispočetka. Započeti svejedno?</string>
+  <string name="mimoji_redhat_accessibility">Snimak glave žene u crvenom šeširu</string>
+  <string name="mimoji_redhat_human_accessibility">Snimka cijelog tijela žene s crvenim šeširom</string>
   <string name="mimoji_reset">Resetiraj</string>
   <string name="mimoji_save">Spremi</string>
   <string name="mimoji_save_finish">Gotovo</string>
@@ -1451,10 +1561,17 @@ izgledaju veće na fotografijama"</string>
   <string name="mimoji_save_success">Uspješno spremljeno</string>
   <string name="mimoji_select_number_error">Odaberite najmanje %d stavku</string>
   <string name="mimoji_selected">Odaberi</string>
+  <string name="mimoji_shoes_style_accessibility">Cipele: %1$s</string>
   <string name="mimoji_show_full_body_tips">Provjerite je li cijelo tijelo u kadru</string>
+  <string name="mimoji_skin_color_accessibility">Nijansa kože: %1$s</string>
+  <string name="mimoji_spacesuit_accessibility">Snimak glave astronauta</string>
+  <string name="mimoji_spacesuit_human_accessibility">Snimka cijelog tijela astronauta</string>
   <string name="mimoji_start_create">Izrada avatara…</string>
+  <string name="mimoji_suit_style_accessibility">Odijelo: %1$s</string>
   <string name="mimoji_tab_cartoon">Crtić</string>
   <string name="mimoji_tab_human">Osoba</string>
+  <string name="mimoji_thermal_green_blue_accessibility">Termalno zelena i plava</string>
+  <string name="mimoji_thermal_purple_red_accessibility">Termalno ljubičasta i crvena</string>
   <string name="mimoji_tips">Dodirnite za snimanje fotografije. Pritisnite i držite za snimanje videozapisa.</string>
   <string name="miservice_notification_content">Dodirnite da biste saznali više</string>
   <string name="miservice_notification_title">Saznajte više o novim značajkama Kamere</string>
@@ -1496,6 +1613,7 @@ izgledaju veće na fotografijama"</string>
   <string name="model">Model</string>
   <string name="module_name_beauty">Uljepšanje</string>
   <string name="module_name_capture">Fotografija</string>
+  <string name="module_name_cinematic">Film</string>
   <string name="module_name_clone">Kloniraj</string>
   <string name="module_name_edit">Uredi</string>
   <string name="module_name_edit_favorite_title">Početni zaslon</string>
@@ -1629,10 +1747,10 @@ izgledaju veće na fotografijama"</string>
   <string name="music_hint_tt">Izvor usluga</string>
   <string name="mutex_hdr_quality" formatted="false">"HDR nije podržan za %1s %2sFPS"</string>
   <string name="network_access_user_notice_agree">Prihvaćam</string>
-  <string name="network_access_user_notice_message_live_video">&lt;Data&gt;"Kamera se mora povezati s internetom kako bi osigurala efekte, glazbu i druge zna&amp;#269;ajke za kratke videozapise.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Prihva&amp;#263;am\", prihva&amp;#263;ate na&amp;#353;e &amp;lt;a href =%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i dopustiti aplikaciji da se pove&amp;#382;e s internetom."&lt;/Data&gt;</string>
-  <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;Dobrodo&amp;#353;li u kratke videozapise! Na&amp;#353;a se usluga mora povezati s internetom da vam pru&amp;#382;imo glazbu i druge zna&amp;#269;ajke. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Prije kori&amp;#353;tenja na&amp;#353;e usluge, morate pro&amp;#269;itati i prihvatiti na&amp;#353;e &amp;lt;a href =%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i dopustiti aplikaciji da se pove&amp;#382;e s internetom.&lt;/Data&gt;</string>
-  <string name="network_access_user_notice_message_sticker">&lt;Data&gt;"Kamera se mora povezati s internetom kako bi pru&amp;#382;ila naljepnice za ovu zna&amp;#269;ajku.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Prihva&amp;#263;am\", prihva&amp;#263;ate na&amp;#353;e &amp;lt;a href =%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i dopustiti aplikaciji da se pove&amp;#382;e s internetom."&lt;/Data&gt;</string>
-  <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;"Kamera se mora povezati s internetom kako bi omogu&amp;#263;ila funkciju govor u tekst.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Prihva&amp;#263;am\", prihva&amp;#263;ate na&amp;#353;e &amp;lt;a href =%1$s&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i dopustiti aplikaciji da se pove&amp;#382;e s internetom."&lt;/Data&gt;</string>
+  <string name="network_access_user_notice_message_live_video">&lt;Data&gt;"Kamera se mora povezati s internetom kako bi osigurala efekte, glazbu i druge značajke za kratke videozapise.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Prihvaćam\", prihvaćate naše &amp;lt;a href =%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i dopustiti aplikaciji da se poveže s internetom."&lt;/Data&gt;</string>
+  <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;Dobrodošli u kratke videozapise! Naša se usluga mora povezati s internetom da vam pružimo glazbu i druge značajke. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Prije korištenja naše usluge, morate pročitati i prihvatiti naše &amp;lt;a href =%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i dopustiti aplikaciji da se poveže s internetom.&lt;/Data&gt;</string>
+  <string name="network_access_user_notice_message_sticker">&lt;Data&gt;"Kamera se mora povezati s internetom kako bi pružila naljepnice za ovu značajku.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Prihvaćam\", prihvaćate naše &amp;lt;a href =%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i dopustiti aplikaciji da se poveže s internetom."&lt;/Data&gt;</string>
+  <string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;"Kamera se mora povezati s internetom kako bi omogućila funkciju govor u tekst.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Dodirom na \"Prihvaćam\", prihvaćate naše &amp;lt;a href =%1$s&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href =%2$s&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, kao i dopustiti aplikaciji da se poveže s internetom."&lt;/Data&gt;</string>
   <string name="network_access_user_notice_title">Povezivanje na internet</string>
   <string name="network_connection_failed">"Ne mogu se povezati"</string>
   <string name="network_connection_ongoing">Povezivanje…</string>
@@ -1831,6 +1949,12 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_asd_night_title">Autom. poboljšaj slabo osvjetljenje</string>
   <string name="pref_camera_asd_popup_title">Upozori ako je potrebna bljeskalica</string>
   <string name="pref_camera_audio_capture_title">Zvuk</string>
+  <string name="pref_camera_audio_gain_adjust_description">Podešavanje glasnoće: glasnoća snimljenog zvuka prilagođava se trenutnoj sceni u kojoj zvukovi iz okoline mogu biti preglasni ili pretihi.</string>
+  <string name="pref_camera_audio_type_all_description">Višesmjerno: zvuk iz svih smjerova je izjednačen kako bi se stvorilo uravnoteženo audio iskustvo za cijelu scenu.</string>
+  <string name="pref_camera_audio_type_back_description">Straga: Ovaj način rada fokusira se na zvuk iza osobe koja drži kameru i smanjuje zvuk iz drugih smjerova.</string>
+  <string name="pref_camera_audio_type_dual_description">Trajektorija: Ovaj način vam omogućuje snimanje jasnog zvuka ispred i iza osobe koja drži kameru prigušivanjem zvuka s lijeve i desne strane.</string>
+  <string name="pref_camera_audio_type_front_description">Naprijed: Ovaj način rada fokusira se na zvuk ispred osobe koja drži kameru i smanjuje zvuk iz drugih smjerova.</string>
+  <string name="pref_camera_audio_type_zoom_description">Zumiranje izvora: fokusira se na zvuk unutar raspona tražila i smanjuje zvuk iz drugih smjerova.</string>
   <string name="pref_camera_auto_capture_when_stable_summary">Za odabir objekta, dodirnite dvije dijagonalne točke oko njegovih granica. Kad predmet miruje, snimak će se automatski napraviti.</string>
   <string name="pref_camera_auto_capture_when_stable_title">Snimajte odabrane objekte kada miruju</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
@@ -1946,7 +2070,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_fastmotion_speed_750x">Zora</string>
   <string name="pref_camera_fastmotion_speed_90x">Oblaci</string>
   <string name="pref_camera_fastmotion_speed_description">Videozapisi s vremenskim kašnjenjem, snimljeni većom brzinom, kraći su i sažetiji. Vrijednosti brzine pogodne za različite prizore:</string>
-  <string name="pref_camera_first_tag_tips">Označeno uspješno</string>
+  <string name="pref_camera_first_tag_tips">Uspješno označeno</string>
+  <string name="pref_camera_flare_title">Efekti bokeh filma</string>
   <string name="pref_camera_fisheye_title">Riblje oko</string>
   <string name="pref_camera_flashmode_entry_auto">Auto</string>
   <string name="pref_camera_flashmode_entry_back_soft_light">Slabo svjetlo</string>
@@ -2109,6 +2234,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_rec_type_3d_record">3D zvuk</string>
   <string name="pref_camera_rec_type_audio_zoom">Audio zoom</string>
   <string name="pref_camera_rec_type_normal">Regularno</string>
+  <string name="pref_camera_rec_type_surround_sound">Dimenzionalni imerzivni zvuk</string>
   <string name="pref_camera_recordlocation_entry_off">Isključeno</string>
   <string name="pref_camera_recordlocation_entry_on">Uključeno</string>
   <string name="pref_camera_recordlocation_title">Spremi detalje lokacije</string>
@@ -2116,7 +2242,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_camera_redeyereduction_entry_disable">Onemogući</string>
   <string name="pref_camera_redeyereduction_entry_enable">Omogući</string>
   <string name="pref_camera_redeyereduction_title">Smanjenje crvenih očiju</string>
-  <string name="pref_camera_reference_capture_title">Referentne crte</string>
+  <string name="pref_camera_reference_capture_title">Referentne linije</string>
+  <string name="pref_camera_reference_capture_title_frame_line">Linija okvira</string>
   <string name="pref_camera_reference_capture_title_golden_section">Zlatni omjer</string>
   <string name="pref_camera_reference_capture_title_jiugongge">Mreža</string>
   <string name="pref_camera_reference_capture_title_left_golden_spiral">Zlatna spirala A</string>
@@ -2247,6 +2374,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_cv_watermark_summary">Uzorci su samo za referencu. Potpis Leica pojavit će se na fotografijama snimljenim u načinima \"Fotografija\" i \"Portret\".</string>
   <string name="pref_cv_watermark_time_title">Vrijeme</string>
   <string name="pref_cv_watermark_title">Leica potpis</string>
+  <string name="pref_dir_audio_type">Vrste snimljenog zvuka</string>
   <string name="pref_document_mode">Dokumenti</string>
   <string name="pref_dual_camera_video">Dvostruki video</string>
   <string name="pref_dualcamera_watermark_title">Oznaka dvojne kamere</string>
@@ -2354,7 +2482,9 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_video_ai_audio_effect_comparation_3d_i">3D zvuk</string>
   <string name="pref_video_ai_audio_effect_comparation_3d_ii">Demo</string>
   <string name="pref_video_ai_audio_effect_comparation_3d_original">Original</string>
-  <string name="pref_video_ai_audio_single">Frontalni zvuk</string>
+  <string name="pref_video_ai_audio_effect_comparation_surround_i">Dimenzionalni imerzivni zvuk</string>
+  <string name="pref_video_ai_audio_mics_blocking_desc_tip">Mikrofon je blokiran</string>
+  <string name="pref_video_ai_audio_single">Prednji zvuk</string>
   <string name="pref_video_captrue_ability_title">Snimanje fotografija tijekom snimanja</string>
   <string name="pref_video_cast_setting_summary">Uključite da biste mogli snimati jedan videozapis s više uređaja</string>
   <string name="pref_video_cast_setting_title">Snimanje sa dva uređaja</string>
@@ -2480,6 +2610,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="search_settings">Postavke kamere;Kvaliteta;Kvaliteta slike;Mjesto slike;Lokacija slike;Prepoznavanje lica;Zvuk kamere</string>
   <string name="secure_access_web_url">Siguran pristup</string>
   <string name="see_app_details">Pogledajte pojedinosti aplikacije</string>
+  <string name="security_line">Linija okvira</string>
   <string name="see_qrcode_detals">Prikaži detalje QR koda</string>
   <string name="select_all">Odaberi sve</string>
   <string name="select_image">Odaberi fotografiju</string>
@@ -2613,6 +2744,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="super_night_owl_toast">Držite telefon mirnim</string>
   <string name="super_night_se_tip">Noćni način</string>
   <string name="super_night_toast">Držite telefon mirnim tijekom snimanja fotografije</string>
+  <string name="support_security_line_toast">Linija okvira može se koristiti samo s omjerom %1$s:%2$s</string>
   <string name="switch_gallery_preview_title_accessibility">Prebacivanje pregleda</string>
   <string name="tags">Oznake</string>
   <string name="tap_to_exposure">Dodirni za ručno podešavanje ekspozicije</string>
@@ -2654,7 +2786,8 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="timerburst_pressed_hint">Dodirnite ponovo za zaustavljanje</string>
   <string name="times">X</string>
   <string name="tip_ai_audio_off">Audio zumiranje: Isključenoo</string>
-  <string name="tip_ai_audio_single_off">Frontalni zvuk: Isključeno</string>
+  <string name="tip_ai_audio_single_off">prednji zvuk zvuk: Isključeno</string>
+  <string name="tip_ai_audio_track_off">Praćenje izvora: isključeno</string>
   <string name="tip_ai_off">AI kamera: Isključenoa</string>
   <string name="tip_beauty_mode_title1">Stil portreta: Svjež</string>
   <string name="tip_beauty_mode_title2">Portretni stil: Film</string>
@@ -2719,6 +2852,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="toast_monitor_connect_success">Uspješno povezivanje. Gledanje zajedničkog pregleda.</string>
   <string name="toast_monitor_connect_timeout">Drugi uređaj je zatvorio zajednički pregled</string>
   <string name="track_focus_mutex_truecolor_setting_tips">"Fokus praćenja pokreta nije podržan za Dolby Vision/8K/60FPS videozapise"</string>
+  <string name="track_focus_mutex_truecolor_setting_tips_new">"Fokus praćenja pokreta nije podržan za videozapise Dolby Vision/8K/visokog broja sličica u sekundi"</string>
   <string name="toast_saving">Spremanje fotografija…</string>
   <string name="toast_start_audio_capture">Napravi zvuk kod snimanja fotografije</string>
   <string name="today">Danas</string>
@@ -2776,6 +2910,9 @@ Način širokog kuta pomaže vam kada se ne možete pomaknuti dalje od scene"</s
   <string name="unit_mm">mm</string>
   <string name="unknow_error">Nepoznata pogreška</string>
   <string name="unsupported_microphones_3d_record_tips">"3D zvuk ne podržava vanjske mikrofone"</string>
+  <string name="unsupported_microphones_audio_single_tips">"Prednji zvuk ne radi s vanjskim mikrofonima"</string>
+  <string name="unsupported_microphones_audio_track_tips">"Praćenje izvora ne radi s vanjskim mikrofonima"</string>
+  <string name="unsupported_microphones_audio_type_tips">"Ne mogu odabrati vrste snimljenog zvuka s vanjskim mikrofonima"</string>
   <string name="unsupported_microphones_audio_zoom_tips">"Audio zoom ne podržava vanjske mikrofone"</string>
   <string name="update_apk_size">Veličina: %s</string>
   <string name="update_btn_negative">Ne sada</string>
@@ -2872,6 +3009,7 @@ Možete koristiti gumbe u nastavku za uređivanje teksta, pregled reprodukcije i
   <string name="video_prompter_redo_description">Ponovi</string>
   <string name="video_prompter_shrink_description">Minimiziraj</string>
   <string name="video_prompter_undo_description">Poništi</string>
+  <string name="video_quality_audio_track_conflict_toast">"Praćenje izvora nije podržano za 8K/%sFPS videozapise"</string>
   <string name="video_reach_size_limit">Dostignuto ograničenje veličine.</string>
   <string name="video_quality_track_focus_conflict_toast">"Fokus praćenja kretanja nije podržan za 8K/60FPS videozapise"</string>
   <string name="video_shortcut_long">Videozapis</string>

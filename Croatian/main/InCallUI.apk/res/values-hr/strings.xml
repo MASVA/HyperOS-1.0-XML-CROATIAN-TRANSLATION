@@ -47,6 +47,8 @@
   <string name="bluetooth_permission_grant_immediately">Dopusti</string>
   <string name="bluetooth_permission_later">Ne sada</string>
   <string name="bluetooth_permission_title">Potrebna su dopuštenja</string>
+  <string name="calibrate_rotate_again">Pokušajte ponovno</string>
+  <string name="calibrate_rotate_tip">Naglo nagnite uređaj kako bi se lopta vrtjela u krug</string>
   <string name="call_button_conference_manager_text">Upravitelj konferencije</string>
   <string name="call_button_dialer_text">Tipkovnica</string>
   <string name="call_button_tools_text">Značajke</string>

@@ -152,9 +152,13 @@
   <string name="ai_confirm_delete_image_title">Izbrisati AI sliku?</string>
   <string name="ai_continue_create_btn">Nastavi</string>
   <string name="ai_continue_update_image_btn">Nastavi</string>
+  <string name="ai_continue_upload_photo">Nastavi</string>
   <string name="ai_create_ai_image">Stvori AI sliku</string>
   <string name="ai_create_image_deal_file_text">Izračunavanje vremena čekanja…</string>
   <string name="ai_create_image_fail">"Nije moguće izraditi AI sliku zbog pogreške poslužitelja. Pokušajte ponovno."</string>
+  <string name="ai_create_image_fail_by_illegal_photo">"Čini se da fotografije koje ste prenijeli krše naše standarde zajednice.
+Pokušajte stvoriti AI sliku s različitim fotografijama."</string>
+  <string name="ai_create_image_fail_by_net">"Nije moguće izraditi AI sliku. Naši su poslužitelji sada prezauzeti. Pokušajte ponovno."</string>
   <string name="ai_create_image_photo_tip">Fotografije će biti izbrisane s naših poslužitelja nakon što se AI slika izradi</string>
   <string name="ai_create_image_queue_time">%1$s | %2$s</string>
   <string name="ai_create_image_tip">Fotografije će biti izbrisane s naših poslužitelja nakon što se izradi AI slika</string>
@@ -171,12 +175,21 @@
   <string name="ai_creation_save_failed_msg">"Nije moguće spremiti. Pokušajte ponovno."</string>
   <string name="ai_creation_save_success_msg">Uspješno spremljeno</string>
   <string name="ai_creation_wait_message">Stvaranje… | %1$s | %2$s</string>
+  <string name="ai_cta_agree_btn">Dopusti</string>
+  <string name="ai_cta_dialog_message">Dopustite Galeriji da se poveže s internetom kako bi mogla stvarati AI portrete.</string>
+  <string name="ai_cta_dialog_title">Potrebna su dopuštenja</string>
+  <string name="ai_cta_refuse_btn">Ne hvala</string>
   <string name="ai_deal_file_tip">"Ne napuštajte ovu stranicu"</string>
   <string name="ai_deal_file_title">Obrada fotografija…</string>
   <string name="ai_deal_tile_text">Izračunavanje potrebnog vremena…</string>
   <string name="ai_delete_image_fail">"Nije moguće izbrisati. Pokušajte ponovno."</string>
   <string name="ai_delete_image_progress_message">Brisanje…</string>
   <string name="ai_delete_image_success">Uspješno izbrisano</string>
+  <string name="ai_download_filter_photo_so_confirm_btn">Preuzmi</string>
+  <string name="ai_download_filter_photo_so_downloading">Preuzimanje dodatka…</string>
+  <string name="ai_download_filter_photo_so_message">Da biste mogli koristiti sve značajke AI portreta, prvo preuzmite dodatak.</string>
+  <string name="ai_download_filter_photo_so_title">Preuzmi dodatak</string>
+  <string name="ai_download_filter_so_fail_toast">"Nije moguće preuzeti dodatak. Pokušajte ponovno."</string>
   <string name="ai_enhance_bar_default">Generiraj HD sliku</string>
   <string name="ai_enhance_bar_failed">"Nije moguće generirati HD sliku"</string>
   <string name="ai_ensure_exit_select_message">"Morat ćete ponovno odabrati fotografije sljedeći put."</string>
@@ -188,6 +201,7 @@
   <string name="ai_free_creation_button">Stvori</string>
   <string name="ai_free_creation_container_msg">Na primjer: šetnja plažom</string>
   <string name="ai_free_creation_container_title">Unesite opis</string>
+  <string name="ai_free_creation_illegal_text_toast">Ovaj tekst krši naše standarde zajednice. Ponovno napišite svoju poruku.</string>
   <string name="ai_free_creation_random_button">Nasumično</string>
   <string name="ai_free_creation_text_container_tips">"Naš AI generator slike neprestano se poboljšava. Ako niste zadovoljni rezultatima, uvijek možete pokušati ponovno malo kasnije!"</string>
   <string name="ai_free_creation_text_count_exceed_limit">Tekst koji ste unijeli je predugačak</string>
@@ -209,7 +223,7 @@ Umjesto toga odaberite druge fotografije i pokušajte ponovno."</string>
   <string name="ai_image_over_limit_button_cancel">Razumijem</string>
   <string name="ai_image_over_limit_button_create">Nastavi</string>
   <string name="ai_image_over_limit_title">"Ne mogu stvoriti AI sliku"</string>
-  <string name="ai_image_privacy_message">" "&lt;Data&gt;" Dobro došli u AI portrete!&amp;lt;br/&amp;gt;Da bismo vam mogli pružiti usluge, moramo prikupiti potrebne osobne podatke:&amp;lt;br/&amp;gt;1. Za izraditi AI portrete, morat ćete učitati &amp;lt;b&amp;gt;fotografije ljudi&amp;lt;/b&amp;gt; na naše poslužitelje. Prikupit ćemo i obraditi informacije o njihovim &amp;lt;b&amp;gt;licima&amp;lt;/b&amp;gt; kako bismo generirali AI model.&amp;lt;br/&amp;gt;2. Kada prenesete &amp;lt;b&amp;gt;fotografije ljudi&amp;lt;/b&amp;gt;, sinkronizirat ćemo &amp;lt;b&amp;gt;njihova imena i profilne fotografije&amp;lt;/b&amp;gt; iz odgovarajućih albuma i pridružiti ove informacije AI slikama .&amp;lt;br/&amp;gt;3.Kada stvarate AI slike na temelju teksta, prikupit ćemo &amp;lt;b&amp;gt;opis&amp;lt;/b&amp;gt; koji navedete kako bismo generirali slike.&amp;lt;br/&amp;gt;Prikupljamo samo osobne podatke koji je neophodan za specifične značajke naših proizvoda i usluga koje koristite. Možete saznati kako prikupljamo i obra&amp;#273;ujemo osobne podatke u &amp;lt;a href=\"%1$s\"&amp;gt;Pravilima o privatnosti AI Portraits&amp;lt;/a&amp;gt;.&amp;lt;br/&amp;gt;Pročitajte i prihvatite &amp;lt;a href=\"%2$s\"&amp;gt;AI Portraits Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%3$s\"&amp;gt;AI Portraits Pravila o privatnosti&amp;lt;/a&amp;gt; prije nego nastavite. "&lt;/Data&gt;" "</string>
+  <string name="ai_image_privacy_message"><Data>"Dobro došli u AI portrete!&lt;br/>Da bismo vam mogli pružiti usluge, moramo prikupiti potrebne osobne podatke:&lt;br/>&lt;xliff:g refersto=1 id=INDEX_1>%1$s&lt;/xliff:g>. Za izraditi AI portrete, morat ćete učitati &lt;b>fotografije ljudi&lt;/b> na naše poslužitelje. Prikupit ćemo i obraditi informacije o njihovim &lt;b>licima&lt;/b> kako bismo generirali AI model.&lt;br/>&lt;xliff:g refersto=2 id=INDEX_2>%2$s&lt;/xliff:g>. Kada prenesete &lt;b>fotografije ljudi&lt;/b>, sinkronizirat ćemo &lt;b>njihova imena i profilne fotografije&lt;/b> iz odgovarajućih albuma i pridružiti ove informacije AI slikama.&lt;br/>&lt;xliff:g refersto=3 id=INDEX_3>%3$s&lt;/xliff:g>. Kada stvarate AI slike na temelju teksta, prikupit ćemo &lt;b>opis&lt;/b> koji navedete kako bismo generirali slike.&lt;br/>Prikupljamo samo osobne podatke koji su neophodni za specifične značajke naših proizvoda i usluga koje koristite. Možete saznati kako prikupljamo i obrađujemo osobne podatke u &lt;a href=\"%4$s\">AI Portraits Pravila o privatnosti&lt;/a>.&lt;br/>Pročitajte i prihvatite &lt;a href=\"%5$s\">AI Portraits Korisnički ugovor&lt;/a> i &lt;a href=\"%6$s\">AI Portraits Pravila o privatnosti&lt;/a> prije nego nastavite."</Data></string>
   <string name="ai_input_name_hint">Unesite ime</string>
   <string name="ai_loading">Samo trenutak…</string>
   <string name="ai_multi_window_tip">"Ovu stranicu nije moguće vidjeti na podijeljenom zaslonu"</string>
@@ -220,6 +234,7 @@ Umjesto toga odaberite druge fotografije i pokušajte ponovno."</string>
   <string name="ai_no_net_toast">"Ne mogu se povezati na mrežu. Pokušajte ponovno."</string>
   <string name="ai_normal_theme_button">Stvori</string>
   <string name="ai_photo_upload_fail">"Nije moguće prenijeti. Pokušajte ponovno."</string>
+  <string name="ai_photos_upload_fail_tip">"Fotografije korisnika %s još nisu učitane. Sada možete nastaviti učitavati fotografije."</string>
   <string name="ai_please_agree_privacy_toast">Prvo prihvatite naše uvjete i odredbe</string>
   <string name="ai_preview_failed_retry_button">Pokušaj ponovno</string>
   <string name="ai_privacy_tip_1">Fotografija za osobni dokument</string>
@@ -229,6 +244,10 @@ Umjesto toga odaberite druge fotografije i pokušajte ponovno."</string>
   <string name="ai_privacy_title">Izjava o privatnosti</string>
   <string name="ai_re_create_image">Pokušajte ponovno</string>
   <string name="ai_ready_to_have_try">Pokreni</string>
+  <string name="ai_recreate_image_cancel_text_btn">Nastavi</string>
+  <string name="ai_recreate_image_confirm_text_btn">Odaberi</string>
+  <string name="ai_recreate_image_dialog_msg">Možete nastaviti s učitavanjem fotografija ili odabrati nove.</string>
+  <string name="ai_recreate_image_dialog_title">"Fotografije korisnika %s nisu prenesene"</string>
   <string name="ai_refuse_update_toast">Odaberite nove fotografije da biste mogli ažurirati ovu AI sliku</string>
   <string name="ai_select_people_sub_title" formatted="false">%1d–%2d najbolje fotografije bit će odabrane automatski</string>
   <string name="ai_select_people_title">Odaberite osobu za izradu njihove AI slike</string>
@@ -246,6 +265,7 @@ Najbolji snimci su odabrani automatski. Više fotografija možete dodati ručno.
   <string name="ai_select_photo_manual">Odaberite ručno</string>
   <string name="ai_select_photo_need_select_manual">Nema dovoljno fotografija. Dodajte više.</string>
   <string name="ai_select_photo_next_step">Dalje</string>
+  <string name="ai_select_photo_no_result_toast">"Nije moguće izraditi AI sliku na temelju ovih fotografija. Umjesto toga odaberite druge fotografije."</string>
   <string name="ai_select_photo_over_time_toast">Najbolje fotografije odabrane su automatski. Dodajte više fotografija ručno.</string>
   <string name="ai_select_photo_right_guide_angel">Više kutova</string>
   <string name="ai_select_photo_right_guide_expression">Različiti izrazi lica</string>
@@ -534,6 +554,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="btn_sure">U redu</string>
   <string name="burst_image_download_item_title" formatted="false">Preuzmi original (%s|%s)</string>
   <string name="burst_photo_enter">Uzastopno slikanje</string>
+  <string name="burst_photo_preview_thumbnail_content_description">Fotografija %d</string>
   <string name="burst_preview_title">Uzastopno slikanje</string>
   <string name="burst_save_all">Zadrži sve fotografije</string>
   <string name="burst_save_choice_title">Odabrano %1$d od %2$d</string>

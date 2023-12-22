@@ -260,6 +260,7 @@ Provjerite je li naziv vaše korporacije točan. Prije aktivacije pročitajte i 
   <string name="fingerprint_double_tap">Senzor otiska prsta dvaput dodirnite</string>
   <string name="fingerprint_number_upper_limit">Previše neuspješnih pokušaja otključavanja</string>
   <string name="fingerprint_removal_failed">"Ne mogu izbrisati otisak prsta"</string>
+  <string name="flip_expand_screen_partial_screen_shot_disable">Podržano samo na unutarnjem zaslonu</string>
   <string name="fp_nav_center_back_to_home_title">Dodirnite tipku Početna za povratak na početni zaslon</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
