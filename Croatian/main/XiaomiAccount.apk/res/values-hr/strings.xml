@@ -776,7 +776,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
 	 <string name="passport_remove_confirm">Odjava</string>
 	 <string name="passport_remove_unactivated_account_notice">"Vaš račun još nije aktiviran."</string>
 	 <string name="passport_request_agree">Allow</string>
-	 <string name="passport_request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeće dozvole za normalan rad:&lt;br>&lt;br>&lt;b>Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b>&lt;br>&lt;br>Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njezine će osnovne funkcije i dalje biti vam dostupan. Uvijek možete ograničiti dopuštenja ili opozvati svoje ovlaštenje u Postavkama."</string>
+	 <string name="passport_request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeća dopuštenja za normalan rad:&lt;br>&lt;br>&lt;b>Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b>&lt;br>&lt;br>Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njezine će osnovne funkcije i dalje biti vam dostupan. Uvijek možete ograničiti dopuštenja ili opozvati svoje ovlaštenje u Postavkama."</string>
 	 <string name="passport_request_cancel">Odustani</string>
 	 <string name="passport_request_error_invalid_token">"Nije moguće potvrditi"</string>
 	 <string name="passport_request_error_network">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
@@ -829,7 +829,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
 	 <string name="passport_to_verify_code_login">Prijavite se SMS-om</string>
 	 <string name="passport_trust_device">Dodaj ovaj uređaj provjerenim uređajima</string>
 	 <string name="passport_trying_read_verify_code_sms">Dobivanje koda za provjeru…</string>
-	 <string name="passport_tz_invalid">Otkriven siurnosni rizik. Ovaj je uređaj root-an ili flash-an. Pokušajte druge načine prijave.</string>
+	 <string name="passport_tz_invalid">Otkriven siurnosni rizik. Ovaj je uređaj rootan ili flashan. Pokušajte druge načine prijave.</string>
 	 <string name="passport_unknown_error">Nepoznata pogreška</string>
 	 <string name="passport_unknown_host_network_error">Provjerite mrežne postavke i pokušajte ponovno</string>
 	 <string name="passport_uplink_reg">Koristi broj telefona</string>
@@ -842,7 +842,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
 	 <string name="passport_uplink_sms_sending">Slanje plaćene poruke…</string>
 	 <string name="passport_uplink_suggest_dialog_msg">"Nije moguće primiti kôd. Umjesto toga koristiti plaćeni SMS uzlazne veze?"</string>
 	 <string name="passport_uplink_suggest_dialog_title">Pažnja</string>
-	 <string name="passport_use_generated_pwd_message">Pobrinite se da zapamtite svoju lozinku. Možete je koristiti za prijavu na druge Mi usluge.</string>
+	 <string name="passport_use_generated_pwd_message">Pobrinite se da zapamtite svoju zaporku. Možete je koristiti za prijavu na druge Mi usluge.</string>
 	 <string name="passport_use_generated_pwd_title">Zapamtite vašu zaporku!</string>
 	 <string name="passport_user_agreement">Korisnički ugovor</string>
 	 <string name="passport_user_agreement_hint_3rd_app"><Data>"Pročitao sam i prihvaćam &lt;a href=%1$s>Korisnički ugovor&lt;/a> i &lt;a href=%2$s>Pravila o privatnosti&lt;/a> i Xiaomi račun &lt;a href=%3$s>Korisnički ugovor&lt;/a> i &lt;a href=%4$s>Pravila o privatnosti&lt;/a>."</Data></string>

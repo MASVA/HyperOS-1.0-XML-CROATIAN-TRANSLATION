@@ -164,7 +164,7 @@ Provjerite svoj lokalni datum i pokušajte ponovno."</string>
   <string name="mibi_error_user_id_mismatch_summary">Provjerite i ponovno se prijavite na svoj račun</string>
   <string name="mibi_error_web_summary">Pogreška poslužitelja</string>
   <string name="mibi_fee">%1$s Mi Coina</string>
-  <string name="mibi_forget_password"><u>Zaboravljena lozinka</u></string>
+  <string name="mibi_forget_password"><u>Zaboravljena zaporka</u></string>
   <string name="mibi_frozen">Zamrznut</string>
   <string name="mibi_frozen_prim">Račun zamrznut</string>
   <string name="mibi_frozen_sub">Otkrivena nenormalna aktivnost</string>
@@ -269,7 +269,7 @@ Provjerite svoj lokalni datum i pokušajte ponovno."</string>
   <string name="mibi_partner_giftcard_payment_with_append">Primijeni %1$s</string>
   <string name="mibi_password_error">Zaporka je netočna.</string>
   <string name="mibi_password_forget">zaboravili?</string>
-  <string name="mibi_password_hint">Unesite lozinku računa</string>
+  <string name="mibi_password_hint">Unesite zaporku računa</string>
   <string name="mibi_password_prompt">Kako biste osigurali svoje troškove, potvrdite svoj Xiaomi račun</string>
   <string name="mibi_pay_grid_error_denomination">Iznos mora biti između Mi Coins %1$s i %2$s.</string>
   <string name="mibi_pay_success_summary">"Platili ste %1$s Mi Coins"</string>
@@ -289,14 +289,14 @@ Provjerite svoj lokalni datum i pokušajte ponovno."</string>
   <string name="mibi_permission_des_camera">Koristi se za OCR za prepoznavanje broja kartice za nadoplatu mobilnog telefona itd.</string>
   <string name="mibi_prepaid_card_hint">Sve dopune su jednokratne dopune, a odabrana nominalna vrijednost mora biti u skladu s karticom za dopunu. Pogrešan odabir rezultirat će gubitkom sredstava.</string>
   <string name="mibi_prepaid_card_hint_input_card_num">Molimo unesite broj kartice</string>
-  <string name="mibi_prepaid_card_hint_input_pwd">Molimo unesite lozinku</string>
+  <string name="mibi_prepaid_card_hint_input_pwd">Molimo unesite zaporku</string>
   <string name="mibi_prepaid_card_info">Informacije o kartici za nadoplatu</string>
   <string name="mibi_prepaid_card_order_info">%1$s kartica za dopunu: CNY %2$s</string>
   <string name="mibi_prepaid_carriers_picker_hint">Odaberite prijevoznika</string>
   <string name="mibi_prepaid_dialog_content">Svaki gubitak uzrokovan nepodudarnošću između broja kartice, nominalne vrijednosti, lozinke i stvarnih podataka snosit ćete vi. Još jednom provjerite podatke koje ste unijeli prije nego nastavite.</string>
   <string name="mibi_prepaid_dialog_title">Pažnja</string>
   <string name="mibi_prepaid_edit_limit">znamenke</string>
-  <string name="mibi_prepaid_error_card_length">Nevažeći broj kartice ili lozinka.</string>
+  <string name="mibi_prepaid_error_card_length">Nevažeći broj kartice ili zaporka.</string>
   <string name="mibi_prepaid_error_card_number">Broj kartice nije valjan.</string>
   <string name="mibi_prepaid_error_carrier">Odaberite operatera</string>
   <string name="mibi_prepaid_error_denomination">Odaberite iznos</string>
@@ -309,7 +309,7 @@ Provjerite svoj lokalni datum i pokušajte ponovno."</string>
   <string name="mibi_prepaid_picker_hint_2_2_a">"Odabrana nominalna vrijednost mora biti u skladu s onom unaprijed plaćene kartice. Odabir druge vrijednosti poništit će karticu. Ova se radnja ne može poništiti."</string>
   <string name="mibi_prepaid_picker_hint_2_2_b">Ako nominalna vrijednost unaprijed plaćene kartice nije &lt;font color=red>￥%1$s&lt;/font>, kartica će biti nevažeća. Xiaomi nije odgovoran za bilo kakav novčani gubitak koji nastane kao rezultat pogreške korisnika.</string>
   <string name="mibi_prepaid_picker_hint_3_1">3.</string>
-  <string name="mibi_prepaid_picker_hint_3_2">Unesite broj svoje kartice, nominalnu vrijednost i lozinku. <b>Svaki gubitak uzrokovan nepodudarnošću između podataka koje ste dali i stvarnih podataka snosit ćete sami.</b></string>
+  <string name="mibi_prepaid_picker_hint_3_2">Unesite broj svoje kartice, nominalnu vrijednost i zaporku. <b>Svaki gubitak uzrokovan nepodudarnošću između podataka koje ste dali i stvarnih podataka snosit ćete sami.</b></string>
   <string name="mibi_prepaid_picker_title_default">Odaberi iznos</string>
   <string name="mibi_prepaid_picker_title_selected">Iznos</string>
   <string name="mibi_privacy_license_name">Pravila o privatnosti</string>
@@ -406,7 +406,7 @@ Budući da se pružanje MiCoin usluga oslanja na prikupljanje potrebnih osobnih 
 Budući da se pružanje MiCoin usluga oslanja na prikupljanje potrebnih osobnih podataka, ako otkažete uslugu, smatrat će se da se ne slažete da vam nastavimo pružati MiCoin usluge i da se odričete svoje imovine i prava u aplikaciji MiCoin. Uzrokovati određeni gubitak, a osobni podaci se ne mogu vratiti, pažljivo birajte."</string>
   <string name="mibi_scan_prompt_number">Skenirajte %1$s broj unaprijed plaćene kartice</string>
   <string name="mibi_scan_prompt_password">Skenirajte %1$s zaporku unaprijed plaćene kartice</string>
-  <string name="mibi_scan_prompt_voucher">Skeniraj lozinku za Mi Coin</string>
+  <string name="mibi_scan_prompt_voucher">Skeniraj zaporku za Mi Coin</string>
   <string name="mibi_security_setting">Postavke</string>
 ​  <string name="mibi_setting_authorization_management">Upravljanje autorizacijom</string>
   <string name="mibi_setting_cache_deleted_privacy">Povlačenje pristanka je dovršeno i lokalni podaci su obrisani</string>
@@ -617,8 +617,8 @@ Budući da se pružanje MiCoin usluga oslanja na prikupljanje potrebnih osobnih 
   <string name="passport_open_settings">Postavke</string>
   <string name="passport_page_load_failed">"Ne mogu otvoriti stranicu"</string>
   <string name="passport_password_login_btn">Prijavite se</string>
-  <string name="passport_password_not_show">"Ne prikazuj lozinku"</string>
-  <string name="passport_password_show">Prikaži lozinku</string>
+  <string name="passport_password_not_show">"Ne prikazuj zaporku"</string>
+  <string name="passport_password_show">Prikaži zaporku</string>
   <string name="passport_phone_auto_login_register_with_local_number">Izradi račun</string>
   <string name="passport_photo_picker_not_found">Nema dostupnih fotografija.</string>
   <string name="passport_qq_login_btn_content_description">Prijavite se s QQ</string>
@@ -626,16 +626,16 @@ Budući da se pružanje MiCoin usluga oslanja na prikupljanje potrebnih osobnih 
   <string name="passport_register_by_local_phone_long_text">Izradi račun</string>
   <string name="passport_register_by_local_phone_short_text">Izradi račun</string>
   <string name="passport_request_agree">Dopusti</string>
-  <string name="passport_request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeće dozvole za normalan rad:&lt;br>&lt;br>&lt;b>Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b>&lt;br>&lt;br>Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njezine će osnovne funkcije i dalje biti vam dostupan. Uvijek možete ograničiti dopuštenja ili opozvati svoje ovlaštenje u Postavkama."</string>
+  <string name="passport_request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeća dopuštenja za normalan rad:&lt;br>&lt;br>&lt;b>Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b>&lt;br>&lt;br>Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njezine će osnovne funkcije i dalje biti vam dostupan. Uvijek možete ograničiti dopuštenja ili opozvati svoje ovlaštenje u Postavkama."</string>
   <string name="passport_request_cancel">Odustani</string>
   <string name="passport_request_error_invalid_token">"Nije moguće potvrditi"</string>
   <string name="passport_request_error_network">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
   <string name="passport_request_error_unknown">Došlo je do sistemske pogreške. Vratite se i pokušajte ponovno.</string>
-  <string name="passport_request_gallery_permission_message">Dopusti pristup Galeriji:&lt;br />Za postavljanje profilnih fotografija</string>
+  <string name="passport_request_gallery_permission_message">Dopustite pristup Galeriji:&lt;br />Za postavljanje profilnih fotografija</string>
   <string name="passport_resend_email_reach_limit_message">"Zatražili ste previše e-poruka za potvrdu. Uvjerite se da e-poruka za potvrdu nije u mapi neželjene pošte vaše pristigle pošte."</string>
   <string name="passport_resend_email_reach_limit_title">Previše pokušaja</string>
   <string name="passport_resend_ticket">Ponovo pošalji kod</string>
-  <string name="passport_same_new_and_old_pwd">"Ne može biti ista kao trenutna lozinka"</string>
+  <string name="passport_same_new_and_old_pwd">"Ne može biti ista kao trenutna zaporka"</string>
   <string name="passport_send_sms_to">Kôd poslan na %1$s</string>
   <string name="passport_sending_vcode">Slanje koda…</string>
   <string name="passport_service_error">Pogreška poslužitelja</string>
@@ -832,7 +832,7 @@ poveznicu u poruci koju smo poslali na vašu dolaznu poštu
   <string name="passport_uplink_reg">Koristi broj telefona</string>
   <string name="passport_uplink_slot1_reg">Koristi SIM 1</string>
   <string name="passport_uplink_slot2_reg">Koristi SIM 2</string>
-  <string name="passport_use_generated_pwd_message">Pobrinite se da zapamtite svoju lozinku. Možete je koristiti za prijavu na druge Mi usluge.</string>
+  <string name="passport_use_generated_pwd_message">Pobrinite se da zapamtite svoju zaporku. Možete je koristiti za prijavu na druge Mi usluge.</string>
   <string name="passport_use_generated_pwd_title">Zapamtite vašu zaporku!</string>
   <string name="passport_user_agreement">Korisnički Sporazum</string>
   <string name="passport_user_agreement_p1">Suglasni ste s </string>

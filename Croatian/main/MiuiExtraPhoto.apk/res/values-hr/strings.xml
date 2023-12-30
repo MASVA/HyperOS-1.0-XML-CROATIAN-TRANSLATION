@@ -38,8 +38,8 @@
     <string name="auto_crop_size_former_latter">%1$s:%2$s</string>
     <string name="auto_crop_stop_saving">Dodirnite ponovno za odustajanje</string>
     <string name="auto_crop_title">Xiaomi ProCut</string>
-    <string name="auto_crop_water_mark_description">"Vodeni žigovi neće biti prikazani na slikama obrađenim Xiaomi ProCutom. Svejedno koristiti ovu značajku?"</string>
-    <string name="auto_crop_water_mark_title">"Vodeni žigovi neće biti prikazani"</string>
+    <string name="auto_crop_water_mark_description">"Oznake neće biti prikazane na slikama obrađenim Xiaomi ProCutom. Svejedno koristiti ovu značajku?"</string>
+    <string name="auto_crop_water_mark_title">"Oznake neće biti prikazane"</string>
     <string name="cancel">Odustani</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
     <string name="close">Isključi</string>
@@ -244,9 +244,9 @@
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
 	 <string name="talkback_ratio_1_1">Kvadrat</string>
-    <string name="talkback_ratio_3_4">Tri po četiri</string>
-    <string name="talkback_ratio_4_3">Četiri po tri</string>
-    <string name="talkback_ratio_9_16">Devet sa šesnaest</string>
+    <string name="talkback_ratio_3_4">Tri puta četiri</string>
+    <string name="talkback_ratio_4_3">Četiri puta tri</string>
+    <string name="talkback_ratio_9_16">Devet puta šesnaest</string>
     <string name="thursday">Četvrtak</string>
     <string name="thursday_short">Čet</string>
     <string name="thursday_shortest">Č</string>

@@ -52,7 +52,7 @@
   <string name="cast_mcc_tips_title">Promjena Wi-Fi postavki</string>
   <string name="cast_mcc_tips_title_china">Promjena Wi-Fi postavki</string>
   <string name="circulate_cta_agree">Prihvaćam</string>
-  <string name="circulate_cta_all_purpose">Home screen+ dio je Xiaomi Interconnectivity Services. Omogućuje vam pregled i interakciju s početnim zaslonima drugih povezanih uređaja. Da bi mogla normalno raditi, ova usluga se mora povezati na internet i zahtijeva sljedeće dozvole:</string>
+  <string name="circulate_cta_all_purpose">Home screen+ dio je Xiaomi Interconnectivity Services. Omogućuje vam pregled i interakciju s početnim zaslonima drugih povezanih uređaja. Da bi mogla normalno raditi, ova usluga se mora povezati na internet i zahtijeva sljedeća dopuštenja:</string>
   <string name="circulate_cta_app_name">Mi Smart Hub</string>
   <string name="circulate_cta_desc_phone">Dobro došli u Mi Smart Hub! Ovu aplikaciju možete koristiti za emitiranje sadržaja zaslona, prijenos multimedijske reprodukcije između uređaja, korištenje Mi Smart Playa, MIUI+ i handoff aplikacije. Ova aplikacija mora se povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:</string>
   <string name="circulate_cta_desc_phone_miui15_14">Dobro došli u Xiaomi Interconnectivity! Ovu aplikaciju možete koristiti za emitiranje sadržaja zaslona, prijenos multimedijske reprodukcije između uređaja, korištenje Mi Smart Playa, značajki međusobnog povezivanja uređaja i handoff aplikacije. Ova aplikacija mora se povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:</string>

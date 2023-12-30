@@ -74,7 +74,7 @@
   <string name="carousel_setting">Postavite svoj Zaklj. zaslon</string>
   <string name="carousel_setting_sub">Wallpaper Carousel pokazat će vam nove priče svaki put kada otključate svoj uređaj</string>
   <string name="carrier_introduction_china">"Kako bi vam pružili bolje usluge, procesi koji se izvode na vašem uređaju (uključujući SystemHelper, RegService i Carrier Services) mogu povremeno slati podatke koji se odnose na vaš uređaj i SIM karticu (uključujući IMEI, IMSI, MSISDN, MEID, ICCID, MAC adresu, HyperOS verziju, Android verziju, model uređaja i osnovne hardverske specifikacije), kao i približne informacije o lokaciji (uključujući regiju, koordinate, identifikator područja i ID bazne stanice) operateru putem Wi-Fi-ja, mobilne podatkovne mreže ili besplatnog SMS-a. Prijevoznik obećava da će analizirati relevantne informacije samo radi poboljšanja kvalitete usluga ili pružanja prilagođenih usluga ili tehnologija i neće otkriti relevantne informacije trećim stranama u bilo kojem obliku koji vas osobno identificira. Posebna izjava prijevoznika ima prednost. U vezi troškova korištenja ove usluge posavjetujte se sa svojim operaterom."</string>
-  <string name="check_box_label">&lt;Data&gt;"Uključivanjem ove značajke prihvaćate &amp;lt;a href=%1$s&amp;gt;Xiaomi Interconnectivity Services Privacy Policy&amp;lt;/a &amp;gt;."&lt;/Data&gt;</string>
+  <string name="check_box_label">&lt;Data&gt;"Uključivanjem ove značajke prihvaćate &amp;lt;a href=%1$s&amp;gt;Xiaomi usluge međusobnog povezivanja Services Privacy Policy&amp;lt;/a &amp;gt;."&lt;/Data&gt;</string>
   <string name="clearable_edittext_clear_description">Izbriši</string>
   <string name="clock_introduction">Ovu aplikaciju možete koristiti za prikaz vremena, kao i korištenje timera, svjetskog sata, štoperice, postavljanje alarma i još mnogo toga.</string>
   <string name="close">Zatvori</string>
@@ -164,7 +164,9 @@
   <string name="install_preinstall_app">Učitavanje aplikacija…</string>
   <string name="intent_filter_verification_service">Intent Filter Verification Service</string>
   <string name="interconnection_communication_introduction">Xiaomi internetske komunikacijske usluge omogućuju vam otkrivanje, povezivanje i komunikaciju s drugim Xiaomi uređajima.</string>
-  <string name="interconnection_service_summary">"Xiaomi Interconnectivity Services omogućuju vašim uređajima međusobnu bežičnu interakciju. Ove usluge uključuju Mi Smart Hub, Mi Smart Play, HyperOS+ Beta, Mi Share i kasting.
+  <string name="interconnection_service_global_item_title">Xiaomi usluge međusobnog povezivanja</string>
+  <string name="interconnection_service_global_label">"&lt;Data>Xiaomi usluge međusobnog povezivanja omogućuje vašim uređajima međusobnu bežičnu interakciju. Uključivanjem ove značajke pristajete na Xiaomi usluge međusobnog povezivanja &lt;a href=%1$s>Pravila o privatnosti&lt;/a >.&lt;/Data>"</string>
+  <string name="interconnection_service_summary">"Xiaomi usluge međusobnog povezivanja Services omogućuju vašim uređajima međusobnu bežičnu interakciju. Ove usluge uključuju Mi Smart Hub, Mi Smart Play, HyperOS+ Beta, Mi Share i emitiranje.
 Da bi mogli normalno raditi, ovi servisi moraju se povezati na internet i zahtijevati sljedeća dopuštenja:
 \u0009\u0009Mi Smart Hub:
 \u0009\u0009Uključiti i isključiti Wi-Fi
@@ -193,9 +195,9 @@ Da bi mogli normalno raditi, ovi servisi moraju se povezati na internet i zahtij
 \u0009\u0009Za dobivanje informacija o uređajima u blizini
 \u0009\u0009Snimanje zvuka
 \u0009\u0009Za prijenos audio reprodukcije na povezani tijekom emitiranja
-Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti Xiaomi Interconnectivity Services.
+Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti Xiaomi usluge međusobnog povezivanja Services.
 Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće biti dostupne na svim modelima uređaja ili za sve verzije sustava. Posjetite HyperOS web stranicu (https://hyperos.mi.com) da provjerite kompatibilnost."</string>
-  <string name="interconnection_service_summary_china">"Usluge Xiaomi Interconnectivity Services omogućuju vašim uređajima međusobnu bežičnu interakciju. Možete koristiti Xiaomi Interconnectivity Services za kontrolu uređaja, prijenos audio i video reprodukcije, kombiniranje značajki uređaja ili pokretanje zadataka na jednom uređaju i nastavak s njima u istoj aplikaciji na drugim povezanim uređajima. Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja:
+  <string name="interconnection_service_summary_china">"Usluge Xiaomi usluge međusobnog povezivanja Services omogućuju vašim uređajima međusobnu bežičnu interakciju. Možete koristiti Xiaomi usluge međusobnog povezivanja Services za kontrolu uređaja, prijenos audio i video reprodukcije, kombiniranje značajki uređaja ili pokretanje zadataka na jednom uređaju i nastavak s njima u istoj aplikaciji na drugim povezanim uređajima. Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja:
 \u0009\u0009Mi Share:
 \u0009\u0009Pristupite fotografijama i datotekama pohranjenim na uređaju
 \u0009\u0009Za slanje i primanje prenesenog sadržaja
@@ -268,7 +270,8 @@ Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće
 \u0009\u0009Za slanje i primanje prenesenog sadržaja
 Ako ne prihvatite davanje ovih dopuštenja, nećete moći koristiti ove usluge.
 Dostupne usluge međusobnog povezivanja mogu se razlikovati ovisno o verziji vašeg sustava i modelu uređaja. Pronađite više informacija na %s."</string>
-  <string name="interconnection_service_title">Xiaomi Interconnectivity Services</string>
+  <string name="interconnection_service_summary_global">"Značajke Xiaomi usluge međusobnog povezivanja mogu se razlikovati ovisno o modelu uređaja i verziji sustava. Posjetite službenu web stranicu sustava kako biste saznali više."</string>
+  <string name="interconnection_service_title">Xiaomi usluge međusobnog povezivanja</string>
   <string name="item_contents_wwarning">"Ako izgubite svoj uređaj, nećete moći spriječiti druge ljude da ga koriste i pristupaju vašim podacima ako ne postavite Zaklj. zaslona. Svejedno preskočiti?"</string>
   <string name="item_facerecognition">Otključavanje licem</string>
   <string name="item_fingerprint">Otisak prsta</string>

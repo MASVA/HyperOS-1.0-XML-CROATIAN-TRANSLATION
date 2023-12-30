@@ -94,5 +94,6 @@
     </plurals>
 	 <plurals name="remember_number_habit">
         <item quantity="other">Upamtili ste %1$d navika</item>
+		   <item quantity="one">Upamtili ste %1$d naviku</item>
     </plurals>
 </resources> 

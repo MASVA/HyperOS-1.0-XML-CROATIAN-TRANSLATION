@@ -1621,6 +1621,7 @@ da osobno prilagodite Galeriju"</string>
   <string name="mark_operation_succeeded">Uspješno dodano</string>
   <string name="mark_people_ignore_info_message">Dodirnite i zadržite fotografije osoba da biste ih dodali u grupe</string>
   <string name="media_type_burst_photo">Uzastopno snimanje</string>
+  <string name="media_type_cinematic">Film</string>
   <string name="media_type_clone_photo">Klonovi</string>
   <string name="media_type_doc_photo">Dokumenti</string>
   <string name="media_type_fast_motion_video">Time-lapse</string>
@@ -2666,6 +2667,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="send_public_url">Pošalji poveznicu albuma</string>
   <string name="send_secret_file_failed">"Ne mogu podijeliti"</string>
   <string name="send_secret_file_space_low">Nema dovoljno prostora za pohranu</string>
+  <string name="send_special_video_duration_more_than_40s">Obrađeni videozapisi duži od %d minuta mogu se dijeliti samo u izvornom formatu koji možda nije kompatibilan s prijemnim uređajem. Svejedno nastaviti?</string>
   <string name="service_error">Pogreška poslužitelja</string>
   <string name="service_is_provided_by_miui_cloud_service">Ovu uslugu pruža Xiaomi Cloud</string>
   <string name="set_as_baby_lock_wallpaper">Postavi za pozadinu Zaklj. zaslona</string>
@@ -3125,6 +3127,8 @@ Do %1$s možete premjestiti svoje stavke na Google fotografije ili posjetiti i.m
   <string name="tip_capture_time">Snimljeno: </string>
   <string name="tip_file_info">Detalji: </string>
   <string name="tip_file_path">Putanja: </string>
+  <string name="tip_leica_authentic">Leica Authentic</string>
+  <string name="tip_leica_vibrant">Leica Vibrant</string>
   <string name="tip_not_download">Nije na uređaju. Biti će preuzeto s Xiaomi Clouda tijekom reprodukcije.</string>
   <string name="tip_screenshot_package_info">Naziv aplikacije: </string>
   <string name="tips_for_photo_page_selection">Možete dodirnuti stavke da biste ih vidjeli</string>

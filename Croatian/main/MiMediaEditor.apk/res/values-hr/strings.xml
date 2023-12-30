@@ -145,7 +145,7 @@
     <string name="copy">Kopiraj</string>
     <string name="crop_label">Obrezane fotografije</string>
     <string name="cta_agreement_declare"><Data>Kako biste u potpunosti razumjeli vaša prava kao korisnika kao i načine na koje koristimo vaše podatke, pročitajte i prihvatite naše &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a> prije korištenja ove aplikacije.</Data></string>
-    <string name="cta_network_declare">Za sinkronizaciju fotografija i videozapisa s Mi Cloudom ova se aplikacija mora povezati s internetom.</string>
+    <string name="cta_network_declare">Za sinkronizaciju fotografija i videozapisa s Xiaomi Cloudom ova se aplikacija mora povezati s internetom.</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="default_device_name">Nepoznati uređaj</string>
     <string name="device_offline">Drugi uređaj je izvan mreže. Započnite ispočetka.</string>
@@ -382,7 +382,7 @@
     <string name="grant_permission_shortcut">Dopustite ovoj aplikaciji da prvo stvara prečace na početnom zaslonu.</string>
     <string name="grant_permission_storage">Dopustite ovoj aplikaciji prvo pristup pohrani.</string>
     <string name="grant_permission_storage_unlock">Otključajte svoj uređaj i dopustite ovoj aplikaciji da prvo pristupi pohrani.</string>
-    <string name="grant_permission_text">"Galerija treba pristup za \n%s\n da radi normalno, dodirni \"Postavi\" za ići u Dopuštenja."</string>
+    <string name="grant_permission_text">"Galerija treba pristup za \n%s\n da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
     <string name="grant_permission_title">Dopusti pristup</string>
     <string name="grant_permission_unlock_and_set">Otključaj i postavi</string>
     <string name="grant_permission_unlock_and_set_2">Otključaj</string>
@@ -637,7 +637,7 @@
     <string name="movie_return">Natrag</string>
     <string name="movie_save">Spremi</string>
     <string name="movie_save_failed">"Ne mogu spremiti"</string>
-    <string name="movie_save_stop_tips">Dodirni opet za otkazivanje spremanja videozapisa</string>
+    <string name="movie_save_stop_tips">Dodirnite opet za otkazivanje spremanja videozapisa</string>
     <string name="movie_save_successfully">Spremljeno u Kreativnost</string>
     <string name="movie_saving">Izrada isječka…</string>
     <string name="movie_tab_edit">Uredi</string>
@@ -665,7 +665,7 @@
     <string name="name_split">, </string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="nearby_share">Dijeljenje u blizini</string>
-    <string name="network_message">"Ova se značajka mora povezati s mrežom da bi normalno radila. Čini se da ovaj uređaj nije povezan s Wi-Fi mrežom. Upotrijebiti mobilne podatke za nastavak? Korištenje mobilnih podataka može generirati dodatne naknade operatera."</string>
+    <string name="network_message">"Ova se značajka mora povezati s mrežom da bi normalno radila. Čini se da ovaj uređaj nije povezan s Wi-Fi mrežom. Koristiti mobilne podatke za nastavak? Korištenje mobilnih podataka može generirati dodatne naknade operatera."</string>
     <string name="network_title">Povežite se na mrežu</string>
     <string name="night">Večer</string>
     <string name="no_network">"Ne mogu se povezati na mrežu"</string>
@@ -713,7 +713,7 @@
     <string name="photo_editor_crop_and_rotate">Obreži</string>
     <string name="photo_editor_crop_auto">Auto</string>
     <string name="photo_editor_crop_auto_tips">Obrezano automatski</string>
-    <string name="photo_editor_crop_reset">Resetiraj</string>
+    <string name="photo_editor_crop_reset">Poništi</string>
     <string name="photo_editor_crop_rotation_format">%d°</string>
     <string name="photo_editor_crop_size_former_latter" formatted="false">%d:%d</string>
     <string name="photo_editor_crop_size_free">Vlastito</string>
@@ -755,16 +755,16 @@
     <string name="photo_editor_navigator_need_download">Povežite se s internetom za preuzimanje %s.</string>
     <string name="photo_editor_navigator_sticker_download_failed">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
     <string name="photo_editor_navigator_sticker_download_success">Uspješno preuzeto</string>
-    <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Čini se da niste povezani s Wi-Fi mrežom. Upotrijebiti %1$d MB mob. podataka za preuzimanje dodatka?"</string>
-    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Čini se da niste povezani s Wi-Fi mrežom. Upotrijebiti %1$d MB mob. podataka za preuzimanje dodatka?"</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg">"Čini se da niste povezani s Wi-Fi mrežom. Koristiti %1$d MB mob. podataka za preuzimanje dodatka?"</string>
+    <string name="photo_editor_navigator_sticker_download_without_wifi_msg_china">"Čini se da niste povezani s Wi-Fi mrežom. Koristiti %1$d MB mob. podataka za preuzimanje dodatka?"</string>
     <string name="photo_editor_navigator_sticker_download_without_wifi_title">Preuzmi dodatak</string>
-    <string name="photo_editor_remove_watermark">Ukloni vodeni žig</string>
-    <string name="photo_editor_remove_watermark_on">Dodaj vodeni žig</string>
+    <string name="photo_editor_remove_watermark">Ukloni oznaku</string>
+    <string name="photo_editor_remove_watermark_on">Dodaj oznaku</string>
     <string name="photo_editor_remover">Izbriši</string>
     <string name="photo_editor_remover2_download_failed">"Ne mogu preuzeti AI Erase 2.0. Provjerite mrežne postavke i pokušajte ponovo."</string>
     <string name="photo_editor_remover2_download_failed_msg">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
     <string name="photo_editor_remover2_download_finish">AI Erase 2.0 uspješno preuzet</string>
-    <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Upotrijebiti %1$d MB mobilnih podataka za preuzimanje AI Erase 2.0?"</string>
+    <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Koristiti %1$d MB mobilnih podataka za preuzimanje AI Erase 2.0?"</string>
     <string name="photo_editor_remover2_download_sdk_without_wifi_title">Preuzmi AI Erase 2.0</string>
     <string name="photo_editor_remover2_download_with_metered_network_msg">Čini se da je vaš uređaj povezan s mrežom koja se plaća. Preuzimanje stavki može generirati dodatne naknade. Svejedno preuzeti?</string>
     <string name="photo_editor_remover2_download_with_metered_network_title">Plaćena mreža</string>
@@ -1254,15 +1254,15 @@
     <string name="vlog_clip_select_trans">Odaberite prijelaz</string>
     <string name="vlog_clip_sort">Promijeni poredak videozapisa</string>
     <string name="vlog_clip_zoom">Pomoću dva prsta povećajte ili smanjite broj okvira u pregledu</string>
-    <string name="vlog_cloud_file_download">Stavke sa Mi Clouda</string>
+    <string name="vlog_cloud_file_download">Stavke sa Xiaomi Clouda</string>
     <string name="vlog_download_btn">Preuzmi</string>
-    <string name="vlog_download_cloud_file_retry">"Ne mogu preuzeti stavke sa Mi Clouda. Pokušajte ponovno."</string>
-    <string name="vlog_download_cloud_file_without_wifi_msg">"Ne mogu se povezati na Wi-Fi. Stavke s Mi Clouda možete preuzeti(%s) koristeći mob. podatke."</string>
+    <string name="vlog_download_cloud_file_retry">"Ne mogu preuzeti stavke sa Xiaomi Clouda. Pokušajte ponovno."</string>
+    <string name="vlog_download_cloud_file_without_wifi_msg">"Ne mogu se povezati na Wi-Fi. Stavke s Xiaomi Clouda možete preuzeti(%s) koristeći mob. podatke."</string>
     <string name="vlog_download_fail">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
     <string name="vlog_download_failed_for_notwork">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
     <string name="vlog_download_sdk_without_wifi_msg">"Ne mogu se povezati na Wi-Fi. Uređivač videozapisa možete i preuzeti koristeći mob. podatke."</string>
     <string name="vlog_download_sdk_without_wifi_title">Preuzimanje Uređivača videozapisa…</string>
-    <string name="vlog_downloading_cloud_file">Preuzimanje stavki sa Mi Clouda…</string>
+    <string name="vlog_downloading_cloud_file">Preuzimanje stavki sa Xiaomi Clouda…</string>
     <string name="vlog_editor_talkback_ratio_239_1">Dvije točke trideset devet prema jedan</string>
     <string name="vlog_end_of_film">Zatvaranje</string>
     <string name="vlog_estimated_size_x">≈%d MB</string>
@@ -1348,12 +1348,12 @@
     <string name="vlog_talkback_frame_view">Odaberite isječak za dodavanje teksta</string>
     <string name="vlog_talkback_max_voice_view">Najveća glasnoća</string>
     <string name="vlog_talkback_min_voice_view">Najniža glasnoća</string>
-    <string name="vlog_talkback_ratio_16_9">Sixteen by nine</string>
-    <string name="vlog_talkback_ratio_1_1">Square</string>
-    <string name="vlog_talkback_ratio_255_1">Two point fifty five to one</string>
-    <string name="vlog_talkback_ratio_3_4">Three by four</string>
-    <string name="vlog_talkback_ratio_4_3">Four by three</string>
-    <string name="vlog_talkback_ratio_9_16">Nine by sixteen</string>
+    <string name="vlog_talkback_ratio_16_9">Šesnaest puta devet</string>
+    <string name="vlog_talkback_ratio_1_1">Kvadrat</string>
+    <string name="vlog_talkback_ratio_255_1">Dva zarez pedeset pet prema jedan</string>
+    <string name="vlog_talkback_ratio_3_4">Tri puta četiri</string>
+    <string name="vlog_talkback_ratio_4_3">Četiri puta tri</string>
+	 <string name="vlog_talkback_ratio_9_16">Devet puta šesnaest</string>
     <string name="vlog_talkback_speed_double">2X</string>
     <string name="vlog_talkback_speed_half">0.5X</string>
     <string name="vlog_talkback_speed_normal">1X</string>

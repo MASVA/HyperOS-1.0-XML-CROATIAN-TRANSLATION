@@ -2085,7 +2085,7 @@ Dugotrajno slušanje glasne glazbe može vam oštetiti sluh."</string>
   <string name="test_harness_mode_notification_message">Vratite na tvorničke postavke da biste onemogućili način testnog okvira.</string>
   <string name="test_harness_mode_notification_title">Omogućen je način testnog okvira</string>
   <string name="tethered_notification_message">Dodirnite da biste postavili.</string>
-  <string name="tethered_notification_multi_device_message">Povezanih uređaja: %1$s</string>
+  <string name="tethered_notification_multi_device_message">%1$s povezana uređaja</string>
   <string name="tethered_notification_no_device_message">Nema povezanih uređaja</string>
   <string name="tethered_notification_one_device_message">%1$s povezan uređaj</string>
   <string name="tethered_notification_title">Aktivno dijeljenje veze ili hotspot</string>

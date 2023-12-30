@@ -598,7 +598,7 @@
 	<string name="passport_register_restricted">Previše je računa povezano s ovim brojem. Pokušajte s drugim.</string>
 	<string name="passport_relogin_notice">Morate se ponovo prijaviti</string>
 	<string name="passport_request_agree">Dopusti</string>
-	<string name="passport_request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeće dozvole za normalan rad:&lt;br>&lt;br>&lt;b>Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b>&lt;br>&lt;br>Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njezine će osnovne funkcije i dalje biti vam dostupan. Uvijek možete ograničiti dopuštenja ili opozvati svoje ovlaštenje u Postavkama."</string>
+	<string name="passport_request_camera_permission_message">"Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima i propisima. Ova aplikacija treba sljedeća dopuštenja za normalan rad:&lt;br>&lt;br>&lt;b>Korištenje kamere (za postavljanje vaše profilne fotografije)&lt;/b>&lt;br>&lt;br>Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njezine će osnovne funkcije i dalje biti vam dostupan. Uvijek možete ograničiti dopuštenja ili opozvati svoje ovlaštenje u Postavkama."</string>
 	<string name="passport_request_cancel">Odustani</string>
 	<string name="passport_request_error_invalid_token">"Nije moguće potvrditi"</string>
 	<string name="passport_request_error_network">Došlo je do mrežne pogreške. Provjerite mrežne postavke i pokušajte ponovno.</string>
@@ -929,7 +929,7 @@ dolaze"</string>
 	<string name="settings_security_mode_service_msg_0">Nove mjere protiv prijevara i zaštite privatnosti</string>
 	<string name="settings_security_mode_service_msg_1">Provjerite aplikacije iz nepoznatih izvora prije instalacije</string>
 	<string name="settings_security_mode_service_msg_2">Kontrolirajte i ograničite štetnu aktivnost aplikacije</string>
-	<string name="settings_security_mode_service_msg_3">Kontrola dozvola povezanih s privatnošću</string>
+	<string name="settings_security_mode_service_msg_3">Kontrola dopuštenja povezanih s privatnošću</string>
 	<string name="settings_security_mode_service_msg_4">Provjerite sigurnosne probleme u okruženju plaćanja</string>
 	<string name="settings_security_mode_service_opening_msg_1">Zaštita od rizičnih aplikacija</string>
 	<string name="settings_security_mode_service_opening_msg_2">Praćenje ponašanja aplikacije</string>
@@ -1044,8 +1044,8 @@ dolaze"</string>
 	<string name="wednesday_shortest">S</string>
 	<string name="welcome_to_security_mody">Dobro došli u Mi Protect</string>
 	<string name="what_is_security_mode">Što je Mi Protect?</string>
-	<string name="xiaomi_account_risk">Zaporka Mi Računa</string>
-	<string name="xiaomi_account_verify">Prijavite se na svoj Mi Račun kako biste mogli nastaviti instalaciju.</string>
+	<string name="xiaomi_account_risk">Zaporka Xiaomi računa</string>
+	<string name="xiaomi_account_verify">Prijavite se na svoj Xiaomi račun kako biste mogli nastaviti instalaciju.</string>
 	<string name="xiaomi_market_sdk_update_dialog_cancel">Ne sada</string>
 	<string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
 	<string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>

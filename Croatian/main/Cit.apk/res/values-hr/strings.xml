@@ -211,9 +211,11 @@ Držite uređaj kao da upućujete poziv, govorite u gornji mikrofon, trebali bis
   <string name="cit_charge_usb_hvdcp">Punjenje:USB_HVDCP</string>
   <string name="cit_charge_usb_pd">Punjenje:USB_PD</string>
   <string name="cit_charger_check_title">Test punjača</string>
-  <string name="cit_charger_in">Punjač je povezan</string>
-  <string name="cit_charger_plugin_check_title">Punjač (povezivanje)</string>
-  <string name="cit_charger_plugout_check_title">Punjač (odspoji)</string>
+  <string name="cit_charger_in">Punjač je priključen</string>
+  <string name="cit_charger_main_ibat">Struja glavne baterije</string>
+  <string name="cit_charger_plugin_check_title">Punjač (priključen)</string>
+  <string name="cit_charger_plugout_check_title">Punjač (odspojen)</string>
+  <string name="cit_charger_second_ibat">Struja druge baterije</string>
   <string name="cit_charger_test_summary">"Tijekom testa punjača, umetnite punjač u utičnicu
 i okrenite utikač punjača"</string>
   <string name="cit_charger_test_tips_electric">Trenutni projekt treba testirati vrijednost struje punjenja veću od 1A</string>
@@ -223,10 +225,10 @@ i okrenite utikač punjača"</string>
   <string name="cit_charger_waiting_out">Odmah isključite punjač</string>
   <string name="cit_cust_img_version">Upitajte informacije o verziji CUST</string>
   <string name="cit_depth_camera_check_title">Dubinska kamera</string>
-  <string name="cit_diag_chaging_summary">Kopiraj datoteke zapisivača naplate na sdcard</string>
-  <string name="cit_diag_chaging_title">Pročitajte zapisnik naplate</string>
-  <string name="cit_diag_jank_summary">Kopiraj datoteke jank loggera na sdcard</string>
-  <string name="cit_diag_signal_summary">Kopiraj singal stabity logger datoteke na sdcard</string>
+  <string name="cit_diag_chaging_summary">Kopiraj datoteke zapisivača punjenja na SD karticu</string>
+  <string name="cit_diag_chaging_title">Pročitajte zapisnik punjenja</string>
+  <string name="cit_diag_jank_summary">Kopiraj datoteke jank loggera na SD karticu</string>
+  <string name="cit_diag_signal_summary">Kopiraj singal stabity logger datoteke na SD karticu</string>
   <string name="cit_diag_wait">Molimo pričekajte… Kopiranje datoteka</string>
   <string name="cit_dial_emergencycall">Biraj 112</string>
   <string name="cit_digital_hall_sensor_cali_summary">Održavajte uređaj zatvorenim radi kalibracije</string>
@@ -235,6 +237,7 @@ i okrenite utikač punjača"</string>
   <string name="cit_digital_hall_sensor_check_title">Digital Hall test</string>
   <string name="cit_display_check_summary">Provjerite je li potrebna BMP datoteka na SD kartici. Potvrdite da se boje dosljedno prikazuju preko cijelog zaslona. Uvjerite se da nema nepravilnih svijetlih točaka i tamnih mrlja.</string>
   <string name="cit_display_check_title">Zaslon</string>
+  <string name="cit_display_check_title_N8">Zaslon</string>
   <string name="cit_display_continue">Dodirnite zaslon za početak testiranja</string>
   <string name="cit_display_expand_screen_tips">Otklopite zaslon prije testiranja</string>
   <string name="cit_display_fold_screen_tips">Sklopite zaslon prije testiranja</string>
@@ -276,6 +279,8 @@ Prije testiranja morate umetnuti slušalice"</string>
   <string name="cit_front_camera_motor_cali_tips">Ne blokirajte kameru tijekom procesa kalibracije motora skočne kamere</string>
   <string name="cit_front_dual_camera_check_title">Prednja kamera Bokeh</string>
   <string name="cit_front_sub_camera_check_title">Prednja pomoćna kamera</string>
+  <string name="cit_front_sub_camera_check_title_fold">Prednja kamera podzaslona</string>
+  <string name="cit_front_ultra_camera_check_title">Prednja Ultra kamera</string>
   <string name="cit_get_signature_failed">Dobivanje potpisa NEUSPJEŠNO</string>
   <string name="cit_gps_check_summary">Odgovarajuće GPS informacije trebale bi biti prikazane ispod.</string>
   <string name="cit_gps_check_title">Testiranje GPS-a</string>
@@ -326,6 +331,7 @@ Prije testiranja morate umetnuti slušalice"</string>
   <string name="cit_leds_check_title">Svjetlo obavijesti (LED)</string>
   <string name="cit_light_sensor_check_summary">DAC vrijednost bi se trebala pojaviti u nastavku</string>
   <string name="cit_light_sensor_check_title">Senzor osvjetljenja</string>
+  <string name="cit_lpd_test">LPD test</string>
   <string name="cit_macro_camera_check_title">Macro kamera</string>
   <string name="cit_magnetic_info_hint">Molimo zarotirajte uređaj kao oblik 8</string>
   <string name="cit_magnetic_sensor_check_summary">Vrijednosti za X, Y, Z, koordinate bi se trebale pojaviti u nastavku</string>
@@ -353,6 +359,7 @@ Nemojte isključivati ​​zaslon tijekom testa"</string>
  Ultrazvučni senzor udaljenosti: simulirajte radnju javljanja uređaja
  Ako donje ispitno područje pokazuje vrijednost od 0,0 kada se približava, a vrijednost 5,0 pokazuje kada je daleko, test je uspješan, inače test nije uspio."</string>
   <string name="cit_proximity_sensor_cali_title">Test kalibracije senzora blizine</string>
+  <string name="cit_proximity_sensor_check_second_screen_title">Drugi senzor blizine</string>
   <string name="cit_proximity_sensor_check_summary">"Pokrijte senzor udaljenosti (nalazi se na vrhu telefona u blizini prijemnika) rukom, a zatim udaljite ruku. Vrijednost se treba povećati od 0,0 kada udaljite svoje ruke od uređaja.
 Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (npr. zaštitni zaslon ili rukavice)."</string>
   <string name="cit_proximity_sensor_check_title">Senzor blizine</string>
@@ -411,6 +418,7 @@ Kod kalibriranja, provjerite da ne postoji ništa između senzora i vaše ruke (
   <string name="cit_tool_asdiv_title">ASDIV POSTAVKA</string>
   <string name="cit_tool_bluetooth">Testni alati Bluetootha</string>
   <string name="cit_tool_bluetooth_br_tx_msg">Pokreni Bluetooth BR/EDR TX testiranje:</string>
+  <string name="cit_tool_bluetooth_dbam">Pokreni Bluetooth DBAM testiranje</string>
   <string name="cit_tool_bluetooth_dut">Testiranje Bluetooth načina rada</string>
   <string name="cit_tool_bluetooth_enhanced">Pokreni Bluetooth poboljšano testiranje</string>
   <string name="cit_tool_bluetooth_le_enhanced_run">POKRENI</string>
@@ -672,6 +680,7 @@ Drugi redak prikazuje naziv i broj verzije Default MBN i Carrier MBN koji su tre
   <string name="cit_touch_fw_mode">FW način rada</string>
   <string name="cit_touch_panel_nead_pencil_tip">Ponovo upotrijebite olovku za testiranje</string>
   <string name="cit_touch_panel_test_title">Senzor dodira</string>
+  <string name="cit_touch_panel_test_title_N8">Senzor dodira</string>
   <string name="cit_touch_thp_mode">THP način rada</string>
   <string name="cit_touch_work_mode_test_help">"Upute za rad
 dodirnite tipku za prebacivanje načina dodira na THP ili FW način"</string>

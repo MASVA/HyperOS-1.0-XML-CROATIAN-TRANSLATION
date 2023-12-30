@@ -2631,11 +2631,17 @@ Ako instalirate CA certifikat, vlasnik certifikata mogao bi pristupiti vašim po
   <string name="calls_sms_wfc_summary">Upućujte i primajte pozive putem Wi‑Fija</string>
   <string name="calls_title">Dopusti pozive</string>
   <string name="camera_double_tap_power_gesture_desc">Brzo otvaranje kamere bez otključavanja zaslona</string>
-  <string name="camera_double_tap_power_gesture_title">Pritisnite uključ. dvaput za kameru</string>
+  <string name="camera_double_tap_power_gesture_title">Pritisnite tipku uključ. dvaput za kameru</string>
   <string name="camera_flash_notification_title">Bljeskalica kamere</string>
   <string name="camera_front">Prednja %s</string>
   <string name="camera_gesture_desc">Otvaranje aplikacije kamere obrtanjem ručnog zgloba dvaput</string>
   <string name="camera_gesture_title">Dvostruko obrtanje za kameru</string>
+  <string name="camera_grip_firmware_need_update">Ažuriraj</string>
+  <string name="camera_grip_firmware_new_version">Ažurno</string>
+  <string name="camera_grip_firmware_title_text">Ažuriraj firmware</string>
+  <string name="camera_grip_firmware_update_faild">"Nije moguće ažurirati"</string>
+  <string name="camera_grip_firmware_update_ongoing">Ažuriranje…</string>
+  <string name="camera_grip_firmware_update_successful">Uspješno ažurirano</string>
   <string name="camera_key_action_app_title">Otvori aplikaciju</string>
   <string name="camera_key_action_category_title">"Ne mogu koristiti Kameru"</string>
   <string name="camera_key_action_none_title">Nema radnje</string>
@@ -9255,7 +9261,13 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="phone_language_summary"/>
   <string name="phone_title">Postavke telefona</string>
   <string name="photo_data">Fotografije i videozapisi</string>
-  <string name="photography_handle_title">Rukohvat kamere</string>
+  <string name="photography_handle_button_function_settings">Postavljanje tipke za držanje</string>
+  <string name="photography_handle_charge_protected">Automatsko isključivanje punjenja s držačem</string>
+  <string name="photography_handle_charge_protected_summary">"Kada vaš uređaj prepozna da koristite držač kamere, uređaj će se prestati puniti i zadržati bateriju na %1$s"</string>
+  <string name="photography_handle_launch_and_take_photo">Snimi fotografiju</string>
+  <string name="photography_handle_launch_camera">Otvori kameru</string>
+  <string name="photography_handle_long_press_camera_key_enter_camera">Pritisnite i držite okidač za izvođenje radnje</string>
+  <string name="photography_handle_title">Držač kamere</string>
   <string name="physical_keyboard_title">Fizička tipkovnica</string>
   <string name="pick_up_gesture_wakeup_title">Podignite uređaj da ga uključite</string>
   <string name="picker_text">Birač vremena</string>
@@ -9687,15 +9699,17 @@ istovremeno pritisnite tipku za uključivanje/isključivanje i tipku za glasnoć
   <string name="privacy_thumbnail_blur_progress_message">Samo trenutak…</string>
   <string name="privacy_thumbnail_blur_title">Zamućeni pregledi aplikacija</string>
   <string name="private_dns_broken">Nije moguće pristupiti privatnom DNS poslužitelju</string>
-  <string name="private_dns_help_message">&lt;annotation id="url"&gt;Saznajte više&lt;/annotation&gt; o značajkama privatnog DNS-a</string>
+  <string name="private_dns_help_message"><annotation id="url">Saznajte više</annotation> o značajkama privatnog DNS-a</string>
+  <string name="private_dns_host_name">Naziv hosta privatnog DNS davatelja</string>
   <string name="private_dns_mode_off">Isključeno</string>
   <string name="private_dns_mode_on">Uključeno</string>
   <string name="private_dns_mode_opportunistic">Automatski</string>
   <string name="private_dns_mode_provider">Naziv hosta davatelja usluge privatnog DNS-a</string>
-  <string name="private_dns_mode_provider_custom_name">Prilagođeno ime</string>
+  <string name="private_dns_mode_provider_custom_name">Prilagođeni naziv</string>
   <string name="private_dns_mode_provider_exposed_hostname">Može se otkriti</string>
   <string name="private_dns_mode_provider_failure">Povezivanje nije moguće</string>
   <string name="private_dns_mode_provider_hostname_hint">Unesite naziv hosta davatelja usluge DNS-a</string>
+  <string name="private_dns_title">Privatni DNS</string>
   <string name="private_gallery_need_to_unlock">Unesite zaporku</string>
   <string name="private_gallery_recording_intro_header">Iscrtajte uzorak otključavanja</string>
   <string name="private_gallery_reset_by_account">Za poništavanje zaporke, prijavite se na vaš Xiaomi račun</string>
