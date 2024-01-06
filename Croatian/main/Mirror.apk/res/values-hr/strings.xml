@@ -196,10 +196,10 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="mirror_have_been_opened">Home screen+ je uključen</string>
   <string name="mirror_to_float_window_mode">Prebaci se na plutajući prozor</string>
   <string name="mirror_to_full_screen_mode">Prebaci se na cijeli zaslon</string>
-  <string name="mirror_to_settings_connectivity_remote_pad_content">Usluge međusobnog povezivanja možete uključiti u Postavkama &gt; Međusobno povezivanje.</string>
-  <string name="mirror_to_settings_connectivity_remote_pad_title">Uključite usluge međusobnog povezivanja na tabletu</string>
-  <string name="mirror_to_settings_connectivity_remote_pc_content">Usluge međusobnog povezivanja možete uključiti u Postavkama &gt; Međusobno povezivanje.</string>
-  <string name="mirror_to_settings_connectivity_remote_pc_title">Uključite usluge međusobnog povezivanja na računalu</string>
+  <string name="mirror_to_settings_connectivity_remote_pad_content">Možete uključiti Xiaomi Interconnectivity na svom tabletu u Postavke > Međusobno povezivanje.</string>
+  <string name="mirror_to_settings_connectivity_remote_pad_title">Xiaomi Interconnectivity je isključen</string>
+  <string name="mirror_to_settings_connectivity_remote_pc_content">Možete uključiti Xiaomi Interconnectivity na svom računalu u Postavke > Međusobno povezivanje.</string>
+  <string name="mirror_to_settings_connectivity_remote_pc_title">Xiaomi Interconnectivity je isključen</string>
   <string name="mirror_to_settings_phone_content">Uključiti Home screen+ sada?</string>
   <string name="mirror_to_settings_remote_pad_content">Home screen+ možete uključiti u Postavkama &gt; Međusobno povezivanje.</string>
   <string name="mirror_to_settings_remote_pad_title">Uključite početni zaslon+ na tabletu</string>
@@ -320,7 +320,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="notification_channel_name_download">Prikaži napredak preuzimanja</string>
   <string name="notification_mirror">Druga osoba dijeli svoj zaslon. Pokušajte ponovno kasnije.</string>
   <string name="notification_state_cancel">Prekini vezu</string>
-  <string name="notification_state_content">"Ovaj uređaj povezan je s računalom korisnika %1$s. Sada možete dijeliti ulazne uređaje, datoteke i slike."</string>
+  <string name="notification_state_content">"Ovaj je uređaj povezan s računalom korisnika %1$s. Sada možete dijeliti datoteke i slike, kao i koristiti kontrole na različitim uređajima."</string>
   <string name="notification_state_title">Uspješno povezano</string>
   <string name="notify_clip_action_browser">Posjetite</string>
   <string name="notify_clip_action_call">Poziv</string>
@@ -349,7 +349,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="pad_pc_mirror_introduction_summary">Zrcaljenje zaslona računala na vašem tabletu</string>
   <string name="pad_pc_mirror_introduction_title">Zrcalni zaslon</string>
   <string name="pad_pc_share_introduction_summary">"Koristite miš i tipkovnicu svog računala s ovim tabletom"</string>
-  <string name="pad_pc_share_introduction_title">Ulazni uređaji</string>
+  <string name="pad_pc_share_introduction_title">Kontrole na različitim uređajima</string>
   <string name="pad_settings_bluetooth_enable_summary">Uključite Bluetooth da biste mogli pronaći uređaje u blizini. Uključiti sada?</string>
   <string name="pad_settings_bluetooth_enable_title">Uključite Bluetooth</string>
   <string name="pad_settings_click_toast_msg">Povežite se pomoću Mi Smart Huba na svom računalu</string>
@@ -562,8 +562,8 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="share_pc_folder_multi_error_dialog_ok">Shvaćam</string>
   <string name="share_pc_folder_multi_error_dialog_title">"Nije moguće prenijeti sve stavke"</string>
   <string name="share_stop_share_to_start_screen">Zaustavite emitiranje da biste mogli dijeliti svoj zaslon</string>
-  <string name="share_to_settings_phone_content">Želite li sada uključiti usluge međusobnog povezivanja?</string>
-  <string name="share_to_settings_title">Uključite usluge međusobnog povezivanja</string>
+  <string name="share_to_settings_phone_content">Želite li sada uključiti Xiaomi Interconnectivity?</string>
+  <string name="share_to_settings_title">Xiaomi Interconnectivity</string>
   <string name="sink_pc_click_again_to_finish_extent">Dodirnite ponovno za isključivanje proširenja zaslona</string>
   <string name="sink_pc_click_again_to_finish_mirror">Dodirnite ponovno za zaustavljanje zrcaljenja zaslona</string>
   <string name="size_byte">B</string>
@@ -573,7 +573,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="size_peta_byte">PB</string>
   <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
-  <string name="softap_connect_fail_message">"Nije moguće povezati se"</string>
+  <string name="softap_connect_fail_message">"Ne mogu se povezati"</string>
   <string name="softap_dialog_cancel">Odustani</string>
   <string name="softap_dialog_message">"Nema dostupnih Wi-Fi mreža u blizini. Želite li se umjesto toga spojiti na pristupnu točku?"</string>
   <string name="softap_dialog_ok">U redu</string>

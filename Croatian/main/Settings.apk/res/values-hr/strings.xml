@@ -5129,7 +5129,7 @@ Nemojte mijenjati ili preimenovati datoteke Sig. kopija."</string>
   <string name="font_size_medium">Veći</string>
   <string name="font_size_normal">Mali</string>
   <string name="font_size_preview">MIUI</string>
-  <string name="font_size_preview_text">Ovo je za sve one koji vole MIUI. by "MASVA"</string>
+  <string name="font_size_preview_text">Ovo je za sve one koji vole HyperOS, by "MASVA"</string>
   <string name="font_size_preview_text_body">"Čak i sa zelenim naočalama koje su im štitile oči Dorothy i njezini prijatelji isprva su bili zaslijepljeni sjajem prekrasnoga Grada. Ulicama su se nizale predivne kuće sve izgrađene od zelenog mramora i cijele optočene svjetlucavim smaragdima. Hodali su pločnikom od istog zelenog mramora, a na mjestima gdje su se kameni blokovi spajali nalazili su se redovi gusto postavljenih smaragda koji su svjetlucali na jarkom suncu. Prozori su bili od zelenog stakla, a čak je i nebo iznad Grada imalo zeleni odsjaj i sunčeve su zrake bile zelene boje. 
 
 Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeveni u zeleno i imali zelenkastu put. S čuđenjem su gledali Dorothy i njezinu neobičnu, šaroliku pratnju i sva su se djeca sakrila iza svojih majki kada su ugledala Lava, no nitko im se nije obratio. Mnoge su trgovine bile otvorene na ulicu i Dorothy je mogla vidjeti kako je u njima sve zeleno. Prodavali su se zeleni slatkiši i zelene kokice, kao i zelene cipele, zeleni šeširi i zelena odjeća svakojake vrste. Na jednom je mjestu jedan čovjek prodavao zelenu limunadu, a kad ju je koje dijete kupilo, Dorothy je mogla vidjeti kako je plaća zelenim novčićima. 
@@ -5143,7 +5143,7 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="font_size_summary">Smanjite ili povećajte tekst na zaslonu.</string>
   <string name="font_size_summary1">"Ako je tekst vašeg sustava i dalje premalen, pokušajte "</string>
   <string name="font_size_summary2">Lite način.</string>
-  <string name="footer_description_full_screen_intent">Omogućuje aplikaciji da prikazuje obavijesti koje zauzimaju cijeli zaslon kad je uređaj zaključan. Aplikacije na taj način mogu istaknuti alarme, dolazne pozive ili druge hitne obavijesti.</string>
+  <string name="footer_description_full_screen_intent">Omogućuje aplikaciji prikaz obavijesti koje zauzimaju cijeli zaslon kada je uređaj zaključan. Aplikacija može koristiti obavijesti preko cijelog zaslona za prikaz alarma, dolaznih poziva ili drugih hitnih obavijesti. Ova se postavka oslanja na dopuštenje za otvaranje novih prozora dok radi u pozadini i može se koristiti samo kada je to dopuštenje dodijeljeno.</string>
   <string name="footer_learn_more_content_description">Saznajte više o usluzi %1$s</string>
   <string name="for_diagnosis_usage_only">Ove informacije koristite samo za dijagnozu.</string>
   <string name="forbidden_network">(zabranjeno)</string>

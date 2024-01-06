@@ -45,6 +45,7 @@
   <string name="alarm_notify_snooze_label">%s odgođeno</string>
   <string name="alarm_permanent_alert">Zvonjenje</string>
   <string name="alarm_repeat">Ponovi</string>
+  <string name="alarm_repeat_self_define">Prilagodi</string>
   <string name="alarm_repeat_self_define_button">Prilagodi</string>
   <string name="alarm_ringtone_picker">Alarmi</string>
   <string name="alarm_set_new">Alarm će se uključiti za manje od %d minuta.</string>
@@ -366,9 +367,9 @@
   <string name="notification_permission_dialog_not_open">Ne sada</string>
   <string name="notification_permission_dialog_open">Postavke</string>
   <string name="notification_permission_dialog_title">Potrebna dopuštenja</string>
-  <string name="oneshot_alarm">Izbriši alarm nakon isklj.</string>
+  <string name="oneshot_alarm">Izbriši alarm nakon isključenja</string>
   <string name="open_keep_screen">Zaslon će ostati uključen</string>
-  <string name="open_notification_permission_remind">Dopusti obavijestima da bi mogle isključiti alarme</string>
+  <string name="open_notification_permission_remind">Dopustite obavijestima da mogu isključiti alarme</string>
   <string name="open_sleep_record">Uključi</string>
   <string name="other_settings">Dodatne postavke</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
@@ -381,6 +382,7 @@
   <string name="privacy_policy_title">Pravila o privatnosti</string>
   <string name="privacy_settings_title">Privatnost</string>
   <string name="query_privacy_policy">Pogledajte Pravila o privatnosti</string>
+  <string name="read_device_internal_storage">Pristup pohrani</string>
   <string name="read_external_storage_permission_desc">Za postavljanje prilagođenih melodija zvona</string>
   <string name="read_internal_storage">Pristup pohrani</string>
   <string name="remark_hint">Unesite oznaku</string>

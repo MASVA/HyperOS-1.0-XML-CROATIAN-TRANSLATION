@@ -296,11 +296,14 @@ Vaši uređaji?"</string>
   <string name="circulate_open_in_tv">Otvori na TV-u</string>
   <string name="circulate_pad_app_continuity">"Korištenje %1$s telefona"</string>
   <string name="circulate_pad_card_being_used_camera">"Korištenje kamere telefona na tabletu"</string>
+  <string name="circulate_pad_card_being_used_cellular">Tablet koristi mobilne podatke</string>
+  <string name="circulate_pad_card_being_used_cellular_wifi">Wi-Fi signal podijeljen s tabletom</string>
+  <string name="circulate_pad_card_being_used_cellular_wifi_china">Wi-Fi signal podijeljen s tabletom</string>
   <string name="circulate_pad_card_use_camera">"Koristite kameru tableta"</string>
-  <string name="circulate_pad_card_use_desktop">Podijelite Home screen s tabletom</string>
+  <string name="circulate_pad_card_use_desktop">Podijelite početni zaslon s tabletom</string>
   <string name="circulate_pad_card_using_camera">"Korištenje kamere tableta"</string>
   <string name="circulate_pad_card_using_desktop">Prikazivanje početnog zaslona na tabletu…</string>
-  <string name="circulate_pc_card_use_desktop">Podijelite Home screen s računalom</string>
+  <string name="circulate_pc_card_use_desktop">Podijelite početni zaslon s računalom</string>
   <string name="circulate_pc_card_use_km">Dijelite miš s računalom</string>
   <string name="circulate_pc_card_using_camera">Računalo koristi kameru uređaja</string>
   <string name="circulate_pc_card_using_desktop">Prikazivanje početnog zaslona na računalu…</string>
@@ -308,9 +311,13 @@ Vaši uređaji?"</string>
   <string name="circulate_phone_app_continuity">Korištenje %1$s na tabletu</string>
   <string name="circulate_phone_card_being_used_camera">"Korištenje kamere tableta na telefonu"</string>
   <string name="circulate_phone_card_use_camera">"Upotrijebi kameru telefona"</string>
-  <string name="circulate_phone_card_use_desktop">"Pogledajte Home screen telefona"</string>
-  <string name="circulate_phone_card_using_camera">"Korištenje kamere telefona..."</string>
-  <string name="circulate_phone_card_using_desktop">"Prikaz početnog zaslona telefona..."</string>
+  <string name="circulate_phone_card_use_cellular">"Koristi mobilne podatke telefona"</string>
+  <string name="circulate_phone_card_use_desktop">"Pogledajte početni zaslon telefona"</string>
+  <string name="circulate_phone_card_using_camera">"Korištenje kamere telefona…"</string>
+  <string name="circulate_phone_card_using_cellular">"Korištenje mobilnih podataka telefona"</string>
+  <string name="circulate_phone_card_using_cellular_wifi">"Korištenje Wi-Fi signala telefona"</string>
+  <string name="circulate_phone_card_using_cellular_wifi_china">"Korištenje Wi-Fi signala telefona"</string>
+  <string name="circulate_phone_card_using_desktop">"Prikaz početnog zaslona telefona…"</string>
   <string name="circulate_public_device_title_format">"%2$s korisnika %1$s"</string>
   <string name="circulate_ringfind_button_hint_play">Reproduciraj zvuk</string>
   <string name="circulate_ringfind_button_hint_stop">Zaustavi reprodukciju zvuka</string>
@@ -319,18 +326,18 @@ Vaši uređaji?"</string>
   <string name="circulate_ringfind_error_hint_stop">"Nije moguće zaustaviti reprodukciju zvuka. Pokušajte ponovno."</string>
   <string name="circulate_ringfind_title">Reproduciraj zvuk</string>
   <string name="circulate_ringfind_title_stop">Zaustavi reprodukciju zvuka</string>
-  <string name="circulate_sport_device_find_band">Pronađi ovaj bend</string>
+  <string name="circulate_sport_device_find_band">Pronađi ovaj band</string>
   <string name="circulate_sport_device_find_start">Traženje ovog uređaja…</string>
   <string name="circulate_sport_device_find_start_failed">"Nisam mogao pronaći ovaj uređaj. Pokušajte ponovno."</string>
   <string name="circulate_sport_device_find_stop">Zaustavi</string>
-  <string name="circulate_sport_device_find_stop_failed">"Nisam mogao zaustaviti traženje ovog uređaja. Pokušajte ponovno."</string>
+  <string name="circulate_sport_device_find_stop_failed">"Ne mogu zaustaviti traženje ovog uređaja. Pokušajte ponovno."</string>
   <string name="circulate_sport_device_find_watch">Pronađite ovaj sat</string>
-  <string name="circulate_taking_photo">"Korištenje kamere telefona..."</string>
+  <string name="circulate_taking_photo">"Korištenje kamere telefona…"</string>
   <string name="circulate_title">Mi Smart Hub</string>
   <string name="circulate_to_mijia">Pametni kućni uređaji</string>
   <string name="circulate_tv_app_opening">Otvaranje na TV-u…</string>
-  <string name="circulate_tv_capturing">Snimanje zaslona...</string>
-  <string name="circulate_tv_is_authing_tip">Provjera uređaja sada. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="circulate_tv_capturing">Snimanje zaslona…</string>
+  <string name="circulate_tv_is_authing_tip">Provjera uređaja. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="circulate_tv_name">Xiaomi TV</string>
   <string name="circulate_tv_power_alter_text">"Postavili ste TV da se isključi ili isključi zaslon. Daljinski upravljači i TV će nestati odavde nakon što se TV isključi."</string>
   <string name="circulate_tv_power_alter_title">Pažnja</string>
@@ -381,14 +388,15 @@ Vaši uređaji?"</string>
   <string name="common_google_play_services_updating_text">%1$s neće funkcionirati bez Google Play usluga koje se trenutačno ažuriraju.</string>
   <string name="common_google_play_services_updating_title">Ažuriranje Google Play usluga u tijeku</string>
   <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija usluga Google Play. Uskoro će se ažurirati.</string>
-  <string name="config_wifi_label_china">Koniguruaj MiPaiPai Wi-Fi</string>
-  <string name="config_wifi_label_global">Koniguruaj MiPaiPai Wi-Fi</string>
+  <string name="config_wifi_label_china">Konfiguriraj MiPaiPai Wi-Fi</string>
+  <string name="config_wifi_label_global">Konfiguriraj MiPaiPai Wi-Fi</string>
   <string name="connect_device_fail">"Povezivanje s uređajem nije uspjelo"</string>
   <string name="connect_setting_privacy_title">Privatnost</string>
   <string name="connect_settings_application_ecological">Kombinirajte aplikacije</string>
   <string name="connect_settings_base">Međupovezanost</string>
   <string name="connect_settings_category_connection_car">Značajke automobila</string>
   <string name="connect_settings_category_personal_device">Osobni uređaji</string>
+  <string name="connect_settings_communication_sharing">Bežično povezivanje</string>
   <string name="connect_settings_connect_permission">Međupovezanost i dopuštenja</string>
   <string name="connect_settings_connect_privacy">Privatnost</string>
   <string name="connect_settings_connection_service">Međupovezanost Xiaomi</string>
@@ -405,7 +413,7 @@ Vaši uređaji?"</string>
   <string name="connect_settings_summary"><Data>Automatski otkrijte obližnje uređaje koji su prijavljeni na vaš Xiaomi račun i povežite ih međusobno za obavljanje raznih zadataka na više uređaja. &lt;a href=%1$s>Saznajte više&lt;/a></Data></string>
   <string name="connect_settings_summary_connection_service">Dopustite svojim uređajima da međusobno komuniciraju bežično</string>
   <string name="connect_settings_summary_corp_phone">Odgovarajte na pozive na obližnjim tabletima ili računalima prijavljenima na svoj Xiaomi račun</string>
-  <string name="connect_settings_summary_hyper_mind">Automatski prilagođava obližnje uređaje vašim potrebama na temelju vaših obrazaca korištenja. Ovu značajku pokreće Mi AI.</string>
+  <string name="connect_settings_summary_hyper_mind">Ova značajka uči vaše uzorke i koristi ih za kontrolu vaših pametnih kućnih uređaja. Pokreće ga Mi AI.</string>
   <string name="connect_settings_summary_relay_app">Nastavak zadataka u istoj aplikaciji na drugom uređaju</string>
   <string name="connect_settings_summary_share_clipboard">Zalijepite tekst i slike na druge uređaje unutar %d minuta nakon kopiranja na ovaj uređaj</string>
   <string name="connect_settings_summary_share_launcher_pad">Prikaz i interakcija s početnim zaslonima telefona u blizini prijavljeni na vaš Xiaomi račun</string>
@@ -673,7 +681,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
 učeći kako ih koristiti"</string>
   <string name="hm_habit_info_empty_describe">"Nastavite koristiti svoje uređaje
 tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
-  <string name="hm_habit_info_list_empty">Uzorci učenja...</string>
+  <string name="hm_habit_info_list_empty">Uzorci učenja…</string>
   <string name="hm_help">Pomoć</string>
   <string name="hm_knew">Razumijem</string>
   <string name="hm_pause_habit">Pauziraj</string>
@@ -683,7 +691,7 @@ tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
   <string name="hyper_mind">HyperMind</string>
   <string name="hyper_mind_close_warning">Pažnja</string>
   <string name="hyper_mind_close_warning_checkbox">"Ne prikazuj više"</string>
-  <string name="hyper_mind_close_warning_content">HyperMind će prestati prikupljati podatke i učiti vaše obrasce korištenja nakon što ga isključite. Ako trebate izbrisati podatke koji su već prikupljeni, &lt;a href=%1$s>dodirnite ovdje&lt;/a>.</string>
+  <string name="hyper_mind_close_warning_content">Ako isključite ovu značajku, HyperMind više neće moći učiti niti koristiti vaše obrasce. Ako želite povući svoj pristanak na naše prikupljanje vaših podataka, dodirnite &lt;a href=%1$s>ovdje&lt;/a>.</string>
   <string name="hyper_mind_close_warning_ok">Razumijem</string>
   <string name="hyper_mind_xiaomi">Xiaomi</string>
   <string name="invisible_mode_dialog_content">"Ne možete koristiti emitiranje kada ste anonimni. Prvo isključite anonimni način."</string>
