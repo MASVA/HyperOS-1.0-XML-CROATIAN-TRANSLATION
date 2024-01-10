@@ -1373,6 +1373,7 @@ izgledaju veće na fotografijama"</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
   <string name="measure_whitebalance_button">Izmjeri</string>
   <string name="measure_whitebalance_text">"Postavite list bijelog papira 6 cm udaljen od leće stražnjeg kamere i snimite fotografiju."</string>
+  <string name="message_snap_double_confirm">Dugi pritisak na tipku za glasnoću sada pokreće NFC. Zamijeniti ovu značajku?</string>
   <string name="metering_parameter_description_average">Prosječno mjerenje: uzima u obzir sva područja vaše slike i najbolje funkcionira s ravnomjerno osvijetljenim scenama.</string>
   <string name="metering_parameter_description_central">Središnje mjerenje: Fokusira se prvenstveno na središte kadra, uzimajući u obzir prosjek kadra. Najbolje za snimanje objekata u središtu kadra.</string>
   <string name="metering_parameter_description_spot">Mjerenje u točki: Fokusira se na jednu točku i podržava odvajanje točaka mjerenja i fokusa. Prikladno za snimanje silueta i drugih scena s visokim kontrastom.</string>
@@ -1570,6 +1571,11 @@ izgledaju veće na fotografijama"</string>
   <string name="mimoji_suit_style_accessibility">Odijelo: %1$s</string>
   <string name="mimoji_tab_cartoon">Crtić</string>
   <string name="mimoji_tab_human">Osoba</string>
+  <string name="mimoji_trousers_style_accessibility">Dolje: %1$s</string>
+  <string name="mimoji_upper_style_accessibility">Gornje: %1$s</string>
+  <string name="mimoji_yellow_dog_accessibility">Snimak glave psa</string>
+  <string name="mimoji_yellowhat_accessibility">Snimak glave žene sa žutim šeširom</string>
+  <string name="mimoji_yellowhat_human_accessibility">Snimka cijelog tijela žene sa žutim šeširom</string>
   <string name="mimoji_thermal_green_blue_accessibility">Termalno zelena i plava</string>
   <string name="mimoji_thermal_purple_red_accessibility">Termalno ljubičasta i crvena</string>
   <string name="mimoji_tips">Dodirnite za snimanje fotografije. Pritisnite i držite za snimanje videozapisa.</string>

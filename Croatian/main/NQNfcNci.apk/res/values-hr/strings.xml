@@ -221,6 +221,8 @@
   <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prelazak na odabir dana</string>
   <string name="mtrl_picker_toggle_to_text_input_mode">Prebacite se na način unosa teksta</string>
   <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prelazak na odabir godine</string>
+  <string name="mtrl_timepicker_cancel">Odustani</string>
+  <string name="mtrl_timepicker_confirm">U redu</string>
   <string name="nfcUserLabel">NFC</string>
   <string name="nfc_blocking_alert_message">Dodirnite da biste saznali kako popraviti.</string>
   <string name="nfc_blocking_alert_title">NFC je možda blokiran</string>

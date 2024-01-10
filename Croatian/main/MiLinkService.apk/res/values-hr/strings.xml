@@ -388,8 +388,9 @@ Vaši uređaji?"</string>
   <string name="common_google_play_services_updating_text">%1$s neće funkcionirati bez Google Play usluga koje se trenutačno ažuriraju.</string>
   <string name="common_google_play_services_updating_title">Ažuriranje Google Play usluga u tijeku</string>
   <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija usluga Google Play. Uskoro će se ažurirati.</string>
-  <string name="config_wifi_label_china">Konfiguriraj MiPaiPai Wi-Fi</string>
-  <string name="config_wifi_label_global">Konfiguriraj MiPaiPai Wi-Fi</string>
+  <string name="common_open_on_phone">Otvori na telefonu</string>
+  <string name="common_signin_button_text">Prijavite se</string>
+ <string name="common_signin_button_text_long">Prijavite se s Googleom</string>
   <string name="connect_device_fail">"Povezivanje s uređajem nije uspjelo"</string>
   <string name="connect_setting_privacy_title">Privatnost</string>
   <string name="connect_settings_application_ecological">Kombinirajte aplikacije</string>

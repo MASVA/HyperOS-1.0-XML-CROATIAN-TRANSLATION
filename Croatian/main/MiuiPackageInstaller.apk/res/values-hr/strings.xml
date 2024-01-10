@@ -42,6 +42,7 @@
 	<string name="after_install_to_delete">Izbriši instalacijske pakete nakon instalacije</string>
 	<string name="aleady_this_install">Dopuštena jednokratna instalacija</string>
 	<string name="aleady_understand_the_app_is_hight_risk">Imajte na umu da ova aplikacija može predstavljati sigurnosni rizik.</string>
+	<string name="already_understand_the_risks_market_unknown">"Razumijem da ovaj instalacijski paket nije testiran na sigurnosne probleme"</string>
 	<string name="already_understood_bundle_app">Razumijem rizike povezanih aplikacija</string>
 	<string name="allow_current_install">Dopusti jednom</string>
 	<string name="allowed_this_time">Dopusti jednom</string>

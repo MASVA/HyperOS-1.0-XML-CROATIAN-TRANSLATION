@@ -539,6 +539,7 @@ Kliknite Nastavi za ponovno otvaranje aplikacije i nastavak prijenosa podataka i
    <string name="mtrl_picker_toggle_to_day_selection">Dodirnite za prijelaz na odabir dana</string>
    <string name="mtrl_picker_toggle_to_text_input_mode">Prijelaz na način unosa teksta</string>
    <string name="mtrl_picker_toggle_to_year_selection">Dodirnite za prijelaz na odabir godine</string>
+   <string name="mtrl_timepicker_cancel">Odustani</string>
    <string name="mtrl_timepicker_confirm">U redu</string>
    <string name="mucus_creamy">Kremasto</string>
    <string name="mucus_dry">Suho</string>

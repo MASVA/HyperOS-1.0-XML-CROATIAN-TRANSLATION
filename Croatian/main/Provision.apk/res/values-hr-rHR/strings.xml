@@ -53,6 +53,8 @@
   <string name="ai_button_title">O tipki AI</string>
   <string name="album_introduction">Ovu aplikaciju možete koristiti za upravljanje, uređivanje i uljepšavanje fotografija i videozapisa.</string>
   <string name="app_name">Odredbe</string>
+  <string name="application_extension_service">Usluge proširenja aplikacije</string>
+  <string name="application_extension_service_introduction">Usluge proširenja aplikacije pružit će vam značajke prijave i provjere. Za pružanje osnovnih usluga ova aplikacija potrebna su sljedeća dopuštenja:</string>
   <string name="application_package_introduction">Alat za instalaciju paketa koristi se za instaliranje aplikacija trećih strana, uključujući usluge skeniranja prije instalacije i preporuke aplikacija nakon instalacije.</string>
   <string name="application_permissions">Dopuštenja aplikacije</string>
   <string name="aquire_device_info">Pristup informacijama o uređaju</string>
@@ -441,6 +443,7 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="permission_contact">Pristup kontaktima</string>
   <string name="permission_contact_describe">Pristup kontaktima</string>
   <string name="permission_contact_describe_HyperOSDaemon_summary">Za provjeru vašeg identiteta.</string>
+  <string name="permission_contact_describe_MIUIDaemon_summary">Za provjeru vašeg identiteta</string>
   <string name="permission_contact_describe_bluetooth_summary">Za omogućavanje pristupa kontaktima drugim kompatibilnim uređajima koje povezujete s ovim uređajem. To će se dogoditi samo kada uključite Bluetooth ili uredite svoje kontakte dok je Bluetooth uključen.</string>
   <string name="permission_contact_describe_desktop_summary">Za korištenje značajke kontakta za hitne slučajeve na početnom zaslonu u Lite načinu rada i prikaz obavijesti o razgovorima</string>
   <string name="permission_contact_describe_message_summary">Za prikaz odgovarajućih kontaktnih podataka SMS -a i MMS -a.</string>
@@ -475,6 +478,7 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="permission_make_a_call_fast_application_summary">Za omogućavanje brzim aplikacijama upućivanje poziva;</string>
   <string name="permission_media_storage_summary">Za provjeru kako aplikacije koriste dopuštenja povezana s privatnošću dok pristupaju datotekama</string>
   <string name="permission_message_introduction">Za slanje poruka blokiranim kontaktima</string>
+  <string name="permission_not_agree_service_not_working">"Ako se ne slažete s gore navedenim potrebnim dopuštenjima, nećete moći koristiti ovu uslugu."</string>
   <string name="permission_number">Pristup broju telefona</string>
   <string name="permission_number_introduction">Za uspostavljanje Bluetooth veze sa sustavima automobila i Bluetooth slušalicama</string>
   <string name="permission_phone_imei_device">Za pristup IMEI radi prepoznavanja uređaja</string>
@@ -523,6 +527,7 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="permission_recording_introduction">Za snimanje zvuka tijekom snimanja videozapisa</string>
   <string name="permission_screen_shoot_introduction">Za pristup i spremanje snimaka zaslona</string>
   <string name="permission_send_message">Slanje SMS-a</string>
+  <string name="permission_sms_verification_code_login">Za pružanje SMS potvrde za brzu prijavu</string>
   <string name="permission_uniquely_identifiable_information">Pristup jedinstvenim identifikatorima ovog uređaja</string>
   <string name="permission_uniquely_identifiable_information_summary">Pristup MAC adresi i OAID-u uređaja za otkrivanje, povezivanje i komunikaciju s drugim uređajima</string>
   <string name="permission_use_bluetooth">Koristiti Bluetooth</string>
@@ -568,6 +573,7 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="provision_skip_underline">Preskoči</string>
   <string name="qualcomm_introduction">com.qualcomm.qti.workloadclassifier je usluga koja upravlja procesima sustava.</string>
   <string name="read_application_info">Pristup informacijama o aplikaciji</string>
+  <string name="read_sms_and_mms">Pristup SMS-u i MMS-u</string>
   <string name="recommend_font">MiSans</string>
   <string name="recommended_font_mark">Preporučeno</string>
   <string name="recorder_introduction">Možete koristiti ovu aplikaciju za snimanje zvuka i pohranu snimki na Xiaomi Cloud.</string>
@@ -628,6 +634,7 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="service_name_security">Sigurnost</string>
   <string name="service_name_service_framework">Mi Services Framework</string>
   <string name="service_name_systemdesktop">Dodatak za uslugu početnog zaslona</string>
+  <string name="service_mi_account">Xiaomi račun</string>
   <string name="service_policy">&lt;Data&gt;Pročitajte i prihvatite naše &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
   <string name="service_policy_adjust_content">Xunlei Pravila o privatnosti</string>
   <string name="service_policy_download">&lt;Data&gt;Pročitajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Xunlei Pravila o privatnosti&amp;lt;/a &amp;gt; i &amp;lt;a href=%1$s&amp;gt;Xunlei Network Services User Agreement&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
