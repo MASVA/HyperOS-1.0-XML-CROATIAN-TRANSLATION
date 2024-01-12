@@ -4077,6 +4077,11 @@ Ako se problem ponovi, možda biste trebali deinstalirati tu aplikaciju da biste
   <string name="display_label">Zaslon</string>
   <string name="display_order_text">Poredati prema:</string>
   <string name="display_preview_label">Pregled:</string>
+  <string name="display_notification_icon_0">Ništa</string>
+  <string name="display_notification_icon_1">%d ikona</string>
+  <string name="display_notification_icon_3">%d ikona</string>
+  <string name="display_notification_icon_5">%d ikona</string>
+  <string name="display_notification_icon_7">%d ikona</string>
   <string name="display_prompt_confirm">Razumijem</string>
   <string name="display_settings">Zaslon</string>
   <string name="display_settings_new">Prikaz &amp; svjetlina</string>

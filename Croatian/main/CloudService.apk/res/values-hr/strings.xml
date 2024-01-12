@@ -44,6 +44,7 @@
     <string name="alert_sync_merge_dialog_confirm">Uključi</string>
     <string name="app_name">Xiaomi Cloud</string>
     <string name="bad_authentication">Pogrešan račun ili zaporka</string>
+	  <string name="browser_sync_settings_preference">Automatski sinkroniziraj</string>
     <string name="btn_return">Natrag</string>
     <string name="btn_revoke_permission">Povlačenje suglasnosti</string>
     <string name="button_agree">Prihvaćam</string>

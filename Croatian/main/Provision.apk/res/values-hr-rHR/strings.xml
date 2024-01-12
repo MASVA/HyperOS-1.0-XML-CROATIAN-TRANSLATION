@@ -27,6 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
+  <string name="access_calendar">Pristup kalendaru</string>
   <string name="access_non_personal_data">Ako povučete suglasnost za pristup i korištenje neosobnih podataka sa svog uređaja, usluge Wallpaper Carousel bit će deaktivirane, a svi prikupljeni podaci izbrisani u roku određenom važećim zakonima i propisima.</string>
   <string name="accessibility_enabled">Pristupačnost je omogućena.</string>
   <string name="actionbar_button_up_description">Natrag</string>
@@ -67,6 +68,7 @@
   <string name="boot_video_replay">Reproduciraj ponovno</string>
   <string name="boot_video_skip">Preskoči</string>
   <string name="calculator_introduction">Ovu aplikaciju možete koristiti za izračunavanje, pretvaranje jedinica i valuta i procjenu otplate hipoteke.</string>
+  <string name="calendar_storage">Spremanje kalendara</string>
   <string name="camera_application_introduction">Ovu aplikaciju možete koristiti za snimanje fotografija i videozapisa.</string>
   <string name="camera_introduction">Kameru možete koristiti za snimanje fotografija i videozapisa.</string>
   <string name="carousel_cookies_content">&lt;Data&gt;Kada dodirnete slike i priče u Wallpaper Carouselu, njihove pune verzije otvorit će se u vašem pregledniku. Naš davatelj sadržaja treće strane od povjerenja tada može preporučiti dodatni sadržaj i oglase koji su prilago&amp;#273;eni vašim interesima. Ako pristanete aktivirati ovu značajku, oni će postaviti kolačiće u vaš preglednik, kao što je opisano u ovome &amp;lt;a href=\"%1$s\"&amp;gt;Cookie Policy&amp;lt;/a&amp;gt;. If you decline cookies, Wallpaper Carousel will still work but its content and recommendations might stop being relevant to you. You can always change your preferences in Settings.&lt;/Data&gt;</string>
@@ -111,6 +113,7 @@
   <string name="diagnose_report">Šaljite dijagnostičke podatke da biste locirali i analizirali probleme sustava i poboljšali korisničko iskustvo. Takvi podaci mogu uključivati osobne podatke (npr. IP, lokaciju itd.)</string>
   <string name="disageement_abnormal_download">"Ako odlučite ne dati ova dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu uslugu."</string>
   <string name="disagree">Odustani</string>
+  <string name="disagree_unable_serve">"Ako odlučite ne dati ova dopuštenja, nećete moći koristiti ovu uslugu."</string>
   <string name="disagreement_abnormal_running">"Ako odlučite ne dati ova dopuštenja ili dijeliti i slati vaše osobne podatke, nećete moći koristiti ovu aplikaciju. Možete odlučiti da nećete koristiti ovu aplikaciju ili ograničiti dopuštenja u postavkama u takvim slučajevima."</string>
   <string name="disagreement_abnormal_running_fast_pairing">"Ako odlučite ne dati ova dopuštenja, nećete moći koristiti ovu aplikaciju. U takvim ćete slučajevima moći ograničiti dopuštenja u postavkama."</string>
   <string name="disagreement_application_not_working_properly">"Ako odlučite ne dati ova dopuštenja, nećete moći koristiti ovu aplikaciju."</string>
@@ -563,9 +566,10 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="privacy_provision_summary">Zaštita privatnosti obveza je koja stoji iza dizajna naših proizvoda</string>
   <string name="privacy_provision_text">Predani smo poštivanju i zaštiti vaše privatnosti. Dajući prioritet istraživanju i razvoju na području informacijske sigurnosti, Xiaomi neprestano radi na poboljšanju metoda, praksi i tehničkih rješenja koja štite vaše podatke. Također dijelimo naša najnovija dostignuća s našim partnerima kako bismo osigurali vašu privatnost na svim poljima.</string>
   <string name="privacy_provision_title">Privatnost</string>
-  <string name="privacy_refuse">"Ne slažem se"</string>
+  <string name="privacy_refuse">"Ne prihvaćam"</string>
   <string name="privacy_title">Uvjeti &amp; Pravila o privatnosti</string>
   <string name="protect_persoanl_info_statement">Zaštititi ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima o privatnosti.</string>
+  <string name="provide_date_management_service">Ova vam usluga omogućuje provjeru datuma i upravljanje događajima.</string>
   <string name="provision_back">Natrag</string>
   <string name="provision_inputmethod_policy_description">&lt;Data&gt;Pogledajte &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt; vaše odabrane tipkovnice.&lt;/Data&gt;</string>
   <string name="provision_inputmethod_policy_description1">Pravila o privatnosti</string>
@@ -588,6 +592,7 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="require_network_and_authority_statement">Da bi mogla normalno raditi, ova usluga mora se povezati s internetom i zahtijeva sljedeća dopuštenja:</string>
   <string name="require_network_authority_statement">Da biste nam omogućili da vam pružimo osnovne usluge, morate se povezati na internet i odobriti sljedeća dopuštenja kako bismo mogli prikupiti vaše osobne podatke:</string>
   <string name="require_network_authority_statement_dual">Da bi mogla normalno raditi, ova usluga mora se povezati s internetom i zahtijeva sljedeća dopuštenja:</string>
+  <string name="require_statement">Za pružanje osnovnih usluga potrebna su nam sljedeća dopuštenja:</string>
   <string name="safe_open_service">Sigurne otvorene usluge</string>
   <string name="safe_open_service_introduction">Sigurne otvorene usluge pomažu programerima i pružaju sigurnosne mogućnosti na razini sustava za zaštitu korisnika i njihove privatnosti.</string>
   <string name="saturday">Subota</string>
@@ -750,6 +755,7 @@ Prije korištenja ove značajke morate prihvatiti Pravila o privatnosti Mint Key
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
+  <string name="used_date_viewing">Za provjeru datuma</string>
   <string name="user_agreement">Korisnički ugovor</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>

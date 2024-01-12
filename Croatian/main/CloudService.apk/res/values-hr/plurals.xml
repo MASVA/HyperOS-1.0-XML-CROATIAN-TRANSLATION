@@ -172,9 +172,13 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
     </plurals>
+	<plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">"Sinkronizacija nije uključena za %s stavki"</item>
+        <item quantity="one">"Sinkronizacija nije uključena za %s stavku"</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s usluga će se sinkronizirati s Mi Cloudom</item>
-        <item quantity="one">%s usluga će se sinkronizirati s Mi Cloudom</item>
+        <item quantity="other">%s usluga će se sinkronizirati s Xiaomi Cloudom</item>
+        <item quantity="one">%s usluga će se sinkronizirati s Xiaomi Cloudom</item>
     </plurals>
     <plurals name="select_no_more_than">
         <item quantity="other">"Ne možete odabrati više od %d stavki"</item>

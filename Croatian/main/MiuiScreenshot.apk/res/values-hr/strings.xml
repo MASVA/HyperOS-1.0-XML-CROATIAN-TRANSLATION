@@ -56,7 +56,7 @@
   <string name="cta_agree_desc">Dopustite ovoj aplikaciji da se poveže s internetom i dajte gore navedena obvezna dopuštenja.</string>
   <string name="cta_btn_agree">Prihvaćam</string>
   <string name="cta_btn_disagree">"Ne prihvaćam"</string>
-  <string name="cta_main_purpose">Dobro došli u Uređivač snimki zaslona! Ovu aplikaciju možete koristiti za obrezivanje i uređivanje snimaka zaslona.</string>
+  <string name="cta_main_purpose">Dobro došli u uređivač snimaka zaslona! Ovu aplikaciju možete koristiti za obrezivanje i uređivanje snimaka zaslona. Ova aplikacija mora se povezati s internetom i pristupiti audio i video datotekama na vašem uređaju kako bi mogla pružiti potrebne usluge.</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Za spremanje snimaka zaslona</string>
   <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
   <string name="default_device_name">Nepoznati uređaj</string>
@@ -258,6 +258,7 @@ snimke zaslona"</string>
   <string name="screenshot_long_screenshot">Pomicanje</string>
   <string name="screenshot_save">Spremi</string>
   <string name="screenshot_send">Pošalji</string>
+  <string name="screenshot_succeed">Uspješno napravljena snimka zaslona</string>
   <string name="screenshot_thumbnail">Minijature snimki zaslona</string>
   <string name="scroll_annotation">Pomičite se i komentirajte</string>
   <string name="scroll_annotation_btn_quit">Izlaz iz bilješki</string>
