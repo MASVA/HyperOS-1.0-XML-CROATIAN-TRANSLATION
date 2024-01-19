@@ -353,8 +353,6 @@ Prebacite prekidač za zaustavljanje sinkronizacije."</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_nf_info">Provjerite informacije o vijestima</string>
   <string name="check_nf_info_desc">Dugo pritisnite stavku za prikaz informacija</string>
-  <string name="check_nf_info">Provjerite informacije o vijestima</string>
-  <string name="check_nf_info_desc">Dugo pritisnite stavku za prikaz informacija</string>
   <string name="choose_to_signin">Da</string>
   <string name="choose_to_signup">Ne. Napraviti ću jedan</string>
   <string name="choosertitle_sharevia">Dijeli putem</string>
