@@ -878,6 +878,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
+  <string name="to_view_alarm_content">Dodirnite za prikaz</string>
   <string name="toast_cancel_to_insert_image">"Ne mogu dodati sliku."</string>
   <string name="toast_excerpt_end">Isječak uspješno izrađen</string>
   <string name="toast_excerpt_no_content">Ovdje nema isječaka</string>

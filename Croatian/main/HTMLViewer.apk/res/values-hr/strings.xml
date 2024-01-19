@@ -143,6 +143,8 @@ idite na %s"</string>
     <string name="saturday_short">Sub</string>
     <string name="saturday_shortest">S</string>
     <string name="search_menu_title">Traži</string>
+	 <string name="security_for_pad">Sigurnost</string>
+    <string name="security_for_phone">Sigurnost</string>
     <string name="send">Pošalji</string>
     <string name="settings_ad_loading">Samo trenutak…</string>
     <string name="settings_ad_loading_unavailable">"Ne nogu učitati."</string>

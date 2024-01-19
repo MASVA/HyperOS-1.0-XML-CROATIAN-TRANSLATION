@@ -510,6 +510,7 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="toast_enter_silent_mode">Snimanje. Bešumno je uključeno.</string>
   <string name="toast_exit_silent_mode">Snimanje je završeno. Bešumno je isključeno.</string>
   <string name="toast_max_record_time">%1$s može snimiti za oko %2$s</string>
+  <string name="toast_stop">Snimanje je završeno</string>
   <string name="toast_uninstall_fileexplorer">"Aplikacija Datoteke nije instalirana"</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>

@@ -108,7 +108,7 @@
   <string name="HIPS_Perm_process_outgoing_calls">Pristup aplikaciji Telefon</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">nadgledati dolazne pozive</string>
   <string name="HIPS_Perm_read_Calendar">Pristup kalendaru</string>
-  <string name="HIPS_Perm_read_Calendar_Desc">Pogledajte događaje dodane u kalendar</string>
+  <string name="HIPS_Perm_read_Calendar_Desc">Prikaz događaja dodanih u kalendar</string>
   <string name="HIPS_Perm_read_clipboard">Pristup stavkama u međuspremniku</string>
   <string name="HIPS_Perm_read_clipboard_Desc">Omogućite aplikacijama pristup stavkama u međuspremnik</string>
   <string name="HIPS_Perm_read_notification_sms">SMS Usluga</string>
@@ -238,7 +238,7 @@
   <string name="group_read_clipboard">Pristup međuspremniku</string>
   <string name="group_sms">Poruke</string>
   <string name="group_sport_healthy">Zdravlje i aktivnost</string>
-  <string name="group_write_clipboard">Dodajte stavke u međuspremnik</string>
+  <string name="group_write_clipboard">Dodavanje stavki u međuspremnik</string>
   <string name="keep_blur_location">Zadrži</string>
   <string name="keep_notice_me">Nastavi obavještavati</string>
   <string name="location_settings">Postavke lokacije</string>
@@ -342,7 +342,7 @@
   <string name="permdesc_read_phone_state">Želite li dopustiti %1$s pristup statusu uređaja i podacima o mobilnoj mreži?</string>
   <string name="permdesc_read_sms">Želite li dopustiti %1$s čitanje ili slanje tekstualnih i multimedijskih poruka?</string>
   <string name="permdesc_read_storage">Želite li dopustiti %1$s pristup datotekama i fotografijama na ovom uređaju?</string>
-  <string name="permdesc_receive_sms">Želite li dopustiti da %1$s prima SMS i MMS?</string>
+  <string name="permdesc_receive_sms">Želite li dopustiti %1$s primanje SMS-a i MMS-a?</string>
   <string name="permdesc_recognition">Želite li dopustiti %1$s pristup podacima o vašim aktivnostima?</string>
   <string name="permdesc_send_sms">Želite li dopustiti %1$s slanje tekstualnih poruka?</string>
   <string name="permdesc_sensors">Želite li dopustiti %1$s čitanje podataka koje generiraju tjelesni senzori?</string>
@@ -361,8 +361,8 @@
   <string name="permgroupdesc_phone">Želite li dopustiti %1$s upućivanje poziva i pristup informacijama o uređaju?</string>
   <string name="permgroupdesc_read_media_aural">Želite li dopustiti %1$s pristup audiodatotekama pohranjenim na vašem uređaju?</string>
   <string name="permgroupdesc_read_media_visual">Želite li dopustiti %1$s pristup fotografijama i video zapisima pohranjenim na vašem uređaju?</string>
-  <string name="permgroupdesc_read_media_visual_more">Želite li %1$s pristupiti većem broju fotografija i videozapisa?</string>
-  <string name="permgroupdesc_read_media_visual_u">Želite li %1$s pristupiti fotografijama i videozapisima na ovom uređaju?</string>
+  <string name="permgroupdesc_read_media_visual_more">Želite li dopustiti %1$s pristup većem broju fotografija i videozapisa?</string>
+  <string name="permgroupdesc_read_media_visual_u">Želite li dopustiti %1$s pristup fotografijama i videozapisima na ovom uređaju?</string>
   <string name="permgroupdesc_recognition">Želite li dopustiti %1$s pristup podacima o zdravlju i aktivnosti?</string>
   <string name="permgroupdesc_sensors">Želite li dopustiti %1$s pristup podacima tjelesnih senzora?</string>
   <string name="permgroupdesc_sms">Želite li dopustiti %1$s čitanje ili slanje SMS-a?</string>

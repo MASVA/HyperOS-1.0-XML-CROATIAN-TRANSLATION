@@ -635,8 +635,8 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="one">Izbriši %d preostalu aplikaciju</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d problema s korištenjem baterije</item>
-        <item quantity="one">%d problem s korištenjem baterije</item>
+        <item quantity="other">%d stavki s velikom potrošnjom energije</item>
+        <item quantity="one">%d stavka s velikom potrošnjom energije</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
         <item quantity="other">Optimizirajte %d stavki za uštedu baterije</item>
@@ -1075,8 +1075,8 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="one">puta</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d problema s korištenjem baterije</item>
-        <item quantity="one">%d problem s korištenjem baterije</item>
+        <item quantity="other">%d stavki s velikom potrošnjom energije</item>
+        <item quantity="one">%d stavka s velikom potrošnjom energije</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dana "</item>
@@ -1092,7 +1092,7 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
     </plurals>
     <plurals name="power_center_battery_health_summary">
         <item quantity="other">Potpuno napunite uređaj najmanje %2$d puta da dobijete precizne statističke podatke</item>
-        <item quantity="one">Potpuno napunite uređaj najmanje %2$d puta da dobijete precizne statističke podatke</item>
+        <item quantity="one">Potpuno napunite uređaj najmanje %2$d put da dobijete precizne statističke podatke</item>
     </plurals>
     <plurals name="power_center_battery_hour">
         <item quantity="other">"%d sati "</item>
@@ -1111,8 +1111,8 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="one">Ispravljen %d problem s korištenjem baterije</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">Možete ispraviti %d problema s korištenjem baterije</item>
-        <item quantity="one">Možete ispraviti %d problem s korištenjem baterije</item>
+        <item quantity="other">Možete optimizirati potrošnju energije za %d stavki</item>
+        <item quantity="one">Možete optimizirati potrošnju energije za %d stavku</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" %d stavki može biti optimizirano"</item>
@@ -1166,6 +1166,10 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">Uključite za dodavanje %s min. vremenu zaslona</item>
         <item quantity="one">Uključite za dodavanje %s min. vremenu zaslona</item>
      </plurals>
+	 <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">Razumijem (%d)</item>
+        <item quantity="one">Razumijem (%d)</item>
+    </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Razumijem (%ds)</item>
         <item quantity="one">Razumijem (%ds)</item>
@@ -1267,8 +1271,8 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="one">Pronađen %d problem baterije, popravite ga</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">Riješeno %d problema baterije</item>
-        <item quantity="one">Riješen %d problem baterije</item>
+        <item quantity="other">Optimizirano %d stavki s velikom potrošnjom energije</item>
+        <item quantity="one">Optimizirana %d stavka s velikom potrošnjom energije</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">Vraćanja na tvorničke postavke (%ds)</item>
@@ -1385,6 +1389,10 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
     <plurals name="title_virus_clean">
         <item quantity="other">Izbrisano je %d virusa</item>
         <item quantity="one">Izbrisan je %d virus</item>
+    </plurals>
+	<plurals name="title_virus_scan_model">
+        <item quantity="other">%d virusa ili rizičnih aplikacija</item>
+        <item quantity="one">%d virus ili rizična aplikacija</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d aplikacija</item>

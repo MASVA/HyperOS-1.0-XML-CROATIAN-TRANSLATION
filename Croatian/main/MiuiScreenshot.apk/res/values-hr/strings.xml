@@ -94,6 +94,10 @@
   <string name="image_decode_failed">"Nisam mogao dekodirati sliku"</string>
   <string name="image_not_found">"Nisam mogao pronaći sliku"</string>
   <string name="loading_text_format" formatted="false">Uklanjanje privatnih podataka s fotografija (%d/%d)…</string>
+  <string name="long_screenshot_content_auto">Izrada snimke zaslona…</string>
+  <string name="long_screenshot_content_loading">Samo trenutak…</string>
+  <string name="long_screenshot_content_manual">Ručno prilagodite krajnju točku snimke zaslona, zatim dodirnite \"Gotovo\".</string>
+  <string name="long_screenshot_done">Gotovo</string>
   <string name="long_screenshot_error">Došlo je do pogreške. Pokušajte ponovno.</string>
   <string name="long_screenshot_guide_text">"Dodirnite za izradu pomične
 snimke zaslona"</string>
@@ -102,6 +106,7 @@ snimke zaslona"</string>
   <string name="long_screenshot_processing">Obrada…</string>
   <string name="long_screenshot_processing_description_accessibility">Obrada</string>
   <string name="long_screenshot_stop">Gotovo</string>
+  <string name="long_screenshot_title">Pomicanje snimke zaslona</string>
   <string name="long_screenshot_top_msg">Izrada snimke zaslona…</string>
   <string name="long_screenshot_top_msg_description_accessibility">Izrada snimke zaslona</string>
   <string name="long_screenshot_top_msg_manual">Izrežite snimku zaslona i dodirnite tipku za završetak</string>

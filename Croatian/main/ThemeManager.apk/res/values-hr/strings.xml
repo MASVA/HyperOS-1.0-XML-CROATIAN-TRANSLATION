@@ -140,7 +140,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="backup_theme_progress_message">Pohranjujem temu…</string>
   <string name="backup_theme_success_message">Postavke vaše trenutne teme su spremljene</string>
   <string name="basic_mode">Izvanmrežni način</string>
-  <string name="basic_mode_desc">"Teme se neće povezati s internetom i koristit će samo lokalni sadržaj. Vaši osobni podaci neće se prikupljati."</string>
+  <string name="basic_mode_desc">"Nemojte dopustiti ovoj aplikaciji da se poveže s internetom, samo pristupi i koristi stavke na vašem uređaju (npr. fotografije, zvuk i videozapise). Vaši osobni podaci neće biti prikupljeni."</string>
   <string name="boot_audio_dialog_cancel">Odustani</string>
   <string name="boot_audio_dialog_confirm">U redu</string>
   <string name="boot_audio_dialog_content">Boot audio sada je isključen. Ponovo ga uključiti i primijeniti ovaj zvuk?</string>
@@ -149,7 +149,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="both_all_apply_success">Slika pozadine postavljena</string>
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
   <string name="browse_mode">Online način</string>
-  <string name="browse_mode_desc">"Teme će se povezati s internetom i koristiti lokalni i online sadržaj. Vaši osobni podaci neće se prikupljati."</string>
+  <string name="browse_mode_desc">"Dopustite ovoj aplikaciji povezivanje s internetom, pristup mrežnom sadržaju, kao i korištenje stavki na vašem uređaju (npr. fotografije, zvuk i videozapisi). Niti jedan vaš osobni podatak neće biti prikupljen."</string>
   <string name="browser_local_resource">Lokalni izvori</string>
   <string name="can_not_apply">Ne mogu postaviti</string>
   <string name="can_not_apply_error">"Ovaj format videozapisa nije podržan"</string>
