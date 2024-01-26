@@ -1006,6 +1006,7 @@ Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="view_all_notes">Prikaži sve</string>
+  <string name="warn_cannot_add_more_content">"Ova je bilješka dosegla maksimalnu duljinu. Dodatni sadržaji koje dodate neće biti spremljeni."</string>
   <string name="warn_cannot_add_new_bullet">"Ne mogu dodati novi popis s grafičkim oznakama jer je bilješka predugačka"</string>
   <string name="warn_cannot_add_new_checkbox">"Novi potvrdni okvir nije moguće dodati jer je bilješka predugačka"</string>
   <string name="warn_cannot_add_new_content">"Ne mogu dodati novi sadržaj jer je bilješka predugačka"</string>

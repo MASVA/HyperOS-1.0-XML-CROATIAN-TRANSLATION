@@ -10,6 +10,11 @@
         <item>Slika pozadine/Super Slika pozadine/Crveni planet</item>
         <item>Mars;Mars izdanje;Super Slika pozadine;Slika pozadine</item>
     </string-array>
+	<string-array name="settings_search_moon">
+        <item>Mjesec</item>
+        <item>Pozadina/Super pozadine/Mjesec</item>
+        <item>svemir;Mjesec;Super pozadine;pozadina</item>
+		 </string-array>
     <string-array name="settings_search_saturn">
         <item>Prstenovi Saturna</item>
         <item>Slika pozadine/Super Slika pozadine/Prstenovi Saturna</item>
