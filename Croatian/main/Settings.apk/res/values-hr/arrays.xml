@@ -377,7 +377,7 @@
         <item>" | Aktivno (telefon)"</item>
     </string-array>
 	<string-array name="bluetooth_audio_routing_titles">
-        <item>Koristi zadanu vrijednost aplikacije</item>
+        <item>Upotreba zadane vrijednosti aplikacije</item>
         <item>Pusti na slušnom uređaju</item>
         <item>Pusti na telefonskom zvučniku</item>
     </string-array>
@@ -398,7 +398,7 @@
         <item>MAP 1.4</item>
     </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
-        <item>Koristite zadanu postavku sustava: %1$d</item>
+        <item>Upotreba zadane postavke sustava: %1$d</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -524,7 +524,7 @@
         <item>Vrlo veliki</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>Uporaba zadanih postavki aplikacije</item>
+        <item>Upotreba zadanih postavki aplikacije</item>
         <item>Bijelo na crnom</item>
         <item>Crno na bijelom</item>
         <item>Žuto na crnom</item>
@@ -1557,8 +1557,8 @@
         <item>GSM/WCDMA preferirano</item>
     </string-array>
     <string-array name="priority_storage_entries">
-        <item>Unutarnja memorija</item>
-        <item>Vanjska memorija</item>
+        <item>Unutarnja pohrana</item>
+        <item>Vanjska pohrana</item>
     </string-array>
     <string-array name="privacy_password_function_specfication_names">
         <item>Poruke</item>
@@ -2059,5 +2059,4 @@
         <item>Smart home</item>
         <item>Ništa</item>
      </string-array>
-	 
 </resources>

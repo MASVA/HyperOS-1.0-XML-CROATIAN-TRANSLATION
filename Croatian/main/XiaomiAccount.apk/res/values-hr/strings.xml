@@ -159,8 +159,8 @@ Vaš profil je ažuriran sa informacijama iz vašeg %s računa.</string>
   <string name="com_facebook_image_download_unknown_error">Neočekivana pogreška tijekom preuzimanja slike.</string>
   <string name="com_facebook_internet_permission_error_message">WebView prijava zahtijeva INTERNET dopuštenje</string>
   <string name="com_facebook_internet_permission_error_title">AndroidManifest pogreška</string>
-  <string name="com_facebook_like_button_liked">Sviđa vam se</string>
-  <string name="com_facebook_like_button_not_liked">Sviđa mi se</string>
+  <string name="com_facebook_like_button_liked">Sviđa mi se</string>
+  <string name="com_facebook_like_button_not_liked">Ne sviđa mi se</string>
   <string name="com_facebook_loading">Učitavanje…</string>
   <string name="com_facebook_loginview_cancel_action">Odustani</string>
   <string name="com_facebook_loginview_log_in_button">Prijava</string>
@@ -251,6 +251,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="failed_dup_secure_phone_number">Ovaj broj telefona već je povezan s drugim Xiaomi Računom</string>
   <string name="family_service">Obiteljske usluge</string>
   <string name="family_service_not_open">Pozovite članove</string>
+  <string name="fcm_fallback_notification_channel_label">Razno</string>
   <string name="fido2_client_for_fingerprint_auth">Dodirnite za potvrdu putem otiska prsta</string>
   <string name="fido2_close_fingerprint_auth">Isključivanje</string>
   <string name="fido2_close_fingerprint_auth_desc">Želite li odmah isključiti potvrdu otiska prsta?</string>
@@ -369,6 +370,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="material_timepicker_minute">Minuta</string>
   <string name="material_timepicker_select_time">Odabir vremena</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
+  <string name="messenger_send_button_text">Pošalji</string>
   <string name="material_slider_range_end">Kraj raspona</string>
   <string name="material_slider_range_start">Početak raspona</string>  
   <string name="messenger_send_button_text">Pošalji</string>

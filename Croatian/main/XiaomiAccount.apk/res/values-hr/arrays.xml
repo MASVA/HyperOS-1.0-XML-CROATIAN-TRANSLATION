@@ -69,9 +69,9 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>Računi</item>
-        <item>Dodajte i upravljajte računima trećih strana</item>
-        <item>Računi;SNS;WeChat;QQ;Weibo;Xiaomi Račun;Račun</item>
-    </string-array>
+         <item>Pogledajte svoje povezane WeChat i druge SNS račune</item>
+         <item>dopuštenja;SNS;WeChat;Xiaomi račun;račun</item>
+		 </string-array>
     <string-array name="settings_search_change_password">
         <item>Promijeni zaporku</item>
         <item>Promijeni zaporku Xiaomi Računa</item>
