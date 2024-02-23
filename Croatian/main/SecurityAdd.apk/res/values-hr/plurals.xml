@@ -100,4 +100,12 @@
         <item quantity="other">Preostalo je %s min. vremena zaslona</item>
         <item quantity="one">Preostala je %s min. vremena zaslona</item>
     </plurals>
+	<plurals name="satellite_endurance_hour">
+        <item quantity="other">%s hrs</item>
+        <item quantity="one">%s hr</item>
+    </plurals>
+    <plurals name="satellite_endurance_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
 </resources> 

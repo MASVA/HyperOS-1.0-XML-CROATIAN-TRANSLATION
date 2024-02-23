@@ -104,6 +104,8 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="can_not_switch_when_extreme_endurance_battery_active">"Ne mogu koristiti drugi prostor zbog slabe baterije"</string>
   <string name="can_not_switch_when_green_kid_active">Prebacivanje na Drugi prostor ograničeno je roditeljskim nadzorom</string>
   <string name="can_not_switch_when_green_kid_active_new">"Ne mogu promjeniti na Drugi prostor kada je uključen Family Guard"</string>
+  <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Pritisnite i držite tipke za povratak i pregled kako biste otkvačili ovu aplikaciju</string>
+  <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Povucite prema gore od dna zaslona i pauzirajte da otkvačite ovu aplikaciju</string>
   <string name="can_not_switch_when_super_power_active">"Ne mogu promjeniti prostore kada je Ultra štednja baterije uključena""</string>
   <string name="cancelClosePassword">"Ne isključuj"</string>
   <string name="cancel_button">Odustani</string>

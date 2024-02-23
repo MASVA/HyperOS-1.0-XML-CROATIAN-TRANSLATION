@@ -1916,12 +1916,14 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="phone_locked_string">Ovaj je uređaj zaključan</string>
   <string name="phone_locked_string_owner_user">Previše neuspješnih pokušaja unosa zaporke Prvog prostora. Ovaj uređaj je sada zaključan.</string>
   <string name="phone_locked_string_second_user">Previše neuspješnih pokušaja unosa zaporke Drugog prostora. Ovaj uređaj je sada zaključan.</string>
+  <string name="pin_toast">Povucite prema gore od dna zaslona i pauzirajte da otkvačite ovu aplikaciju</string>
+  <string name="pin_toast_nav">Pritisnite i držite tipke za povratak i pregled kako biste otkvačili ovu aplikaciju</string>
   <string name="physical_keyboard_title">Fizička tipkovnica</string>
   <string name="picture_color_mode">Način boje slike</string>
   <string name="picture_color_mode_desc">Upotrijebi sRGB</string>
   <string name="pip_close">Zatvori PiP</string>
   <string name="pip_collapse">Sažmi</string>
-  <string name="pip_edu_text">" Dva puta pritisnite "&lt;annotation icon="home_icon"&gt; PO&amp;#268;ETNA &lt;/annotation&gt;" za kontrole "</string>
+  <string name="pip_edu_text">" Dva puta pritisnite "&lt;annotation icon="home_icon"&gt; POČETNA &lt;/annotation&gt;" za kontrole "</string>
   <string name="pip_expand">Proširi</string>
   <string name="pip_fullscreen">Cijeli zaslon</string>
   <string name="pip_menu_accessibility_title">Izbornik slika u slici</string>

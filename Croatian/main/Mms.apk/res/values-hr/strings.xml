@@ -148,8 +148,11 @@ Pokušajte ponovno."</string>
 	 <string name="cannot_forward_drm_obj">DRM objekt koji se nalazi u poruci nije moguće proslijediti.</string>
 	 <string name="cannot_get_details">"Ne mogu dobiti pojedinosti""</string>
 	 <string name="cannot_resend_audio">"Ne mogu poslati snimku"</string>
+	 <string name="cannot_send_location">Najprije dodijelite dopuštenja za lokaciju</string>
 	 <string name="cannot_send_message">"Ne mogu poslati ovu poruku""</string>
 	 <string name="cannot_send_message_reason">Poruka nema važećeg primatelja.</string>
+	 <string name="cannot_send_mms">"Satelitske komunikacije ne podržavaju MMS"</string>
+    <string name="carry_current_location">Uključi trenutnu lokaciju</string>
 	 <string name="card_insert_to_contact">Uvezi kontakt</string>
 	 <string name="change_duration_activity">Promjena trajanja</string>
 	 <string name="chatbot_list_title">5G Poruke</string>
@@ -305,8 +308,10 @@ Pokušajte ponovno."</string>
 	 <string name="edit_phrase">Uredi izraz</string>
 	 <string name="edit_slide_activity">Uredi slajd</string>
 	 <string name="edit_slideshow_activity">Uredi dijaprojekciju</string>
+	 <string name="emergency_label">Kontakt za hitne slučajeve</string>
 	 <string name="empty" />
 	 <string name="enable_classify_tip_dialog_content">Ovo će ponovno pokrenuti aplikaciju Poruke. Svjedeno nastaviti?</string>
+	 <string name="enable_location_service">Potrebna su dopuštenja</string>
 	 <string name="enabled">Uključeno</string>
 	 <string name="english_subject_limit">maks. 40 znakova</string>
 	 <string name="enter_edit_mode">Izbrisati</string>
@@ -419,6 +424,7 @@ Pokušajte ponovno."</string>
 	 <string name="has_invalid_recipient">Nevažeći primatelj(i): %1$s</string>
 	 <string name="heduohao_sub_sim_card">Sub</string>
 	 <string name="hidden_sender_address">Skrivena adresa pošiljatelja</string>
+	 <string name="hold_hand_with_sending">Slanje SMS-a. Budite mirni.</string>
 	 <string name="hint_not_login">"Usluga nije dostupna. Provjerite mrežne postavke i pokušajte ponovno."</string>
 	 <string name="hold_to_talk">Zadrži za razgovor</string>
 	 <string name="home_tab_ad">Promotivne</string>
@@ -447,6 +453,8 @@ Pokušajte ponovno."</string>
 	 <string name="invalid_recipient_message">Ispravite primatelja (e) ili neće primiti poruku.</string>
 	 <string name="invisible_mode_on">"U anonimnom ste načinu"</string>
 	 <string name="is_composing">Tipka…</string>
+	 <string name="item_over_quantity">Odaberite do %d poruka koje sadrže informacije o lokaciji</string>
+    <string name="item_shortage">Odaberite najmanje %d poruke koje sadrže informacije o lokaciji</string>
 	 <string name="kicked_out_group">Izbrisani ste iz razgovora</string>
 	 <string name="kilobyte">KB</string>
 	 <string name="label_alias">Moj alias</string>
@@ -486,7 +494,8 @@ Pokušajte ponovno."</string>
 	 <string name="menu_delete_messages">Izbriši poruke</string>
 	 <string name="menu_edit">Uredi</string>
 	 <string name="menu_forward">Proslijedi</string>
-	 <string name="menu_lock">Dodano u favorite</string>
+	 <string name="menu_lock">Dodaj u favorite</string>
+	 <string name="menu_locus_map">Mapa rute</string>
 	 <string name="menu_make_call">Poziv</string>
 	 <string name="menu_mark">Označi</string>
 	 <string name="menu_more">Više</string>
@@ -711,7 +720,8 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
 	 <string name="mx_reactivate">Ponovno aktivirajte Mi Poruke</string>
 	 <string name="mx_recommend_msg">Dodirnite da uključite Mi Poruke</string>
 	 <string name="mx_stranger_recommend_msg">Dodirni za blokiranje Mi Poruka od nepoznatih brojeva</string>
-	 <string name="mx_type_guide">Šaljite poruke drugim MIUI uređajima bez nastanka troškova</string>
+	 <string name="my_location">Moja lokacija:</string>
+	 <string name="mx_type_guide">Šaljite poruke drugim HyperOS uređajima bez nastanka troškova</string>
 	 <string name="need_download">Sinkroniziram…</string>
 	 <string name="net_sms_subscribed">Uspješno pretplaćeno</string>
 	 <string name="net_sms_unsubscribe">Pretplata otkazana</string>
@@ -741,6 +751,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
 	 <string name="non_english_subject_limit">13 znakova</string>
 	 <string name="nosend_message">"Nemoj slati"</string>
 	 <string name="not_prepare_for_send">Nema poruke za slanje</string>
+	 <string name="not_send_location">Ne sada</string>
 	 <string name="not_set">Nije postavljeno</string>
 	 <string name="not_support_audio_forward">"Ne mogu proslijediti glasovne poruke"</string>
 	 <string name="not_support_file">"Nije moguće slati datoteke ove vrste"</string>
@@ -768,6 +779,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
 	 <string name="only_chairman_left">U ovom razgovoru je ostao samo upravitelj. Raspustiti razgovor i izbrisati upravitelja?</string>
 	 <string name="open_audio_record_panel">Otvori ploču za snimanje zvuka</string>
 	 <string name="open_edit_sms_panel">Otvori ploču uređivanja SMS-a</string>
+	 <string name="open_now">Postavke</string>
 	 <string name="open_url_with_web">Otvoriti ovu poveznicu u Pregledniku?</string>
 	 <string name="over_max_mms_size">MMS poruka je prevelika.</string>
 	 <string name="overwrite_edited_content">Uređeni sadržaj će biti prebrisan, nastaviti?</string>
@@ -1239,6 +1251,11 @@ Pogledajte one preporučene!"</string>
 	 <string name="rms_view_vedio_notsupport">"Ne mogu poslati ovu datoteku kao video"</string>
 	 <string name="rsc_chatbot_back">Natrag</string>
 	 <string name="rsc_chatbot_detail">Informacije o dobavljaču</string>
+	 <string name="satellite_location_failed">"Nije moguće poslati lokaciju. SMS je poslan bez lokacije."</string>
+    <string name="satellite_location_privacy"><Data>Tiantong Satellite mora pristupiti vašoj lokaciji kako bi mogao slati SMS. Pročitajte i prihvatite naša &lt;font color=\"%1$s\">&lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>&lt;/font> prije nego nastavite.</Data></string>
+    <string name="satellite_location_privacy_title">Pristup lokaciji</string>
+    <string name="satellite_message_notification_contact_end">(Slanje putem satelita)</string>
+    <string name="satellite_sms_notification">Ovu poruku poslale su usluge Tiantong Satellite. Pošiljatelj može trebati vašu pomoć.</string>
 	 <string name="saturday">Subota</string>
 	 <string name="saturday_short">Sub</string>
 	 <string name="saturday_shortest">S</string>
@@ -1300,6 +1317,7 @@ Pogledajte one preporučene!"</string>
 	 <string name="send_signature_confirm_dialog_message">Nema teksta u vašim porukama. Sigurno želite poslati samo potpis?</string>
 	 <string name="send_signature_confirm_dialog_title">Pošalji poruku</string>
 	 <string name="send_sms">Pošalji poruku</string>
+	 <string name="send_sms_with_location">Dopustite ovoj aplikaciji pristup vašoj lokaciji kako biste mogli slati poruke uključujući vašu lokaciju. Ovo dopuštenje možete dati u postavkama.</string>
 	 <string name="send_to">Prima: </string>
 	 <string name="sent_at_time">Poslano: %1s</string>
 	 <string name="sent_label">"Poslano: "</string>

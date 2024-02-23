@@ -188,6 +188,8 @@
   <string name="miplay_bluetooth_share_des_text">"Korisnici slušalica Xiaomi: otvorite kućište za punjenje ili pritisnite i držite tipku kućišta %ds
 Korisnici slušalica koje nisu Xiaomi: poništite svoje slušalice u Bluetooth postavkama, a zatim se povežite"</string>
   <string name="miplay_bluetooth_share_headphone_pairing">Dodajte slušalice za dijeljenje zvuka</string>
+  <string name="miplay_bluetooth_share_music_cancel_btn_content_des">Dijeljenje zvuka je završeno</string>
+  <string name="miplay_bluetooth_share_music_together_btn_content_des">Dodajte slušalice za dijeljenje zvuka</string>
   <string name="miplay_bluetooth_share_subTitle_text">Dijelite zvuk uređaja s drugom osobom</string>
   <string name="miplay_bluetooth_share_title_text">Dijeli audio</string>
   <string name="miplay_detail_divider_title">TV &amp; zvučnici</string>

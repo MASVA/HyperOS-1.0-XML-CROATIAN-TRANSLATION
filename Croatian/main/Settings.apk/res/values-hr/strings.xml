@@ -10410,20 +10410,15 @@ Podaci koji nisu uvezeni moraju se ponovno uvesti."</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Ažuriraj popis aplikacija koje automatski koriste način čitanja</string>
   <string name="screen_paper_mode_update_white_pkg_list_title">Ažuriraj automatski</string>
   <string name="screen_paper_texture">Tekstura</string>
-  <string name="screen_pinning_description">"Kad je aplikacija prikvačena, može otvarati druge aplikacije i osobni podaci mogu biti dostupni. 
+  <string name="screen_pinning_description">Prikvačene aplikacije mogu otvoriti druge aplikacije i pristupiti vašim osobnim podacima</string>
+  <string name="screen_pinning_dialog_message">"Evo što mogu prikvačene aplikacije:
 
-Kako upotrebljavati prikvačivanje aplikacije: \u0009
-1. Uključite prikvačivanje aplikacije. \u0009
-2. Otvorite Pregled. \u0009
-3. Dodirnite ikonu aplikacije pri vrhu zaslona, a potom dodirnite Prikvači."</string>
-  <string name="screen_pinning_dialog_message">"Kad je aplikacija prikvačena: 
+• Pristupiti vašim osobnim podacima
+(npr. kontakti i e-pošta)
+• Otvoriti druge aplikacije
 
-•\u0009\u0009osobni podaci mogu biti dostupni 
-\u0009\u0009(primjerice, kontakti i sadržaj e-pošte) 
-•\u0009\u0009prikvačena aplikacija može otvarati druge aplikacije 
-
-Prikvačivanje aplikacije koristite samo s osobama kojima vjerujete."</string>
-  <string name="screen_pinning_guest_user_description">"Kad je aplikacija prikvačena, može otvarati druge aplikacije i osobni podaci mogu biti dostupni. 
+Koristite ovu značajku s oprezom dok dijelite ovaj uređaj s drugima."</string>
+​  <string name="screen_pinning_guest_user_description">"Kad je aplikacija prikvačena, može otvarati druge aplikacije i osobni podaci mogu biti dostupni. 
 
 Ako želite s nekim sigurno dijeliti svoj uređaj, pokušajte koristiti profil gosta. 
 
@@ -10431,10 +10426,11 @@ Kako upotrebljavati prikvačivanje aplikacije: \u0009
 1. Uključite prikvačivanje aplikacije. \u0009
 2. Otvorite Pregled. \u0009
 3. Dodirnite ikonu aplikacije pri vrhu zaslona, a potom dodirnite Prikvači."</string>
+  <string name="screen_pinning_summary">Prikvačene aplikacije ostat će u Nedavno dok ih ne otkvačite</string>
   <string name="screen_pinning_switch_off_text">Isključeno</string>
   <string name="screen_pinning_switch_on_text">Uključeno</string>
-  <string name="screen_pinning_title">Prikvačivanje aplikacije</string>
-  <string name="screen_pinning_unlock_none">Zaključaj uređaj prilikom otkvačivanja</string>
+  <string name="screen_pinning_title">Dopusti prikvačivanje aplikacija</string>
+  <string name="screen_pinning_unlock_none">Potvrdite zaključavanje zaslona za otkvačivanje</string>
   <string name="screen_pinning_unlock_password">Traži zaporku radi otkvačivanja</string>
   <string name="screen_pinning_unlock_pattern">Traži uzorak za otključavanje radi otkvačivanja</string>
   <string name="screen_pinning_unlock_pin">Traži PIN radi otkvačivanja</string>

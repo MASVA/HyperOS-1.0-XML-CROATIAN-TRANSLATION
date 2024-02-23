@@ -11,7 +11,7 @@
     <string name="activate_fail_notification_title">Ponovno aktivirajte sinkronizaciju.</string>
     <string name="activating">Aktivacija…</string>
     <string name="address">Adresa</string>
-    <string name="after_reset_need_restore_system_app">"Izgleda da ste izvršili vraćanje na tvorničke postavke. Spojite se na mrežu i vratite stavke sustava da biste mogli normalno koristiti MIUI."</string>
+    <string name="after_reset_need_restore_system_app">"Čini se da ste izvršili vraćanje na tvorničke postavke. Spojite se na mrežu i vratite stavke sustava kako biste mogli normalno koristiti uređaj."</string>
     <string name="afternoon">PM</string>
     <string name="am">AM</string>
     <string name="app_name_which_call">Aplikacija: %s</string>
@@ -21,7 +21,7 @@
     <string name="check_phone_error_title">Sinkronizacija je isključena</string>
     <string name="check_phone_io_error">"Ne mogu se povezati na mrežu".</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
-    <string name="click_to_restore">Vratite stavke sustava da biste mogli normalno koristiti MIUI nakon vraćanja na tvorničke postavke. Dodirnite za početak.</string>
+    <string name="click_to_restore">Vratite stavke sustava da biste mogli normalno koristiti vaš uređaj nakon vraćanja na tvorničke postavke. Dodirnite za početak.</string>
     <string name="close">Zatvori</string>
     <string name="com_android_email">E-pošta</string>
 	 <string name="com_android_deskclock">Sat</string>
@@ -91,7 +91,7 @@
     <string name="im">IM</string>
     <string name="immersion_button_close_description">Zatvori</string>
     <string name="instruction">Važne sigurnosne informacije</string>
-    <string name="label">MIUI SDK</string>
+    <string name="label">SDK sustava</string>
     <string name="license_host_unreachable">"Ne mogu se povezati na mrežu. 
 Da biste vidjeli ove informacije, 
 idite na: %s."</string>

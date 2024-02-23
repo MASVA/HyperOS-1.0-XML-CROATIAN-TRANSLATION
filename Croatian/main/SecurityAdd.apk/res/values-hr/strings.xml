@@ -99,8 +99,13 @@
     <string name="friday_shortest">P</string>
     <string name="function_close">Isključi</string>
     <string name="game_booster">Ubrzaj igre</string>
+	 <string name="gamebooster_confirm_dialog_negative_btn">"Ne prihvaćam"</string>
+    <string name="gamebooster_confirm_dialog_positive_btn">Prihvaćam</string>
+    <string name="gamebooster_confirm_dialog_tip"><Data>Xunyou Game Booster &lt;br>&lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a></Data></string>
+    <string name="gamebooster_confirm_dialog_title">Prihvatite naša Pravila o privatnosti</string>
     <string name="gamebooster_dialog_recover">Obnovi</string>
     <string name="gamebooster_dialog_start_booster">Start</string>
+	 <string name="gamebooster_dialog_start_booster_new">Ubrzaj</string>
     <string name="game_booster_intro">O Ubrzavanju brzine igranja</string>
     <string name="game_booster_title">Ubrzanje</string>
     <string name="game_booster_total">Brzina ubrzana %1$s puta, dodano %2$s vremena igranja</string>
@@ -226,7 +231,11 @@
     <string name="gs_performance_mode_detail">Povećajte korištenje CPU-a kako bi osigurali glatke performanse</string>
     <string name="gtb_dialog_privacy_speed_message">"Upravo ćete koristiti Xunyou Game Booster. Ova usluga će prikupiti ID vašeg Mi Računa kako bi zabilježila trajanje vašeg članstva."</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Pročitao sam i prihvaćam Xunyou Game Booster &lt;a href=\"%1$s\">Pravila o privatnosti.&lt;/a>"</Data></string>
+	 <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Pročitao sam i prihvaćam Xunyou Game Booster &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a>."</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou Game Booster</string>
+	 <string name="gtb_dialog_privacy_voice_message">"Upravo ćete koristiti Xunyou Game Voice Changer. Ova će usluga prikupiti ID vašeg Xiaomi računa kako bi zabilježila trajanje vašeg članstva."</string>
+    <string name="gtb_dialog_privacy_voice_tips"><Data>"Pročitao sam i prihvaćam Xunyou Game Voice Changer &lt;a href=\"%1$s\">Pravila o privatnosti.&lt;/a>"</Data></string>
+    <string name="gtb_dialog_privacy_voice_title">Xunyou Game Voice Changer</string>
     <string name="i_know">Razumijem</string>
     <string name="icon_content_description">Ikona dijaloškog okvira</string>
     <string name="install_game_count">Dodano ovoliko %d igara</string>
@@ -421,6 +430,7 @@
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
+	 <string name="super_power_satellite_endurance_time">Može uputiti satelitski poziv za ≈%1$s %2$s</string>
     <string name="superpower_app_add">Dadaj</string>
     <string name="superpower_app_contact">Kontakti</string>
     <string name="superpower_app_delete">Izbriši</string>

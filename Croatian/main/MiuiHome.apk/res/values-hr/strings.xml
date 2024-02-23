@@ -809,6 +809,7 @@ Poboljšana sigurnost."</string>
   <string name="recent_menu_item_unlock">Otključaj</string>
   <string name="recent_menu_item_worldcirculate">Prijenos zadataka aplikacije</string>
   <string name="recent_menu_item_worldcirculate_disable">"Ne mogu prenijeti zadatke aplikacije preko povezanih uređaja"</string>
+  <string name="recent_pin_text">PIN</string>
   <string name="recents_app_info_button_label">Podaci o aplikaciji</string>
   <string name="recents_clear_all_tasks">Obriši sve</string>
   <string name="recents_config_title">Nedavno</string>
@@ -940,6 +941,7 @@ Poboljšana sigurnost."</string>
   <string name="switch_personal_assistant_summary">Povucite udesno na početnom zaslonu da biste otvorili Google Discover</string>
   <string name="switch_screen_button_order">Zamjeni mjesta tipki</string>
   <string name="switch_screen_button_order_desc">Zamjeni mjesta tipki Natrag i Izbornik</string>
+  <string name="system_sdk_disabled_toast">SDK sustava je onemogućen. Prvo ga omogućite.</string>
   <string name="system_shortcuts_edit">Uredi</string>
   <string name="system_shortcuts_icon_remove">Ukloni</string>
   <string name="system_shortcuts_more_operation">Informacije o aplikaciji</string>
