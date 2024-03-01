@@ -98,8 +98,6 @@ ta će značajka biti automatski dodana u Drugi prostor."</string>
   <string name="camera_key_action_toggle_title">Prebacivanje okidača</string>
   <string name="can_not_delete_when_calling">"Ne mogu se izbrisati prostori tijekom poziva"</string>
   <string name="can_not_switch_when_calling">"Ne mogu se mjenjati prostori tijekom poziva"</string>
-  <string name="can_not_switch_when_lock_to_app_enabled_classic_navigation">Pritisnite i držite tipke za povratak i pregled kako biste otkvačili ovu aplikaciju</string>
-  <string name="can_not_switch_when_lock_to_app_enabled_guest_navigation">Povucite prema gore od dna zaslona i pauzirajte da otkvačite ovu aplikaciju</string>
   <string name="can_not_switch_when_desktop_mode">"Ne mogu se prebacivati između prostora u načinu rada radne stanice"</string>
   <string name="can_not_switch_when_extreme_endurance_battery_active">"Ne mogu koristiti drugi prostor zbog slabe baterije"</string>
   <string name="can_not_switch_when_green_kid_active">Prebacivanje na Drugi prostor ograničeno je roditeljskim nadzorom</string>

@@ -2479,6 +2479,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_super_night_se_desc">Otkrijte uvjete slabog osvjetljenja dok koristite način rada Fotografija i Portret za automatsko poboljšanje kvalitete slike</string>
   <string name="pref_super_night_se_summary">Otkrij uvjete slabog osvjetljenja i automatski poboljšaj kvalitetu slike</string>
   <string name="pref_super_night_se_title">Autom. noćni način rada</string>
+  <string name="pref_switch_camera_heic_image_desc">"Učinkovitiji format fotografija koji štedi prostor za pohranu. Podržava Ultra HD način rada, ali ne podržava dinamičke snimke, uklanjanje uobičajenih oznaka fotografija i neke aplikacije trećih strana."</string>
   <string name="pref_true_colour_video_mode_description">Snimajte videozapise uz Dolby Vision kako biste uhvatili realistične detalje, zadivljujuće boje i upečatljiv kontrast (ova značajka možda neće biti kompatibilna s nekim aplikacijama trećih strana)</string>
   <string name="pref_true_colour_video_mode_introduction">Zapanjujuće vizualno iskustvo, realistični detalji i upečatljiv kontrast</string>
   <string name="pref_true_colour_video_mode_setting_dec">"Snimite realistične detalje, zapanjujuće boje i upečatljiv kontrast u Video i Pro načinima rada. Fokus praćenja pokreta i H.264 kodiranje nisu podržani. Ova značajka možda nije kompatibilna s nekim aplikacijama trećih strana."</string>
