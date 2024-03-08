@@ -5996,6 +5996,10 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="internal_media_format_title">Izbriši unutarnju pohranu</string>
   <string name="internal_memory">Unutarnja pohrana</string>
   <string name="internal_storage">Unutarnja pohrana</string>
+  <string name="international_lyra_account_ap_summary">"Dopustite obližnjim tabletima i računalima prijavljenima na tvoj račun da se uključe i automatski povežu s hotspotom ovog uređaja"</string>
+  <string name="international_lyra_account_ap_title">Mrežna sinkronizacija</string>
+  <string name="international_lyra_auto_connect_summary">"Kada je uređaj u blizini prijavljen na vaš račun i treba se povezati s internetom, uključite i automatski se povežite s hotspotom ovog uređaja"</string>
+  <string name="international_lyra_auto_connect_title">Automatsko povezivanje s hotspotom</string>
   <string name="internal_storage_sentence">unutarnja pohrana</string>
   <string name="internet_connectivity_panel_title">Povezivanje s internetom</string>
   <string name="invalid_location">Lokacija instalacije nije važeća.</string>
