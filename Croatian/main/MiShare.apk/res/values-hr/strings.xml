@@ -365,7 +365,7 @@ Popis kompatibilnih uređaja možete pronaći na našoj web stranici. Ako je va�
   <string name="wifi_is_not_enabled">Prvo uključite Wi-Fi</string>
   <string name="wifi_is_not_enabled_china">Prvo uključite Wi-Fi</string>
   <string name="withdraw">Povlačenje</string>
-  <string name="withdraw_consent_message">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Mi Share. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s važećim zakonima i propisima osim ako to nije potrebno inače. Budući da Mi Share pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje privole smatrat će se odbijanjem prihvaćanja usluga Mi Share."</string>
+  <string name="withdraw_consent_message">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Mi Share. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s važećim zakonima i propisima osim ako to nije potrebno inače. Budući da Mi Share pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Mi Share."</string>
   <string name="withdraw_consent_title">Povlačenje suglasnosti</string>
   <string name="withdraw_with_time">Povlačenje (%1$ds)</string>
   <string name="yesterday">Jučer</string>

@@ -963,7 +963,7 @@ Pošaljite ovaj kod našem tehničaru."</string>
   <string name="restart_phone_bind_message">Potrebno je neko vrijeme za primanje SMS poruke. Svejedno započeti ispočetka?</string>
   <string name="restart_phone_bind_title">Promjeni telefon za oporavak</string>
   <string name="revoke_privacy_policy">Povlačenje suglasnosti</string>
-  <string name="revoke_privacy_policy_instructions">"Ako nastavite, povući ćete svoj pristanak na Pravila privatnosti Xiaomi Računa. Prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Mi Account pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje privole smatrat će se odbijanjem prihvaćanja usluga Xiaomi Računa. Povući privolu?"</string>
+  <string name="revoke_privacy_policy_instructions">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Xiaomi Računa. Prestat ćemo prikupljati vaše osobne podatke. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Xiaomi račun pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Xiaomi Računa. Povući suglasnost?"</string>
   <string name="revoke_privacy_policy_title">Povlačenje suglasnosti</string>
   <string name="risky_pwd_not_allow">"Nova zaporka nije sigurna. Postavite neku drugu."</string>
   <string name="same_new_and_old_pwd">Nova zaporka mora se razlikovati od stare</string>

@@ -422,7 +422,7 @@ Vaši uređaji?"</string>
   <string name="connect_settings_summary_share_notification_pad">Primajte obavijesti s telefona u blizini prijavljenih na svoj Xiaomi račun</string>
   <string name="connect_settings_summary_share_notification_phone">Prikaži obavijesti na obližnjim tabletima ili računalima u upotrebi kada je ovaj uređaj zaključan</string>
   <string name="connect_settings_user_agreement">Korisnički ugovor</string>
-  <string name="connect_settings_withdraw_consent">Povlačenje privole</string>
+  <string name="connect_settings_withdraw_consent">Povlačenje suglasnosti</string>
   <string name="connect_success">%1$s je povezan</string>
   <string name="connection_failed">"Nije moguće povezati kameru"</string>
   <string name="console_guide_btn_got_it">Razumijem</string>
@@ -963,9 +963,9 @@ tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
   <string name="privacy_positive">Prihvaćam</string>
   <string name="privacy_read_statement">Prvo prihvatite odredbe i uvjete</string>
   <string name="privacy_revoke_agree_detail_content">"%1$d. Prije nastavka provjerite imate li pravo povući suglasnost.
-%2$d. Nakon što povučete suglasnost, osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s važećim zakonima i propisima osim ako se ne zahtijeva drugačije. Budući da se usluge međusobnog povezivanja pružaju na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje privole smatrat će se odbijanjem prihvaćanja usluga međusobnog povezivanja. Vaše povlačenje privole neće utjecati na normalno korištenje drugih značajki i usluga.
+%2$d. Nakon što povučete suglasnost, osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s važećim zakonima i propisima osim ako se ne zahtijeva drugačije. Budući da se usluge međusobnog povezivanja pružaju na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga međusobnog povezivanja. Vaše povlačenje suglasnosti neće utjecati na normalno korištenje drugih značajki i usluga.
 %3$d. Povlačenje suglasnosti je nepovratna radnja. Upamtite da nećete moći preispitati svoju odluku nakon što se vaša suglasnost povuče."</string>
-  <string name="privacy_revoke_agree_detail_prompt">Izjava o povlačenju suglasnosti na Pravila privatnosti Xiaomi međusobnog povezivanja</string>
+  <string name="privacy_revoke_agree_detail_prompt">Izjava o povlačenju suglasnosti na Pravila o privatnosti Xiaomi međusobnog povezivanja</string>
   <string name="privacy_revoke_agree_detail_title">Pročitajte i prihvatite \"Izjavu o povlačenju suglasnosti na Pravila privatnosti Xiaomi međusobnog povezivanja\" prije povlačenja suglasnosti.</string>
   <string name="privacy_revoke_agree_introduce">"Ako nastavite, povući ćete svoju suglasnost na Pravila privatnosti Xiaomi Interconnectivity. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s primjenjivim zakonima i propisima osim ako se ne zahtijeva drugačije . Budući da se usluge međusobnog povezivanja pružaju na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga međusobnog povezivanja. Vaše povlačenje suglasnosti neće utjecati na normalno korištenje drugih značajki i usluga."</string>
   <string name="privacy_revoke_agree_warning_map_text">Pažnja</string>
