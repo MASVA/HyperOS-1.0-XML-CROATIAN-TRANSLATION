@@ -153,6 +153,7 @@ Pokušajte ponovno."</string>
 	 <string name="cannot_send_message_reason">Poruka nema važećeg primatelja.</string>
 	 <string name="cannot_send_mms">"Satelitske komunikacije ne podržavaju MMS"</string>
     <string name="carry_current_location">Uključi trenutnu lokaciju</string>
+	<string name="carry_vital_signs">Uključi vitalne znakove</string>
 	 <string name="card_insert_to_contact">Uvezi kontakt</string>
 	 <string name="change_duration_activity">Promjena trajanja</string>
 	 <string name="chatbot_list_title">5G Poruke</string>
@@ -1583,6 +1584,26 @@ Broj pokušaja: %s."</string>
 	 <string name="view_bookmark">Prikaži originalnu poruku</string>
 	 <string name="view_group_detail_title">Prikaži detalje razgovora</string>
 	 <string name="view_message_details">Prikaži detalje razgovora</string>
+	 <string name="vital_signs_cta_body">"Podaci o vitalnim znakovima (uključujući broj otkucaja srca, SpO₂ i informacije o zdravstvenoj kartici) preuzeti su iz Mi Fitnessa. Označavanjem ispod označavate da pristajete na pristup i korištenje ovih podataka.
+Zadržat će se samo prvih 50 znakova svake stavke medicinske kartice radi kontrole duljine poruke."</string>
+	 <string name="vital_signs_cta_title">Vitalni znakovi</string>
+	 <string name="vital_signs_data_allergy">Alergije: %s</string>
+	 <string name="vital_signs_data_disease">Kronična stanja: %s</string>
+	 <string name="vital_signs_data_high_bpm">Visoki HR, najnovije: %1$d–%2$d BPM (%3$s–%4$s)</string>
+	 <string name="vital_signs_data_high_bpm_multi">Visoki HR više puta u zadnjih sat vremena. Najnovije: %1$d–%2$d BPM (%3$s–%4$s)</string>
+	 <string name="vital_signs_data_low_bpm">Nizak HR, najnovije: %1$d–%2$d BPM (%3$s–%4$s)</string>
+	 <string name="vital_signs_data_low_bpm_multi">Nizak HR više puta u zadnjih sat vremena. Najnovije: %1$d–%2$d BPM (%3$s–%4$s)</string>
+	 <string name="vital_signs_data_low_spo2">Nizak SpO₂, najnovije: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+	 <string name="vital_signs_data_low_spo2_multi">SpO₂ je bio nizak više puta u posljednjih sat vremena. Najnovije: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+	 <string name="vital_signs_data_medical">Tretmani: %s</string>
+	 <string name="vital_signs_toast_exception">"Nisam mogao dobiti podatke o vitalnim znakovima"</string>
+	 <string name="vital_signs_toast_health_app_low">Ažurirajte Mi Fitness da biste mogli dobiti podatke o vitalnim znakovima</string>
+	 <string name="vital_signs_toast_health_app_no_install">Instalirajte Mi Fitness da biste mogli dobiti podatke o vitalnim znakovima</string>
+	 <string name="vital_signs_toast_no_bpm_spo2">"Nije moguće dobiti podatke o otkucajima srca i SpO₂"</string>
+	 <string name="vital_signs_toast_no_data">"Nisam mogao dobiti podatke o vitalnim znakovima"</string>
+	 <string name="vital_signs_wait_body">Pristup podacima. Ovo bi moglo potrajati minutu.</string>
+	 <string name="vital_signs_wait_skip">Preskoči</string>
+	 <string name="vital_signs_wait_title">Podaci o vitalnim znakovima</string>
 	 <string name="view_my_prof">Prikaži moju RCS kontakt karticu</string>
 	 <string name="voice_report_anytime">Uvijek</string>
 	 <string name="voice_report_off">Isključeno</string>
@@ -1596,7 +1617,7 @@ Broj pokušaja: %s."</string>
 	 <string name="wednesday_shortest">S</string>
 	 <string name="wild_msg_processing">Obrada…</string>
 	 <string name="wild_msg_title">Odaberite brojeve telefona za sinkr.</string>
-	 <string name="xiaomi_account_service_retry_main_purpose">Usluge Mi Računa moraju biti uključene da bi ova značajka normalno radila. Usluge Mi Računa možete uključiti u Postavke > Upravljanje aplikacijama.</string>
+	 <string name="xiaomi_account_service_retry_main_purpose">Usluge Xiaomi računa moraju biti uključene da bi ova značajka normalno radila. Usluge Xiaomi računa možete uključiti u Postavke > Upravljanje aplikacijama.</string>
 	 <string name="xiaomi_market_sdk_update_dialog_cancel">Ne sada</string>
 	 <string name="xiaomi_market_sdk_update_dialog_ok">Ažuriraj</string>
 	 <string name="xiaomi_market_sdk_update_dialog_title">Dostupno je ažuriranje</string>

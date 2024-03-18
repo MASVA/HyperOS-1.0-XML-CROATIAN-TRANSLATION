@@ -161,4 +161,12 @@
         <item quantity="other">%d primatelja</item>
         <item quantity="one">%d primatelj</item>
     </plurals>
+	<plurals name="vital_signs_data_bpm">
+        <item quantity="other">Otkucaji srca: %1$d BPM (%2$s)</item>
+        <item quantity="one">Otkucaji srca: %1$d BPM (%2$s)</item>
+    </plurals>
+    <plurals name="vital_signs_data_spo2">
+        <item quantity="other">SpO₂: %1$d%% (%2$s)</item>
+        <item quantity="one">SpO₂: %1$d%% (%2$s)</item>
+    </plurals>
 </resources>

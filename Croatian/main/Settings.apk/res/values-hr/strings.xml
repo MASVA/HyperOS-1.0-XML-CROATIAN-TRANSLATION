@@ -6460,6 +6460,10 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="load_esim_info_error">"Nije moguće učitati informacije o eSIM-u. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
   <string name="load_networks_progress">Pretraživanje…</string>
   <string name="loading">Samo trenutak…</string>
+  <string name="loading_eid_error_message">"Nisam mogao dobiti informacije o EID-u. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
+  <string name="loading_eid_error_ok">Shvaćam</string>
+  <string name="loading_eid_error_title">"Nije moguće učitati"</string>
+  <string name="loading_eid_tip">Dohvaćanje informacija o EID-u…</string>
   <string name="loading_data">Učitavanje podataka</string>
   <string name="loading_injected_setting_summary">Samo trenutak…</string>
   <string name="loading_notification_apps">Učitavanje aplikacija…</string>
