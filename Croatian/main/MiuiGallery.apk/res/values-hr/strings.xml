@@ -2063,7 +2063,6 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="passport_account_user_phone">Telefon za oporavak</string>
   <string name="passport_activity_not_found_notice">"Ne mogu pronaći aplikaciju"</string>
   <string name="passport_agree">Prihvaćam</string>
-  <string name="passport_account_name">"Račun: %1$s "</string>
   <string name="passport_area_code_title">Pozivni broj</string>
   <string name="passport_attention">Pažnja</string>
   <string name="passport_auth_fail_warning">Sesija je istekla. Prijavite se ponovno.</string>

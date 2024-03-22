@@ -680,9 +680,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="permission_storage_desc_pad_new_v12">Za dodavanje slika u bilješke i spremanje bilješki kao slika</string>
   <string name="permission_storage_desc_pad_v12">Za dodavanje slika u bilješke i spremanje bilješki kao slika</string>
   <string name="permission_storage_desc_v12">Za dodavanje slika u bilješke i spremanje bilješki kao slike</string>
-  <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI prikupit će vaše glasovne snimke i ID uređaja da prepiše zvuk i izradi glasovne bilješke. Saznajte više u Mi AI &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-  <string name="permission_xiaoai_desc_m">&lt;Data&gt;Kako bi pružio usluge transkripcije govora u tekst, Mi AI treba prikupiti audio ulaz i IMEI vašeg uređaja. Pročitajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Izjavu Bilješki o dijeljenju podataka treće strane&amp;lt;/a&amp;gt; prije nego nastavite. Također možete saznati više čitanjem Mi AI &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-  <string name="permission_xiaoai_desc_new">&lt;Data&gt;Kako bi pružio usluge transkripcije govora u tekst, Mi AI treba prikupiti audio ulaz i ID vašeg uređaja, koji se nasumično generira. Pročitajte i prihvatite naše &amp;lt;a href=\"%1$s\"&amp;gt;Bilješke Izjava o dijeljenju podataka treće strane&amp;lt;/a&amp;gt; prije nego nastavite. Također možete saznati više čitajući Mi AI &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="permission_xiaoai_desc_n"><Data>Kako bi pružila usluge govora u tekst, aplikacija Bilješke treba prikupiti govorni audio sadržaj i IMEI vašeg uređaja. Pročitajte i prihvatite &lt;a href=\"%1$s\">Izjava o dijeljenju podataka treće strane&lt;/a> prije korištenja ove značajke. Možete saznati više o povezanim značajkama čitajući Mi AI &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a>.</Data></string>
   <string name="permission_xiaoai_title">Pretvaranje govora u tekst</string>
   <string name="permlab_accessNote">Pristup bilješkama</string>
   <string name="pm">PM</string>

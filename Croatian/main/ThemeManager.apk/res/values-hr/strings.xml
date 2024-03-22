@@ -439,6 +439,8 @@ Dopustite Temama da pristupaju vašem ID-u Xiaomi Računa i Mi Community statusi
   <string name="gallery_wallpaper">Wallpaper Carousel</string>
   <string name="gallery_wallpaper_count">100k+</string>
   <string name="gallery_wallpaper_count_tw">10w+</string>
+  <string name="gallery_wallpaper_history">Dodirnite za pregled prethodnih slika na Wallpaper Carouselu</string>
+  <string name="gallery_wallpaper_history_go">Prikaži</string>
   <string name="gallery_wallpaper_theme">Must-have pozadine</string>
   <string name="gift_share">Podijeli</string>
   <string name="goto_purchased_list">Pregledajte povijest kupovine</string>
@@ -1595,6 +1597,7 @@ Idite u Teme > Moj račun > Lab. Tema za više opcija."</string>
   <string name="wallpaper_download_incall_show">Preuzmi videozapis</string>
   <string name="wallpaper_dynamic">Dinamička</string>
   <string name="wallpaper_group_set_loop">Dijaprojekcija Zaklj. zaslona sa sličnim slikama</string>
+  <string name="wallpaper_history">Povijest slika pozadine</string>
   <string name="wallpaper_light_mode_image_preview_tip">Pregled Svjetlog načina</string>
   <string name="wallpaper_loop_add_success">Uspješno dodano</string>
   <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Dodaj na dijaprojekciju Poč. zaslona</string>

@@ -12833,6 +12833,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni Wi-Fi hotspot, da podijelit
   <string name="tips_suggestion_title">Upoznajte svoj Xiaomi</string>
   <string name="title_change_system_locale">Želite li jezik sustava promijeniti na %s?</string>
   <string name="title_color_calibration">Način Korekcija boja</string>
+  <string name="title_device_control">Kontrole uređaja</string>
   <string name="title_convert_fbe">Pretvaranje u enkripciju datoteka…</string>
   <string name="title_dolby_control">Dolby digital plus</string>
   <string name="title_font">Font</string>
@@ -12860,6 +12861,7 @@ Možete pretvoriti svoj Android uređaj u prijenosni Wi-Fi hotspot, da podijelit
   <string name="title_system_resource">Resursi sustava</string>
   <string name="title_unavailable_locale">%s nije dostupan</string>
   <string name="title_wordless_mode">"Ne prikazuj oznake ikona"</string>
+  <string name="title_xiaomi_smart_hub">Xiaomi Smart Hub</string>
   <string name="to_close">Isključi</string>
   <string name="to_switch_networks_disconnect_ethernet">Da biste se prebacili na drugu mrežu, odspojite ethernet</string>
   <string name="toast_allows_restricted_settings_successfully">Ograničene postavke dopuštene su za aplikaciju %s</string>
