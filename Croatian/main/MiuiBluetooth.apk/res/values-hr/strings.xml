@@ -308,6 +308,7 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="convert_to_file_encryption">Pretvori u enkripciju datoteka</string>
   <string name="convert_to_file_encryption_done">Datoteke su šifrirane</string>
   <string name="convert_to_file_encryption_enabled">Pretvaranje…</string>
+  <string name="cooler_reset">Dodirnite %d puta za uparivanje</string>
   <string name="copy">Kopiraj</string>
   <string name="creating_new_user_dialog_message">Izrada novog korisnika…</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno – zeleno)</string>

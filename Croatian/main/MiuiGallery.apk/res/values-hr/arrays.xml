@@ -14,7 +14,7 @@
         <item>Odaberite sliku</item>
         <item>Prozirna pozadina</item>
     </string-array>
-	<string-array name="account_user_gender_name">
+	<string-array name="passport_account_user_gender_name">
         <item>Muškarac</item>
         <item>Žena</item>
     </string-array>

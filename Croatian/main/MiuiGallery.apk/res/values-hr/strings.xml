@@ -104,6 +104,7 @@
   <string name="add_to_secret_failed_with_reason">"Ne mogu dodati u privatni album. %1$s."</string>
   <string name="add_to_secret_successful">Dodano u privatni album</string>
   <string name="add_to_share_album_not_delete">"Ne mogu izbrisati fotografiju u dijeljenom albumu"</string>
+  <string name="added_to_clipboard_description">"Ovaj videozapis nije preuzet na vaš uređaj. Preuzeti sad i kopirati u međuspremnik?"</string>
   <string name="add_to_trust_device">Ovo je pouzdani uređaj</string>
   <string name="added_to_clipboard_toast">Uspješno kopirano</string>
   <string name="added_to_favorites">Dodano u favorite</string>
@@ -234,6 +235,9 @@ Umjesto toga odaberite druge fotografije i pokušajte ponovno."</string>
   <string name="ai_no_net_toast">"Ne mogu se povezati na mrežu. Pokušajte ponovno."</string>
   <string name="ai_normal_theme_button">Izradi</string>
   <string name="ai_photo_upload_fail">"Nije moguće prenijeti. Pokušajte ponovno."</string>
+  <string name="ai_plugin_install_msg">Preuzmite dodatak da biste mogli stvarati AI portrete.</string>
+  <string name="ai_plugin_install_title">Preuzmite dodatak</string>
+  <string name="ai_plugin_installing_tip">Preuzimanje dodatka…</string>
   <string name="ai_photos_upload_fail_tip">"Fotografije korisnika %s još nisu učitane. Sada možete nastaviti učitavati fotografije."</string>
   <string name="ai_please_agree_privacy_toast">Prvo prihvatite naše uvjete i odredbe</string>
   <string name="ai_preview_failed_retry_button">Pokušaj ponovno</string>
@@ -497,7 +501,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="backup_disable_message">Galerija mora izbrisati predmemoriju aplikacije jer ste isključili sinkronizaciju s cloudom.</string>
   <string name="backup_display">Podsjetnici za pohranu</string>
   <string name="backup_file_over_size_desc">"Fotografije veće od %1$s i videozapisi veći od %2$s ne mogu biti pohranjeni."</string>
-  <string name="backup_google_description">Čuvajte svoje fotografije sigurnim kopiranjem na svoj Google račun</string>
+  <string name="backup_google_description">Zaštitite svoje fotografije tako da ih sigurnosno kopirate na svoj Google račun</string>
   <string name="backup_google_name">Google fotografije</string>
   <string name="backup_immediately">Pohrani</string>
   <string name="backup_need_sync_desc">Dodirnite tipku za nastavak</string>
@@ -772,6 +776,7 @@ Spojite punjač i isključite zaslon da se pojave uspomene."</string>
   <string name="collect_diagnosis_log">Prikupljanje zapisa</string>
   <string name="confirm">U redu</string>
   <string name="confirm_activate_email">Potvrđeno</string>
+  <string name="common_google_play_services_unknown_issue">%1$s ima problema s Google Play uslugama. Pokušajte ponovno.</string>
   <string name="confirm_cancel_task_files">Otkazati slanje datoteka na %1$s?</string>
   <string name="confirm_cancel_task_images">Otkazati slanje slika na %1$s?</string>
   <string name="confirm_delete_selected_albums">Izbrisati odabrane albume?</string>
@@ -1366,7 +1371,7 @@ da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
   <string name="home_menu_collage">Kolaž</string>
   <string name="home_menu_id_photo">ID</string>
   <string name="home_menu_macarons">Čarobna vinjeta</string>
-  <string name="home_menu_magic_matting">Magic</string>
+  <string name="home_menu_magic_matting">Izrezivanje</string>
   <string name="home_menu_photo_movie">Isječak</string>
   <string name="home_menu_print">Ispiši fotografije</string>
   <string name="home_menu_video_post">Video efekti</string>
@@ -1578,12 +1583,12 @@ da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
   <string name="magic_matting_download_failed_for_notwork">"Ne mogu preuzeti. Provjerite mrežne postavke i pokušajte ponovo."</string>
   <string name="magic_matting_download_sdk_without_wifi_msg">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mob. podataka?"</string>
   <string name="magic_matting_download_sdk_without_wifi_msg_china">"Čini se da vaš uređaj nije povezan s Wi-Fi mrežom. Želite li preuzeti dodatak pomoću mob. podataka?"</string>
-  <string name="magic_matting_download_sdk_without_wifi_title">Preuzmi \"Magija\" dodatak</string>
+  <string name="magic_matting_download_sdk_without_wifi_title">Preuzmi \"Izrezivanje\" dodatak</string>
   <string name="magic_matting_error_px">"Ova veličina slike nije podržana"</string>
   <string name="magic_matting_face_fail">"Obrađivanje lica nije uspjelo"</string>
   <string name="magic_matting_load_data_fail">"Učitavanje podataka nije uspjelo"</string>
-  <string name="magic_matting_module_finish">Dodatak \"Magija\" uspješno preuzet</string>
-  <string name="magic_matting_module_loading">Preuzimanje \"Magija\" dodatka…</string>
+  <string name="magic_matting_module_finish">Dodatak \"Izrezivanje\" uspješno preuzet</string>
+  <string name="magic_matting_module_loading">Preuzimanje \"Izrezivanje\" dodatka…</string>
   <string name="magic_max_px">Ova je slika prevelika</string>
   <string name="magic_mix_px">Slika je premala</string>
   <string name="magic_more_fact">Izgleda da je na ovoj fotografiji više osoba</string>
