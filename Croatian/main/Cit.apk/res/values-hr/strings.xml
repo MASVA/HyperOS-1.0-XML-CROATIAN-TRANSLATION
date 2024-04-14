@@ -234,7 +234,7 @@ i okrenite utikač punjača"</string>
   <string name="cit_digital_hall_sensor_cali_summary">Održavajte uređaj zatvorenim radi kalibracije</string>
   <string name="cit_digital_hall_sensor_cali_title">Test kalibracije digitalne dvorane</string>
   <string name="cit_digital_hall_sensor_check_summary">Vrijednost kuta prikazana u nastavku</string>
-  <string name="cit_digital_hall_sensor_check_title">Digital Hall test</string>
+  <string name="cit_digital_hall_sensor_check_title">Detekcija otvaranja i zatvaranja</string>
   <string name="cit_display_check_summary">Provjerite je li potrebna BMP datoteka na SD kartici. Potvrdite da se boje dosljedno prikazuju preko cijelog zaslona. Uvjerite se da nema nepravilnih svijetlih točaka i tamnih mrlja.</string>
   <string name="cit_display_check_title">Zaslon</string>
   <string name="cit_display_check_title_N8">Zaslon</string>
@@ -313,6 +313,9 @@ Prije testiranja morate umetnuti slušalice"</string>
   <string name="cit_headset_pull_finish">Slušalice su isključene</string>
   <string name="cit_headset_pull_finish_test">Isključene slušalice, završen test</string>
   <string name="cit_headset_right_hph_val">Vrijednost impedancije desnog kanala:</string>
+  <string name="cit_high_accdata_sensor_check_summary">Vrijednosti za X, Y, Z, koordinate bi se trebale pojaviti ispod. Postavite telefon ravno na radnu površinu prije provođenja testa</string>
+  <string name="cit_high_accdata_sensor_check_title">Visoki akcelerometar</string>
+  <string name="cit_high_accdata_sensor_graph_title">Grafikon visokog akcelerometra</string>
   <string name="cit_horn_motor_test">Test motora sirene</string>
   <string name="cit_hvdcp_charger_in">Punjenje putem (USB_HVDCP)</string>
   <string name="cit_init_fp_fod_test_tip">Početno okruženje za testiranje otiska prsta</string>

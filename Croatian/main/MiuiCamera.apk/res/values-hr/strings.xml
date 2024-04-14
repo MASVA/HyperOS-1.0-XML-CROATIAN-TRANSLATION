@@ -231,6 +231,8 @@
   <string name="accessibility_reference_line_image_on">Prikazuju se rešetke</string>
   <string name="accessibility_reference_line_text">Otvori panel s opcijama rešetki</string>
   <string name="accessibility_review_thumbnail">Najnovije fotografije</string>
+  <string name="accessibility_sdsr_tip_off">Ultra zumiranje je isključeno</string>
+  <string name="accessibility_sdsr_tip_on">Ultra zumiranje je uključeno</string>
   <string name="accessibility_scroll_button_slider">Kamera-Video-Prekidač</string>
   <string name="accessibility_select_all">Odaberi sve</string>
   <string name="accessibility_select_all_end">Odabrano sve</string>
@@ -1901,6 +1903,8 @@ Ultra RAW slike štede %d bit podataka zadržavajući još više detalja."</stri
 na svojim fotografijama"</string>
   <string name="portrait_bokeh_text">Portretni način</string>
   <string name="portrait_bokeh_tips">Postavite predmet unutar 1.5 m</string>
+  <string name="portrait_cvtype_item_title1">Stil portreta: Leica portret</string>
+  <string name="portrait_cvtype_item_title2">Stil portreta: Glavni portret</string>
   <string name="portrait_india_effect_entry_memory">Memorija</string>
   <string name="portrait_india_effect_entry_mono">Mono</string>
   <string name="portrait_india_effect_entry_pink">Pink</string>
@@ -1912,7 +1916,13 @@ na svojim fotografijama"</string>
   <string name="portrait_india_effect_entry_sweet">Karamela</string>
   <string name="portrait_india_effect_entry_warm">Toplo</string>
   <string name="portrait_india_effect_entry_young">Mlado</string>
+  <string name="portrait_mode_confirm_text">Potvrdi</string>
   <string name="portrait_mode_depth_effect_success_hint">Efekat dubine</string>
+  <string name="portrait_mode_hint_title">Odaberite portretni stil</string>
+  <string name="portrait_mode_item_item1">Elegantan i suptilan</string>
+  <string name="portrait_mode_item_item2">Prirodno i realno</string>
+  <string name="portrait_mode_item_title1">Glavni portret</string>
+  <string name="portrait_mode_item_title2">Leica portret</string>
   <string name="portrait_mode_lowlight_hint">"Sada je previše mračno"</string>
   <string name="portrait_mode_too_close_hint">Udaljite se dalje od objekta</string>
   <string name="portrait_mode_too_far_hint">Postavite predmet unutar 2 m</string>
@@ -2466,6 +2476,9 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="pref_scan_qrcode_entry_on">Uklj.</string>
   <string name="pref_scan_qrcode_summary">Samo stražnja kamera može skenirati QR kodove u načinu rada \"Fotografija\"</string>
   <string name="pref_scan_qrcode_title">Skeniraj QR kod</string>
+  <string name="pref_sdsr_summary">Neka umjetna inteligencija poboljša jasnoću zumiranih slika</string>
+  <string name="pref_sdsr_title">Ultra zumiranje</string>
+  <string name="pref_sdsr_title_beta">Ultra zumiranje (Beta)</string>
   <string name="pref_setting_title">Postavke</string>
   <string name="pref_settings_mode">Način kamere</string>
   <string name="pref_simple_hdr_entry_off">Isključeno</string>
@@ -2613,6 +2626,7 @@ Zadržite objekat oštrim dok je pozadina zamagljena."</string>
   <string name="scan_qrcode">Skeniraj QR kod</string>
   <string name="screen_on_proximity_sensor_hint">Da isključite ovu značajku, istovremeno pritisnite tipke "Natrag" i "Glasnoća +".</string>
   <string name="screen_on_proximity_sensor_summary">"Nemojte pokrivati područje slušalica"</string>
+  <string name="sdsr_capture_reprocess_toast">Obrada Ultra zumiranja…</string>
   <string name="search_menu_title">Traži</string>
   <string name="search_settings">Postavke kamere;Kvaliteta;Kvaliteta slike;Mjesto slike;Lokacija slike;Prepoznavanje lica;Zvuk kamere</string>
   <string name="secure_access_web_url">Siguran pristup</string>

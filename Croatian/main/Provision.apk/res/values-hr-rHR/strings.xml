@@ -171,110 +171,68 @@
   <string name="interconnection_communication_introduction">Xiaomi internetske komunikacijske usluge omogućuju vam otkrivanje, povezivanje i komunikaciju s drugim Xiaomi uređajima.</string>
   <string name="interconnection_service_global_item_title">Xiaomi usluge međusobnog povezivanja</string>
   <string name="interconnection_service_global_label">"&lt;Data>Xiaomi usluge međusobnog povezivanja omogućuje vašim uređajima međusobnu bežičnu interakciju. Uključivanjem ove značajke pristajete na Xiaomi usluge međusobnog povezivanja &lt;a href=%1$s>Pravila o privatnosti&lt;/a >.&lt;/Data>"</string>
-  <string name="interconnection_service_summary">"Xiaomi usluge međusobnog povezivanja Services omogućuju vašim uređajima međusobnu bežičnu interakciju. Ove usluge uključuju Mi Smart Hub, Mi Smart Play, HyperOS+ Beta, Mi Share i emitiranje.
-Da bi mogli normalno raditi, ovi servisi moraju se povezati na internet i zahtijevati sljedeća dopuštenja:
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Uključiti i isključiti Wi-Fi
-\u0009\u0009Za prijenos stavki putem Wi-Fi mreže
-\u0009\u0009Snimanje zvuka
-\u0009\u0009Za prijenos audio reprodukcije na povezane uređaje tijekom emitiranja ili zrcaljenja zaslona
-\u0009\u0009Pristupi pohrani
-\u0009\u0009Za bežični prijenos i primanje datoteka
-\u0009\u0009Mi Share:
-\u0009\u0009Pristup i spremnje datoteke i fotografije na svoj uređaj
-\u0009\u0009Za bežični prijenos i primanje datoteka
-\u0009\u0009Pristup lokaciji
-\u0009\u0009Za prijenos stavki na uređaje u blizini putem Wi-Fi i Bluetooth veze
-\u0009\u0009Uključiti i isključiti Bluetooth
-\u0009\u0009Za pronalaženje uređaja u blizini
-\u0009\u0009Uključiti i isključiti Wi-Fi
-\u0009\u0009Za pronalaženje uređaja u blizini i bežični prijenos datoteka
-\u0009\u0009Povezivanje s uređajima u blizini
-\u0009\u0009Za pronalaženje uređaja u blizini i povezivanje s njima
-\u0009\u0009Emitiranje:
-\u0009\u0009Uključiti i isključiti Bluetooth
-\u0009\u0009Za pronalaženje uređaja u blizini
-\u0009\u0009Uključiti i isključiti Wi-Fi
-\u0009\u0009Za pronalaženje uređaja u blizini
-\u0009\u0009Pristup lokaciji
-\u0009\u0009Za dobivanje informacija o uređajima u blizini
-\u0009\u0009Snimanje zvuka
-\u0009\u0009Za prijenos audio reprodukcije na povezani tijekom emitiranja
-Ako se ne slažete s davanjem takvih dopuštenja, nećete moći koristiti Xiaomi usluge međusobnog povezivanja Services.
-Značajke su podložne promjenama. Neke od gore navedenih značajki možda neće biti dostupne na svim modelima uređaja ili za sve verzije sustava. Posjetite HyperOS web stranicu (https://hyperos.mi.com) da provjerite kompatibilnost."</string>
-  <string name="interconnection_service_summary_china">"Usluge Xiaomi usluge međusobnog povezivanja Services omogućuju vašim uređajima međusobnu bežičnu interakciju. Možete koristiti Xiaomi usluge međusobnog povezivanja Services za kontrolu uređaja, prijenos audio i video reprodukcije, kombiniranje značajki uređaja ili pokretanje zadataka na jednom uređaju i nastavak s njima u istoj aplikaciji na drugim povezanim uređajima. Ova se aplikacija mora povezati s internetom i zahtijeva sljedeća dopuštenja:
-\u0009\u0009Mi Share:
-\u0009\u0009Pristupite fotografijama i datotekama pohranjenim na uređaju
-\u0009\u0009Za slanje i primanje prenesenog sadržaja
-\u0009\u0009Pristup informacijama o lokaciji
-\u0009\u0009Za prijenos datoteka putem Bluetootha ili Wi-Fi-ja
-\u0009\u0009Uključiti ili isključiti Bluetooth
-\u0009\u0009Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha
-\u0009\u0009Uključiti ili isključiti Wi-Fi
-\u0009\u0009Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi mreže
-\u0009\u0009Povežite se s uređajima u blizini
-\u0009\u0009Za otkrivanje i povezivanje s uređajima u blizini
-\u0009\u0009Prijenos reprodukcije medija (Mi Smart Play, emitiranje):
-\u0009\u0009Uključiti ili isključiti Bluetooth
-\u0009\u0009Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha
-\u0009\u0009Uključiti ili isključiti Wi-Fi
-\u0009\u0009Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi mreže
-\u0009\u0009Prenesite stavke na druge uređaje
-\u0009\u0009Za uspostavljanje Bluetooth veze između uređaja i prijenos stavki
-\u0009\u0009Pristup informacijama o lokaciji
-\u0009\u0009Za pristup informacijama o uređajima u blizini
-\u0009\u0009Snimanje internog zvuka uređaja
-\u0009\u0009Za prijenos i reprodukciju zvuka između uređaja tijekom emitiranja i zrcaljenja
-\u0009\u0009Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju
-\u0009\u0009Za slanje i primanje prenesenog sadržaja
-\u0009\u0009Pristup MAC adresi uređaja
-\u0009\u0009Za prepoznavanje povezanih uređaja
-\u0009\u0009Pristup sadržaju zaslona
-\u0009\u0009Za pristup sadržaju zaslona tijekom snimanja ili emitiranja, uključujući osjetljive podatke kao što su zvuk, zaporke, zaporke za plaćanje, fotografije, poruke itd.
-\u0009\u0009Primopredaja aplikacije (zadaci aplikacije na više uređaja, početni zaslon+):
-\u0009\u0009Uključiti ili isključiti Bluetooth
-\u0009\u0009Za otkrivanje uređaja u blizini putem Bluetootha
-\u0009\u0009Uključiti ili isključiti Wi-Fi
-\u0009\u0009Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi mreže
-\u0009\u0009Pristup MAC adresi uređaja
-\u0009\u0009Za prepoznavanje povezanih uređaja
-\u0009\u0009Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju
-\u0009\u0009Za slanje i primanje prenesenog sadržaja
-\u0009\u0009Prenesite stavke na druge uređaje
-\u0009\u0009Za uspostavljanje Bluetooth veze između uređaja i prijenos stavki
-\u0009\u0009Snimanje internog zvuka uređaja
-\u0009\u0009Za prijenos i reprodukciju zvuka između uređaja tijekom emitiranja i zrcaljenja
-\u0009\u0009Pristup sadržaju zaslona
-\u0009\u0009Za pristup sadržaju zaslona tijekom snimanja ili emitiranja, uključujući osjetljive podatke kao što su zvuk, zaporke, zaporke za plaćanje, fotografije, poruke itd.
-\u0009\u0009Zajednički međuspremnik i snimanje slika s različitih uređaja:
-\u0009\u0009Uključiti ili isključiti Bluetooth
-\u0009\u0009Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha
-\u0009\u0009Uključiti ili isključiti Wi-Fi
-\u0009\u0009Za otkrivanje obližnjih uređaja za emitiranje putem Wi-Fi mreže
-\u0009\u0009Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju
-\u0009\u0009Za slanje i primanje prenesenog sadržaja
-\u0009\u0009Pristup međuspremniku
-\u0009\u0009Za dopuštanje aplikacijama pristup kopiranom sadržaju
-\u0009\u0009Mrežna pomoć, zajedničke tipkovnice i miševi i dijeljena kamera:
-\u0009\u0009Uključite ili isključite Bluetooth
-\u0009\u0009Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha
-\u0009\u0009Uključiti ili isključiti Wi-Fi
-\u0009\u0009Za otkrivanje obližnjih uređaja za emitiranje putem Wi-Fi mreže
-\u0009\u0009Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju
-\u0009\u0009Za slanje i primanje prenesenog sadržaja
-\u0009\u0009Pristup kameri
-\u0009\u0009Za fotografiranje i snimanje videozapisa
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Uključiti ili isključiti Bluetooth
-\u0009\u0009Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha
-\u0009\u0009 Uključiti ili isključiti Wi-Fi
-\u0009\u0009Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi mreže
-\u0009\u0009Snimanje internog zvuka uređaja
-\u0009\u0009Za prijenos i reprodukciju zvuka između uređaja tijekom emitiranja i zrcaljenja
-\u0009\u0009Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju
-\u0009\u0009Za slanje i primanje prenesenog sadržaja
-Ako ne prihvatite davanje ovih dopuštenja, nećete moći koristiti ove usluge.
-Dostupne usluge međusobnog povezivanja mogu se razlikovati ovisno o verziji vašeg sustava i modelu uređaja. Pronađite više informacija na %s."</string>
+  <string name="interconnection_service_summary_china">Xiaomi Interconnectivity Services omogućuju vašim uređajima međusobnu bežičnu interakciju. %1$s Dostupne usluge međusobnog povezivanja mogu se razlikovati ovisno o verziji vašeg sustava i modelu uređaja. Pronađite više informacija na %2$s.</string>
+  <string name="interconnection_service_summary_china_fragment1">Ove usluge uključuju Mi Smart Play, emitiranje, prijenos aplikacije, početni zaslon+, dijeljeni međuspremnik, bežično povezivanje (uključujući mrežnu sinkronizaciju), kontrole na različitim uređajima, kameru na različitim uređajima i Mi Smart Hub. Da bi mogli normalno raditi, Xiaomi Interconnectivity Services moraju se povezati na internet i zahtijevaju sljedeća dopuštenja:</string>
+  <string name="interconnection_service_summary_china_fragment10">Za pristup informacijama o uređajima u blizini</string>
+  <string name="interconnection_service_summary_china_fragment11">Snimanje internog zvuka uređaja</string>
+  <string name="interconnection_service_summary_china_fragment12">Za prijenos i reprodukciju zvuka između uređaja tijekom emitiranja i zrcaljenja</string>
+  <string name="interconnection_service_summary_china_fragment13">Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju</string>
+  <string name="interconnection_service_summary_china_fragment14">Za slanje i primanje prenesenog sadržaja</string>
+  <string name="interconnection_service_summary_china_fragment15">Pristup MAC adresi uređaja</string>
+  <string name="interconnection_service_summary_china_fragment16">Za prepoznavanje povezanih uređaja</string>
+  <string name="interconnection_service_summary_china_fragment17">Pristup sadržaju zaslona</string>
+  <string name="interconnection_service_summary_china_fragment18">Za pristup sadržaju zaslona tijekom snimanja ili emitiranja, uključujući osjetljive podatke kao što su zvuk, zaporke, zaporke za plaćanje, fotografije, poruke itd.</string>
+  <string name="interconnection_service_summary_china_fragment19">Primopredaja aplikacije i početni zaslon+:</string>
+  <string name="interconnection_service_summary_china_fragment2">Mi Smart Play i emitiranje:</string>
+  <string name="interconnection_service_summary_china_fragment20">Uključite ili isključite Bluetooth</string>
+	<string name="interconnection_service_summary_china_fragment21">Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha</string>
+  <string name="interconnection_service_summary_china_fragment22">Uključiti ili isključiti Wi-Fi</string>
+  <string name="interconnection_service_summary_china_fragment23">Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi-ja</string>
+  <string name="interconnection_service_summary_china_fragment24">Pristup MAC adresi uređaja</string>
+  <string name="interconnection_service_summary_china_fragment25">Za prepoznavanje povezanih uređaja</string>
+  <string name="interconnection_service_summary_china_fragment26">Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju</string>
+  <string name="interconnection_service_summary_china_fragment27">Za slanje i primanje prenesenog sadržaja</string>
+  <string name="interconnection_service_summary_china_fragment28">Prijenos stavki na druge uređaje</string>
+  <string name="interconnection_service_summary_china_fragment29">Za uspostavljanje Bluetooth veze između uređaja i prijenos stavki</string>
+  <string name="interconnection_service_summary_china_fragment3">Uključiti ili isključiti Bluetooth</string>
+  <string name="interconnection_service_summary_china_fragment30">Snimanje internog zvuka uređaja</string>
+  <string name="interconnection_service_summary_china_fragment31">Za prijenos i reprodukciju zvuka između uređaja tijekom emitiranja i zrcaljenja</string>
+  <string name="interconnection_service_summary_china_fragment32">Pristup sadržaju zaslona</string>
+  <string name="interconnection_service_summary_china_fragment33">Za pristup sadržaju zaslona tijekom snimanja ili emitiranja, uključujući osjetljive podatke kao što su zvuk, zaporke, zaporke za plaćanje, fotografije, poruke itd.</string>
+  <string name="interconnection_service_summary_china_fragment34">Dijeljeni međuspremnik:</string>
+  <string name="interconnection_service_summary_china_fragment35">Uključiti ili isključiti Bluetooth</string>
+  <string name="interconnection_service_summary_china_fragment36">Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha</string>
+  <string name="interconnection_service_summary_china_fragment37">Uključiti ili isključiti Wi-Fi</string>
+	<string name="interconnection_service_summary_china_fragment38">Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi-ja</string>
+  <string name="interconnection_service_summary_china_fragment39">Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju</string>
+  <string name="interconnection_service_summary_china_fragment4">>Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha</string>
+  <string name="interconnection_service_summary_china_fragment40">Za slanje i primanje prenesenog sadržaja</string>
+  <string name="interconnection_service_summary_china_fragment41">Pristup međuspremniku</string>
+  <string name="interconnection_service_summary_china_fragment42">Za dopuštanje aplikacijama pristupa kopiranom sadržaju</string>
+  <string name="interconnection_service_summary_china_fragment43">Bežično povezivanje (uključujući mrežnu sinkronizaciju), kontrole na različitim uređajima i kamera na različitim uređajima:</string>
+  <string name="interconnection_service_summary_china_fragment44">Uključiti ili isključiti Bluetooth</string>
+  <string name="interconnection_service_summary_china_fragment45">Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha</string>
+  <string name="interconnection_service_summary_china_fragment46">Uključiti ili isključiti Wi-Fi</string>
+  <string name="interconnection_service_summary_china_fragment47">Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi-ja</string>
+  <string name="interconnection_service_summary_china_fragment48">Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju</string>
+  <string name="interconnection_service_summary_china_fragment49">Za slanje i primanje prenesenog sadržaja</string>
+  <string name="interconnection_service_summary_china_fragment5">Uključiti ili isključiti Wi-Fi</string>
+  <string name="interconnection_service_summary_china_fragment50">Pristup kameri</string>
+  <string name="interconnection_service_summary_china_fragment51">Za snimanje fotografija i videa</string>
+  <string name="interconnection_service_summary_china_fragment52">Mi Smart Hub:</string>
+  <string name="interconnection_service_summary_china_fragment53">Uključiti ili isključiti Bluetooth</string>
+  <string name="interconnection_service_summary_china_fragment54">Za otkrivanje uređaja u blizini za povezivanje putem Bluetootha</string>
+  <string name="interconnection_service_summary_china_fragment55">Uključiti ili isključiti Wi-Fi</string>
+  <string name="interconnection_service_summary_china_fragment56">Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi-ja</string>
+  <string name="interconnection_service_summary_china_fragment57">Snimi interni zvuk uređaja</string>
+  <string name="interconnection_service_summary_china_fragment58">Za prijenos i reprodukciju zvuka između uređaja tijekom emitiranja i zrcaljenja</string>
+  <string name="interconnection_service_summary_china_fragment59">Pristup fotografijama, videozapisima i zvuku pohranjenim na uređaju</string>
+  <string name="interconnection_service_summary_china_fragment6">Za otkrivanje uređaja u blizini i prijenos stavki putem Wi-Fi-ja</string>
+  <string name="interconnection_service_summary_china_fragment60">Za slanje i primanje prenesenog sadržaja</string>
+  <string name="interconnection_service_summary_china_fragment61">"Ako ne pristanete dati ova dopuštenja, nećete moći koristiti ove usluge."</string>
+  <string name="interconnection_service_summary_china_fragment7">Prijenos stavki na druge uređaje</string>
+  <string name="interconnection_service_summary_china_fragment8">Za uspostavljanje Bluetooth veze između uređaja i prijenos stavki</string>
+  <string name="interconnection_service_summary_china_fragment9">Pristup informacijama o lokaciji</string>
   <string name="interconnection_service_summary_global">"Značajke Xiaomi usluge međusobnog povezivanja mogu se razlikovati ovisno o modelu uređaja i verziji sustava. Posjetite službenu web stranicu sustava kako biste saznali više."</string>
   <string name="interconnection_service_title">Xiaomi usluge međusobnog povezivanja</string>
   <string name="item_contents_wwarning">"Ako izgubite svoj uređaj, nećete moći spriječiti druge ljude da ga koriste i pristupaju vašim podacima ako ne postavite Zaklj. zaslona. Svejedno preskočiti?"</string>

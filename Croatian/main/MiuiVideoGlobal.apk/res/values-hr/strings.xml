@@ -210,7 +210,14 @@
     <string name="diagnosis_log_sent_format">"Poslano je uspješno.
 ID:%s
 Pošaljite ovaj kod našem tehničaru."</string>
-    <string name="dialog_privacy_info_new2">Da biste mogli koristiti njegove usluge, morate se složiti da će%1$s prikupljati, obrađivati i koristiti vaše osobne podatke. Smatrat će se da ste pročitali i prihvatili naša &lt;a href=%2$s&gt;Pravila o Privatnosti&lt;/a&gt; kada dodirnete \"Slažem se\" u nastavku.</string>
+   <string name="dialog_cancel">Odustani</string>
+   <string name="dialog_clearn_content">Želite li sada obrisati povijest pregledavanja?</string>
+   <string name="dialog_clearn_title">Brisanje povijesti</string>
+   <string name="dialog_confirm">Dodaj</string>
+   <string name="dialog_delete_bookmarks_content">Izbrisati oznaku sada?</string>
+   <string name="dialog_disagree_continue">Nastavi</string>
+   <string name="dialog_disagree_info">"Ako se ne slažete s Mi Video Politikom o privatnosti, nećete moći koristiti naše online usluge i moći ćete samo gledati videozapise pohranjene na vašem uređaju. Svejedno nastaviti? "</string>
+    <string name="dialog_privacy_info_new2">Da biste mogli koristiti njegove usluge, morate se složiti da će %1$s prikupljati, obrađivati i koristiti vaše osobne podatke. Smatrat će se da ste pročitali i prihvatili naša &lt;a href=%2$s&gt;Pravila o Privatnosti&lt;/a&gt; kada dodirnete \"Slažem se\" u nastavku.</string>
     <string name="dialog_privacy_title">Autorizacija</string>
     <string name="dialog_revoke_privacy_info_new2">Nakon što opozovete autorizaciju, aplikacija će prestati prikupljati podatke, i svi povezani podaci bit će izbrisani s naših poslužitelja. To bi aplikaciju moglo učiniti gotovo neupotrebljivim. Opozvati          odobrenje uopće?</string>
     <string name="dialog_revoke_privacy_title">Opozvati autorizaciju</string>
@@ -358,12 +365,13 @@ Pošaljite ovaj kod našem tehničaru."</string>
     <string name="galleryplus_restore_play_speed">Reprodukcija redovnom brzinom</string>
     <string name="get_back_pwd">Resetiranje zaporke</string>
     <string name="get_ph_ticket">Dobivanje koda</string>
-    <string name="get_phone_bind_exceed_limit">Možete povezati do 3 Mi Računa s jednim brojem telefona. Nije moguće dodati nove račune.</string>
+    <string name="get_phone_bind_exceed_limit">Možete povezati do 3 Xiaomi računa s jednim brojem telefona. Nije moguće dodati nove račune.</string>
     <string name="get_phone_verifycode_exceed_limit">Na ovaj je broj poslan previše verifikacijskih kodova. Pričekajte 24 sata i pokušajte ponovo.</string>
     <string name="goto_sign_up">Izradi račun</string>
     <string name="grant_write_settings_permission">Odobrite ovo dopuštenje za kontrolu svjetline playera</string>
     <string name="have_learned">Razumijem</string>
     <string name="hidden_channels">Sljedeći kanali neće biti prikazani na početnoj stranici.</string>
+	 <string name="hiding_dialog_ok">Postavi</string>
     <string name="hide">Sakrij</string>
     <string name="history">Povijest</string>
     <string name="history_local_video">Lokalno</string>

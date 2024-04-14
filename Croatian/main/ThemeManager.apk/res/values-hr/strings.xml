@@ -567,6 +567,7 @@ Dodirnite za isključivanje."</string>
   <string name="local_photos">Lokalne fotografije</string>
   <string name="local_resouce_creator_name">Developer: %1$s</string>
   <string name="lock_screen_apply">Postavi za Zaklj. zaslon</string>
+  <string name="lock_screen_card_title">Umjetnički Zaklj. zaslon</string>
   <string name="lock_screen_keyguard_guide_popup">Provjerite potpuno nove, personalizirane značajke i dizajn zaključanog zaslona</string>
   <string name="lock_screen_keyguard_tip_title">Potpuno novi personalizirani zaključani zaslon</string>
   <string name="lockscreen_apply_failured">"Ne mogu postaviti pozadinu Zaklj. zaslona"</string>

@@ -923,6 +923,7 @@
 	 <string name="tt_count_down_view">Preskoči</string>
 	 <string name="tt_dislike_header_tv_back">Natrag</string>
 	 <string name="tt_dislike_header_tv_title">Odaberi</string>
+	 <string name="tt_display_error">Pogreška prikaza</string>
 	 <string name="tt_error_access_method_pass">Ilegalna metoda pristupa</string>
 	 <string name="tt_error_ad_able_false_msg">Zabranite oglase na zahtjev usklađenošću, provjerite postavke COPPA/CCPA/GDPR</string>
 	 <string name="tt_error_ad_sec_false_msg">Sigurnosna provjera nije uspjela</string>
@@ -1013,6 +1014,8 @@
 	 <string name="tt_splash_wriggle_text">Idite na stranicu s detaljima ili aplikaciju treće strane</string>
 	 <string name="tt_splash_wriggle_top_text">Okrenite telefon</string>
 	 <string name="tt_splash_wriggle_top_text_style_17">Okrenite telefon ili dodirnite ikonu</string>
+	 <string name="tt_suggestion_commit">Pošalji</string>
+     <string name="tt_suggestion_description">Unesite opis pogreške prikaza i kliknite tipku Pošalji. Oglasni oglas također će biti poslan natrag u Pangle da pomogne u rješavanju problema.</string>
 	 <string name="tt_sys_error">Pogreška sustava</string>
 	 <string name="tt_template_load_fail">Učitavanje glavnog predloška nije uspjelo!</string>
 	 <string name="tt_text_privacy_app_version">Verzija：V</string>

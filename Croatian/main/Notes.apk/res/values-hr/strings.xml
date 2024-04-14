@@ -890,9 +890,11 @@ Dodirnite + da napravite mapu"</string>
   <string name="toast_note_privacy_mode">"Ne mogu izraditi bilješku u Gost načinu rada"</string>
   <string name="toast_notes_delete_success">Uspješno izbrisano</string>
   <string name="toast_notes_hidden">Uspješno skriveno</string>
-  <string name="toast_notes_hidden_edit">Ova bilješka je uspješno skrivena. Povucite dolje da biste vidjeli skrivene bilješke.</string>
-  <string name="toast_notes_hidden_home">Ova bilješka je uspješno skrivena. Povucite dolje da biste vidjeli skrivene bilješke.</string>
-  <string name="toast_notes_hidden_pad">Ova je bilješka sada skrivena. Povucite bočnu ploču prema dolje za prikaz skrivenih bilješki.</string>
+  <string name="toast_notes_hidden_edit">Bilješka je skrivena. Povucite prema dolje da vidite skrivene bilješke.</string>
+  <string name="toast_notes_hidden_edit_new">Bilješka je skrivena. Povucite prema dolje da vidite skrivene bilješke.</string>
+  <string name="toast_notes_hidden_home">Bilješka je skrivena. Povucite prema dolje da vidite skrivene bilješke.</string>
+  <string name="toast_notes_hidden_home_new">Bilješka je skrivena. Povucite prema dolje da vidite skrivene bilješke.</string>
+  <string name="toast_notes_hidden_pad">Bilješka je skrivena. Povucite bočnu ploču da vidite skrivene bilješke.</string>
   <string name="toast_notes_unhidden">Uspješno otkriveno</string>
   <string name="toast_pic_is_not_really">Spremanje slike…</string>
   <string name="toast_privacy_mode">Ne mogu to učiniti za skrivene bilješke</string>
