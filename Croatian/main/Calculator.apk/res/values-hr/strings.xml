@@ -282,8 +282,8 @@ Jednogodišnji i petogodišnji LPR će se citirati 20. u mjesecu (mogu doći do 
     <string name="mother">Majka</string>
     <string name="mt_max">Iznos koji ste unijeli je prevelik</string>
     <string name="mulDesc">množenje</string>
-	 <string name="name_discount">Popust (% off)</string>
-    <string name="name_original">Prvotna cijena</string>
+	 <string name="name_discount">Popust (%s)</string>
+    <string name="name_original">Prvobitna cijena</string>
     <string name="name_price">Konačna cijena</string>
     <string name="name_save">"Štedite "</string>
     <string name="negDesc">Promjeni između temperatura ispod i iznad nule</string>
