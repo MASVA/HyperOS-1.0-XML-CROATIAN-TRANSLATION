@@ -5056,7 +5056,11 @@ Da biste saznali više, obratite se vjerovniku."</string>
   <string name="fiveg_sa_vice_switch_title">SA na drugoj SIM kartici</string>
   <string name="fiveg_vonr_switch_summary">Koristite VoNR u 5G mrežnim okruženjima kako biste poboljšali iskustvo pozivanja. Ova je značajka dostupna samo u svrhu testiranja.</string>
   <string name="fiveg_vonr_switch_title">Postavke VoNR-a</string>
-  <string name="fix_connectivity">Rješavanje problema s povezivošću</string>
+  <string name="fivega_enhanced_network_summary">Iskusite novu 5G-A mrežnu tehnologiju, samo u svrhu testiranja</string>
+  <string name="fivega_enhanced_network_title">5G-A poboljšana mreža</string>
+  <string name="fivega_switch_summary">"Doživite vrhunsku brzinu 5G. Stvarni status ovisi o mreži lokalnog operatera i implementaciji usluge"</string>
+  <string name="fivega_switch_title">5G-A</string>
+  <string name="fix_connectivity">Rješavanje problema s povezivanjem</string>
   <string name="flash_drive_backup_btn">Izradi Sig. kopiju na USB uređaj</string>
   <string name="flash_drive_backup_disable">Prvo spojite USB pogon</string>
   <string name="flash_drive_backup_enable">Za Sig. kopiranje ili vraćanje stavki koristite USB pogon</string>

@@ -844,6 +844,7 @@
 	<string name="safe_space_tip_dialog_description">"%1$s nije testiran na sigurnosne probleme od strane Xiaomija. Kako bismo vas zaštitili od mogućih rizika, poduzete su sljedeće mjere:"</string>
    <string name="safe_space_tip_dialog_title">Aktivne mjere zaštite</string>
 	<string name="safe_version_install">Sigurna verzija</string>
+	<string name="safety_hint_bundled_download_content">\"%1$s\" je dio paketa za preuzimanje, stvarna aplikacija koju je potrebno instalirati je dostupna.. Ako i dalje želite instalirati %1$s, dodirnite ovdje.</string>
 	<string name="saturday">Subota</string>
 	<string name="saturday_short">Sub</string>
 	<string name="saturday_shortest">Sub</string>

@@ -44,6 +44,7 @@
   <string name="agree_terms_input_method_kika">"Pročitao sam i prihvaćam Kika Pravila o privatnosti."</string>
   <string name="agreement_declare_use_network_and_location_china">"Osim toga, sljedeće usluge spojit će se na mrežu i pristupiti vašoj lokaciji: "</string>
   <string name="agreement_declare_use_network_china">spojit će se na mrežu.</string>
+  <string name="app_battery_usage">"Za provjeru potrošnje baterije pojedinačnih aplikacija"</string>
   <string name="ai_button_desc">AI tipka vam omogućuje pokretanje Mi AI i korištenje Mi AI prečaca.</string>
   <string name="ai_button_double_press">Dvaput pritisnite</string>
   <string name="ai_button_double_press_desc">Postavite značajke Mi AI</string>
@@ -171,7 +172,6 @@
   <string name="interconnection_communication_introduction">Xiaomi internetske komunikacijske usluge omogućuju vam otkrivanje, povezivanje i komunikaciju s drugim Xiaomi uređajima.</string>
   <string name="interconnection_service_global_item_title">Xiaomi usluge međusobnog povezivanja</string>
   <string name="interconnection_service_global_label">"&lt;Data>Xiaomi usluge međusobnog povezivanja omogućuje vašim uređajima međusobnu bežičnu interakciju. Uključivanjem ove značajke pristajete na Xiaomi usluge međusobnog povezivanja &lt;a href=%1$s>Pravila o privatnosti&lt;/a >.&lt;/Data>"</string>
-  <string name="interconnection_service_summary_china">Xiaomi Interconnectivity Services omogućuju vašim uređajima međusobnu bežičnu interakciju. %1$s Dostupne usluge međusobnog povezivanja mogu se razlikovati ovisno o verziji vašeg sustava i modelu uređaja. Pronađite više informacija na %2$s.</string>
   <string name="interconnection_service_summary_china_fragment1">Ove usluge uključuju Mi Smart Play, emitiranje, prijenos aplikacije, početni zaslon+, dijeljeni međuspremnik, bežično povezivanje (uključujući mrežnu sinkronizaciju), kontrole na različitim uređajima, kameru na različitim uređajima i Mi Smart Hub. Da bi mogli normalno raditi, Xiaomi Interconnectivity Services moraju se povezati na internet i zahtijevaju sljedeća dopuštenja:</string>
   <string name="interconnection_service_summary_china_fragment10">Za pristup informacijama o uređajima u blizini</string>
   <string name="interconnection_service_summary_china_fragment11">Snimanje internog zvuka uređaja</string>
@@ -509,12 +509,16 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="permission_write_device_store">Spremanje stavki u pohranu uređaja</string>
   <string name="permission_write_device_store_summary">Za predmemoriranje preuzetih izvornih konfiguracijskih datoteka</string>
   <string name="permission_xunlei_introduction">Za prijavu i upravljanje sistemskim računima u svrhu pružanja Xunlei usluga</string>
+  <string name="phone_introduction">Ovu aplikaciju možete koristiti za pronalaženje i neutraliziranje virusa, blokiranje poziva i poruka, optimiziranje performansi za igranje, štednju baterije, kao i za upravljanje aplikacijama, dopuštenjima, upotrebom podataka i više.</string>
+  <string name="phone_name_security">Sigurnost</string>
   <string name="phone_service_introduction">Telefonija je osnovna usluga koja vašem uređaju omogućuje upućivanje poziva, slanje i primanje poruka te povezivanje s mrežom.</string>
   <string name="poco_agree_terms_other">(Uključujući POCO Launcher Pravila o privatnosti i Korisnički ugovor)</string>
   <string name="poco_launcher_privacy_policy">POCO Launcher Pravila o privatnosti</string>
   <string name="poco_launcher_user_agreement">POCO Launcher Korisnički ugovor</string>
   <string name="position_header">Dijeljenje informacija o lokaciji</string>
   <string name="position_subheading">Informacije o lokaciji</string>
+  <string name="power_and_performance">Baterija i performanse</string>
+  <string name="power_and_performance_introduction">Ova usluga pruža osnovno upravljanje baterijom, statistiku upotrebe, značajke uštede energije i više.</string>
   <string name="pref_title_data_slot">Poželjni podaci SIM kartice</string>
   <string name="pref_title_voice_slot">Poželjne glas. usluge SIM kartice</string>
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
@@ -558,7 +562,7 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="saturday_shortest">S</string>
   <string name="screen_recording_introduction">"Ova aplikacija omogućuje vam snimanje onoga što se događa na vašem zaslonu."</string>
   <string name="search_menu_title">Traži</string>
-  <string name="security_introduction">Ovom aplikacijom možete očistiti smeće na svom uređaju, pronaći i neutralizirati viruse, optimizirati performanse za igre, uštedjeti bateriju, upravljati aplikacijama, dopuštenjima i još mnogo toga.</string>
+  <string name="security_introduction">Ovu aplikaciju možete koristiti za pronalaženje i neutraliziranje virusa, blokiranje poziva i poruka, optimiziranje performansi za igranje, štednju baterije, kao i za upravljanje aplikacijama, dopuštenjima, upotrebom podataka i više.</string>
   <string name="security_mobile_account_introduction">Za prijavu i upravljanje sistemskim računima</string>
   <string name="select_font_modele_tips">Uvijek možete odabrati novi font u Temama</string>
   <string name="send">Pošalji</string>
@@ -685,6 +689,7 @@ Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; 
   <string name="terms_of_use_label_use_location_and_network_global">Prije korištenja HyperOS-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, sljedeće će se usluge povezati s mrežom i pristupiti vašoj lokaciji:</string>
   <string name="terms_of_use_label_use_network_china">Prije korištenja HyperOS-a morate pročitati i prihvatiti naš Korisnički ugovor i Pravila o privatnosti. Zaštitit ćemo vaše osobne podatke u skladu s relevantnim zakonima, propisima i politikama privatnosti. Kad je vaš uređaj aktiviran, na mrežu će se povezati sljedeće usluge:</string>
   <string name="terms_of_use_label_wallpaper">Slika pozadine</string>
+  <string name="terms_of_use_label_webview">Web-prikaz sustava Android</string>
   <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Morate prihvatiti Facemoji Pravila o privatnosti prije korištenja ove značajke."</string>

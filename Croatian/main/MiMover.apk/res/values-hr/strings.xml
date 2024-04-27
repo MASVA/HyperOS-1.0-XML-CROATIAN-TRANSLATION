@@ -6,12 +6,14 @@
   <string name="PRD_summary_4">Isključivanje Wi-Fi-ja ili promjena Wi-Fi mreže tijekom procesa prijenosa može uzrokovati neuspjeh procesa prijenosa.</string>
   <string name="PRD_summary_4_china">Isključivanje Wi-Fi-ja ili promjena Wi-Fi mreže tijekom procesa prijenosa može uzrokovati neuspjeh procesa prijenosa.</string>
   <string name="PRD_summary_5">Velike brzine prijenosa mogu uzrokovati da se vaš uređaj zagrije više nego inače. Budite sigurni da će se vaš uređaj ohladiti kada prijenos završi.</string>
+  <string name="PRD_summary_6">"Privatni albumi, bilješke i datoteke ne mogu se prenijeti sa starog uređaja. Uklonite ih iz privatnih mapa prije pokretanja prijenosa."</string>
   <string name="PRD_summary_tablet_1">Tijekom prijenosa, svi podaci za ove aplikacije (uključujući povijest razgovora) bit će prebrisani.</string>
   <string name="PRD_title_1">%1$d. Podaci o aplikaciji već postoje na novom uređaju za sljedeće aplikacije:</string>
   <string name="PRD_title_2">WeChat</string>
   <string name="PRD_title_3">QQ</string>
   <string name="PRD_title_4">%1$d. Pažljivo rukujte svojim uređajem</string>
   <string name="PRD_title_5">%1$d. Vaš uređaj će se zagrijati tijekom prijenosa</string>
+  <string name="PRD_title_6">"Privatne stavke nije moguće prenijeti"</string>
   <string name="PRD_title_tablet_1">%1$d. Podaci o aplikaciji već postoje na novom uređaju za sljedeće aplikacije:</string>
   <string name="PRD_title_tablet_4">%1$d. Pažljivo rukujte svojim uređajem</string>
   <string name="PRD_title_tablet_5">%1$d. Vaš uređaj će se zagrijati tijekom prijenosa</string>
@@ -912,7 +914,7 @@ na vašem iPhoneu"</string>
   <string name="uncollected">Nije prikupljeno</string>
   <string name="unselected">Nije odabrano</string>
   <string name="update_later">Ne sada</string>
-  <string name="update_now">Ažuriraj sada</string>
+  <string name="update_now">Instaliraj</string>
   <string name="use_purpose">Svrha korištenja</string>
   <string name="use_purpose_description">"Za povezivanje s hotspotom novog uređaja"</string>
   <string name="use_scene">Scenarij korištenja</string>

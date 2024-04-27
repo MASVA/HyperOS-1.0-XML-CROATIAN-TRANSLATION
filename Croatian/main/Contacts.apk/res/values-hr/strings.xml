@@ -668,7 +668,7 @@ Razlog: \"%s\""</string>
     <string name="hide_app_description_title">Ukloniti \"Kontakti\" sa Poč. zaslona?</string>
     <string name="hint_distance">Držite dva uređaja jedan blizu drugoga tijekom procesa uvoza kako biste bili sigurni da će ostati povezani.</string>
     <string name="hint_findContacts">"Pronađi kontakte"</string>
-	 <string name="hint_more_contact">Ako uvoz stvara dvostruke kontakte, koristite značajku \"Spoji dvostruke kontakte\".</string>
+	 <string name="hint_more_contact">Spoji dvostruke kontakte</string>
     <string name="hybrid_check_network">Postavke mreže</string>
     <string name="hybrid_data_error">Došlo je do pogreške</string>
     <string name="hybrid_locating_fail">"Ne mogu pronaći vašu lokaciju"</string>
