@@ -25,10 +25,16 @@
   <string name="app_name">CIT</string>
   <string name="audio_spk_cal_wait">Kalibracija, pričekajte…</string>
   <string name="audio_spk_def">Kalibrirajte zvučnike</string>
+  <string name="auto_bottom_left_high_speaker">Lijevi donji visokotonac</string>
+  <string name="auto_bottom_left_low_speaker">Lijevi donji niskotonac</string>
+  <string name="auto_bottom_right_low_speaker">Desni donji niskotonac</string>
   <string name="auto_frontflash_description">Sva svjetla prednje bljeskalice su uključena, dodirnite za prolaz, inače dodirnite test nije uspio</string>
   <string name="auto_frontflash_title">Test bljeskalice prednje kamere</string>
   <string name="auto_rearflash_description">Sva svjetla bljeskalice stražnje kamere su uključena, dodirnite za prolaz, inače test nije uspio</string>
   <string name="auto_rearflash_title">Test bljeskalice stražnje kamere</string>
+  <string name="auto_top_left_high_speaker">Lijevi gornji visokotonac</string>
+  <string name="auto_top_left_low_speaker">Lijevi gornji niskotonac</string>
+  <string name="auto_top_right_low_speaker">Desni gornji niskotonac</string>
   <string name="aux_mic_check_record_tip">Snimanje, recite nešto u AUX MIC na dnu uređaja</string>
   <string name="back_mic_check_record_tip">Snimanje, recite nešto u mikrofon na stražnjoj strani uređaja</string>
   <string name="battery_authentic">Autentična baterija</string>
@@ -134,6 +140,23 @@ Prije kalibracije uređaja, stavite ga na ravnu površinu."</string>
   <string name="cit_audio_hw_check_summary">Test provjere audio hardvera</string>
   <string name="cit_audio_hw_check_tips">Probno izvođenje</string>
   <string name="cit_audio_hw_check_title">Test provjere audio hardvera</string>
+  <string name="cit_audio_lb_backmic_to_speaker_title">Test povratnih informacija zvučnika stražnjeg mikrofona</string>
+  <string name="cit_audio_lb_check_track_tip">Sada se reproducira snimka, provjerite ima li zvuka</string>
+  <string name="cit_audio_lb_mainmic_to_speaker_title">Test povratnih informacija zvučnika glavnog mikrofona</string>
+  <string name="cit_audio_lb_sidebottommic_to_speaker_title">Test povratnih informacija zvučnika bočnog donjeg mikrofona</string>
+  <string name="cit_audio_lb_sidetopmic_to_speaker_title">Test povratnih informacija zvučnika bočnog gornjeg mikrofona</string>
+  <string name="cit_audio_lb_summary_backmic_to_speaker">"Test povratne informacije između stražnjeg mikrofona i zvučnika.
+
+Govorite u stražnji mikrofon, trebali biste čuti glas iz zvučnika"</string>
+   <string name="cit_audio_lb_summary_mainmic_to_speaker">"Test povratne informacije između glavnog mikrofona i zvučnika.
+
+Govorite u glavni mikrofon, trebali biste čuti glas iz zvučnika"</string>
+   <string name="cit_audio_lb_summary_sidebottommic_to_speaker">"Test povratnih informacija bočnog donjeg mikrofona i zvučnika.
+
+Govorite u bočni donji mikrofon, trebali biste čuti glas iz zvučnika"</string>
+  <string name="cit_audio_lb_summary_sidetopmic_to_speaker">"Test povratnih informacija bočnog gornjeg mikrofona i zvučnika.
+
+Govorite u bočni gornji mikrofon, trebali biste čuti glas iz zvučnika"</string>
   <string name="cit_audio_lb_auxmic_to_earpiece_title">Test povratne informacije zvučnika pomoćnog mikrofona</string>
   <string name="cit_audio_lb_backmic_to_earpiece_title">Test povratne informacije zvučnika stražnjeg mikrofona</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Test povratne informacije zvučnika glavnog mikrofona</string>
@@ -202,7 +225,7 @@ Držite uređaj kao da upućujete poziv, govorite u gornji mikrofon, trebali bis
   <string name="cit_camera_deleted">Fotografija je izbrisana</string>
   <string name="cit_camera_deleted_failed">Brisanje fotografije nije uspjelo</string>
   <string name="cit_camera_flash_adjust">Podesite bljeskalicu</string>
-  <string name="cit_camera_hardware_check">U tijeku je otkrivanje funkcije kamere povezane s hardverom, pričekajte...</string>
+  <string name="cit_camera_hardware_check">U tijeku je otkrivanje funkcije kamere povezane s hardverom, pričekajte…</string>
   <string name="cit_camera_otp_download_title">Test OTP preuzimanja kamere</string>
   <string name="cit_camera_rearsub">U tijeku je testiranje stražnje pomoćne kamere, pričekajte…</string>
   <string name="cit_camerasfr_test">Razbor slike, pričekajte…</string>
@@ -353,6 +376,7 @@ Nemojte isključivati ​​zaslon tijekom testa"</string>
   <string name="cit_pass">USPJEŠNO</string>
   <string name="cit_pencil_reverse_wireless_charger_summary">Postavite olovku na desno osjetilno područje tablice da započnete test</string>
   <string name="cit_pencil_reverse_wireless_charger_title">Test punjenja olovke</string>
+  <string name="cit_pixeworks_chip_check_title">Provjera čipa Pixeworks Iris 7</string>
   <string name="cit_pointer_location_title">Senzor dodira</string>
   <string name="cit_power_check_summary">Količina napunjenosti baterije treba biti izražena u postocima u nastavku.</string>
   <string name="cit_power_check_title">Indikator baterije</string>
@@ -964,10 +988,13 @@ Nakon uspješnog kalibriranja, kontrolirajte uređaj blizu i dalje od uređaja"<
   <string name="test_horn_motor_summary">"Čut ćete dva nasumična broja
 Kliknite odgovarajuću tipku prema broju koji čujete
 Odaberite ispravnu tipku prema različitim uvjetima vibracije"</string>
+  <string name="test_integration_speaker">Test integracije zvučnika</string>
+  <string name="test_integration_summary">Šest zvučnika redom ponavljaju zvuk. Obratite pozornost na zvuk i utvrdite je li nenormalan, zadržavajući pritom okomito stanje zaslona</string>
   <string name="test_main_mic">Glavni mikrofon</string>
   <string name="test_second_flash">Drugi test bljeskalice</string>
   <string name="test_sidebottom_mic">Bočni donji mikrofon</string>
   <string name="test_sidetop_mic">Bočni gornji mikrofon</string>
+  <string name="test_sub_front_camera">Prednja kamera podzaslona</string>
   <string name="test_speaker">Zvučnik</string>
   <string name="test_speaker_summary">"Čuti ćete dva nasumična broja
 Odaberite odgovarajuću tipku prema broju koji čujete"</string>
@@ -995,4 +1022,5 @@ Odaberite odgovarajuću tipku prema broju koji čujete"</string>
   <string name="vibrator_change">Odaberite način rada vibratora</string>
   <string name="waiting">Čeka se 4 s.</string>
   <string name="warm_light_title">Toplo svjetlo</string>
+  <string name="wifi_power_test_testing">Testiranje energije Wi-Fi-ja…</string>
 </resources>

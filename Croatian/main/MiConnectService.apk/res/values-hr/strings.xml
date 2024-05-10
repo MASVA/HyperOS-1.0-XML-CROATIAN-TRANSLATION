@@ -203,6 +203,7 @@ Provjerite je li firmware vašeg zvučnika ažuran."</string>
   <string name="notification_name">Otkrijte uređaje</string>
   <string name="notification_scanning">Traženje uređaja u blizini…</string>
   <string name="ok">Gotovo</string>
+  <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="rationale_ask">Ova aplikacija možda neće ispravno raditi bez traženih dopuštenja.</string>
   <string name="rationale_ask_again">Ova aplikacija možda neće ispravno raditi bez traženih dopuštenja. Otvorite zaslon postavki aplikacije za izmjenu dopuštenja aplikacije.</string>

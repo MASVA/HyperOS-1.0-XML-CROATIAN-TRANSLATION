@@ -61,6 +61,9 @@
    <string name="do_not_restore_temporarily">Ne sada</string>
    <string name="download_right_now">Preuzmi</string>
    <string name="experience_new_system_app">Provjerite nove značajke!</string>
+   <string name="friday">Petak</string>
+   <string name="friday_short">Pet</string>
+   <string name="friday_shortest">P</string>
    <string name="label">SDK sustava</string>
    <string name="miuix_access_state_desc">Odabrano</string>
    <string name="miuix_alphabet_indexer_name">Traka indeksa</string>

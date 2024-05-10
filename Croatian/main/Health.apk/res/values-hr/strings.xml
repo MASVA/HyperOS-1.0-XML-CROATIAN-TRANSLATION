@@ -1168,6 +1168,7 @@ Ako ne želite dijeliti svoje podatke, možete isključiti ovu značajku."</stri
    <string name="saturday_short">Sub</string>
    <string name="saturday_shortest">Sub</string>
    <string name="save">Spremi</string>
+   <string name="search_menu_title">Traži</string>
    <string name="sedentary_detail_title">Predugo sjedenje je štetno</string>
    <string name="sedentary_enhance_remind">Također vibriraj</string>
    <string name="sedentary_enhance_remind_content">Ova značajka radi kada je DND isključen</string>
@@ -1664,12 +1665,12 @@ podaci o spavanju"</string>
    <string name="tb_sleep_ring_info">%1$s. Mirovanje: %2$s. Dodirnite za prikaz detalja.</string>
    <string name="tb_snore_detection_main">O značajkama vezanim uz razgovor i hrkanje: %1$s. Prijeđite prstom vodoravno po gornjem dijelu zaslona za prelazak na sljedeću stranicu.</string>
    <string name="tb_snore_view_info">Grafikon razgovora i hrkanja</string>
-   <string name="tb_stand_card_finish_stand">Stand up stanke danas: %1$s. Morate napraviti najmanje 12 danas. Dostigli ste svoj cilj između %2$s i %3$s.</string>
-   <string name="tb_stand_card_not_finish_stand">"Stand up pauze danas: %1$s. Morate napraviti najmanje 12 danas. Niste postigli svoj cilj između %2$s i %3$s."</string >
+   <string name="tb_stand_card_finish_stand">Stajaće stanke danas: %1$s. Morate napraviti najmanje 12 danas. Dostigli ste svoj cilj između %2$s i %3$s.</string>
+   <string name="tb_stand_card_not_finish_stand">"Stajaće pauze danas: %1$s. Morate napraviti najmanje 12 danas. Niste postigli svoj cilj između %2$s i %3$s."</string >
    <string name="tb_stand_day_column_click">Postigli ste svoj cilj između %1$s i %2$s. Izvor: %3$s.</string>
-   <string name="tb_stand_day_ring">Stand up pauze danas: %1$s. Morate napraviti najmanje 12 danas.</string>
-   <string name="tb_stand_wm_column_chart">Stand up stanke između %1$s i %2$s. Prijeđite prstom vodoravno za prebacivanje između vremenskih razdoblja. Dodirnite za prikaz detalja.</string>
-   <string name="tb_stand_wm_column_click">%1$s. Stand up pauze: %2$d. %3$s.</string>
+   <string name="tb_stand_day_ring">Stajaće pauze danas: %1$s. Morate napraviti najmanje 12 danas.</string>
+   <string name="tb_stand_wm_column_chart">Stajaće stanke između %1$s i %2$s. Prijeđite prstom vodoravno za prebacivanje između vremenskih razdoblja. Dodirnite za prikaz detalja.</string>
+   <string name="tb_stand_wm_column_click">%1$s. Stajaće pauze: %2$d. %3$s.</string>
 ​   <string name="tb_step_widget" formatted="false">Danas. %1$s. Napredak: %2$d%</string>
    <string name="tb_unmultiple_selecte_all">Poništi odabir</string>
    <string name="tb_user_account_signed">Xiaomi račun: %1$s.</string>

@@ -148,4 +148,12 @@
         <item>Pješčana oluja dolazi, nosite masku!</item>
         <item>Ugodan dan!</item>
     </string-array>
+	<string-array name="aqi_value">
+         <item>Dobro</item>
+         <item>Zadovoljavajuć</item>
+         <item>Umjereno zagađeno</item>
+         <item>Loše</item>
+         <item>Vrlo loše</item>
+         <item>Ozbiljno</item>
+      </string-array>
 </resources>

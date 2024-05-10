@@ -180,11 +180,11 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="common_downloading">Preuzimanje…</string>
   <string name="common_format_date_no_year">dd.MM.</string>
   <string name="common_skip">Preskoči</string>
-  <string name="community_community_message_trigger_summary">Primite obavijesti o odgovorima, lajkovima i ažuriranjima statusa Mi Community putem svog Xiaomi Računa</string>
+  <string name="community_community_message_trigger_summary">Primite obavijesti o odgovorima, lajkovima i ažuriranjima statusa Mi Community putem svog Xiaomi računa</string>
   <string name="community_community_message_trigger_title">Obavijesti o aktivnosti</string>
   <string name="community_cta_dialog_cancel">Ne hvala</string>
   <string name="community_cta_dialog_des">"Teme trećih strana sada podržavaju Mi Community widget. Djeluje kao prečac koji vas vodi do podforuma Teme Mi Community. Tu značajku možete isključiti u Postavkama.
-Dopustite Temama da pristupaju vašem ID-u Xiaomi Računa i Mi Community statusima koji su povezani s računom da biste ih ovdje mogli vidjeti. Također možete uključiti i isključiti obavijesti o aktivnostima Mi Comminitya u Postavkama."</string>
+Dopustite Temama da pristupaju vašem ID-u Xiaomi računa i Mi Community statusima koji su povezani s računom da biste ih ovdje mogli vidjeti. Također možete uključiti i isključiti obavijesti o aktivnostima Mi Comminitya u Postavkama."</string>
   <string name="community_cta_dialog_ok">Dopusti</string>
   <string name="community_cta_dialog_title">Potrebno je dopuštenje</string>
   <string name="community_entrance_title">Mi Community widget sata</string>
@@ -319,7 +319,7 @@ Dopustite Temama da pristupaju vašem ID-u Xiaomi Računa i Mi Community statusi
   <string name="evening">PM</string>
   <string name="exchange_alert">Kupone možete dobiti tijekom naših promotivnih događanja i razmjenjivati za teme.</string>
   <string name="exchange_code_dialog_title">Pažnja</string>
-  <string name="exchange_code_not_match_account_dialog_content">Ovaj je kôd već iskoristio drugi Xiaomi račun. Prijavite se s tim Xiaomi Računom i pokušajte ponovno.</string>
+  <string name="exchange_code_not_match_account_dialog_content">Ovaj je kôd već iskoristio drugi Xiaomi račun. Prijavite se s tim Xiaomi računom i pokušajte ponovno.</string>
   <string name="exit_extreme_mode_dialog_agree">Prihvaćam</string>
   <string name="exit_extreme_mode_dialog_cancel">Isključi</string>
   <string name="exit_extreme_mode_dialog_title">Isključi Ekstremni način</string>
@@ -427,7 +427,7 @@ Dopustite Temama da pristupaju vašem ID-u Xiaomi Računa i Mi Community statusi
   <string name="format_full_day_of_week">EEEE</string>
   <string name="format_full_month_of_year">MMMM</string>
   <string name="format_month_day_style1">dd.MM.</string>
-  <string name="format_month_day_style2">d.M.</string>
+  <string name="format_month_day_style2">dd.MM.</string>
   <string name="format_month_day_week">dd.MM. EEE</string>
   <string name="format_week_day_style1">d EE</string>
   <string name="format_day_week_desc">Dan u mjesecu: %1$s, %2$s</string>
@@ -631,7 +631,7 @@ dd.MM."</string>
   <string name="miui_rhombus_clock_date">dd MMMM</string>
   <string name="miui_rhombus_clock_week">EEE</string>
   <string name="miui_rhombus_clock_week_full">EEEE</string>
-  <string name="miui_smart_frame_clock_date">d.M.</string>
+  <string name="miui_smart_frame_clock_date">dd.MM.</string>
   <string name="miui_smart_frame_clock_week">EEE</string>
   <string name="miui_vertical_time_format_12">"hh
 mm"</string>
@@ -642,8 +642,8 @@ mm"</string>
   <string name="miuishare_account_login_cancel">Odustani</string>
   <string name="miuishare_account_login_confirmation">Prijavi se u Xiaomi račun</string>
   <string name="miuishare_account_login_ok">Prijavite se</string>
-  <string name="miuishare_account_need_activate">Vaš Weibo račun bi trebao biti uparen s Xiaomi Računom za dijeljenje. Aktivirajte prvo svoj Xiaomi račun.</string>
-  <string name="miuishare_account_need_login">Vaš Weibo račun bi trebao biti uparen s Xiaomi Računom za dijeljenje. Prijavite se prvo na svoj Xiaomi račun.</string>
+  <string name="miuishare_account_need_activate">Vaš Weibo račun bi trebao biti uparen s Xiaomi računom za dijeljenje. Aktivirajte prvo svoj Xiaomi račun.</string>
+  <string name="miuishare_account_need_login">Vaš Weibo račun bi trebao biti uparen s Xiaomi računom za dijeljenje. Prijavite se prvo na svoj Xiaomi račun.</string>
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_mini_program_title">Pogledajte sliku pozadine koju sam našao!</string>
   <string name="miuishare_no_network">"Ne mogu se povezati na mrežu."</string>
@@ -1352,7 +1352,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="super_wallpaper_setting_coordinate_title">Koordinate</string>
   <string name="super_wallpaper_setting_view_height_title">Nadm. visina</string>
   <string name="supersave_mode_toast_message">"Ova značajka nije dostupna kada koristite Ultra štednju baterije. Isključite Ultra štednju baterije da biste je mogli koristiti."</string>
-  <string name="superwallpaper_has_bound_account_dialog_content">Ova pozadina je već povezana s drugim Xiaomi Računom. Prijavite se s tim Xiaomi Računom i pokušajte ponovno.</string>
+  <string name="superwallpaper_has_bound_account_dialog_content">Ova pozadina je već povezana s drugim Xiaomi računom. Prijavite se s tim Xiaomi računom i pokušajte ponovno.</string>
   <string name="support_theme_store_des">Dobre teme uvijek stvaraju talentirani dizajneri. Naša aplikacija sadrži malu količinu oglasa što nam omogućava da podržimo njihov rad.</string>
   <string name="support_theme_store_supported">Hvala na podršci!</string>
   <string name="support_theme_store_title">Podržite naše dizajnere</string>

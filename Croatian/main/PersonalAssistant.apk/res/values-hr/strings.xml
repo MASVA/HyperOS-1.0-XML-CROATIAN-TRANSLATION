@@ -122,7 +122,7 @@
   <string name="month_may">Svibanj</string>
   <string name="month_may_short">Svi</string>
   <string name="month_may_shortest">S</string>
-    <string name="month_november">Studeni</string>
+  <string name="month_november">Studeni</string>
   <string name="month_november_short">Stu</string>
   <string name="month_november_shortest">S</string>
   <string name="month_october">Listopad</string>
@@ -792,6 +792,8 @@ Dodajte widgete za početak."</string>
   <string name="pa_world_cup_widget_request_retry">Pokušaj ponovo</string>
   <string name="pa_world_cup_widget_reserve_success_toast">"Dobit ćete podsjetnik prije početka ove utakmice"</string>
   <string name="pa_world_cup_widget_title">FIFA Svjetsko prvenstvo</string>
+  <string name="passport_oauth_actionbar_title">Xiaomi račun</string>
+  <string name="passport_oauth_sucess_tip">Uspješno autorizirano</string>
   <string name="password_toggle_content_description">Prikaži zaporku</string>
   <string name="preference_copied">Sažetak \"%1$s\" je kopiran u međuspremnik.</string>
   <string name="saturday">Subota</string>

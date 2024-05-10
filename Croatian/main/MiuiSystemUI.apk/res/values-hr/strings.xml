@@ -947,7 +947,7 @@ Nakon što ih izbrišete, morat ćete ponovo postaviti otključavanje otiskom pr
   <string name="format_full_day_of_week">EEEE</string>
   <string name="format_full_month_of_year">MMMM</string>
   <string name="format_month_day_style1">dd.MM.</string>
-  <string name="format_month_day_style2">d.M</string>
+  <string name="format_month_day_style2">dd.MM.</string>
   <string name="format_month_day_week">dd.MM. EEE</string>
   <string name="format_week_day_style1">d EE</string>
   <string name="format_week_day_style1_desc">%1$s, dan u mjesecu: %2$s</string>
