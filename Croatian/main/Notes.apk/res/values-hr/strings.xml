@@ -482,6 +482,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="miuix_indexer_collect">Zbirke</string>
   <string name="miuix_indexer_selected">Odabrano %s</string>
   <string name="miuix_item_view_role_description">Kartica</string>
+  <string name="miuix_navigator_category_group_collapse">Sažmi</string>
+  <string name="miuix_navigator_category_group_expand">Proširi</string>
   <string name="miuix_navigator_content_switch_description">Prikaži bočnu traku</string>
   <string name="miuix_navigator_multiple_choice">Odaberi</string>
   <string name="miuix_navigator_navigator_switch_description">Sakrij bočnu traku</string>

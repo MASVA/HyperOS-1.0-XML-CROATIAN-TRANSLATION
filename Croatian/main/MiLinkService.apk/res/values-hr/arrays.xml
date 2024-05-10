@@ -42,19 +42,19 @@
         <item>Privatnost i međusobna povezanost, Privatnost</item>
      </string-array>
      <string-array name="settings_search_connection_service">
-        <item>Usluga međusobnog povezivanja</item>
-        <item>Usluga međusobnog povezivanja/međusobno povezivanje</item>
-        <item>Usluga međusobnog povezivanja</item>
+        <item>Xiaomi međusobno povezivanje</item>
+        <item>Usluga međusobnog povezivanja/Xiaomi međusobno povezivanje</item>
+        <item>Xiaomi usluge međusobnog povezivanja, Xiaomi međusobno povezivanje</item>
      </string-array>
      <string-array name="settings_search_relay_app">
         <item>Prijenos aplikacije</item>
-        <item>Međusobna povezanost/Prijenos aplikacije</item>
+        <item>Međusobna povezanost/Aplikacije</item>
         <item>Prijenos aplikacija, predaja, prijenos</item>
      </string-array>
      <string-array name="settings_search_relay_call">
-        <item>Pozivi</item>
-        <item>Međusobna povezanost/Pozivi</item>
-        <item>Pozivi</item>
+        <item>Sinkronizacija poziva</item>
+        <item>Međusobna povezanost/Sinkronizacija poziva</item>
+        <item>Sinkronizacija poziva, pozivi s različitih uređaja, predaja poziva, pozivi</item>
      </string-array>
      <string-array name="settings_search_relay_network">
         <item>Mrežna pomoć</item>

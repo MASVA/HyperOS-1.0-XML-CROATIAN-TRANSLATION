@@ -549,7 +549,7 @@ Pobrinite se da koristite trenutnu Xiaomi Račun kao račun MIUI sustava."</stri
     <string name="passport_error_unknown">Nepoznata greška</string>
     <string name="passport_error_user_agreement_error">Prvo pristanite na Uvjete i odredbe</string>
     <string name="passport_error_user_name">Korisničko ime koje ste unijeli nije valjano</string>
-    <string name="passport_forget_password">&lt;u&gt;Zaboravili ste zaporku&lt;/u&gt;</string>
+    <string name="passport_forget_password">Zaboravili ste zaporku?</string>
     <string name="passport_get_verify_code">Dobiti kod</string>
     <string name="passport_getting_verify_code">Samo trenutak…</string>
     <string name="passport_identitfication_expired">Provjera koda je istekla, započnite ispočetka</string>

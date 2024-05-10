@@ -275,7 +275,6 @@
   <string name="common_signin_button_text">Prijava</string>
   <string name="common_signin_button_text_long">Prijava uslugom Google</string>
   <string name="contacts_permission_desc">Pristup podacima o kontaktima</string>
-  <string name="copy">Kopiraj</string>
   <string name="copywriting_closeAirFresh_description_hmind">Isključen sustav svježeg zraka</string>
   <string name="copywriting_closeAirFresh_description_island">Isključen sustav svježeg zraka</string>
   <string name="copywriting_openAirFresh_description_hmind">Uključen sustav svježeg zraka</string>

@@ -700,9 +700,9 @@ E-pošta: service.jp@xiaomi.com"</string>
   <string name="passport_error_user_agreement_error">Prvo pristanite na Uvjete i odredbe</string>
   <string name="passport_error_user_name">Korisničko ime koje ste unijeli nije valjano</string>
   <string name="passport_error_user_password">"Zaporke se ne podudaraju"</string>
-  <string name="passport_forget_password">&lt;u&gt;Zaboravili ste zaporku&lt;/u&gt;</string>
+  <string name="passport_forget_password">Zaboravili ste zaporku?</string>
   <string name="passport_get_login_type_next">Dalje</string>
-  <string name="passport_get_verify_code">Dobiti kod</string>
+  <string name="passport_get_verify_code">Dobij kod</string>
   <string name="passport_getting_verify_code">Samo trenutak…</string>
   <string name="passport_header_back">Natrag</string>
   <string name="passport_identification_expired">Kôd za provjeru je istekao. Počni ispočetka.</string>

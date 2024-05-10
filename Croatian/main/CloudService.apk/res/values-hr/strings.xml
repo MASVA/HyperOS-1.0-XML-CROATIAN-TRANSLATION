@@ -200,7 +200,7 @@
     <string name="keybag_password_confirm_prompt">Potvrdite zaporku</string>
     <string name="keybag_password_create_prompt">Postavi zaporku za Upravitelja zaporki</string>
     <string name="keybag_password_error_inconsistent">"Zaporke se ne podudaraju"</string>
-    <string name="keybag_password_forget"><u>Zaboravili ste zaporku?</u></string>
+    <string name="keybag_password_forget">Zaboravili ste zaporku?</string>
     <string name="keybag_password_input_cancel">Odustani</string>
     <string name="keybag_password_input_next">Dalje</string>
     <string name="keybag_password_input_prompt">Unesite zaporku</string>
