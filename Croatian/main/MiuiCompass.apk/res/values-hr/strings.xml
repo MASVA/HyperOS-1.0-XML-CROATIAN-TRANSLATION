@@ -47,6 +47,7 @@
   <string name="calibrate_new_tip">Naglo nagnite uređaj kako biste zakotrljali lopticu po krugu</string>
   <string name="calibrate_failed_timeout">"Ne mogu kalibrirati. Došlo je do pogreške poslužitelja."</string>
   <string name="calibrate_rotate_again">Pokušaj ponovo</string>
+  <string name="calibrate_rotate_more_again">Otkrivene magnetske smetnje. Idite na otvoreno područje prije kalibracije.</string>
   <string name="calibrate_success">Kalibrirano</string>
   <string name="calibrate_tip">Naginjite uređaj da kotrljate loptom oko kruga</string>
   <string name="calibrate_title">Kalibriraj kompas</string>

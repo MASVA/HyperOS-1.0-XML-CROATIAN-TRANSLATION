@@ -43,6 +43,7 @@
   <string name="always_style_symmary">Troši više energije</string>
   <string name="ambient_display_screen_title">Always-on zaslon</string>
   <string name="ambient_display_screen_title_sp">Always-on zaslon</string>
+  <string name="ambient_display_screen_title_summary">Postavite unutarnji stil zaslona. Vanjski zaslon će zadržati svoj stil zaključanog zaslona.</string>
   <string name="animation_clock_panel">Valno biranje</string>
   <string name="aod_app_name">Always-on zaslon i uređivač Zaklj. zaslona</string>
   <string name="aod_close_color_inversion">"Ova se značajka ne može kombinirati s inverzijom boja. Najprije isključite inverziju boja."</string>
@@ -270,6 +271,7 @@ dd.MM."</string>
   <string name="kg_template_description_classic">"Ono što je klasično nikad ne izlazi iz mode."</string>
   <string name="kg_template_description_magazine">Pretvorite svoj zaključani zaslon u naslovnicu časopisa.</string>
   <string name="kg_template_description_rhombus">Vrijeme je važno. Neka se broji.</string>
+  <string name="kg_template_preview_content_description">Pregled zaključanog zaslona</string>
   <string name="kg_template_title_classic">Klasično</string>
   <string name="kg_template_title_magazine">Časopis</string>
   <string name="kg_template_title_mine">Zaključani zaslon</string>
@@ -494,7 +496,9 @@ mm"</string>
   <string name="signature_default_content">"Samo za vas;
   by MASVA"</string>
   <string name="smart_style">Pametno</string>
-  <string name="smart_style_summary">"Uvijek prikaži stavke, osim kada je uređaj u džepu, kada je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledate u svoj uređaj"</string>
+  <string name="smart_style_summary">"Ne prikazuj kada je uređaj u džepu, kad je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledaš u zaslon"</string>
+  <string name="smart_style_summary_inner">"Ne prikazuj kada je uređaj u džepu, ako je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledaš u unutarnji zaslon"</string>
+  <string name="smart_style_summary_outer">"Ne prikazuj kada je uređaj u džepu, ako je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledaš u vanjski zaslon"</string>
   <string name="somatosensory_temperature_format">Osjećaj je kao %s°</string>
   <string name="standard_clock_panel">Standardno</string>
   <string name="standard_style">Standardno</string>
@@ -535,6 +539,18 @@ dd.MM."</string>
   <string name="time_picker_label_minute">M</string>
   <string name="time_style">Stil</string>
   <string name="time_style_layout">Raspored</string>
+  <string name="tiny_accessibility_kg_battery_level">Baterija</string>
+  <string name="tiny_camera_content_description">Kamera</string>
+  <string name="tiny_classic_date_format">d.M EEE</string>
+  <string name="tiny_clock_time_format_12">hh:mm</string>
+  <string name="tiny_clock_time_format_24">HH:mm</string>
+  <string name="tiny_doodle_clock_date">dd MMMM</string>
+  <string name="tiny_doodle_clock_week_full">EEEE</string>
+  <string name="tiny_pets_date_format">d.M</string>
+  <string name="tiny_pets_week_format">EE</string>
+  <string name="tiny_splicing_date_content_description">d.M</string>
+  <string name="tiny_splicing_date_format">d.M</string>
+  <string name="tiny_splicing_week_format">EE</string>
   <string name="tip_to_open_aod_mode">Always-on zaslon je isključen. Uključiti ga sada?</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>

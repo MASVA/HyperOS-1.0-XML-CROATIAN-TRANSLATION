@@ -364,7 +364,7 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="app_behavior_media_volume_bg">%1s je prilagodio glasnoću medija u pozadini</string>
   <string name="app_behavior_media_volume_bg_single">Ova je aplikacija prilagodila glasnoću medija u pozadini</string>
   <string name="app_behavior_media_volume_single">Ova je aplikacija prilagodila glasnoću medija</string>
-  <string name="app_behavior_menu_about">O zapisima ponašanja aplikacija</string>
+  <string name="app_behavior_menu_about">O zapisima</string>
   <string name="app_behavior_monitor_off">Isključivanje obavijesti</string>
   <string name="app_behavior_monitor_off_content">"Nećete moći primati obavijesti o osjetljivim radnjama koje vrši ova aplikacija. Isključiti svejedno obavijesti?"</string>
   <string name="app_behavior_monitor_off_positive">Isključi</string>
@@ -411,7 +411,7 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="app_behavior_recognition_single">Aplikacija je pristupila podacima o vašoj aktivnosti</string>
   <string name="app_behavior_record_cancel">Odustani</string>
   <string name="app_behavior_record_close">Isključi</string>
-  <string name="app_behavior_record_close_title">Isključi</string>
+  <string name="app_behavior_record_close_title">Zaustavi snimanje</string>
   <string name="app_behavior_record_hide_system">Sakrij aplikacije sustava</string>
   <string name="app_behavior_record_open">Uključi</string>
   <string name="app_behavior_record_open_content_text">Zapisi o ponašanju aplikacije pokazuju što aplikacije rade i pomažu vam u izbjegavanju sigurnosnih rizika.</string>
@@ -2073,12 +2073,6 @@ zdravstvena iskaznica"</string>
   <string name="ew_concern_city">Dodani gradovi</string>
   <string name="ew_concern_date_empty">Ništa</string>
   <string name="ew_concern_manage">Upravljanje</string>
-	<string name="ew_contact_dialog_tips">Dodajte barem jedan kontakt za hitne slučajeve.</string>
-  <string name="ew_contact_dialog_title">Pažnja</string>
-  <string name="ew_current_location">Trenutačna lokacija</string>
-  <string name="ew_emergency_allergy">Alergije</string>
-  <string name="ew_emergency_basic_info">Osnovne informacije</string>
-  <string name="ew_emergency_birthday">Datum rođenja</string>
   <string name="ew_emergency_blood_type">Krvna grupa</string>
   <string name="ew_emergency_choose">Odaberite</string>
   <string name="ew_emergency_delete_all">Brisanje svih medicinskih podataka</string>
@@ -2250,6 +2244,7 @@ volonter"</string>
   <string name="fingerprint_verify_failed">"Ne mogu potvrditi otisak"</string>
   <string name="fingerprint_verify_succeed">Otisak prsta potvrđen</string>
   <string name="fingerprint_verify_try_agin">"Ne mogu skenirati otisak prsta, pokušajte ponovno"</string>
+  <string name="fingerprint_verify_try_error">Previše neuspješnih pokušaja. Zaključajte i otključajte svoj uređaj prije ponovnog pokušaja.</string>
   <string name="firewall_activity_lable">Pristup mreži</string>
   <string name="firewall_allow_all">Dopustite svim aplikacijama povezivanje pomoću sljedeće metode</string>
   <string name="firewall_allow_data">Dopusti uporabu mobilnih podataka</string>
@@ -2457,11 +2452,15 @@ volonter"</string>
   <string name="gamebooster_network_dialog_title">"Neke značajke nisu dostupne"</string>
   <string name="gamebooster_push_expiring_soon_button">Obnovi</string>
   <string name="gamebooster_push_expiring_soon_title">Game Turbo</string>
+  <string name="gamebox_ai_accelerate">Pojačanje umjetne inteligencije mobilnih podataka</string>
+  <string name="gamebox_ai_accelerate_description">Analizirajte mrežno okruženje kako biste povećali brzinu veze mobilne mreže i uštedjeli mobilne podatke</string>
   <string name="gamebox_ai_subtitle">AI titlovi</string>
   <string name="gamebox_app_not_find">Instalirajte najprije aplikaciju.</string>
   <string name="gamebox_brightness">Svjetlina</string>
   <string name="gamebox_browser_not_find">Instalirajte najprije Mi Preglednik</string>
   <string name="gamebox_bullet_chat">Komentari na zaslonu</string>
+  <string name="gamebox_cellular_network">Optimizirajte mobilnu mrežu</string>
+  <string name="gamebox_cellular_network_description">Automatski odabir najboljeg mrežnog puta na temelju kašnjenja igre</string>
   <string name="gamebox_collimator">Pogled</string>
   <string name="gamebox_display_1">Ništa</string>
   <string name="gamebox_display_2">Zasićeno</string>
@@ -2496,6 +2495,7 @@ volonter"</string>
   <string name="gamebox_mem_clean">Očisti memoriju</string>
   <string name="gamebox_mem_filter">Filtri igre</string>
   <string name="gamebox_milink">Emitiranje</string>
+  <string name="gamebox_net_optimize_description">Smanjite latenciju i podrhtavanje Wi-Fi-ja. Upotrijebite Xiaomi ili Redmi usmjerivač za uživanje u posebnim načinima rada za povećanje brzine.</string>
   <string name="gamebox_positive_button_text">U redu (%1$ds)</string>
   <string name="gamebox_qq_not_find">Instalirajte QQ i pokušajte ponovo.</string>
   <string name="gamebox_recent_task_expand_fail">"Aplikacije koje rade s prečacima nisu instalirane"</string>
@@ -2518,6 +2518,9 @@ volonter"</string>
   <string name="gb_ad_game_size">MB</string>
   <string name="gb_award_noti_message">Uključite pozadinska ažuriranja Game for Peace u Game Turbo da biste osvojili nagrade</string>
   <string name="gb_award_noti_title">Stigle su nagrade Game for Peace!</string>
+  <string name="gb_bar_high">Visoko</string>
+  <string name="gb_bar_low">Nisko</string>
+  <string name="gb_bar_mid">Srednje</string>
   <string name="gb_dialog_wlan_wifi_weak">460ms</string>
   <string name="gb_dnd_barrage_conflict_toast">"Nećete moći koristiti komentare na zaslonu kada je uključen DND"</string>
   <string name="gb_get_gift_right_now">Prijavite se sada</string>
@@ -2534,6 +2537,7 @@ volonter"</string>
   <string name="gb_sign_gift">Prijavite se da biste dobili nagrade</string>
   <string name="gb_signed_title">Prijavljen ovaj mjesec</string>
   <string name="gb_smart_battery_surplus_new">%1$s %2$s preostalo</string>
+  <string name="gb_smart_shake_description">Osjetljivost na male geste</string>
   <string name="gb_voice_changer_dialog_upgrade_vip">Obnovite svoju pretplatu da biste mogli koristiti povratne informacije u stvarnom vremenu.</string>
   <string name="gb_voice_changer_free">Besplatno</string>
   <string name="gb_voice_changer_gender_female">Žena</string>
@@ -2719,6 +2723,9 @@ Snimite sekvence i koristite ih bilo kada!"</string>
   <string name="gb_gpu_driver_update_app_tips">Trenutna verzija je ažurna</string>
   <string name="gb_manual_record_dialog_del_video_message">Želite li trajno izbrisati odabrane videozapise?</string>
   <string name="gb_manual_video_record_title">Snimke</string>
+  <string name="gb_margin_restrain">Zanemari slučajni dodir na rubovima</string>
+  <string name="gb_margin_restrain_description">Vaš će uređaj manje reagirati na slučajni dodir u području blizu rubova</string>
+  <string name="gb_margin_restrain_seekbar">Područje slučajnog dodira</string>
   <string name="gb_msg_completely_shielded">Sakrij poruke</string>
   <string name="gb_msg_completely_shielded_summary">Sakrij</string>
   <string name="gb_msg_not_shielded_summary">Prikaži</string>
@@ -4159,6 +4166,29 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_camera_printer_notify_subtitle">Povezan</string>
   <string name="pc_camera_printer_title">Komplet pisača fotografija</string>
   <string name="pc_category_charge_settings">Postavke punjenja</string>
+  <string name="pc_charge_mode_low_power_fast_speed">Niski napon</string>
+  <string name="pc_charge_mode_low_power_fast_speed_tips">Uređaj bi se mogao zagrijati</string>
+  <string name="pc_charge_mode_standard">Standardno</string>
+  <string name="pc_charge_mode_topspeed">Najveća brzina</string>
+  <string name="pc_charge_mode_topspeed_tips">Uređaj bi se mogao zagrijati</string>
+  <string name="pc_charge_protection_features_title">Opcije punjenja</string>
+  <string name="pc_charge_protection_wired_charge">Žično punjenje</string>
+  <string name="pc_charge_protection_wired_charge_mode">Način žičanog punjenja</string>
+  <string name="pc_charge_protection_wireless_charge">Bežično punjenje</string>
+  <string name="pc_charge_protection_wireless_charge_mode">Način bežičnog punjenja</string>
+  <string name="pc_charge_protection_wireless_reverse_charge">Obrnuto bežično punjenje</string>
+  <string name="pc_charge_protection_wireless_reverse_charge_limit_desc">"Isključi obrnuto bežično punjenje kada baterija ovog uređaja padne ispod %1$s"</string>
+  <string name="pc_charge_protection_wireless_reverse_charge_limit_title">Ograničenje punjenja</string>
+  <string name="pc_charge_wireless_charge_mode_silence_title">Vrijeme tihog načina rada</string>
+  <string name="pc_charge_wireless_charge_select_silence">Tiho</string>
+  <string name="pc_charge_wireless_charge_select_silence_always">Uvijek</string>
+  <string name="pc_charge_wireless_charge_select_silence_night">Noć</string>
+  <string name="pc_charge_wireless_charge_select_silence_night_summary">%1$s do %2$s sljedeći dan</string>
+  <string name="pc_charge_wireless_charge_select_silence_summary">Smanjena buka i sporije punjenje</string>
+  <string name="pc_charge_wireless_charge_select_standard">Standardno</string>
+  <string name="pc_charge_wireless_charge_select_topspeed">Najveća brzina</string>
+  <string name="pc_charge_wireless_charge_select_topspeed_summary">Povećana buka i temperatura uređaja</string>
+  <string name="pc_charge_wireless_only_mi_charger_work">"Radi samo s punjačima koje isporučuje Xiaomi"</string>
   <string name="pc_charged_auto_close_summary">Isključi kada je baterija %1$s ili potpuno napunjena</string>
   <string name="pc_charged_auto_close_title">Isključi kada se napuni</string>
   <string name="pc_close_notifi_action">Isključi</string>
@@ -4171,6 +4201,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_endurance_calculation">Izračun…</string>
   <string name="pc_entered_extreme_mode">Način hibernacije je uključen</string>
   <string name="pc_entered_extreme_mode_summary">"Vaš uređaj je prazan i ušao je u stanje hibernacije. Aplikacije će raditi u pozadini i neće slati obavijesti."</string>
+  <string name="pc_extreme_category">Iznimno slaba baterija</string>
   <string name="pc_extreme_exit_and_power_off">Izlaz</string>
   <string name="pc_extreme_mode_bg_toast">"U načinu hibernacije, aplikacije će raditi u pozadini i neće slati obavijesti"</string>
   <string name="pc_extreme_mode_entering">Ulazak u stanje hibernacije…</string>
@@ -4179,6 +4210,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_extreme_mode_exiting">Izlazak iz načina hibernacije…</string>
   <string name="pc_extreme_mode_find_charger">Napunite svoj uređaj što je prije moguće.</string>
   <string name="pc_extreme_mode_runtime">Način hibernacije bio je uključen %1$s %2$s.</string>
+  <string name="pc_extreme_mode_setting_summary">Produžite vrijeme čekanja kada je baterija izuzetno slaba</string>
+  <string name="pc_extreme_mode_setting_title">Hibernacija</string>
   <string name="pc_extreme_mode_title">Način hibernacije</string>
   <string name="pc_fast_charge_notifi_action_text_off">Stop</string>
   <string name="pc_fast_charge_notifi_action_text_on">Povećaj</string>
@@ -4234,6 +4267,8 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_low_batterty_got_it">Razumijem</string>
   <string name="pc_low_battery_fast_charge">Ubrzajte punjenje</string>
   <string name="pc_low_battery_fast_charge_summary">Priključite isporučeni punjač kako biste ubrzali punjenje kada je zaslon isključen i baterija je prazna. Ova značajka može uzrokovati zagrijavanje vašeg uređaja.</string>
+  <string name="pc_low_temp_charge_summary">Punjač neka bude priključen i pričekajte da se baterija zagrije nakon što se zaslon ugasi kako biste normalno punili</string>
+  <string name="pc_low_temp_charge_title">Punjenje na niskoj temperaturi</string>
   <string name="pc_main_activity_back">Natrag</string>
   <string name="pc_main_battery_text_day">Dodano %1$sm, preostalo oko %2$sd</string>
   <string name="pc_main_battery_text_day_hour">Dodano %1$sm, preostalo oko %2$sd %3$sh</string>
@@ -4878,6 +4913,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_optimize_manual_catagory_title">Ručno</string>
   <string name="power_optimize_open_hide_mode">Uključi Štednju baterije</string>
   <string name="power_optimize_power_save_extend_time">Dodaj %s</string>
+  <string name="power_optimize_power_save_extend_time_new" formatted="false">Produži za %1s %2s</string>
   <string name="power_optimize_power_save_summary">Uključite Štednju baterije da biste primijenili više optimizacija sustava koje ograničavaju pozadinsku aktivnost</string>
   <string name="power_optimize_prohibit_app_autostart">"Nemojte dopustiti da se aplikacije automatski pokreću"</string>
   <string name="power_optimize_reduce_fps">Smanjite brzinu osvježavanja zaslona na %d Hz</string>
@@ -6363,7 +6399,10 @@ Za korištenje ovog ^1 s ovim uređajem prvo ga morate postaviti."</string>
   <string name="storage_item_video_name">Video</string>
   <string name="storage_menu_mount">Učitaj</string>
   <string name="storage_mount_failure">"Ne mogu učitati %1$s"</string>
-  <string name="storage_mount_success">Uspješno %1$s učitan</string>
+  <string name="storage_mount_success">%1$s uspješno učitan</string>
+  <string name="storage_permission_button">Postavke</string>
+  <string name="storage_permission_message">Dopustite ovoj značajci pristup pohrani kako bi mogla točno izračunati korištenje pohrane. Ovu dozvolu možete dati u postavkama.</string>
+  <string name="storage_permission_title">Potrebna su dopuštenja</string>
   <string name="storage_my_device">Moj uređaj</string>
   <string name="storage_space_release_hint">Trebate više prostora za pohranu?</string>
   <string name="storage_system_log">Zapisnici sustava</string>
@@ -7267,6 +7306,9 @@ Pokušajte povećati rezoluciju!"</string>
   <string name="verify_sms_ensure_allow">Pošalji</string>
   <string name="verify_sms_title">%1$s pokušava poslati poruku…</string>
   <string name="video_repeat">Reproduciraj ponovno</string>
+  <string name="videobox_double_core_visual">Dvojezgreni vizualni elementi</string>
+  <string name="videobox_double_core_visual_description1">Poboljšajte rezoluciju videozapisa, povećajte broj sličica u sekundi i optimizirajte HDR putem namjenskog čipa</string>
+  <string name="videobox_double_core_visual_description2">Poboljšajte jasnoću i glatkoću videa. Uključivanje ove značajke malo će povećati potrošnju energije.</string>
   <string name="videobox_hangup_tips_content">Ova značajka omogućuje aplikaciji pokretanje u pozadini kada je zaslon isključen. Uključiti sada?</string>
   <string name="videobox_hangup_tips_title">Pažnja</string>
   <string name="videobox_settings_line_location">Prečac lokacije</string>

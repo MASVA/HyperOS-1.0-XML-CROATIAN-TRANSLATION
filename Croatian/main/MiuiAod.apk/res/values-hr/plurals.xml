@@ -142,6 +142,14 @@ Duže animacije bit će zaustavljene u ovom trenutku."</item>
         <item quantity="other">%1$s/%2$s koraka</item>
         <item quantity="one">%1$s/%2$s korak</item>
      </plurals>
+	 <plurals name="tiny_accessibility_battery_level">
+        <item quantity="other">Razina baterije sada je %s posto</item>
+        <item quantity="one">Razina baterije sada je %s posto</item>
+    </plurals>
+    <plurals name="tiny_accessibility_battery_level_charging">
+        <item quantity="other">Punjenje. Razina baterije sada je %s posto.</item>
+        <item quantity="one">Punjenje. Razina baterije sada je %s posto.</item>
+    </plurals>
      <plurals name="weather_temperature_desc">
         <item quantity="other">Temperatura: %1$s stupnjeva, %2$s</item>
         <item quantity="one">Temperatura: %1$s stupanj, %2$s</item>

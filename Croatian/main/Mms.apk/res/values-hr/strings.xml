@@ -156,6 +156,7 @@ Pokušajte ponovno."</string>
 	<string name="carry_vital_signs">Uključi vitalne znakove</string>
 	 <string name="card_insert_to_contact">Uvezi kontakt</string>
 	 <string name="change_duration_activity">Promjena trajanja</string>
+	 <string name="chatbot_info_title">Osnovne informacije</string>
 	 <string name="chatbot_list_title">5G Poruke</string>
 	 <string name="chatbot_main_title">Mini aplikacije</string>
 	 <string name="check_all">Odaberite sve</string>
@@ -357,6 +358,7 @@ Pokušajte ponovno."</string>
 	 <string name="fetion_prefix">[Fetion]</string>
 	 <string name="file_create_time">"Izrađeno: "</string>
 	 <string name="file_expired">Ova datoteka je istekla</string>
+	 <string name="file_name_too_long">"Nije moguće poslati. Naziv datoteke je predug."</string>
 	 <string name="file_share_message_description">Želio bih dijeliti datoteke s vama</string>
 	 <string name="file_size">"Veličina: "</string>
 	 <string name="file_title">"Naziv: "</string>
@@ -592,7 +594,7 @@ Provjerite svoju SIM karticu."</string>
 Ova poruka biti neželjena."</string>
 	 <string name="mms_block_hint_highlight">Blokiraj MMS</string>
 	 <string name="mms_main_purpose">"Da biste pristupili punoj funkcionalnosti Poruka, uključite Mi Poruke i Smart Poruke."</string>
-	 <string name="mms_main_purpose_new">Ova aplikacija mora se povezati s internetom kako bi vam pružila osnovne usluge. Preporučujemo da uključite usluge Mi Poruke i Smart Messaging.</string>
+	 <string name="mms_main_purpose_new">Ova aplikacija mora se povezati s internetom kako bi mogla pružati osnovne usluge.</string>
 	 <string name="mms_mi_message_main_purpose">Dobro došli u Mi Poruke! Za aktivaciju Mi Poruka potrebna je odlazna SMS poruka. Vaš operater će vam naplatiti ovu poruku.</string>
 	 <string name="mms_mi_message_request_notice">Želimo da maksimalno iskoristite Mi Poruke.</string>
 	 <string name="mms_mx_privacy_policy">Pravila o privatnosti Mi Poruka</string>
@@ -1305,6 +1307,7 @@ Pogledajte one preporučene!"</string>
 	 <string name="select_top_text">Tekst pri vrhu</string>
 	 <string name="send">Pošalji</string>
 	 <string name="send_after_compress">Sažmi</string>
+	 <string name="send_fail">"Nije moguće poslati"</string>
 	 <string name="send_message_dlg_check_hint">"Ne prikazuj ponovno"</string>
 	 <string name="send_message_dlg_mgs">CMCC napomena: Moramo registrirati vaš uređaj za upravljanje uređajem platforme za pružanje besplatne Post-usluge (Post-usluga je CMCC platforma koja može upravljati terminalom uređaja. Ono vam pruža uslugu postavki iz daljine i nadogradnju aplikacije.).Besplatna SMS poruka s informacijama uređaja će biti poslana za registraciju.SMS će biti poslan samo jednom i nisu potrebni vaši osobni podaci (Ne slati u Hong Kong, Makao, Tajvan i međunarodni roaming). Odaberite "U redu" na pristanak registracije i korištenje usluge. Odaberite "Odustani" da odustajete i neće biti osigurana usluga iz CMCC.</string>
 	 <string name="send_message_dlg_title">Upravljanje uređaja</string>
@@ -1318,6 +1321,7 @@ Pogledajte one preporučene!"</string>
 	 <string name="send_signature_confirm_dialog_message">Nema teksta u vašim porukama. Sigurno želite poslati samo potpis?</string>
 	 <string name="send_signature_confirm_dialog_title">Pošalji poruku</string>
 	 <string name="send_sms">Pošalji poruku</string>
+	 <string name="send_success">Uspješno poslano</string>
 	 <string name="send_sms_with_location">Dopustite ovoj aplikaciji pristup vašoj lokaciji kako biste mogli slati poruke uključujući vašu lokaciju. Ovo dopuštenje možete dati u postavkama.</string>
 	 <string name="send_to">Prima: </string>
 	 <string name="sent_at_time">Poslano: %1s</string>
@@ -1615,6 +1619,8 @@ Zadržat će se samo prvih 50 znakova svake stavke medicinske kartice radi kontr
 	 <string name="wednesday">Srijeda</string>
 	 <string name="wednesday_short">Sri</string>
 	 <string name="wednesday_shortest">S</string>
+	 <string name="wrong_mms_version_msg">"Instalirajte verziju Poruke koja je kompatibilna s vašim uređajem i sustavom."</string>
+    <string name="wrong_mms_version_title">Pogreška verzije</string>
 	 <string name="wild_msg_processing">Obrada…</string>
 	 <string name="wild_msg_title">Odaberite brojeve telefona za sinkr.</string>
 	 <string name="xiaomi_account_service_retry_main_purpose">Usluge Xiaomi računa moraju biti uključene da bi ova značajka normalno radila. Usluge Xiaomi računa možete uključiti u Postavke > Upravljanje aplikacijama.</string>

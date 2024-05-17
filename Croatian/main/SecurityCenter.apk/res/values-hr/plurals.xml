@@ -1074,6 +1074,10 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">puta</item>
         <item quantity="one">puta</item>
     </plurals>
+	<plurals name="power_center_battery_charge_number_new">
+        <item quantity="other">%d puta</item>
+        <item quantity="one">%d put</item>
+    </plurals>
     <plurals name="power_center_battery_consume_prolblem">
         <item quantity="other">%d stavki s velikom potrošnjom energije</item>
         <item quantity="one">%d stavka s velikom potrošnjom energije</item>
