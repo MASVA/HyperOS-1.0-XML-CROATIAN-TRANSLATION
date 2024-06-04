@@ -92,10 +92,9 @@ Prijavite se na svoj Xiaomi račun u Postavke &gt; Xiaomi račun za sinkronizaci
   <string name="camera_associate_success">Kamera povezana</string>
   <string name="camera_choose_device">Odaberite uređaj</string>
   <string name="camera_connecting">"%s želi koristiti kameru ovog uređaja"</string>
-  <string name="camera_connecting_device">Povezivanje na %s</string>
   <string name="camera_disassociate">Veza s kamerom prekinuta</string>
-  <string name="camera_disconnecting_device">Prekid veze s %s</string>
   <string name="camera_title">Traženje dostupnih uređaja…</string>
+  <string name="cancel">Odustani</string>
   <string name="cancel_button">Odustani</string>
   <string name="car_air_con_back_switch_close">Isključi klimu na stražnjem sjedalu</string>
   <string name="car_air_con_back_switch_open">Uključi klimu na stražnjem sjedalu</string>
@@ -284,6 +283,7 @@ za zrcaljenje zaslona ovog tableta"</string>
   <string name="circulate_headset_error_headset_not_support">"Ne mogu povezati vaše slušalice s ovim računalom"</string>
   <string name="circulate_headset_error_headset_not_worn">Stavite obje slušalice i pokušajte ponovno</string>
   <string name="circulate_headset_error_headset_not_worn_both">Stavite obje slušalice i pokušajte ponovno</string>
+  <string name="circulate_headset_error_headset_not_worn_single">Nosite slušalice za korištenje ove značajke</string>
   <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Uključite Bluetooth na svom TV-u
 i prijavite se na svoj Xiaomi račun"</string>
   <string name="circulate_headset_error_self_upgrade">"Nije moguće dovršiti ovu radnju. Prvo ažurirajte Mi Smart Hub."</string>
@@ -684,6 +684,7 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="hm_xiaomi_hyper_mind">Xiaomi HyperMind</string>
   <string name="hm_always">Zapamti</string>
+  <string name="hm_always_execute">Uvijek</string>
   <string name="hm_conflict_title">Pauzirani uzorak: %1$s</string>
   <string name="hm_conflict_toast">Imate konfliktnu scenu pametnog doma ili automatizaciju. Najprije ga uredite u aplikaciji.</string>
   <string name="hm_go_to_help">Pogledajte pomoć</string>
@@ -695,7 +696,11 @@ Ako trebate ručno otvoriti funkciju Miracast, možete pritisnuti tipku [Menu] n
   <string name="hm_time_not_executed">Još se ne koristi</string>
   <string name="hm_time_recent_week">Ovaj tjedan</string>
   <string name="hm_time_today">Danas</string>
+  <string name="hm_time_today_executed">Korišteno danas u %s</string>
+  <string name="hm_time_today_remembered">Zapamćeno danas u %s</string>
   <string name="hm_time_yesterday">Jučer</string>
+  <string name="hm_time_yesterday_executed">Korišteno jučer u %s</string>
+  <string name="hm_time_yesterday_remembered">Zapamćeno jučer u %s</string>
   <string name="hm_toast_log_in">Prvo se prijavite na svoj Xiaomi račun</string>
   <string name="hm_go_to_open_setting">Uključi</string>
   <string name="hm_habit_info_describe">"Neka se uređaji prilagode vašim potrebama
@@ -703,18 +708,27 @@ učeći kako ih koristiti"</string>
   <string name="hm_habit_info_empty_describe">"Nastavite koristiti svoje uređaje
 tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
   <string name="hm_habit_info_list_empty">Uzorci učenja…</string>
+  <string name="hm_has_ignored">Ovaj je uzorak uspješno ignoriran</string>
+  <string name="hm_has_remembered">Ovaj je uzorak uspješno zapamćen</string>
   <string name="hm_help">Pomoć</string>
   <string name="hm_knew">Razumijem</string>
+  <string name="hm_new_habit">Novi uzorci</string>
+  <string name="hm_new_habit_empty_title">Ovdje nema uzoraka</string>
+  <string name="hm_not_notify">"Ne prikazuj ponovno"</string>
   <string name="hm_pause_habit">Pauziraj</string>
-  <string name="hm_please_login_mi_account">Prijavite se na svoj Xiaomi račun da biste započeli</string>
+  <string name="hm_please_login_mi_account">Za početak se prijavite na svoj Xiaomi račun</string>
   <string name="hm_remember">Zapamti</string>
   <string name="hm_resume_habit">Nastavi</string>
+  <string name="hm_setstate_error">"Nije moguće dovršiti ovu radnju"</string>
   <string name="hyper_mind">HyperMind</string>
   <string name="hyper_mind_close_warning">Pažnja</string>
   <string name="hyper_mind_close_warning_checkbox">"Ne prikazuj više"</string>
   <string name="hyper_mind_close_warning_content">Ako isključite ovu značajku, HyperMind više neće moći učiti niti koristiti vaše obrasce. Ako želite povući svoj pristanak na naše prikupljanje vaših podataka, dodirnite &lt;a href=%1$s>ovdje&lt;/a>.</string>
   <string name="hyper_mind_close_warning_ok">Razumijem</string>
   <string name="hyper_mind_xiaomi">Xiaomi</string>
+  <string name="i_see">Razumijem</string>
+  <string name="image_transfer_failed">"Nije moguće prenijeti sliku"</string>
+  <string name="install">Instaliraj</string>
   <string name="invisible_mode_dialog_content">"Ne možete koristiti emitiranje kada ste anonimni. Prvo isključite anonimni način."</string>
   <string name="invisible_mode_dialog_content_audio_relay">"Ne mogu prenijeti reprodukciju kada ste anonimni. Prvo isključite anonimni način."</string>
   <string name="invisible_mode_dialog_pos">Isključi</string>
@@ -741,6 +755,9 @@ tako da Xiaomi HyperMind može naučiti i poboljšati uzorke"</string>
   <string name="material_timepicker_pm">PM</string>
   <string name="material_timepicker_select_time">Odabir vremena</string>
   <string name="material_timepicker_text_input_mode_description">Prijeđite na način unosa teksta da biste unijeli vrijeme.</string>
+  <string name="message_connection_interrupted">Provjerite jesu li vaše računalo i tablet unutar dometa veze i jesu li Bluetooth i Wi-Fi uključeni. Za nastavak ponovno pokrenite zadatak na računalu.</string>
+  <string name="message_install">Instalirajte Mi Canvas da biste mogli skicirati na više uređaja.</string>
+  <string name="message_update">Ažurirajte Mi Canvas da biste mogli skicirati na više uređaja.</string>
   <string name="miplay_accessibility_cast">Odaberite uređaj</string>
   <string name="miplay_accessibility_cover">Naslovna stranica</string>
   <string name="miplay_accessibility_next">Sljedeća pjesma</string>
@@ -1136,6 +1153,9 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
   <string name="tile_label">Emitiranje</string>
   <string name="tile_label_v2">Usluge međusobnog povezivanja</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
+  <string name="title_connection_interrupted">Veza je prekinuta</string>
+  <string name="title_install">Instalirajte Mi Canvas</string>
+  <string name="title_update">Ažurirajte Mi Canvas</string>
   <string name="toast_guide_show_more">Saznajte više</string>
   <string name="toast_guide_title">Istražite nove značajke</string>
   <string name="toast_invisible_mode">"Sada ste anonimni. Sada se ne može koristiti emitiranje."</string>
@@ -1160,6 +1180,7 @@ Provjerite jeste li uključili Game Turbo prije emitiranja igara."</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
   <string name="unlock_screen_to_authorize_camera">"%s želi koristiti kameru ovog uređaja"</string>
+  <string name="update">Ažuriraj</string>
   <string name="upgrade_app_name_version">%1$s | %2$s</string>
   <string name="upgrade_cancel">Odustani</string>
   <string name="upgrade_cancel_all">Otkaži ažuriranja</string>

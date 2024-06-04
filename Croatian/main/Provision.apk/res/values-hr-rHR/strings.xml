@@ -379,7 +379,7 @@ Autom. ažuriranja možete isključiti u GetApps &gt; Postavke &gt; Autom. ažur
   <string name="other_settings_upload_debug_log_detail">"Pomozite poboljšati doživljaj HyperOS uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, HyperOS sustav i stabilnost aplikacije i još mnogo toga.
 Podaci koje ćete poslati sadržavat će opće podatke o vašem uređaju i načinu na koji ga upotrebljavate (npr. Razina baterije, aktivnost sustava i aplikacija i pogreške). Podaci će se koristiti za poboljšanje HyperOS uređaja.
 Isključivanje ove značajke ne utječe na sposobnost uređaja da šalje podatke potrebne za osnovne usluge kao što su ažuriranja sustava i sigurnost.
-Ovom značajkom možete upravljati u Postavke &gt; Zaporke &amp; sigurnost &gt; Privatnost &gt; Korištenje i dijagnostika."</string>
+Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i zaključavanje zaslona > Privatnost > Korištenje i dijagnostika."</string>
   <string name="other_settings_upload_debug_log_summary">Pomozite poboljšati doživljaj HyperOS uređaja automatskim slanjem dijagnostičkih podataka, podataka o korištenju uređaja i aplikacija na Xiaomi. To će vam pomoći poboljšati vijek trajanja baterije, HyperOS sustav i stabilnost aplikacije i još mnogo toga.</string>
   <string name="other_settings_upload_debug_log_title">Pošaljite podatke o korištenju i dijagnostici</string>
   <string name="other_settings_user_experience">Program iskustva korisnika</string>

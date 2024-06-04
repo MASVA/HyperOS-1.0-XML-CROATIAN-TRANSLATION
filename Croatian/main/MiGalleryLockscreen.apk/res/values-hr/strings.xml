@@ -729,6 +729,7 @@ mm"</string>
     <string name="privacy_update_summary3">"Nećete moći nastaviti koristiti Wallpaper Carousel osim ako ne prihvatite novu verziju &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Pravila o privatnosti&lt;/font&gt;&lt;/a&gt;. Privaćate li nova ažurirana Pravila o privatnosti?"</string>
     <string name="privacy_update_title1">Ažurirana su Pravila o privatnosti</string>
     <string name="privacy_update_title2">Pažnja</string>
+	 <string name="prompt_Theme_tip">Nije moguće dobiti stil teme, provjerite jesu li mreža i vrijeme točni</string>
     <string name="prv_end"><CDATA>"To je sve za sada."</CDATA></string>
     <string name="prv_loading"><CDATA>Samo trenutak…</CDATA></string>
     <string name="prv_nodata"><CDATA>Nema podataka</CDATA></string>
@@ -919,9 +920,15 @@ mm"</string>
     <string name="sunday_shortest">N</string>
     <string name="sure_close_gallery">Isključiti Wallpaper Carousel?</string>
     <string name="sure_close_gallery_des">"Nećete moći primati nove slike pozadina za Početni i Zaklj. zaslon ako isključite Wallpaper Carousel. Isključiti svejedno?"</string>
+	 <string name="surprise_wallpaper_can_not_open_tip">Prvo otvorite rotaciju slika</string>
     <string name="surprise_wallpaper_empty_dlg_content">Pozadine iznenađenja će generirati prilagođene pozadine na temelju pozadina koje ste sami odabrali (ako je omogućeno) ili na temelju nasumične strategije, a učestalost rotacije slika bit će ograničena na 1 dan. Kada generiranje ne uspije, pozadina će se ažurirati za vas pomoću izvorne slike.</string>
     <string name="surprise_wallpaper_empty_dlg_title">Pozadina iznenađenja</string>
     <string name="surprise_wallpaper_generate_failed_toast">Generiranje pozadine iznenađenja nije uspjelo</string>
+	 <string name="surprise_wallpaper_goto_prompts_error">Došlo je do mrežne iznimke. Pokušajte ponovno kasnije.</string>
+    <string name="surprise_wallpaper_prompts_null">Odabirom originalne slike nećete dodati favorita</string>
+    <string name="surprise_wallpaper_prompts_send_failed">Spremanje nije uspjelo, pokušajte ponovno.</string>
+    <string name="surprise_wallpaper_prompts_send_succeed">Uspješno spremljeno!</string>
+    <string name="surprise_wallpaper_prompts_sending">Slanje vaših postavki…</string>
 	 <string name="system_default">Zadano</string>
     <string name="tab_user_title_bar_text">Postavke</string>
     <string name="tb_collapse_desc">Sakrij izbornik \"Podijeli\"</string>

@@ -1865,7 +1865,7 @@ Možete otključati pomoću sata kada se vaše lice ili otisak prsta ne prepozna
   <string name="bluetooth_audio_share_request_disable_title">Promijeniti uređaj?</string>
   <string name="bluetooth_audio_share_request_disconnect">"Ako sada prekinete vezu, vaši uređaji neće automatski dijeliti zvuk sljedeći put kada se povežete. Svejedno prekinuti vezu?"</string>
   <string name="bluetooth_audoi_share">" | Dijeljenje zvuka"</string>
-  <string name="bluetooth_auracast_assist_add_source">Slušajte</string>
+  <string name="bluetooth_auracast_assist_add_source">Slušanje</string>
   <string name="bluetooth_auracast_assist_leave_broadcast">Zaustavi</string>
   <string name="bluetooth_auracast_password_input_hint">Unesite kod veze</string>
   <string name="bluetooth_auracast_source_and_assistant_text">Emitiranje zvuka na druge uređaje i traženje audio emitiranja u blizini</string>
@@ -9016,7 +9016,7 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="passpoint_r1_privacy_dialog_yes">Prihvaćam</string>
   <string name="password">Zaporka</string>
   <string name="passwordIncorrect">Zaporka koju ste unijeli nije točna</string>
-  <string name="password_and_security">Zaporke &amp; sigurnost</string>
+  <string name="password_and_security">Zaporke i sigurnost</string>
   <string name="password_check_fail">Netočan kod</string>
   <string name="password_entrance_title">Postavi Zaklj. zaslona</string>
   <string name="password_guard">Zaporka</string>
@@ -9317,8 +9317,8 @@ Pročitajte i pristanite na %s prije korištenja ove usluge."</string>
   <string name="please_connect_to_the_network">Povežite se na Wi-Fi ili mobilne podatke da biste dovršili brisanje eSIM podataka.</string>
   <string name="please_connect_to_the_wifi">Povežite se na Wi-Fi da biste dovršili brisanje eSIM podataka.</string>
   <string name="please_select_phase2">2. faza autentifikacije</string>
-  <string name="please_stop_broadcast_audio">Prvo dovršite emitiranje lokalnog zvuka</string>
-  <string name="please_stop_listen_broadcast_audio">Dovršite slušanje trenutne emisije</string>
+  <string name="please_stop_broadcast_audio">Prvo zaustavite emitiranje zvuka</string>
+  <string name="please_stop_listen_broadcast_audio">Prvo zaustavite slušanje trenutne emisije</string>
   <string name="please_type_passphrase">Zaporka</string>
   <string name="plmn_failure_radio_off">Odabir mreže nije moguć zbog isključenog radija ili nije dostupan</string>
   <string name="pm">PM</string>
@@ -9618,14 +9618,14 @@ istovremeno pritisnite tipku za uključivanje/isključivanje i tipku za glasnoć
   <string name="priority_title">Prioritet</string>
   <string name="privacy_advanced_settings">Više postavki privatnosti</string>
   <string name="privacy_advanced_settings_summary">Automatsko popunjavanje, kontrole aktivnosti i ostalo</string>
-  <string name="privacy_and_security">Privatnost &amp; sigurnost</string>
+  <string name="privacy_and_security">Privatnost i sigurnost</string>
   <string name="privacy_applock">Zaklj. aplik.</string>
   <string name="privacy_authorize_cloud_msg">"Da biste osigurali sigurnost računa, prijavite se na i.mi.com ako želite opozvati authotizaciju za usluge Xiaomi Cloud (uključujući sinkronizaciju i sigurnosne kopije)."</string>
   <string name="privacy_authorize_dialog_agree">Prihvaćam</string>
   <string name="privacy_authorize_dialog_exit">Izlaz</string>
   <string name="privacy_authorize_dialog_message">&lt;Data&gt;"Da biste koristili osnovne značajke ove usluge, morate prihvatiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke. Pogledajte naša Pravila o privatnosti kako biste saznali kako prikupljamo i obrađujemo osobne podatke. Odabirom \"Prihvaćam\" znači da ste pročitali i složili se s našim &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Korisnički Sporazum&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="privacy_authorize_network_error">Povežite se s mrežom i pokušajte ponovo.</string>
-  <string name="privacy_authorize_privacy_policy">Pravila o Privatnosti</string>
+  <string name="privacy_authorize_privacy_policy">Pravila o privatnosti</string>
   <string name="privacy_authorize_revoke">Opozovi</string>
   <string name="privacy_authorize_revoke_dialog_msg">Nakon opoziva autorizacije, aplikacija će prestati prikupljati podatke, a svi povezani podaci bit će izbrisani s poslužitelja. To bi moglo učiniti aplikaciju gotovo neupotrebljivom. Svejedno opozvati autorizaciju?</string>
   <string name="privacy_authorize_revoke_dialog_title">Opozivanje autorizacije</string>
@@ -10265,6 +10265,7 @@ Ta postavka utječe na sve korisnike ovog telefona."</string>
   <string name="save">Spremi</string>
   <string name="save_battery_mode">Uštedite bateriju pomoću WQHD+</string>
   <string name="save_battery_mode_summary">Automatski promjeni rezoluciju radi uštede energije</string>
+  <string name="save_device_name_progress_message">Spremanje…</string>
   <string name="save_finish_with_failing_items">"Prijenos je prekinut.\r
 Podaci koji nisu uvezeni moraju se ponovno uvesti."</string>
   <string name="saved_network">Spremila aplik. %1$s</string>
@@ -11761,7 +11762,7 @@ Ako se prihvatite dati takva dopuštenja, nećete moći koristiti neke značajke
   <string name="sos_phone_call_privacy_dialog_message_confirm">Dopusti</string>
   <string name="sos_phone_log_privacy_dialog_message">"Ovoj aplikaciji potrebno je dopuštenje za pristup vašoj povijesti poziva da biste je mogli dijeliti sa svojim kontaktima za hitne slučajeve.
 Ako se prihvatite dati takva dopuštenja, nećete moći koristiti neke značajke ove aplikacije; međutim, njena osnovna funkcionalnost i dalje će vam biti dostupna. Uvijek možete isključiti tu značajku."</string>
-  <string name="sos_privacy_and_content_policy">Korisnički ugovor i Pravila o Privatnosti</string>
+  <string name="sos_privacy_and_content_policy">Korisnički ugovor i Pravila o privatnosti</string>
   <string name="sos_privacy_dialog_button_cancel">Odustani</string>
   <string name="sos_privacy_dialog_button_ok">Prihvaćam</string>
   <string name="sos_privacy_dialog_message">"Pročitajte i prihvatite naše %s prije korištenja ove značajke. 

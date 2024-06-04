@@ -44,6 +44,7 @@ Dodirnite za prikaz."</string>
     <string name="button_clear_storage">Oslobodite nešto prostora</string>
     <string name="button_confirm">U redu</string>
     <string name="button_goon_recorder">Nastavi</string>
+	 <string name="camera_high_spec_recording">"Ne mogu snimati zaslon tijekom snimanja u %1$s"</string>
     <string name="cancel_edit">Odustani</string>
     <string name="cannot_change_frames">Broj slika može se prilagoditi samo za snimke s fiksnim brojem slika.</string>
     <string name="cannot_change_parames">"Ne mogu mijenjati parametre tijekom snimanja"</string>
@@ -215,6 +216,7 @@ Dodirnite za prikaz."</string>
     <string name="sunday">Nedjelja</string>
     <string name="sunday_short">Ned</string>
     <string name="sunday_shortest">N</string>
+	 <string name="tap_to_view">Dodirnite za prikaz</string>
     <string name="thursday">Četvrtak</string>
     <string name="thursday_short">Čet</string>
     <string name="thursday_shortest">Č</string>
