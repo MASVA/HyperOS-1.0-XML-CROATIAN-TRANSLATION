@@ -496,9 +496,9 @@ mm"</string>
   <string name="signature_default_content">"Samo za vas;
   by MASVA"</string>
   <string name="smart_style">Pametno</string>
-  <string name="smart_style_summary">"Ne prikazuj kada je uređaj u džepu, kad je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledaš u zaslon"</string>
-  <string name="smart_style_summary_inner">"Ne prikazuj kada je uređaj u džepu, ako je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledaš u unutarnji zaslon"</string>
-  <string name="smart_style_summary_outer">"Ne prikazuj kada je uređaj u džepu, ako je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledaš u vanjski zaslon"</string>
+  <string name="smart_style_summary">"Ne prikazuj kada je uređaj u džepu, kad je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledate u zaslon"</string>
+  <string name="smart_style_summary_inner">"Ne prikazuj kada je uređaj u džepu, ako je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledate u unutarnji zaslon"</string>
+  <string name="smart_style_summary_outer">"Ne prikazuj kada je uređaj u džepu, ako je ambijentalno osvjetljenje slabo dulje vrijeme ili kada ne gledate u vanjski zaslon"</string>
   <string name="somatosensory_temperature_format">Osjećaj je kao %s°</string>
   <string name="standard_clock_panel">Standardno</string>
   <string name="standard_style">Standardno</string>

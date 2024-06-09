@@ -38,12 +38,16 @@
   <string name="action_mode_switcher_list_description">Popis</string>
   <string name="action_search_description">Traži</string>
   <string name="action_settings_description">Otvori Postavke</string>
-  <string name="action_to_link">Otvori URL</string>
+  <string name="action_to_link">Otvori poveznicu</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="actionbar_close_description">Zatvori</string>
   <string name="actionbar_home_description">Natrag</string>
   <string name="add_account_desc">Sinkronizirati vaše bilješke s vašim Xiaomi Računom?</string>
+  <string name="add_excerpt_summary">Dodaj popis sažetaka</string>
   <string name="added_to_clipboard">Uspješno kopirano</string>
+  <string name="ai_chat_declare_double_link"><Data>Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\" >Pravila o privatnosti&lt;/a> prije nego nastavite.</Data></string>
+  <string name="ai_chat_dlg_content">Za različite izvore informacija u različitim scenarijima (kao što su veze ili tekst koji se pojavljuju u aplikacijama kao što su preglednici, WeChat i Feishu), funkcija brzog prikupljanja i sažimanja informacija, kao i njihovo automatsko generiranje i predstavljanje u objedinjenom unosu za arhiviranje, može se postići.</string>
+  <string name="ai_watermark">Generiraj AI:</string>
   <string name="alarm_bar_title">Podsjetnik</string>
   <string name="alert_action_edit_anyway">Nastavi uređivati</string>
   <string name="alert_edit_action_delete">Ukloni</string>
@@ -273,8 +277,13 @@ Dodirnite + da napravite mapu"</string>
   <string name="error_widget_exist_for_send_to_desktop">Ova se bilješka već nalazi na vašem Početnom zaslonu</string>
   <string name="exceed_todo_text_limitation">Opis zadatka je predugačak.</string>
   <string name="excerpt">Izradite isječak</string>
+  <string name="excerpt_ares_limit">Cijenimo vaš entuzijazam, ali trenutno imamo veliki promet. Kliknite izvornu poveznicu za pregled ili pokušajte ponovno kasnije.</string>
   <string name="excerpt_bubble_tips">Kopirani tekst i spremljene slike bit će spremljeni u Bilješke</string>
   <string name="excerpt_link_bubble_tips">Dodirnite za spremanje u Bilješke</string>
+  <string name="excerpt_original_text">Izvorni tekst：</string>
+  <string name="excerpt_summary_fail">Raščlanjivanje sadržaja nije uspjelo. Kliknite izvornu poveznicu za pregled ili pokušajte ponovno kasnije.</string>
+  <string name="excerpt_summary_huangfan">Sadržaj je osjetljiv. Kliknite izvornu poveznicu za pregled.</string>
+  <string name="excerpt_summary_link_bubble_tips">Dodirnite za spremanje sažetka u Bilješke.</string>
   <string name="excerpt_note">Moji izvodi</string>
   <string name="excerpted_to_note">Isječak spremljen u Bilješke</string>
   <string name="excerpting">Izrada izvoda…</string>
@@ -690,14 +699,15 @@ Dodirnite + da napravite mapu"</string>
   <string name="pref_desc_alarm_when_silent">Alarmi za podsjetnike će zvoniti i kada je ton zvona utišan</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Ne pitaj za potvrdu prilikom brisanja bilješke korištenjem geste"</string>
   <string name="pref_desc_todo_float_mode">Prijeđite prstom od ruba zaslona da biste otvorili alat sa zadacima</string>
-  <string name="pref_excerpt_link_float">Primite podsjetnik za izradu isječka kad god se URL kopira</string>
+  <string name="pref_excerpt_link_float">Primite podsjetnik za izradu isječka kad god se poveznica kopira</string>
+  <string name="pref_excerpt_summary_link_float">Svaki put kada se poveznica kopira, traka sa stenografijom pružit će podsjetnik sažetka na čekanju, kliknite da izdvojite sažetak.</string>
   <string name="pref_permission_allowed">Odobreno</string>
   <string name="pref_permission_manage">Pojedinosti o dopuštenjima</string>
   <string name="pref_permission_manage_key_contact">Pristup kontaktima</string>
   <string name="pref_permission_manage_key_recording">Snimanje zvuka</string>
   <string name="pref_permission_manage_key_storage">Pristup pohrani</string>
   <string name="pref_permission_not_allowed">Nije odobreno</string>
-  <string name="pref_quick_note_desc">Upotrijebite prečac na rubu zaslona za izradu bilješki i zadataka, kao i spremanje kopiranih URL-ova, teksta i slika u Bilješke.</string>
+  <string name="pref_quick_note_desc">Upotrijebite prečac na rubu zaslona za izradu bilješki i zadataka, kao i spremanje kopiranih poveznica, teksta i slika u Bilješke.</string>
   <string name="pref_remind_type_summary">Reproduciraj zvuk podsjetnika u Bešumnom načinu rada</string>
   <string name="pref_remind_type_summary_new">Zanemari Bešumni način i nastavi reproducirati zvuk dok se alarm ne isključi</string>
   <string name="pref_remind_type_summary_new_2">Reproduciraj zvuk čak i kad je uključen Bešumni ili DND način</string>
@@ -707,6 +717,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="pref_title_cloud_trash_bin">Izbriši bilješke u Xiaomi Cloudu</string>
   <string name="pref_title_common">"Dodatne postavke"</string>
   <string name="pref_title_excerpt_remind">Podsjetnici isječaka</string>
+  <string name="pref_title_excerpt_summary_remind">Popis sažetaka</string>
   <string name="pref_title_font_size">Veličina fonta</string>
   <string name="pref_title_note_style">Stil</string>
   <string name="pref_title_quick_note">Brze bilješke</string>
@@ -722,7 +733,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="private_entry_available">Otpusti za otvaranje privatne mape</string>
   <string name="private_entry_default">Povuci dolje za otvaranje privatne mape</string>
   <string name="progressbar_title">Provjera sigurnosnih problema…</string>
-  <string name="quick_note_link_default_text">URL</string>
+  <string name="quick_note_link_default_text">Poveznica</string>
   <string name="quick_note_new_user_guide">Brze bilješke omogućuju vam izradu bilješki i isječaka</string>
   <string name="recover_notes_hint">Došlo je do pogreške, idite na i.mi.com da vratite bilješke.</string>
   <string name="redo">Ponovi</string>
@@ -812,6 +823,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="sina_token_expired_warning">Weibo račun je istekao, dodajte račun ponovno.</string>
   <string name="sina_token_invalid_warning">Weibo račun je nevažeći, dodajte račun ponovno.</string>
   <string name="single_link_excerpt_saving">Spremanje stavki…</string>
+  <string name="single_link_excerpt_summary_saving">Generiranje popisa sažetaka.</string>
   <string name="single_new_excerpt_title">Isječci</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
@@ -878,6 +890,9 @@ Dodirnite + da napravite mapu"</string>
   <string name="thursday_short">Čet</string>
   <string name="thursday_shortest">Č</string>
   <string name="time_picker_dialog_title">Postavi vrijeme</string>
+  <string name="to_be_read_bubble_tips">Kopirana veza i tekst izravno će izdvojiti sažetak u bilješke.</string>
+  <string name="to_be_read_link_bubble_tips">Dodirnite za spremanje sažetka u bilješke</string>
+  <string name="to_be_read_list">Popis sažetaka</string>
   <string name="to_view_alarm_content">Dodirnite za prikaz</string>
   <string name="toast_cancel_to_insert_image">"Ne mogu dodati sliku."</string>
   <string name="toast_excerpt_end">Isječak uspješno izrađen</string>
@@ -917,6 +932,8 @@ Dopustite aplikaciji Bilješke čitanje statusa i identiteta telefona."</string>
   <string name="toast_refuse_to_use_record_audio">"Dopuštenja za mikrofon su ograničena.
 Dopustite aplikaciji Bilješke snimanje zvuka."</string>
   <string name="toast_refuse_to_use_storage_in_excerpt">Omogućite aplikaciji Bilješke pristup pohrani da bi mogli dodavati slike u vaše bilješke</string>
+  <string name="toast_show_no_network">Povežite se na mrežu i pokušajte ponovo.</string>
+  <string name="toast_show_xiaomi_account">Prijavite se na svoj Xiaomi račun i pokušajte ponovno.</string>
   <string name="toast_unmark_privacy_notes">Uspješno otkriveno</string>
   <string name="toast_unmark_privacy_notes_count">%1$s uspješno otkriven</string>
   <string name="today">Danas</string>

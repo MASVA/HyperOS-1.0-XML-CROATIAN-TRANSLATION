@@ -408,6 +408,7 @@
   <string name="gadget_weather_title_14">Vrijeme</string>
   <string name="gadget_weather_title_24">Vrijeme</string>
   <string name="global_search">Traži</string>
+  <string name="global_shelf">Tražitelj aplikacija</string>
   <string name="global_search_hint">Unesite traženi pojam</string>
   <string name="got_it_botton">Razumijem</string>
   <string name="group_folder">Nova mapa</string>
@@ -421,6 +422,7 @@
   <string name="hide_apps_title">Sakrij ikone aplikacija</string>
   <string name="home_gesture_content_center">Centar za sadržaj</string>
   <string name="home_gesture_global_search">Traži</string>
+  <string name="home_gesture_global_shelf">Tražitelj aplikacija</string>
   <string name="home_gesture_no_action">Ništa</string>
   <string name="home_gesture_notification_and_control_center">Panel obavijesti i centar za kontrolu</string>
   <string name="home_gesture_notification_bar">Obavijesti</string>
@@ -446,7 +448,7 @@
   <string name="international_home_pull_down_sub_content">Ovu gestu možete prebaciti na otvaranje Centra za kontrolu u Postavkama &gt; Početni zaslon &gt; Povuci dolje na Početnom zaslonu.</string>
   <string name="international_home_pull_down_up_btn_get">Razumijem</string>
   <string name="international_home_pull_up_content">Povucite gore na početnom zaslonu da biste otvorili Centar za sadržaj.</string>
-  <string name="international_home_pull_up_sub_content">Da biste otvorili pretraživanje, povucite dolje od sredine početnog zaslona.</string>
+  <string name="international_home_pull_up_sub_content">Da biste pronašli aplikacije i prijedloge aplikacija, prijeđite prstom prema dolje od sredine početnog zaslona.</string>
   <string name="invalid_contact_shortcut">Nevažeći kontakt</string>
   <string name="is_setting_wallpaper_message">Postavljanje slike pozadine…</string>
   <string name="is_system_wallpaper_message">"Ne mogu izbrisati resurse sustava"</string>
