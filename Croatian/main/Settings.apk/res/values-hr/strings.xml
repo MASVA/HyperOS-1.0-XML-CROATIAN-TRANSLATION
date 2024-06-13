@@ -5813,6 +5813,8 @@ prvo morate izraditi iCloud Sig. kopiju."</string>
   <string name="ignore_optimizations_on">Ne optimiziraj</string>
   <string name="ignore_optimizations_on_desc">Baterija se može brže isprazniti. Aplikacijama više neće biti ograničeno korištenje pozadinske baterije.</string>
   <string name="ignore_optimizations_title">Želite li dopustiti aplikaciji %s da zanemari optimizacije baterije?</string>
+  <string name="illegal_device_name_modification_notification">Preimenujte svoj uređaj</string>
+  <string name="illegal_hotspot_name_modification_notification">Promijenite naziv hotspota</string>
   <string name="ime_security_warning">%1$s može snimati sve što unosite, uključujući zaporke, brojeve kreditnih kartica i druge osobne podatke.</string>
   <string name="ime_security_warning_global">Načini unosa možda će moći prikupiti sav tekst koji upisujete, uključujući osobne podatke poput lozinke i brojeva kreditnih kartica. Koristiti %1$s?</string>
   <string name="ime_security_warning_title_global">Uključivanje tipkovnice</string>
@@ -8168,6 +8170,7 @@ Odaberite operativni sustav vašeg računala:"</string>
   <string name="my_device_info_device_name_preference_title">Naziv uređaja</string>
   <string name="my_device_info_legal_category_title">Pravne i zakonske obaveze</string>
   <string name="n_cacrts">%d CA certifikati</string>
+  <string name="name_modification_no_network_notification">Povežite se na mrežu i pokušajte ponovo</string>
   <string name="name_password_not_consistent">Pogrešno korisničko ime ili zaporka</string>
   <string name="natural_haptic">Prirodni dodir</string>
   <string name="natural_haptic_summary">Novi uzorci haptičnih povratnih informacija daju dodatnu dimenziju svemu što vidite i dodirnete na zaslonu.</string>

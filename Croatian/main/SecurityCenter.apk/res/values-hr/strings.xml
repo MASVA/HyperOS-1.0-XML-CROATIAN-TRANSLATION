@@ -2516,6 +2516,14 @@ volonter"</string>
   <string name="gateway_exception_summary2">"Ne mogu se povezati na poslužitelj"</string>
   <string name="gateway_exception_title">Testiraj router</string>
   <string name="gb_ad_game_size">MB</string>
+  <string name="gb_advance_settings_screen_display_style_summary">Povećajte kontrast i optimizirajte vizualne elemente za prikaz više detalja</string>
+  <string name="gb_advance_settings_screen_display_summary">Poboljšajte kontrast i optimizirajte vizualne elemente za prikaz više detalja</string>
+  <string name="gb_advance_settings_screen_show_enhancement">Poboljšajte vizualni prikaz</string>
+  <string name="gb_advance_settings_screen_show_enhancement_summary">Pokretanje zaslona s povećanom glatkoćom i fluidnošću</string>
+  <string name="gb_advance_settings_screen_super_picture_quality">Super kvaliteta slike</string>
+  <string name="gb_advance_settings_screen_super_picture_quality_summary">Pojačajte razlučivost i broj sličica u sekundi za glatkije vizualne prikaze</string>
+  <string name="gb_casual_game_application_range_prefix">Br.</string>
+  <string name="gb_vision_enhance_smart_frame_enhance">Poboljšaj broj sličica u sekundi</string>
   <string name="gb_award_noti_message">Uključite pozadinska ažuriranja Game for Peace u Game Turbo da biste osvojili nagrade</string>
   <string name="gb_award_noti_title">Stigle su nagrade Game for Peace!</string>
   <string name="gb_bar_high">Visoko</string>

@@ -702,6 +702,10 @@ Sada možete dobiti %d-dnevno besplatno probno razdoblje!"</item>
         <item quantity="other">" min"</item>
         <item quantity="one">" min"</item>
     </plurals>
+	  <plurals name="pc_battery_replacement_service_day">
+        <item quantity="other">%d-dana</item>
+        <item quantity="one">%d-dan</item>
+     </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d stavki</item>
         <item quantity="one">%d stavka</item>
