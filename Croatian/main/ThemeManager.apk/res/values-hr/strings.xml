@@ -557,6 +557,7 @@ Da biste ovu značajku isključili, idite u Postavke &gt; Zvuk &amp; vibracija &
   <string name="local_mode">Izvanmrežni način rada</string>
   <string name="local_mode_close">Isključiti izvanmrežni način rada?</string>
   <string name="local_mode_close_desc">Isključite izvanmrežni način rada ako želite koristiti mrežne usluge. Isključiti sada?</string>
+  <string name="local_mode_close_tip">Za postavljanje ove pozadine potrebna je internetska veza. Ako želite koristiti internetsku uslugu, morate isključiti lokalni način rada. Želite li potvrditi isključivanje?</string>
   <string name="local_mode_desc">"Izvanmrežni način rada koristi samo lokalni sadržaj i ne koristi mrežne usluge"</string>
   <string name="local_mode_hint">"Koristite izvanmrežni način rada.
 Dodirnite za isključivanje."</string>

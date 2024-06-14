@@ -214,7 +214,7 @@
    <string name="retry">Pokušaj ponovno</string>
    <string name="saturday">Subota</string>
    <string name="saturday_short">Sub</string>
-   <string name="saturday_shortest">Sub</string>
+   <string name="saturday_shortest">S</string>
    <string name="search_menu_title">Traži</string>
    <string name="send">Pošalji</string>
    <string name="some_where_on_earth">Negdje na Zemlji</string>
@@ -245,7 +245,7 @@
    <string name="suggestion_for_zhongxue">Utoplite se i vozite pažljivo</string>
    <string name="sunday">Nedjelja</string>
    <string name="sunday_short">Ned</string>
-   <string name="sunday_shortest">Ned</string>
+   <string name="sunday_shortest">N</string>
    <string name="sunrise">Izlazak sunca</string>
    <string name="sunset">Zalazak sunca</string>
    <string name="system_app_is_restore">Vraćanje stavki sustava…</string>
@@ -257,7 +257,7 @@
    <string name="tap_to_update_system_app">Dodirnite za ažuriranje aplikacija sustava</string>
    <string name="thursday">Četvrtak</string>
    <string name="thursday_short">Čet</string>
-   <string name="thursday_shortest">Čet</string>
+   <string name="thursday_shortest">Č</string>
    <string name="updated_a_moment_ago">Ažurirano prije nekoliko trenutaka</string>
    <string name="view_forecast_item_yesterday">Jučer</string>
    <string name="view_indexes_item_today">Danas</string>
@@ -269,11 +269,13 @@
    <string name="tomorrow">Sutra</string>
    <string name="tuesday">Utorak</string>
    <string name="tuesday_short">Uto</string>
-   <string name="tuesday_shortest">Uto</string>
+   <string name="tuesday_shortest">U</string>
+   <string name="update_notification_info">Ažuriranje podataka u pozadini…</string>
    <string name="wait_for_wlan_china">Pričekajte Wi-Fi</string>
+   <string name="weather_service_channel_name">Usluge u pozadini</string>
    <string name="wednesday">Srijeda</string>
    <string name="wednesday_short">Sri</string>
-   <string name="wednesday_shortest">Sri</string>
+   <string name="wednesday_shortest">S</string>
    <string name="wind_direction_no_data">Vjetar</string>
    <string name="wind_power">%d</string>
    <string name="wind_unit">%1$skm/h</string>
