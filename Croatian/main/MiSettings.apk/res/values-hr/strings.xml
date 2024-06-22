@@ -136,6 +136,7 @@
   <string name="control_center_title">Vrijeme zaslona danas</string>
   <string name="control_center_title_new">Korišteno danas</string>
   <string name="copy">Kopiraj</string>
+  <string name="crazy_mode">Ultra način</string>
   <string name="create">Izradi</string>
   <string name="create_failed">"Ne mogu izraditi"</string>
   <string name="create_shortcut">Prečac Poč. zaslona</string>
@@ -258,6 +259,8 @@ nije generirana u Drugom prostoru"</string>
   <string name="follow_sim1">Primijeni postavke SIM 1</string>
   <string name="footer_global_fps">"
 %1$d. Kada uključite način rada, brzina osvježavanja će se prebaciti na maksimum sustava od %2$d Hz. Postavke aplikacije visoke stope osvježavanja privremeno će biti nedostupne."</string>
+  <string name="footer_global_fps_new">"
+%1$d. %2$s podiže brzinu osvježavanja na maksimum sustava od %3$d Hz. Postavke aplikacije visoke stope osvježavanja privremeno će biti nedostupne."</string>
   <string name="footer_max_fps" formatted="false">"
 %d. Brzina osvježavanja može se prilagoditi do %s Hz za podržane aplikacije i igre."</string>
   <string name="force_rest">Koristite prekide sesije</string>
@@ -485,6 +488,7 @@ nije generirana u Drugom prostoru"</string>
   <string name="p3_color_region">P3</string>
   <string name="p3_color_region_summary">Prikaži sav sadržaj zaslona u P3 rasponu boja</string>
   <string name="parasitic_jaeger">Parazitski jeger</string>
+  <string name="performance_mode">Način performansi</string>
   <string name="personality_hint_ringtone">Prilagođeni zvukovi</string>
   <string name="petaurus_breviceps">Sugar glider</string>
   <string name="pied_crow">Pied crow</string>
@@ -536,9 +540,11 @@ nije generirana u Drugom prostoru"</string>
   <string name="sea_eagle_info">Bijelorepi orlovi moćni su grabežljivci na vrhu i oportunistički lovci koji obično žive u blizini velikih tijela otvorene vode.</string>
   <string name="sea_otter">Morska vidra</string>
   <string name="seal_info">Tuljani su morski sisavci koji se mogu brzo kretati dubokim vodama, hraneći se ribom i škampima.</string>
+  <string name="search_anti_flicker_mode">DC prigušivanje</string>
   <string name="search_app_name">Traži aplikacije</string>
   <string name="search_app_tips">Traži aplikacije</string>
-  <string name="search_empty">Nije pronađena nijedna aplikacija</string>
+  <string name="search_empty">Nema pronađenih aplikacija</string>
+  <string name="search_low_flicker_mode">DC prigušivanje</string>
   <string name="search_menu_title">Traži</string>
   <string name="send">Pošalji</string>
   <string name="service_ringtone_title">Melodija zvona usluge</string>
