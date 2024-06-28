@@ -43,12 +43,14 @@
   <string name="actionbar_close_description">Zatvori</string>
   <string name="actionbar_home_description">Natrag</string>
   <string name="add_account_desc">Sinkronizirati vaše bilješke s vašim Xiaomi računom?</string>
-  <string name="add_excerpt_summary">Dodaj popis sažetaka</string>
+  <string name="add_excerpt_summary">Dodaj na popis sažetaka</string>
   <string name="add_pic_excerpt_summary">Dodajte sažetak slike</string>
+  <string name="add_text_excerpt_summary">Dodaj tekstualni sažetak</string>
   <string name="added_to_clipboard">Uspješno kopirano</string>
   <string name="ai_chat_declare_double_link"><Data>Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\" >Pravila o privatnosti&lt;/a> prije nego nastavite.</Data></string>
   <string name="ai_chat_dlg_content">Za različite izvore informacija u različitim scenarijima (kao što su veze ili tekst koji se pojavljuju u aplikacijama kao što su preglednici, WeChat i Feishu), funkcija brzog prikupljanja i sažimanja informacija, kao i njihovo automatsko generiranje i predstavljanje u objedinjenom unosu za arhiviranje, može se postići.</string>
-  <string name="ai_watermark">Generiraj AI:</string>
+  <string name="ai_createing_text">AI generiranje...</string>
+  <string name="ai_watermark">Generiraj pomoću AI:</string>
   <string name="alarm_bar_title">Podsjetnik</string>
   <string name="alert_action_edit_anyway">Nastavi uređivati</string>
   <string name="alert_edit_action_delete">Ukloni</string>
@@ -901,6 +903,7 @@ Dodirnite + da napravite mapu"</string>
   <string name="to_be_read_link_bubble_tips">Dodirnite za spremanje sažetka u bilješke</string>
   <string name="to_be_read_image_list">Sažetak slike</string>
   <string name="to_be_read_list">Popis sažetaka</string>
+  <string name="to_be_read_text_list">Sažetak teksta</string>
   <string name="to_view_alarm_content">Dodirnite za prikaz</string>
   <string name="toast_cancel_to_insert_image">"Ne mogu dodati sliku."</string>
   <string name="toast_excerpt_end">Isječak uspješno izrađen</string>
