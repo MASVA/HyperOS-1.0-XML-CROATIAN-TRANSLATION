@@ -90,7 +90,7 @@ Prijavite se na svoj Xiaomi račun u Postavke &gt; Xiaomi račun za sinkronizaci
   <string name="camera_associate_disconnecting">Prekid veze s kamerom telefona</string>
   <string name="camera_associate_failed">"Nije moguće povezati se s kamerom"</string>
   <string name="camera_associate_success">Kamera povezana</string>
-  <string name="camera_choose_device">Odaberite uređaj</string>
+  <string name="camera_choose_device">Promijenite kamere</string>
   <string name="camera_connecting">"%s želi koristiti kameru ovog uređaja"</string>
   <string name="camera_disassociate">Veza s kamerom prekinuta</string>
   <string name="camera_title">Traženje dostupnih uređaja…</string>
@@ -100,7 +100,12 @@ Prijavite se na svoj Xiaomi račun u Postavke &gt; Xiaomi račun za sinkronizaci
   <string name="car_air_con_back_switch_open">Uključi klimu na stražnjem sjedalu</string>
   <string name="car_air_con_switch_close">Isključite klima uređaj</string>
   <string name="car_air_con_switch_open">Uključite klima uređaj u autu</string>
-  <string name="car_air_con_unuse">–-</string>
+  <string name="car_camera_associate_connecting">Povezivanje na EV kameru</string>
+  <string name="car_camera_associate_disconnecting">Odspajanje od EV kamere</string>
+  <string name="car_camera_device_name">%1$s prednja kamera</string>
+  <string name="car_camera_unavailable_dialog_message">"Uključen je način rada niske potrošnje energije ili način rada privatnosti. Trenutačno ne možete vidjeti prikaz prednje kamere vozila na vašem mobilnom uređaju."</string>
+  <string name="car_camera_unavailable_dialog_positive_button">Razumijem</string>
+  <string name="car_camera_unavailable_dialog_title">"Ne mogu koristiti kameru"</string>
   <string name="car_card_air_control_backseat_air">Stražnja sjedala</string>
   <string name="car_card_air_temperature_minus">Smanji AC temperaturu</string>
   <string name="car_card_air_temperature_plus">Povećajte temperaturu izmjenične struje</string>
@@ -135,6 +140,8 @@ Prijavite se na svoj Xiaomi račun u Postavke &gt; Xiaomi račun za sinkronizaci
   <string name="chip_text">Chip tekst</string>
   <string name="circulate_audio_group_title">Reprodukcija…</string>
   <string name="circulate_back_button_content_description">Natrag</string>
+  <string name="circulate_car_card_use_camera">Koristi EV kameru</string>
+  <string name="circulate_car_card_using_camera">Korištenje EV kamere</string>
   <string name="circulate_card_disconnect">Prekini vezu</string>
   <string name="circulate_card_loading_title_audio_stereo">Stereo sustav</string>
   <string name="circulate_card_loading_title_band">Grupa</string>
@@ -449,7 +456,8 @@ Vaši uređaji?"</string>
   <string name="device_desc_trust">Pouzdani uređaji</string>
   <string name="device_permission_authorize_dialog_message">Kad se ovo dopuštenje da, ovaj uređaj će moći koristiti %s za snimanje fotografija i videozapisa.</string>
   <string name="device_permission_authorize_dialog_title">Dodijeli dopuštenja za kameru na %s</string>
-  <string name="device_permission_dialog_message">Otvorite Postavke &gt; Međusobno povezivanje &gt; Međusobno povezivanje i dopuštenja na %s i najprije dodijelite dopuštenja kameri.</string>
+  <string name="device_permission_dialog_message">Otvorite Postavke > Međusobno povezivanje > Međusobno povezivanje i dopuštenja na %s i najprije dodijelite dopuštenja kameri.</string>
+  <string name="device_permission_dialog_message_car">Možete dopustiti pristup kameri u Postavke > Sustav > Upravljanje aplikacijama > Posebna dopuštenja > Međusobna povezanost na %s.</string>
   <string name="device_permission_dialog_positive_button">Razumijem</string>
   <string name="device_permission_dialog_title">Dodijeli dopuštenja za %s</string>
   <string name="device_type_name_pad">Tablet</string>

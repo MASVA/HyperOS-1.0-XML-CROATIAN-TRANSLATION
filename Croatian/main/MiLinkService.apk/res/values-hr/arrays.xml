@@ -59,7 +59,17 @@
      <string-array name="settings_search_relay_network">
         <item>Mrežna pomoć</item>
         <item>Međusobna povezanost/Mrežna pomoć</item>
-        <item>Mrežna pomoć, tethering, dijeljenje hotspota</item>
+        <item>Mrežna pomoć, povezivanje, dijeljenje hotspota, bežično povezivanje</item>
+     </string-array>
+     <string-array name="settings_search_relay_network_2">
+       <item>Bežično povezivanje</item>
+       <item>Međupovezanost/Bežično povezivanje</item>
+      <item>Mrežna pomoć, povezivanje, dijeljenje hotspota, bežično povezivanje</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
+      <item>Mrežna sinkronizacija</item>
+      <item>Međupovezanost/mrežna sinkronizacija</item>
+      <item>Mrežna pomoć, povezivanje, dijeljenje hotspota, mrežna sinkronizacija</item>
      </string-array>
      <string-array name="settings_search_share_Launcher">
         <item>Home screen+</item>
