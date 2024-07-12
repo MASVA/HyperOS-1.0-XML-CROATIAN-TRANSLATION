@@ -421,6 +421,7 @@
   <string name="guide_tips_editing_mode">Dodirni &amp; drži za pokupiti widget</string>
   <string name="hide_apps_title">Sakrij ikone aplikacija</string>
   <string name="home_gesture_content_center">Centar za sadržaj</string>
+  <string name="home_gesture_content_center_settings">Postavke centra sadržaja</string>
   <string name="home_gesture_global_search">Traži</string>
   <string name="home_gesture_global_shelf">Tražitelj aplikacija</string>
   <string name="home_gesture_no_action">Ništa</string>

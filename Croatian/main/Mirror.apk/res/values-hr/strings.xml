@@ -53,8 +53,8 @@
   <string name="cast_mcc_tips_title_china">Promjena Wi-Fi postavki</string>
   <string name="circulate_cta_agree">Prihvaćam</string>
   <string name="circulate_cta_all_purpose">Home screen+ dio je Xiaomi Interconnectivity Services. Omogućuje vam pregled i interakciju s početnim zaslonima drugih povezanih uređaja. Da bi mogla normalno raditi, ova usluga se mora povezati na internet i zahtijeva sljedeća dopuštenja:</string>
-  <string name="circulate_cta_app_name">Mi Smart Hub</string>
-  <string name="circulate_cta_desc_phone">Dobro došli u Mi Smart Hub! Ovu aplikaciju možete koristiti za emitiranje sadržaja zaslona, prijenos multimedijske reprodukcije između uređaja, korištenje Mi Smart Playa, MIUI+ i handoff aplikacije. Ova aplikacija mora se povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:</string>
+  <string name="circulate_cta_app_name">Xiaomi Smart Hub</string>
+  <string name="circulate_cta_desc_phone">Dobro došli u Xiaomi Smart Hub! Ovu aplikaciju možete koristiti za emitiranje sadržaja zaslona, prijenos multimedijske reprodukcije između uređaja, korištenje Mi Smart Playa, MIUI+ i handoff aplikacije. Ova aplikacija mora se povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:</string>
   <string name="circulate_cta_desc_phone_miui15_14">Dobro došli u Xiaomi Interconnectivity! Ovu aplikaciju možete koristiti za emitiranje sadržaja zaslona, prijenos multimedijske reprodukcije između uređaja, korištenje Mi Smart Playa, značajki međusobnog povezivanja uređaja i handoff aplikacije. Ova aplikacija mora se povezati s internetom i zahtijeva sljedeća dopuštenja da bi mogla normalno raditi:</string>
   <string name="circulate_cta_exit">"Ne prihvaćam"</string>
   <string name="circulate_cta_new_app_name">Home screen+</string>
@@ -86,6 +86,7 @@
   <string name="desktop_switch_is_closed">Home screen+ je isključen</string>
   <string name="device_busy">Uređaj je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="device_max_screen_count_toast">Ovaj uređaj podržava otvaranje samo dva prozora u isto vrijeme</string>
+  <string name="device_screen_fold_switch_tip">Izvedite ovu radnju s unutarnjeg zaslona</string>
   <string name="display_max_screen_count_toast">U ovoj verziji možete otvoriti do 2 prozora</string>
   <string name="display_not_support_secondary_toast">"Ne mogu otvoriti ovu aplikaciju u novom prozoru"</string>
   <string name="download_aborted">"Ne mogu prenijeti zbog prekida veze"</string>
@@ -122,6 +123,9 @@
   <string name="fingerprint_error_no_fingerprints">Nije registriran nijedan otisak prsta.</string>
   <string name="fingerprint_error_user_canceled">Radnju s otiskom prsta otkazao je korisnik.</string>
   <string name="fingerprint_not_recognized">Nije prepoznat</string>
+  <string name="fold_photograph_prompt_dialog_ok">U redu</string>
+  <string name="fold_photograph_prompt_message">Koristite kameru s unutarnjeg zaslona</string>
+  <string name="fold_photograph_prompt_notification_title">Koristite kameru na različitim uređajima za Bilješke</string>
   <string name="friday">Petak</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
@@ -191,7 +195,7 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="low_version_dialog_message">Ažurirajte MIUI+ na računalu ili preuzmite najnoviju verziju s plus.miui.com.</string>
   <string name="low_version_dialog_title">Ažurirajte MIUI+</string>
   <string name="message_log">Zapisi poruka</string>
-  <string name="mi_drop">Mi Share</string>
+  <string name="mi_drop">Xiaomi Share</string>
   <string name="mirror_call_closed">Na ovaj poziv je odgovoreno na drugom uređaju</string>
   <string name="mirror_have_been_opened">Home screen+ je uključen</string>
   <string name="mirror_to_float_window_mode">Prebaci se na plutajući prozor</string>
@@ -352,11 +356,11 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="pad_pc_share_introduction_title">Kontrole na različitim uređajima</string>
   <string name="pad_settings_bluetooth_enable_summary">Uključite Bluetooth da biste mogli pronaći uređaje u blizini. Uključiti sada?</string>
   <string name="pad_settings_bluetooth_enable_title">Uključite Bluetooth</string>
-  <string name="pad_settings_click_toast_msg">Povežite se pomoću Mi Smart Huba na svom računalu</string>
+  <string name="pad_settings_click_toast_msg">Povežite se pomoću Xiaomi Smart Huba na svom računalu</string>
   <string name="pad_settings_connect_pad_group">Rad sa svojim tabletom</string>
   <string name="pad_settings_connect_pc_group">Rad sa svojim računalom</string>
   <string name="pad_settings_connect_phone_group">Rad sa svojim telefonom</string>
-  <string name="pad_settings_connect_summary1">Otvorite Mi Smart Share na računalu i odaberite \"Screen Combo\". Mi Smart Share možete preuzeti s www.miui.com.</string>
+  <string name="pad_settings_connect_summary1">Otvorite Xiaomi Smart Share na računalu i odaberite \"Screen Combo\". Xiaomi Smart Share možete preuzeti s www.miui.com.</string>
   <string name="pad_settings_connect_summary2">Skenirajte QR kod na zaslonu računala svojim mobilnim uređajem. Za to možete koristiti više aplikacija sustava (npr. Skener, Kamera, Mi Preglednik).</string>
   <string name="pad_settings_current_device_tip">Automatsko povezivanje s drugim tabletima povezanim s vašim Xiaomi računom</string>
   <string name="pad_settings_feature_characteristics_summary_1">Kopirajte tekst na svoj mobilni uređaj i zalijepite ga na svoje računalo, dodajte slike i sinkronizirajte uređivanja u svoje dokumente.</string>
@@ -482,8 +486,8 @@ Možete započeti drugu sesiju na svom računalu."</string>
   <string name="settings_connect">Kako se povezati</string>
   <string name="settings_connect_more_help">&lt;u&gt;Pomoć&lt;/u&gt;</string>
   <string name="settings_connect_pc_group">Radite s računalom</string>
-  <string name="settings_connect_summary1">Otvorite Mi Smart Share na računalu i odaberite \"Screen Combo\". Možete preuzeti Mi Smart Share sa www.miui.com.</string>
-  <string name="settings_connect_summary2">Skenirajte QR kôd na zaslonu računala svojim mobilnim uređajem. Za to možete koristiti više sistemskih aplikacija (npr. Skener, Kamera, Mi Preglednik).</string>
+  <string name="settings_connect_summary1">Otvorite Xiaomi Smart Share na računalu i odaberite \"Screen Combo\". Možete preuzeti Xiaomi Smart Share sa www.miui.com.</string>
+  <string name="settings_connect_summary2">Skenirajte QR kôd na zaslonu računala svojim mobilnim uređajem. Za to možete koristiti više sistemskih aplikacija (npr. Skener, Kamera, Xiaomi Preglednik).</string>
   <string name="settings_connect_title1">1. korak</string>
   <string name="settings_connect_title2">2. korak</string>
   <string name="settings_current_device">Povezani uređaj</string>
@@ -611,6 +615,10 @@ za nastavak"</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
+  <string name="upgrade_car_not_tip">"Ne prikazuj više"</string>
+  <string name="upgrade_car_ok">Razumijem</string>
+  <string name="upgrade_car_version_msg">"Da biste mogli koristiti ovu značajku, ažurirajte sustav svog EV-a na verziju 1.2.1 ili noviju u Postavke > Sustav > Verzija sustava."</string>
+  <string name="upgrade_car_version_title">"Ažurirajte sustav svog EV-a"</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="verbose_mode">Verbose način</string>
