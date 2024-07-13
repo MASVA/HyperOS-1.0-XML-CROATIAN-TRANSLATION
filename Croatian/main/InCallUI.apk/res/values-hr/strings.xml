@@ -364,7 +364,6 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="satellite_guide_azimuth_in_floating">Satelit je u području skeniranja</string>
   <string name="satellite_guide_azimuth_leave">Satelit je napustio područje skeniranja</string>
   <string name="satellite_guide_azimuth_leave_floating">Udaljavanje</string>
-  <string name="satellite_guide_azimuth">Pomičite se dok ikona satelita ne bude u plavom području</string>
   <string name="satellite_guide_down">"Nagnite uređaj prema dolje da
 stavite loptu u plavo područje"</string>
   <string name="satellite_guide_elevation">Nagnite uređaj da pomaknete plavi krug na satelit, a zatim ostanite mirni</string>
