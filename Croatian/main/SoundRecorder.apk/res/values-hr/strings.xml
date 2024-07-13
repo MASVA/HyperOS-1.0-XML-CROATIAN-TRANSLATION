@@ -162,6 +162,7 @@
   <string name="miuix_appcompat_actionbar_immersion_button_more_description">Više</string>
   <string name="miuix_appcompat_cancel_description">Odustani</string>
   <string name="miuix_appcompat_cloud_state_disabled">Sinkronizacija s Cloudom je isključena</string>
+  <string name="miuix_appcompat_cloud_state_encrypt_disabled">Uključite end-to-end zaštitu za sinkronizaciju stavki</string>
   <string name="miuix_appcompat_cloud_state_finished">Sinkronizacija s Cloudom je završena</string>
   <string name="miuix_appcompat_cloud_state_syncing">Sinkronizacija s Cloudom…</string>
   <string name="miuix_appcompat_confirm_description">Potvrdi</string>

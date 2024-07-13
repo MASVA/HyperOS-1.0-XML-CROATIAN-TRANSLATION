@@ -363,7 +363,15 @@
 ·Pametna brzina sličica u sekundi daje najbolje rezultate kada je vaša igra postavljena da prikazuje najmanje %d sličica u sekundi."</item>
         <item quantity="one">"Napomena:
 ·Poboljšani vizualni elementi neće biti dostupni kada je uključena Štednja baterije ili je vaš uređaj pregrijan.
-·Pametna brzina sličica u sekundi daje najbolje rezultate kada je vaša igra postavljena da prikazuje najmanje %d sličica u sekundid."</item>
+·Pametna brzina sličica u sekundi daje najbolje rezultate kada je vaša igra postavljena da prikazuje najmanje %d sličicu u sekundi."</item>
+    </plurals>
+	<plurals name="gb_vision_enhance_desc_detail_new">
+        <item quantity="other">"Napomena:
+· Poboljšani vizualni prikazi neće biti dostupni kada je uključena Štednja baterije ili je vaš uređaj pregrijan.
+· Poboljšani broj sličica u sekundi daje najbolje rezultate kada je vaša igra postavljena da prikazuje najmanje %d sličica u sekundi."</item>
+        <item quantity="one">"Napomena:
+· Poboljšani vizualni prikazi neće biti dostupni kada je uključena Štednja baterije ili je vaš uređaj pregrijan.
+· Poboljšani broj sličica u sekundi daje najbolje rezultate kada je vaša igra postavljena da prikazuje najmanje %d sličicu u sekundi."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Isprobajte Voice Changeer odmah 

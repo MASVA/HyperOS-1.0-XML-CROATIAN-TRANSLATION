@@ -29,7 +29,7 @@
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="actionbar_button_up_description">Natrag</string>
   <string name="agree_desc">Dodijelite gore navedena obavezna dopuštenja.</string>
-  <string name="app_name">Mi Share</string>
+  <string name="app_name">Xiaomi Share</string>
   <string name="btn_cancel">Odustani</string>
   <string name="btn_cancel_send">Otkaži ovaj prijenos</string>
   <string name="btn_exit_send">Izlaz</string>
@@ -82,7 +82,7 @@
   <string name="error_p2p_create_group_failure_china">"Povezivanje nije uspjelo. Ponovno se povežite na Wi-Fi na oba uređaja i pokušajte ponovo."</string>
   <string name="error_p2p_recv_connect_timeout">"Povezivanje nije uspjelo. Ponovno se povežite na Wi-Fi na oba uređaja i pokušajte ponovo."</string>
   <string name="error_p2p_recv_connect_timeout_china">"Povezivanje nije uspjelo. Ponovno se povežite na Wi-Fi na oba uređaja i pokušajte ponovo."</string>
-  <string name="error_permission_denied">Da biste mogli koristiti ovu značajku, odobrite Mi Share sva potrebna dopuštenja u Postavkama.</string>
+  <string name="error_permission_denied">Da biste mogli koristiti ovu značajku, odobrite Xiaomi Share sva potrebna dopuštenja u Postavkama.</string>
   <string name="error_receive_file_cannot_read">Nije moguće primiti datoteku</string>
   <string name="error_receive_file_changed">Ne mogu primiti. Stavka se promijenila.</string>
   <string name="error_receive_file_file_opened">"Nije moguće primiti ovu stavku. Izgleda da se sada koristi."</string>
@@ -101,8 +101,8 @@
   <string name="error_send_file_service_disabled">Otkazan odlazni prijenos</string>
   <string name="error_send_transfer_error">Nije moguće poslati stavke. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="error_send_transfer_pc_error">Isteklo je vrijeme prijenosa. Ažurirajte aplikaciju za dijeljenje datoteka na računalu i pokušajte ponovo.</string>
-  <string name="error_slave_wifi_in_use">"Mi Share neće raditi kad je uključen dvojni Wi-Fi. U postavkama isključite dvojni Wi-Fi i pokušajte ponovo."</string>
-  <string name="error_slave_wifi_in_use_china">"Mi Share neće raditi kad je uključen dvojni Wi-Fi. U postavkama isključite dvojni Wi-Fi i pokušajte ponovo."</string>
+  <string name="error_slave_wifi_in_use">"Xiaomi Share neće raditi kad je uključen dvojni Wi-Fi. U postavkama isključite dvojni Wi-Fi i pokušajte ponovo."</string>
+  <string name="error_slave_wifi_in_use_china">"Xiaomi Share neće raditi kad je uključen dvojni Wi-Fi. U postavkama isključite dvojni Wi-Fi i pokušajte ponovo."</string>
   <string name="error_timeout">Isteklo je vrijeme za sjednicu. Pričekajte minutu ili dvije i pokušajte ponovo.</string>
   <string name="error_user_refuse">Nije moguće poslati. Prijenos je odbijen.</string>
   <string name="error_wifi_display_in_use">"Ne mogu slati datoteke na druge uređaje tijekom emitiranja"</string>
@@ -127,12 +127,16 @@
   <string name="go_to_settings">Postavke</string>
   <string name="guide_summary_1">Druga osoba može dodirnuti prečac u Panelu obavijesti</string>
   <string name="guide_summary_2">"Odaberite uređaj na koji želite poslati stavke i dodirnite njegovu ikonu"</string>
-  <string name="guide_title_1">Uključite Mi Share na oba uređaja</string>
+  <string name="guide_title_1">Uključite Xiaomi Share na oba uređaja</string>
   <string name="guide_title_2">Odaberite uređaj za dijeljenje</string>
   <string name="help">"Ne možete pronaći uređaje?"</string>
-  <string name="help_content">"Ako ne možete pronaći uređaj koji vam treba, zamolite drugu osobu da uključi Mi Share."</string>
+  <string name="help_content">"Ako ne možete pronaći uređaj koji vam treba, zamolite drugu osobu da uključi Xiaomi Share."</string>
   <string name="hide">Sakrij</string>
   <string name="i_know">Razumijem</string>
+  <string name="international_privacy_dialog_agree">Prihvaćam</string>
+  <string name="international_privacy_dialog_content">"Dok koristite ovu aplikaciju, moramo prikupiti potrebne informacije kako bismo se mogli povezati s uređajima i prenijeti datoteke. Ako odlučite ne dati ove informacije, možda ih nećemo moći pružiti s odgovarajućim uslugama ili odgovoriti na vaša pitanja. Zahtjev za povlačenje suglasnosti možete poslati u bilo kojem trenutku u Privatnost > Povlačenje suglasnosti."</string>
+  <string name="international_privacy_dialog_disagree">"Ne prihvaćam"</string>
+  <string name="international_privacy_dialog_title">Xiaomi Share</string>
   <string name="location_enabled">Uključena je usluga lociranja za pronalaženje uređaja u blizini</string>
   <string name="menu_item_permission_manager_and_use_guide_title">Pojedinosti o dopuštenjima</string>
   <string name="menu_item_permission_title">Pojedinosti o dopuštenjima</string>
@@ -142,18 +146,18 @@
   <string name="menu_item_view_privacy_policy_title">Pogledajte Pravila o privatnosti</string>
   <string name="menu_item_view_user_protocol_title">Pogledajte korisnički ugovor</string>
   <string name="menu_item_withdraw_privacy_policy_consent_title">Povlačenje suglasnosti</string>
-  <string name="mi_drop">Mi Share</string>
+  <string name="mi_drop">Xiaomi Share</string>
   <string name="mi_share_turbo_mode">Turbo prijenos</string>
   <string name="mini_pc_xiaomi_device_model_name">Xiaomi Mini PC</string>
-  <string name="mishare_folder_in_file_explorer">Datoteke &gt; Mi Share</string>
+  <string name="mishare_folder_in_file_explorer">Datoteke &gt; Xiaomi Share</string>
   <string name="mishare_help_web">https://pc.mi.com/pc-manager-help</string>
-  <string name="mishare_service_channel_desc">Obavijesti o procesima Mi Share</string>
-  <string name="mishare_settings_summary_international">"Mi Share omogućuje vam bežično slanje stavki na druge uređaje u blizini.
+  <string name="mishare_service_channel_desc">Obavijesti o procesima Xiaomi Share</string>
+  <string name="mishare_settings_summary_international">"Xiaomi Share omogućuje vam bežično slanje stavki na druge uređaje u blizini.
 Ovu značajku podržavaju OPPO, vivo, realme i drugi proizvođači pametnih telefona. Popis podržanih uređaja možete provjeriti na službenom web mjestu bilo koje odabrane marke."</string>
-  <string name="mishare_state_protection">Uključite Mi Share automatski</string>
-  <string name="mishare_state_protection_summary">Kad uključite Bluetooth ili Wi-Fi, automatski uključi i Mi Share</string>
-  <string name="mishare_state_protection_summary_china">Automatski ponovno uključi Mi Share kad se Bluetooth ili Wi-Fi ponovno uključe</string>
-  <string name="mishare_transefer_channel_desc">Obavijesti o stavkama koje je Mi Share poslao i primio</string>
+  <string name="mishare_state_protection">Uključite Xiaomi Share automatski</string>
+  <string name="mishare_state_protection_summary">Kad uključite Bluetooth ili Wi-Fi, automatski uključi i Xiaomi Share</string>
+  <string name="mishare_state_protection_summary_china">Automatski ponovno uključi Xiaomi Share kad se Bluetooth ili Wi-Fi ponovno uključe</string>
+  <string name="mishare_transefer_channel_desc">Obavijesti o stavkama koje je Xiaomi Share poslao i primio</string>
   <string name="miuix_access_state_desc">Odabrano</string>
   <string name="miuix_alphabet_indexer_name">Traka indeksa</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Poništi odabir</string>
@@ -228,8 +232,8 @@ Ovu značajku podržavaju OPPO, vivo, realme i drugi proizvođači pametnih tele
   <string name="nfc_check_the_touch_device">Za povezivanje uređaja Wi-Fi i Bluetooth trebaju biti uključeni i na drugom uređaju. Provjerite je li veza za drugi uređaj dopuštena u Postavke &gt; Veza &amp; dijeljenje &gt; Povezani uređaji i pokušajte ponovno.</string>
   <string name="nfc_check_the_touch_device_china">Za povezivanje uređaja Wi-Fi i Bluetooth trebaju biti uključeni i na drugom uređaju. Provjerite je li veza za drugi uređaj dopuštena u Postavke &gt; Veza &amp; dijeljenje &gt; Povezani uređaji i pokušajte ponovno.</string>
   <string name="nfc_connect_fail">"Nije moguće povezati se. Pričekajte minutu ili dvije i pokušajte ponovo."</string>
-  <string name="nfc_connect_fail_lyra_secure">"Možete uključiti Mi Share u centru za kontrolu svog uređaja."</string>
-  <string name="nfc_connect_fail_lyra_secure_title">Mi Share je isključen</string>
+  <string name="nfc_connect_fail_lyra_secure">"Možete uključiti Xiaomi Share u centru za kontrolu svog uređaja."</string>
+  <string name="nfc_connect_fail_lyra_secure_title">Xiaomi Share je isključen</string>
   <string name="nfc_connect_fail_pad">"Nije moguće povezati se"</string>
   <string name="nfc_connecting">Povezivanje…</string>
   <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Za povezivanje uređaja prvo uključite Wi-Fi i Bluetooth na ovom uređaju. Uključiti sada?</string>
@@ -245,15 +249,15 @@ Ovu značajku podržavaju OPPO, vivo, realme i drugi proizvođači pametnih tele
   <string name="notification_channel_name">Obavijesti o prijenosu</string>
   <string name="operate_too_fast">Prebrzo! Pričekajte dok se tekuće operacije ne dovrše.</string>
   <string name="pc_device_model_name">Računalo</string>
-  <string name="permission_apply_purpose">Dopustite Mi Share da otkrije i poveže se s uređajima u blizini kako bi mogao prenositi datoteke.</string>
-  <string name="permission_denied_hint">Dodijelite potrebna dopuštenja za upotrebu Mi Share</string>
+  <string name="permission_apply_purpose">Dopustite Xiaomi Share da otkrije i poveže se s uređajima u blizini kako bi mogao prenositi datoteke.</string>
+  <string name="permission_denied_hint">Dodijelite potrebna dopuštenja za upotrebu Xiaomi Share</string>
   <string name="permission_related">Dopuštenja</string>
   <string name="preference_copied">\"%1$s\" je kopiran u međuspremnik.</string>
   <string name="privacy_authorize">Autorizacija</string>
   <string name="progress_ratio">%1$d%%</string>
-  <string name="purpose">"Dobrodošli u Mi Share! Ovu aplikaciju možete koristiti za prijenos datoteka između uređaja. Zaštitimo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima.
-Prije upotrebe Mi Share-a morate odobriti sljedeća dopuštenja i omogućiti mu prikupljanje potrebnih osobnih podataka:"</string>
-  <string name="purpose_v12">Dobrodošli u Mi Share! Ovu aplikaciju možete koristiti za prijenos datoteka između uređaja.</string>
+  <string name="purpose">"Dobrodošli u Xiaomi Share! Ovu aplikaciju možete koristiti za prijenos datoteka između uređaja. Zaštitimo vaše osobne podatke u skladu s relevantnim zakonima, propisima i pravilima.
+Prije upotrebe Xiaomi Share-a morate odobriti sljedeća dopuštenja i omogućiti mu prikupljanje potrebnih osobnih podataka:"</string>
+  <string name="purpose_v12">Dobrodošli u Xiaomi Share! Ovu aplikaciju možete koristiti za prijenos datoteka između uređaja.</string>
   <string name="queue_full">Dovršite tekuće prijenose prije dodavanja novih.</string>
   <string name="receive_complete">Uspješno primljeno</string>
   <string name="receive_error">Ne mogu primiti</string>
@@ -300,7 +304,7 @@ Prije upotrebe Mi Share-a morate odobriti sljedeća dopuštenja i omogućiti mu 
   <string name="stop_scan">ZAUSTAVI SKENIRANJE</string>
   <string name="sub_title_mishare_switch">Ova će se značajka automatski isključiti nakon %d minuta</string>
   <string name="sub_title_turbo_mode">Super brzi prijenosi između Xiaomi telefona i tableta. Mreža će biti prekinuta tijekom prijenosa.</string>
-  <string name="sub_title_withdraw_privacy_policy_consent">Povlačenje suglasnosti na Pravila o privatnosti također će isključiti Mi Share</string>
+  <string name="sub_title_withdraw_privacy_policy_consent">Povlačenje suglasnosti na Pravila o privatnosti također će isključiti Xiaomi Share</string>
   <string name="success_receive_much_file_from_pc">Primljeno je više od 200 datoteka od %1$s. Dodirnite za prikaz.</string>
   <string name="sunday">Nedjelja</string>
   <string name="sunday_short">Ned</string>
@@ -321,21 +325,18 @@ Prije upotrebe Mi Share-a morate odobriti sljedeća dopuštenja i omogućiti mu 
   <string name="tips_p2p_support_use5g_china">Za najbolje rezultate koristite Wi-Fi mrežu od 5 GHz.</string>
   <string name="tips_prompt_enable_midrop">Dijelite datoteke s uređajima u blizini</string>
   <string name="to_feedback">Povratne inf.</string>
-  <string name="toast_auto_close_in_minutes">Mi Share će se isključiti nakon %d minuta</string>
+  <string name="toast_auto_close_in_minutes">Xiaomi Share će se isključiti nakon %d minuta</string>
   <string name="toast_transfering">Prijenos stavki. Pokušajte ponovno kasnije.</string>
   <string name="today">Danas</string>
   <string name="tomorrow">Sutra</string>
   <string name="transfer_intercept_to_remote">Nije moguće poslati: %1$s</string>
-  <string name="transfer_to_pc_summary">"Mi Share možete koristiti za slanje stavki s vašeg telefona na Mi prijenosna računala ili s jednog prijenosnog računala na drugi.
-Popis kompatibilnih uređaja možete pronaći na našoj web stranici. Ako je vaše prijenosno računalo na popisu, ali Mi Share nije instaliran na njemu, ažurirajte BIOS i upravljački program mrežnog adaptera vašeg prijenosnog računala i preuzmite Mi Share."</string>
-  <string name="transfer_to_pc_summary_new">&lt;Data&gt;"Najnovija verzija MIUI+ instalirana na Mi prijenosnim ra&amp;#269;unalima kompatibilna je s Mi Share. Popis podr&amp;#382;anih modela prijenosnih ra&amp;#269;unala mo&amp;#382;ete provjeriti na web stranici MIUI+ (&amp;lt;a href=%1$s&amp;gt;%2$s&amp;lt;/a&amp;gt;). Ako je va&amp;#353;e prijenosno ra&amp;#269;unalo na popisu, ali MIUI+ nije instaliran na njemu, a&amp;#382;urirajte BIOS prijenosnog ra&amp;#269;unala i upravlja&amp;#269;ki program mre&amp;#382;nog adaptera i preuzmite MIUI+."&lt;/Data&gt;</string>
-  <string name="transfer_to_pc_summary_new_plus">&lt;Data&gt;Xiaomi PC Manager sada podr&amp;#382;ava Mi Share! Mo&amp;#382;ete prona&amp;#263;i popis podr&amp;#382;anih modela ra&amp;#269;unala &amp;lt;a href=%1$s&amp;gt;ovdje&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
+  <string name="transfer_to_pc_summary_new_plus"><Data>Xiaomi PC Manager sada podržava Xiaomi Share! Možete pronaći popis podržanih modela računala &lt;a href=%1$s>ovdje&lt;/a>.</Data></string>
   <string name="transfer_to_pc_title">Pošaljite datoteke na računala</string>
-  <string name="transfer_to_phone_summary">"Uključite Mi Share pomoću prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da biste poslali stavku koju dijelite."</string>
-  <string name="transfer_to_phone_summary_new">Uključite Mi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>
+  <string name="transfer_to_phone_summary">"Uključite Xiaomi Share pomoću prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da biste poslali stavku koju dijelite."</string>
+  <string name="transfer_to_phone_summary_new">Uključite Xiaomi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>
   <string name="transfer_to_phone_title">Pošaljite datoteke na telefone</string>
-  <string name="transfer_to_summary">"Uključite Mi Share pomoću prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da pošaljete stavku koju dijelite."</string>
-  <string name="transfer_to_summary_new">Uključite Mi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>
+  <string name="transfer_to_summary">"Uključite Xiaomi Share pomoću prečaca u Panelu obavijesti. Nakon toga, moći ćete vidjeti uređaje u blizini kada počnete dijeliti fotografiju ili datoteku. Dodirnite uređaj primatelja da pošaljete stavku koju dijelite."</string>
+  <string name="transfer_to_summary_new">Uključite Xiaomi Share u Centru za kontrolu kako biste mogli jednostavno slati i primati stavke. Nakon što ga uključite, možete dijeliti stavke s uređajima u blizini %d min. prije nego što se automatski isključi.</string>
   <string name="transfer_to_title">Pošaljite datoteke na mobilne uređaje</string>
   <string name="tuesday">Utorak</string>
   <string name="tuesday_short">Uto</string>
@@ -344,8 +345,8 @@ Popis kompatibilnih uređaja možete pronaći na našoj web stranici. Ako je va�
   <string name="unrecognized_manufacture">Nepoznato</string>
   <string name="unrecognized_model">Nepoznati uređaj</string>
   <string name="user_instructions">Pažnja</string>
-  <string name="uwb_guide_summary_1">"Ako ne možete pronaći ciljni uređaj, zamolite drugu osobu da dodirne prečac Mi Share u svom Centru za kontrolu."</string>
-  <string name="uwb_guide_title_1">Zamolite drugu osobu da uključi Mi Share</string>
+  <string name="uwb_guide_summary_1">"Ako ne možete pronaći ciljni uređaj, zamolite drugu osobu da dodirne prečac Xiaomi Share u svom Centru za kontrolu."</string>
+  <string name="uwb_guide_title_1">Zamolite drugu osobu da uključi Xiaomi Share</string>
   <string name="uwb_guide_title_2">Brže pronađite ciljni uređaj uz Beam</string>
   <string name="uwb_setting_guide">Saznajte više</string>
   <string name="uwb_setting_guide_summary">Beam koristi UWB tehnologiju za bežično prepoznavanje ciljanih uređaja. Nakon što je ciljni uređaj prepoznat, njegova će ikona doći u prvi plan.</string>
@@ -365,7 +366,7 @@ Popis kompatibilnih uređaja možete pronaći na našoj web stranici. Ako je va�
   <string name="wifi_is_not_enabled">Prvo uključite Wi-Fi</string>
   <string name="wifi_is_not_enabled_china">Prvo uključite Wi-Fi</string>
   <string name="withdraw">Povlačenje</string>
-  <string name="withdraw_consent_message">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Mi Share. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s važećim zakonima i propisima osim ako to nije potrebno inače. Budući da Mi Share pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Mi Share."</string>
+  <string name="withdraw_consent_message">"Ako nastavite, povući ćete svoju suglasnost na Pravila o privatnosti Xiaomi Share. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani unutar određenog razdoblja u skladu s važećim zakonima i propisima osim ako to nije potrebno inače. Budući da Xiaomi Share pruža svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja usluga Xiaomi Share."</string>
   <string name="withdraw_consent_title">Povlačenje suglasnosti</string>
   <string name="withdraw_with_time">Povlačenje (%1$ds)</string>
   <string name="yesterday">Jučer</string>

@@ -143,6 +143,7 @@
     <string name="cloud_storage_default_title">Cloud pohrana</string>
     <string name="cloud_storage_full">Cloud pohrana je puna. Nadogradite svoj plan kako biste dobili više prostora za pohranu.</string>
     <string name="cloud_storage_info_type_backup">Sig. kopije</string>
+	 <string name="cloud_storage_info_type_creation">Mi Canvas</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Obitelj</string>
@@ -169,6 +170,9 @@
     <string name="create_new_folder_failed">"Ne mogu napraviti mapu"</string>
     <string name="create_other_pdf">Novi PDF</string>
     <string name="create_pdf_manual">Novi PDF</string>
+	 <string name="creation_dialog_message">Pogledajte platna na svom tabletu.</string>
+    <string name="creation_dialog_positive_btn">Razumijem</string>
+    <string name="creation_dialog_title">Pažnja</string>
     <string name="current_speed_content">Trenutna brzina: %1$s</string>
     <string name="date_time_picker_dialog_title">Postavite datum i vrijeme</string>
     <string name="delete_failed">"Ne mogu izbrisati"</string>
@@ -316,6 +320,10 @@ Pošaljite ovaj kôd nadzorniku."</string>
     <string name="home_action_up">Natrag</string>
     <string name="hybrid_provider">Omogućuje %1$s</string>
     <string name="i_know">Razumijem</string>
+	 <string name="international_privacy_dialog_agree">Prihvaćam</string>
+    <string name="international_privacy_dialog_content">"Dok koristite ovu aplikaciju, moramo prikupiti potrebne informacije kako bismo se mogli povezati s uređajima i prenijeti datoteke. Ako odlučite ne dati ove informacije, možda ih nećemo moći pružiti s odgovarajućim uslugama ili odgovoriti na vaša pitanja. Zahtjev za povlačenje privole možete poslati u bilo kojem trenutku u Privatnost > Povlačenje privole."</string>
+    <string name="international_privacy_dialog_disagree">"Ne prihvaćam"</string>
+    <string name="international_privacy_dialog_title">Xiaomi Share</string>
     <string name="identity">Identifikacija</string>
     <string name="image_loading_error">"Ne mogu učitati sliku"</string>
     <string name="image_picker_title">Odaberite slike</string>
