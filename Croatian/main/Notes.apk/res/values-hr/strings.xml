@@ -280,6 +280,8 @@ Dodirnite + da napravite mapu"</string>
   <string name="error_widget_exist_for_send_to_desktop">Ova se bilješka već nalazi na vašem Početnom zaslonu</string>
   <string name="exceed_todo_text_limitation">Opis zadatka je predugačak.</string>
   <string name="excerpt">Izradite isječak</string>
+  <string name="excerpt_ares_block">Višestruka kršenja i funkcionalnost su onemogućeni.</string>
+  <string name="excerpt_ares_block_tmp">Višestruka kršenja, funkcija je privremeno onemogućena.</string>
   <string name="excerpt_ares_limit">Cijenimo vaš entuzijazam, ali trenutno imamo veliki promet. Kliknite izvornu poveznicu za pregled ili pokušajte ponovno kasnije.</string>
   <string name="excerpt_bubble_tips">Kopirani tekst i spremljene slike bit će spremljeni u Bilješke</string>
   <string name="excerpt_image_ares_limit">Cijenimo vaš entuzijazam, ali trenutno imamo veliki promet. Pogledajte izvornu sliku ili pokušajte ponovno kasnije.</string>
