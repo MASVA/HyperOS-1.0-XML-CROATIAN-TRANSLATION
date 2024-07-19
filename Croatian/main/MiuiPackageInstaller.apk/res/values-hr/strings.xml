@@ -69,6 +69,7 @@
 	<string name="app_install_safe_check">Provjerite aplikacije prije instalacije</string>
 	<string name="app_installing_not_allow">"Blokirali ste instalaciju %1$s %1$s. "</string>
 	<string name="app_installing_not_allow_1">"Blokirali ste %1$s da instalira aplikaciju. "</string>
+	<string name="app_installing_not_allow_2">Instalacija je blokirana. Pretražite \"Instaliraj nepoznate aplikacije\" u Postavkama da promijenite svoje postavke.</string>
 	<string name="app_name">Alat za inst. paketa</string>
 	<string name="app_non_put_on_the_shelf">Nije dostupno</string>
 	<string name="app_not_found_dlg_text">Aplikacija nije pronađena na popisu instaliranih aplikacija.</string>
