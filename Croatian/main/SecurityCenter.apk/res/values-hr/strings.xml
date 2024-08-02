@@ -210,6 +210,7 @@ Možete primiti obavijesti od Xiaomi ugrađenih aplikacija i aplikacija drugih p
   <string name="alert_back_milink_hangup_tips_content_vb">"Emitiranje se neće prekinuti ako je zaslon isključen i aplikacija radi u pozadini. Možete pritisnuti tipku Power da opet uključite zaslon."</string>
   <string name="all_address_choose_hint">Svi brojevi u ovoj pokrajini</string>
   <string name="allow_all">Dopusti sve</string>
+  <string name="allow_device_id_access">Odaberite aplikacije koje mogu koristiti ID uređaja</string>
   <string name="allow_onetime">Dopusti jednom</string>
   <string name="already_close_gamebooster">Game Turbo je isključen</string>
   <string name="anim_gamebooster_text">Samo trenutak…</string>
@@ -1561,6 +1562,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cs_close_vt_camera_first_tips">"Ne mogu koristiti ovu značajku dok koristite kameru na različitim uređajima"</string>
   <string name="cs_color_sense">Temperatura boje</string>
   <string name="cs_conversation_record_using">Snimanje</string>
+  <string name="cs_func_toast_bluetooth_headset">Odspojite Bluetooth slušalice da biste mogli koristiti ovu značajku</string>
   <string name="cs_func_toast_headset">Odspojite svoje slušalice da biste mogli koristiti ovu značajku</string>
   <string name="cs_func_toast_light">Prebacite se na prednju kameru da biste mogli koristiti ovu značajku</string>
   <string name="cs_func_toast_pickup">Prebacite se na videopoziv da biste mogli koristiti ovu značajku</string>
@@ -1731,7 +1733,7 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="delete_from_manual_item_white_list">Ukloni iz iznimaka</string>
   <string name="delete_input">Izbriši</string>
   <string name="deleted_apps">Izbrisane aplikacije</string>
-  <string name="desc_share_uid_sec" formatted="false">%1s. %2s</string>
+  <string formatted="false" name="desc_share_uid_sec">%1s. %2s</string>
   <string name="descx_cleanuping_item">Optimizacija %s</string>
   <string name="descx_finish_cleanup_cache">Završavanje Optimiziranje predmemorije</string>
   <string name="descx_finish_cleanup_memory">Završavanje Optimiziranje memorije</string>
@@ -1751,12 +1753,28 @@ Za više informacija provjerite poruku koju ste dobili od svog mobilnog operater
   <string name="descx_start_scan_system">Pokreni skeniranje zaštite sustava</string>
   <string name="detail_app_button">Detalji aplikacije</string>
   <string name="details_subtitle">Detalji korištenja</string>
+  <string name="device_id">ID uređaja za personalizirane preporuke</string>
+  <string name="device_id_app_manager_dialog_continue">"Nemoj stati"</string>
+  <string name="device_id_app_manager_dialog_message">Dopustili ste nekim aplikacijama praćenje vaših aktivnosti. Sada možete zaustaviti praćenje.</string>
+  <string name="device_id_app_manager_dialog_stop">Zaustavi</string>
+  <string name="device_id_app_manager_switch_sub_title">Kada je ova značajka isključena, svi novi zahtjevi za praćenje bit će automatski odbijeni</string>
+  <string name="device_id_app_manager_switch_title">Dopustite aplikacijama da zahtijevaju praćenje</string>
+  <string name="device_id_app_manager_tips">Aplikacije mogu pratiti vaše aktivnosti u različitim aplikacijama i web-lokacijama pomoću identifikatora praćenja za pružanje prilagođenih preporuka za oglase i drugih značajki</string>
+  <string name="device_id_app_manager_title">Upravljanje praćenjem aplikacije</string>
+  <string name="device_id_manager_tips">Sustav daje aplikacijama identifikatore praćenja koji se mogu poništiti (OAID) umjesto identifikatora uređaja radi zaštite vaše privatnosti</string>
+  <string name="device_id_manager_title">Upravljanje identifikatorom praćenja</string>
+  <string name="device_id_reset">Poništi identifikator praćenja</string>
+  <string name="device_id_reset_msg">Nakon resetiranja, novi identifikator bit će povezan s ovim uređajem.</string>
+  <string name="device_id_str">Trenutni identifikator praćenja: %s</string>
   <string name="dev_sign_notification_content">"Sada koristite Android 12 Beta. Povratne informacije koje nam date pomoći će nam da identificiramo i riješimo probleme. Hvala na sudjelovanju u ovom programu!"</string>
   <string name="dev_sign_notification_title">Android 12 Beta</string>
   <string name="device_manager_apply_step_1">Aktivirati administratora uređaja za ovu aplikaciju?</string>
   <string name="device_manager_apply_step_2">"Aktivacija administratora uređaja za ovu aplikaciju može dovesti do izlaganja vaših osobnih podataka.
 Svi se podaci na vašem uređaju mogu izbrisati i zaporka zaključavanja zaslona možda se poništi."</string>
   <string name="device_manager_apply_step_3">Pazite da razumijete sve moguće rizike prije nego što nastavite. Aktivirati administratora uređaja za ovu aplikaciju?</string>
+  <string name="device_oaid">Upravljanje virtualnim ID-om</string>
+  <string name="device_oaid_desc">Umjesto vašeg jedinstvenog identifikatora, sustav će dati virtualni ID (OAID) instaliranim aplikacijama. Sprječava aplikacije da prate vaše ponašanje i postavke i štiti vašu privatnost.</string>
+  <string name="device_oaid_title">Virtualni ID</string>
   <string name="diagnostic_attention_dialog_message">"Dijagnostika za %1$s je u tijeku. Pričekajte dok ne bude dovršena i pokušajte ponovno."</string>
   <string name="dialog_app_roaming_message">"Kada ste u međunarodnom roamingu, samo aplikacije koje ste dodali na popis iznimaka mogu koristiti podatkovne usluge. %1$s nije dodan na popis dopuštenih."</string>
   <string name="dialog_app_roaming_title">"Međunarodni roaming nije omogućen za %1$s"</string>
@@ -2681,7 +2699,7 @@ Xiaomi Gaming Cooler"</string>
   <string name="gb_dialog_record_way_ai_new">AI snimke spremaju se u gamebox i tamo se pohranjuju %d dana.</string>
   <string name="gb_dialog_record_way_finish">Gotovo</string>
   <string name="gb_dialog_record_way_manual">Snimite videozapise duge do 30 sekundi ručno</string>
-  <string name="gb_dialog_record_way_manual_desc" formatted="false">Ručno snimite %d-%d sekundi videozapisa tijekom sesije igre.</string>
+  <string formatted="false" name="gb_dialog_record_way_manual_desc">Ručno snimite %d-%d sekundi videozapisa tijekom sesije igre.</string>
   <string name="gb_dialog_record_way_manual_new">Ručno snimite videozapise duljine do %d sekundi</string>
   <string name="gb_dialog_record_way_setting_tip_one">Povećana potrošnja energije i kašnjenje</string>
   <string name="gb_dialog_record_way_setting_tip_title">Ova značajka može uzrokovati sljedeće probleme:</string>
@@ -3074,7 +3092,7 @@ Pritisnite i držite indikator za pomicanje prozora."</string>
   <string name="gtb_setting">Postavke</string>
   <string name="gtb_setting_item_summary_disable_ndds_sim">Blokirajte sve komunikacijske usluge na sekundarnoj SIM kartici tijekom sesija igranja kako biste održali stabilnu vezu i izbjegli prebacivanje između mreža. Sekundarni SIM će se deblokirati kada prestanete igrati.</string>
   <string name="gtb_setting_item_summary_smart_5g">Kad god Game Turbo otkrije 5G mrežu, vaš se uređaj može povezati s najboljom dostupnom mrežom kako bi se smanjilo kašnjenje u mreži</string>
-  <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Povećaj brzinu veze za 10%-20% kada je spojeno na Mi/Redmi routere</string>
+  <string formatted="false" name="gtb_setting_item_summary_smart_wlan_speed">Povećaj brzinu veze za 10%-20% kada je spojeno na Mi/Redmi routere</string>
   <string name="gtb_setting_item_summary_smart_wlan_speed_new">Povećaj brzinu veze za %1$s-%2$s kada je spojeno na Mi/Redmi routere</string>
   <string name="gtb_setting_item_title_brightness">Automatski smanji svjetlinu zaslona</string>
   <string name="gtb_setting_item_title_disable_ndds_sim">Blokiraj sekundarni SIM</string>
@@ -3203,7 +3221,6 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="ime_security_warning">%1$s može snimati sve što upisujete, uključujući zaporke i druge osjetljive podatke. Koristiti svejedno?</string>
   <string name="in_delete">Brisanje…</string>
   <string name="in_recover">Vraćanje…</string>
-  <string name="infinite_daily_package_usage_summary" formatted="false">%1s (%2s)</string>
   <string name="infinite_remind_warning_text_tips">Upozori kada se dosegne mjesečno ograničenje</string>
   <string name="info_and_call">Pozivi i poruke</string>
   <string name="info_antispam_close">Popis blokiranih je isključen</string>
@@ -3310,7 +3327,7 @@ da se pridružite našem lovu na jaja!"</string>
   <string name="load_fail">"Ne mogu učitati"</string>
   <string name="load_only_under_wlan">Učitaj samo kada je povezano na Wi-Fi</string>
   <string name="loading">Samo trenutak…</string>
-  <string name="loading_text_format" formatted="false">Uklanjanje privatnih podataka s fotografija %d/%d</string>
+  <string formatted="false" name="loading_text_format">Uklanjanje privatnih podataka s fotografija %d/%d</string>
   <string name="local_ip_exception_summary">"Ne mogu dobiti lokalnu IP adresu. Da prijavite HyperOS-u ovaj problem, idite u aplikaciju Pov. informacije i pošaljite izvješće sa svog uređaja."</string>
   <string name="location">Lokacija</string>
   <string name="lock_all_title">Zaključaj sve aplikacije</string>
@@ -3491,7 +3508,7 @@ podatkovnu vezu"</string>
   <string name="memory_clean_click_tip">Povećaj brzinu</string>
   <string name="memory_clean_memory_size_tip">Predmemorija</string>
   <string name="memory_clean_no_need_clean">Sve izgleda dobro</string>
-  <string name="memory_clean_no_need_clean_1_new" formatted="false">"Oslobođeno %s.
+  <string formatted="false" name="memory_clean_no_need_clean_1_new">"Oslobođeno %s.
 Vaš je uređaj sad %s brži."</string>
   <string name="memory_clean_no_running_process">Nema zadataka za brisanje</string>
   <string name="memory_clean_running_process_title">Praćenje aplikacija (%d)</string>
@@ -3843,10 +3860,10 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string name="no_sim_card_by_tips">Da biste mogli postaviti upozorenja o stanju telefona i korištenju podataka, prvo umetnite SIM karticu.</string>
   <string name="none_mi_service_app_detail">Prazno</string>
   <string name="normal1">Ograničena dopuštenja: %1s. Dodirnite za promjenu.</string>
-  <string name="normal2" formatted="false">Ograničena dopuštenja: %1s, %2s. Dodirnite za promjenu.</string>
-  <string name="normal3" formatted="false">Ograničena dopuštenja: %1s, %2s, %3s. Dodirnite za promjenu.</string>
-  <string name="normal4" formatted="false">%1s, %2s, %3s, %4s. Dodirnite za promjenu.</string>
-  <string name="normal_package_usage_summary" formatted="false">%2s od %1s (%3s)</string>
+  <string formatted="false" name="normal2">Ograničena dopuštenja: %1s, %2s. Dodirnite za promjenu.</string>
+  <string formatted="false" name="normal3">Ograničena dopuštenja: %1s, %2s, %3s. Dodirnite za promjenu.</string>
+  <string formatted="false" name="normal4">%1s, %2s, %3s, %4s. Dodirnite za promjenu.</string>
+  <string formatted="false" name="normal_package_usage_summary">%2s od %1s (%3s)</string>
   <string name="not_closed">Zadrži</string>
   <string name="not_limited_brand">Neograničeno</string>
   <string name="not_set">Dodirnite za postavljanje</string>
@@ -3969,9 +3986,12 @@ Pokušajte upotrijebiti drugi Ethernet kabel za povezivanje usmjerivača. Ako su
   <string name="numeric_recording_intro_header">Unesite zaporku</string>
   <string name="numeric_retry_button_text">Odustani</string>
   <string name="numeric_settings_help_how_to_record">Kako postaviti PIN</string>
+  <string name="oaid_apps_summary">Dopustite ili ograničite pristup pojedinačnim aplikacijama</string>
   <string name="oaid_apps_title">Upravljanje virtualnim ID-om</string>
   <string name="oaid_reset_content_tip">Ako sada isključite virtualni ID, neke aplikacije mogu prestati raditi ispravno, dio vaših aplikacija može se izgubiti ili postati neupotrebljiv.</string>
   <string name="oaid_reset_final_tip">Isključiti svejedno virtualni ID?</string>
+  <string name="oaid_string">"Trenutni virtualni ID:
+%1s"</string>
   <string name="oaid_tips_content">Virtualni ID-ovi (OAID) mogu se koristiti za praćenje vašeg ponašanja i personaliziranje oglasa za vas. Možete odabrati kojim će aplikacijama biti omogućen pristup vašem virtualnom ID-u. Imajte na umu da ako ograničite pristup, preporuke za oglase mogu postati nevažne ili aplikacije možda neće moći normalno raditi.</string>
   <string name="offline_voice_input">Izvanmrežni glasovni unos</string>
   <string name="offline_voice_input_detail">"Internet vam neće trebati za glasovni unos."</string>
@@ -4553,6 +4573,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
 </string>
   <string name="permission_instruction_write_settings">Ovo dopuštenje aplikacijama omogućuje izmjenu postavki sustava. Zlonamjerne aplikacije mogu upotrijebiti ovo dopuštenje s postavkama vašeg sustava i utjecati na uobičajenu upotrebu vašeg uređaja.</string>
   <string name="permission_legacy_storage">Pristup fotografijama, videozapisima, zvuku, datotekama</string>
+  <string name="permission_oaid_desc">Želite li dopustiti %1$s da prati vaše aktivnosti na drugim aplikacijama i web stranicama?</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Aplikacije neće pitati za vaše dopuštenje pristupu vašim kontaktima, povijesti poziva, postavkama promjene sustava ili pristupu kameri i ostalim resursima uređaja. Možete uključiti tu značajku u Postavkama Dopuštenja."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Upravitelj dopuštenja</string>
   <string name="permission_precise_location">Točna lokacija</string>
@@ -4980,7 +5001,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="power_optimize_manual_catagory_title">Ručno</string>
   <string name="power_optimize_open_hide_mode">Uključi Štednju baterije</string>
   <string name="power_optimize_power_save_extend_time">Dodaj %s</string>
-  <string name="power_optimize_power_save_extend_time_new" formatted="false">Produži za %1s %2s</string>
+  <string formatted="false" name="power_optimize_power_save_extend_time_new">Produlji za %1s %2s</string>
   <string name="power_optimize_power_save_summary">Uključite Štednju baterije da biste primijenili više optimizacija sustava koje ograničavaju pozadinsku aktivnost</string>
   <string name="power_optimize_prohibit_app_autostart">"Nemojte dopustiti da se aplikacije automatski pokreću"</string>
   <string name="power_optimize_reduce_fps">Smanjite brzinu osvježavanja zaslona na %d Hz</string>
@@ -5693,9 +5714,19 @@ Povući suglasnost sada?"</string>
   <string name="report_warning_title">Pažnja</string>
   <string name="required_permissions">Obavezna dopuštenja</string>
   <string name="required_permissions_desc">Ova su dopuštenja potrebna kako bi se omogućile osnovne značajke i usluge ove aplikacije.</string>
-  <string name="reset_data_dialog_message">"Ovaj uređaj nije povezan s vašim Xiaomi Računom. Nije moguće vratiti ili poništiti zaporku. Izradite sig. kopiju svih važnih stavki i napravite vraćanje na tvorničke postavke. Svi podaci bit će trajno izbrisani i SD kartica će biti formatirana tijekom vraćanja na tvorničke postavke."</string>
+  <string name="reset_data_dialog_message">"Ovaj uređaj nije povezan s vašim Xiaomi računom. Nije moguće vratiti ili poništiti zaporku. Izradite sig. kopiju svih važnih stavki i napravite vraćanje na tvorničke postavke. Svi podaci bit će trajno izbrisani i SD kartica će biti formatirana tijekom vraćanja na tvorničke postavke."</string>
   <string name="reset_data_dialog_ok">Vraćanje na tvorničke postavke</string>
   <string name="reset_data_title">"Ne mogu vratiti zaporku"</string>
+  <string name="restore_device_id_content">Personalizirane preporuke bit će poništene</string>
+  <string name="restore_device_id_title">Poništi ID uređaja</string>
+  <string name="restore_dialog_content">Poništavanje vašeg trenutnog ID-a uređaja također će poništiti prilagođene preporuke. Resetirati sada?</string>
+  <string name="restore_dialog_positive">Poništi</string>
+  <string name="restore_dialog_title">Pažnja</string>
+  <string name="restore_oaid_content">Poništite svoj virtualni ID kako biste izbrisali svoje ponašanje i zapise postavki</string>
+  <string name="restore_oaid_dialog_content">Više aplikacija koristi vaš virtualni ID. Ako je sada poništite, dio podataka vaše aplikacije mogao bi se izgubiti ili postati neupotrebljiv. Svejedno poništiti virtualni ID?</string>
+  <string name="restore_oaid_positive">Poništi</string>
+  <string name="restore_oaid_positive_step">Poništi (%1$d)</string>
+  <string name="restore_oaid_title">Poništi virtualni ID</string>
   <string name="resource_antispam">Popis blokiranih</string>
   <string name="resource_antivirus">Skeniranje virusa</string>
   <string name="resource_app_permissions">Dopuštenja aplikacije</string>
@@ -5981,7 +6012,7 @@ Povući suglasnost sada?"</string>
   <string name="sim_lock_lockscreen_notification_message">"Ne mogu potvrditi PIN bez Zaklj. zaslona"</string>
   <string name="sim_lock_lockscreen_notification_title">"SIM kartica nije zaštićena"</string>
   <string name="sim_lock_new_pin_different_error">"PIN-ovi koje ste unijeli se ne podudaraju. Pokušajte ponovo."</string>
-  <string name="sim_lock_new_pin_hint" formatted="false">Unesite %d-%d znamenki</string>
+  <string formatted="false" name="sim_lock_new_pin_hint">Unesite %d-%d znamenki</string>
   <string name="sim_lock_new_pin_message">"Zapamtite svoj novi PIN. Ako ga zaboravite, morat ćete se obratiti korisničkoj podršci svog operatera kako biste ga mogli vratiti."</string>
   <string name="sim_lock_new_pin_title">Postavite novi PIN</string>
   <string name="sim_lock_no_sim_notification_message">Dodirnite za provjeru SIM PIN-a</string>
@@ -5992,7 +6023,7 @@ Povući suglasnost sada?"</string>
   <string name="sim_lock_pin_dialog_message">"Više puta ste unijeli netočan PIN. Preostalo vam je ostalo samo %d pokušaja. Ako unesete još jedan netočan PIN, SIM kartica će biti zaključana. Svjedno nastaviti?"</string>
   <string name="sim_lock_pin_dialog_title">Zadnji pokušaj</string>
   <string name="sim_lock_pin_hint">Unesite SIM PIN</string>
-  <string name="sim_lock_pin_message" formatted="false">"Ako niste postavili PIN za svoju SIM karticu, isprobajte zadani PIN svog operatera (%s): %d."</string>
+  <string formatted="false" name="sim_lock_pin_message">"Ako niste postavili PIN za svoju SIM karticu, isprobajte zadani PIN svog operatera (%s): %d."</string>
   <string name="sim_lock_pin_success">PIN uspješno potvrđen</string>
   <string name="sim_lock_pin_title">Potvrdite SIM PIN</string>
   <string name="sim_lock_puk_dialog_title">Ponestaje pokušaja</string>
@@ -6006,7 +6037,7 @@ Povući suglasnost sada?"</string>
   <string name="sim_lock_query_new_pin">Postavite novi PIN</string>
   <string name="sim_lock_query_pin">PIN</string>
   <string name="sim_lock_query_pin_error">"Nije moguće promijeniti PIN"</string>
-  <string name="sim_lock_query_pin_length_error" formatted="false">PIN mora sadržavati %d-%d znamenki</string>
+  <string formatted="false" name="sim_lock_query_pin_length_error">PIN mora sadržavati %d-%d znamenki</string>
   <string name="sim_lock_query_pin_mismatch_error">"PIN-ovi koje ste unijeli sr ne podudaraju"</string>
   <string name="sim_lock_query_pin_same_error">Vaš novi PIN isti je kao i stari</string>
   <string name="sim_lock_query_title">Provjerite PIN</string>
@@ -6014,7 +6045,7 @@ Povući suglasnost sada?"</string>
   <string name="sim_lock_setting_keyguard_enable_title">Potvrdite PIN nakon uključivanja zaslona</string>
   <string name="sim_lock_setting_title">Sigurnost SIM kartice</string>
   <string name="sim_lock_start_account_dialog_enable">Prijavite se</string>
-  <string name="sim_lock_start_account_dialog_message">Vaša će SIM kartica biti povezana s ovim uređajem putem Xiaomi Cloud-a. Prijaviti se za nastavak?</string>
+  <string name="sim_lock_start_account_dialog_message">Vaša će SIM kartica biti povezana s ovim uređajem putem Xiaomi Clouda. Prijaviti se za nastavak?</string>
   <string name="sim_lock_start_account_dialog_title">Prijavite se u Xiaomi Cloud</string>
   <string name="sim_lock_start_bind_device_summary">Automatski potvrdite PIN prilikom upotrebe na ovom uređaju</string>
   <string name="sim_lock_start_bind_device_superscript">Preporučeno</string>
@@ -6657,7 +6688,7 @@ Ukoliko niste mijenjali HyperOS na bilo koji način, budite sigurni da znate oda
 "</string>
   <string name="system_permission_declare_disagree">Ne prihvaćam</string>
   <string name="system_permission_declare_double_link"><Data>Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> i &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a> prije nego što nastavite.</Data></string>
-  <string name="system_permission_declare_main_purpose" formatted="false">Dobrodošli u %1s! Ova aplikacija omogućuje vam korištenje sljedeće značajke: %2s.</string>
+  <string formatted="false" name="system_permission_declare_main_purpose">Dobrodošli u %1s! Ova aplikacija omogućuje vam korištenje sljedeće značajke: %2s.</string>
   <string name="system_permission_declare_meanwhile_double_link"><Data>Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> and &lt;a href=\"%2$s\">Pravila o privatnosti&lt;/a> prije nego što nastavite.</Data></string>
   <string name="system_permission_declare_meanwhile_privacy_policy"><Data>Pročitajte i prihvatite naša &lt;a href=\"%1$s\">Pravila o privatnosti&lt;/a> prije nego što nastavite.</Data></string>
   <string name="system_permission_declare_meanwhile_user_agreement"><Data>Pročitajte i prihvatite naš &lt;a href=\"%1$s\">Korisnički ugovor&lt;/a> prije nego što nastavite.</Data></string>

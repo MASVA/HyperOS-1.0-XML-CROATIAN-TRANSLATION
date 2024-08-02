@@ -101,6 +101,14 @@
         <item quantity="other">%d min</item>
         <item quantity="one">%d min</item>
     </plurals>
+	<plurals name="ai_search_picker_hint_text">
+        <item quantity="other">Odaberite %1$d-%2$d fotografija ili videozapisa (%3$d odabrano)</item>
+        <item quantity="one">Odaberite %1$d-%2$d fotografiju ili videozapis (%3$d odabrano)</item>
+    </plurals>
+    <plurals name="ai_search_picker_total_duration_exceed_limit">
+        <item quantity="other">"Ukupno trajanje videozapisa ne smije premašiti %d sekundi"</item>
+        <item quantity="one">"Ukupno trajanje videozapisa ne smije premašiti %d sekundu"</item>
+    </plurals>
     <plurals name="ai_select_photo_time_count">
         <item quantity="other">Odabir fotografija (još %d sek.)…</item>
         <item quantity="one">Odabir fotografija (još %d sek.)…</item>
@@ -237,8 +245,12 @@
         <item quantity="other">Izbrisati %d uzastopnih fotografija iz Mi Clouda i ovog uređaja?</item>
         <item quantity="one">Izbrisati %d uzastopnu fotografiju iz Mi Clouda i ovog uređaja?</item>
     </plurals>
+	<plurals name="delete_confirm_count_down">
+        <item quantity="other">Izbriši (%ds)</item>
+        <item quantity="one">Izbriši (%ds)</item>
+    </plurals>
     <plurals name="delete_finish_format">
-        <item quantity="other">Izbrisane stavke: %d</item>
+        <item quantity="other">Izbrisano %d stavki</item>
         <item quantity="one">%d stavka izbrisana</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
@@ -472,6 +484,14 @@
         <item quantity="other">"Preskočeno %d fotografija koje nisu na uređaju."</item>
         <item quantity="one">"Preskočena %d fotografija koja nije na uređaju."</item>
     </plurals>
+	<plurals name="picker_title_video_editor_component">
+        <item quantity="other">Odaberite %d segmenta</item>
+        <item quantity="one">Odaberite %d segment</item>
+    </plurals>
+    <plurals name="picker_title_video_editor_component_format">
+        <item quantity="other">Odaberite %1$d segmenta (%2$d)</item>
+        <item quantity="one">Odaberite %1$d segment (%2$d)</item>
+    </plurals>
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">Pronađene nove fotografije: %1$d</item>
         <item quantity="one">Pronađena %1$d nova fotografija</item>
@@ -699,6 +719,10 @@
         <item quantity="other">"Nije moguće prenijeti %1$d stavke. Posjetite i.mi.com kako biste ih preuzeli."</item>
         <item quantity="one">"Nije moguće prenijeti %1$d stavku. Posjetite i.mi.com kako biste je preuzeli."</item>
     </plurals>
+	<plurals name="trash_purge_count_down">
+        <item quantity="other">Izbriši (%ds)</item>
+        <item quantity="one">Izbriši (%ds)</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d odabranih stavki bit će trajno izbrisano iz clouda i sa svih sinkroniziranih uređaja. Izbrisati svejedno?</item>
         <item quantity="one">%d odabrana stavka bit će trajno izbrisana iz clouda i sa svih sinkroniziranih uređaja. Izbrisati svejedno?</item>
@@ -740,16 +764,16 @@
         <item quantity="one">Ukupno: %1$d</item>
     </plurals>
 	<plurals name="video_editor_component_hint_text">
-        <item quantity="other">Odaberite %d video segmenta</item>
-        <item quantity="one">Odaberite %d video segment</item>
+        <item quantity="other">%d segmenta potrebno</item>
+        <item quantity="one">%d segment potreban</item>
     </plurals>
     <plurals name="video_editor_component_imageview_content_description">
-        <item quantity="other">Video utor %1$d, čeka se dodavanje videozapisa od %2$s sekundi ili više</item>
-        <item quantity="one">Video utor %1$d, čeka se dodavanje videozapisa   od %2$s sekundi ili više</item>
+        <item quantity="other">Utor %1$d: dodajte segment ne kraći od %2$s s</item>
+        <item quantity="one">Utor %1$d: dodajte segment ne kraći od %2$s s</item>
     </plurals>
     <plurals name="video_editor_component_next_step_disabled_content_description">
-        <item quantity="other">Dodajte još %d videozapisa da biste mogli nastaviti</item>
-        <item quantity="one">Dodajte još %d videozapis da biste mogli nastaviti</item>
+        <item quantity="other">Dodajte još %d segmenta za nastavak</item>
+        <item quantity="one">Dodajte još %d segment za nastavak</item>
     </plurals>
     <plurals name="videos_count">
         <item quantity="other">%d videozapisa</item>

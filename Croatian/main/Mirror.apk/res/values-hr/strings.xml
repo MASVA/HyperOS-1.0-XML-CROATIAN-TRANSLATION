@@ -617,8 +617,8 @@ za nastavak"</string>
   <string name="tuesday_shortest">U</string>
   <string name="upgrade_car_not_tip">"Ne prikazuj više"</string>
   <string name="upgrade_car_ok">Razumijem</string>
-  <string name="upgrade_car_version_msg">"Da biste mogli koristiti ovu značajku, ažurirajte sustav svog EV-a na verziju 1.2.1 ili noviju u Postavke > Sustav > Verzija sustava."</string>
-  <string name="upgrade_car_version_title">"Ažurirajte sustav svog EV-a"</string>
+  <string name="upgrade_car_version_msg">"Da biste mogli povezati svoj telefon sa svojim električnim vozilom, ažurirajte sustav svog električnog vozila na verziju 1.2.3 ili noviju u Postavke > Sustav > Verzija sustava."</string>
+  <string name="upgrade_car_version_title">"Ažurirajte sustav svog električnog vozila"</string>
   <string name="v7_preference_off">ISKLJUČENO</string>
   <string name="v7_preference_on">UKLJUČENO</string>
   <string name="verbose_mode">Verbose način</string>
