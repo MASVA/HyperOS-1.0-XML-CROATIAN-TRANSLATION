@@ -101,7 +101,7 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="allow_mock_location">Dopusti probne lokacije</string>
   <string name="allow_mock_location_summary">Dopusti probne lokacije</string>
   <string name="animator_duration_scale_title">Razmjer duljine animatora</string>
-  <string name="apn_settings_not_available">Postavke pristupne točke nisu dostupne ovom korisniku</string>
+  <string name="apn_settings_not_available">Postavke hotspota nisu dostupne ovom korisniku</string>
   <string name="app_name">Miui Bluetooth</string>
   <string name="app_process_limit_title">Ograničenje pozadinskog procesa</string>
   <string name="audio_relay_default_device_name">XiaoAi zvučnici</string>
@@ -359,13 +359,14 @@ Dodirnite \"Izbriši i pretvori…\" za nastavak."</string>
   <string name="disconnect_device">Odspoji uređaj</string>
   <string name="easy_tether_auto_connect_summary">"Možete uključiti hotspot i dopustiti uređajima u blizini koji koriste vaš račun da se automatski povežu kad god ne mogu pristupiti mreži drugim metodama."</string>
   <string name="easy_tether_auto_connect_summary_v2">Automatski uključite mobitel ili hotspot i povežite se kada obližnji uređaji s istim računom trebaju pristup internetu.</string>
+  <string name="easy_tether_auto_connect_toast">"Povezan s hotspotom %1$s. Postavite ograničenja podataka u Postavkama tog uređaja > Osobni hotspot."</string>
   <string name="easy_tether_cancel">Ne</string>
   <string name="easy_tether_confirm">Da</string>
-  <string name="easy_tether_next_auto_connect">Sljedeći put se automatski povezati?</string>
-  <string name="easy_tether_statusbar_auto_connected_title">Povezan na pristupnu točku: %1$s</string>
+  <string name="easy_tether_next_auto_connect">Povezati se automatski sljedeći put?</string>
+  <string name="easy_tether_statusbar_auto_connected_title">Povezan na hotspot: %1$s</string>
   <string name="easy_tether_statusbar_auto_connected_title_v2">Povezano s ćelijom: %1$s</string>
   <string name="easy_tether_statusbar_connect_fail_title">"Nije moguće povezati se"</string>
-  <string name="easy_tether_statusbar_connect_title">Poveži se na pristupnu točku: %1$s</string>
+  <string name="easy_tether_statusbar_connect_title">Poveži se na hotspot: %1$s</string>
   <string name="easy_tether_statusbar_connect_title_v2">Poveži se na ćeliju: %1$s</string>
   <string name="easy_tether_statusbar_connecting_title">Povezivanje…</string>
   <string name="easy_tether_statusbar_dialog_connected_title">Povezan</string>
@@ -489,7 +490,7 @@ Brži protokol veze."</string>
   <string name="headset_find_new_version">Nova verzija</string>
   <string name="headset_finish_fw">U redu</string>
   <string name="headset_finish_fw_failed">Dogodila se pogreška</string>
-  <string name="headset_fw_error_failed">"Ažuriranje nije moguće. Podaci o firmware-u nisu točni."</string>
+  <string name="headset_fw_error_failed">"Ažuriranje nije moguće. Podaci o firmwareu nisu točni."</string>
   <string name="headset_fw_file_position_failed">"Ne mogu pristupiti datoteci"</string>
   <string name="headset_fw_file_readfailed">Nije uspjelo</string>
   <string name="headset_incall_answer">Odgovori</string>
@@ -507,7 +508,7 @@ Brži protokol veze."</string>
   <string name="headset_updating">Ažuriraj</string>
   <string name="help_feedback_label">Pomoć i povratne informacije</string>
   <string name="help_label">Pomoć i povratne informacije</string>
-  <string name="home">Početni zaslon postavki</string>
+  <string name="home">Postavke početnog zaslona</string>
   <string name="icon_content_description">Ikona dijaloga</string>
   <string name="ime_security_warning">Ovaj način unosa možda može prikupljati sav tekst koji unosite, uključujući osobne podatke poput zaporki i brojeva kreditnih kartica. To omogućuje aplikacija %1$s. Upotrijebiti taj način unosa?</string>
   <string name="ime_security_warning_global">Načini unosa možda će moći prikupljati sav tekst koji unosite, uključujući osobne podatke poput zaporki i brojeva kreditne kartice. Koristiti %1$s?</string>
@@ -1081,7 +1082,7 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
   <string name="wednesday">Srijeda</string>
   <string name="wednesday_short">Sri</string>
   <string name="wednesday_shortest">S</string>
-  <string name="wifi_ap_unable_to_handle_new_sta">Pristupna točka privremeno puna</string>
+  <string name="wifi_ap_unable_to_handle_new_sta">Hotspot privremeno pun</string>
   <string name="wifi_auto_sel_wapi_cert">Odaberi automatski</string>
   <string name="wifi_cant_connect">"Ne mogu se povezati"</string>
   <string name="wifi_cant_connect_to_ap">"Ne mogu se povezati na '%1$s'"</string>
@@ -1159,7 +1160,7 @@ Pohrana vjerodajnica možda neće omogućena"</string>
   <string name="wifitrackerlib_summary_separator">" / "</string>
   <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Dodirnite da biste obnovili pretplatu i povezali se</string>
   <string name="wifitrackerlib_tap_to_sign_up">Dodirnite da biste se registrirali</string>
-  <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Pristupna je točka privremeno puna</string>
+  <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Hotspot je privremeno pun</string>
   <string name="wifitrackerlib_wifi_check_password_try_again">Provjerite zaporku i pokušajte ponovo</string>
   <string name="wifitrackerlib_wifi_connected_cannot_provide_internet">Uspostavljena je veza s uređajem. Povezivanje s internetom nije moguće.</string>
   <string name="wifitrackerlib_wifi_disabled_generic">Onemogućeno</string>

@@ -874,8 +874,8 @@ Poboljšana sigurnost."</string>
   <string name="saturday">Subota</string>
   <string name="saturday_short">Sub</string>
   <string name="saturday_shortest">S</string>
-  <string name="screen_cells_config_title">Raspored Početni zaslona</string>
-  <string name="screen_locked_toast">Raspored Početni zaslona je zaključan.</string>
+  <string name="screen_cells_config_title">Raspored Početnog zaslona</string>
+  <string name="screen_locked_toast">Raspored Početnog zaslona je zaključan.</string>
   <string name="screen_number">Zaslon %d</string>
   <string name="scroll_tip_format_when_announce_accessibility">na stranici %1$d, %2$d aplikacija</string>
   <string name="search_bar_hint_content">Traženje aplikacija i sadržaja</string>

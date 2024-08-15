@@ -2030,6 +2030,12 @@ Ako imate pitanja, obratite se tvrtki %2$s."</string>
   <string name="qs_control_big_tile_state_opened">Uključeno</string>
   <string name="qs_control_big_tile_state_opening">Uključivanje…</string>
   <string name="qs_control_big_tile_state_unavailable">Nije dostupno</string>
+  <string name="qs_control_big_tile_click_cellular_tether_tip">Izađite iz drugog prostora i pokušajte ponovo</string>
+  <string name="qs_control_big_tile_connect_share_network_fail">"Nije moguće povezati se s mobilnom podatkovnom mrežom. Pričekajte minutu ili dvije i pokušajte ponovno."</string>
+  <string name="qs_control_big_tile_state_tethered_wifi">"Korištenje Wi-Fi signala telefona"</string>
+  <string name="qs_control_big_tile_state_tethered_wlan">"Korištenje Wi-Fi signala telefona"</string>
+  <string name="quick_settings_cellular_state_change_message_connected">Povezano s mobilnom podatkovnom mrežom</string>
+  <string name="quick_settings_cellular_state_change_message_disconnected">Isključena je veza s mobilnom podatkovnom mrežom</string>
   <string name="qs_control_customize_other_tiles_title">Dostupni prečaci</string>
   <string name="qs_control_customize_save_text">Gotovo</string>
   <string name="qs_control_customize_sub_title">Povucite dodane prečace da biste ih preuredili</string>
@@ -2572,7 +2578,7 @@ Dodirnite za više informacija"</string>
   <string name="tuesday_shortest">U</string>
   <string name="tuner_app">Aplikacija %1$s</string>
   <string name="tuner_circle">Krug</string>
-  <string name="tuner_doze">Ambijentalni zaslon</string>
+  <string name="tuner_doze">Always-on zaslon</string>
   <string name="tuner_doze_always_on">Uvijek uključeno</string>
   <string name="tuner_full_importance_settings">Napredne kontrole obavijesti</string>
   <string name="tuner_launch_app">Pokreni aplikaciju %1$s</string>

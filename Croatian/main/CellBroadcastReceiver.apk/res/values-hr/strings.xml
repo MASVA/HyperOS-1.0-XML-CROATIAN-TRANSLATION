@@ -356,7 +356,7 @@ Audio"</string>
     <string name="hdcp_checking_dialog_title">Postavke HDCP provjere</string>
     <string name="hdcp_checking_title">HDCP provjera</string>
     <string name="help_feedback_label">Pomoć i povratne informacije</string>
-    <string name="home">Početni zaslon postavki</string>
+    <string name="home">Postavke početnog zaslona</string>
     <string name="ime_security_warning">Ovaj način unosa možda može prikupljati sav tekst koji unosite, uključujući osobne podatke poput zaporki i brojeva kreditnih kartica. To omogućuje aplikacija %1$s. Upotrijebiti taj način unosa?</string>
     <string name="immediately_destroy_activities">Uklanjanje aktivnosti</string>
     <string name="immediately_destroy_activities_summary">Aktivnost se prekida čim je korisnik napusti.</string>

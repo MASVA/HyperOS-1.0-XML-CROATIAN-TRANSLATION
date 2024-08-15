@@ -79,7 +79,7 @@
   <string name="bugreport_dialog_informed_consent_content">"Otkrili smo pogrešku u vezi s vašom zaporkom za zaključani zaslon. Možete poslati zapisnike svog uređaja kako biste nam pomogli da lociramo i riješimo problem. Podaci zapisnika bit će anonimno učitani, koristit će se samo za rješavanje problema, i bit će izbrisan nakon završetka rješavanja problema."</string>
   <string name="bugreport_dialog_informed_consent_title">Informirani pristanak</string>
   <string name="bugreport_dialog_not_show_again">Ne prikazuj ponovno</string>
-  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"Sada spremate zapise softvera na ovaj ure&amp;#273;aj. Zapisi mogu sadr&amp;#382;avati osobne podatke i podatke o va&amp;#353;oj lokaciji. Nemojte dijeliti zapise s drugima ako ne &amp;#382;elite da ti podaci budu izlo&amp;#382;eni. Odabirom \"Prihva&amp;#263;am\" zna&amp;#269;i da ste pro&amp;#269;itali i prihva&amp;#263;ate na&amp;#353;e &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisni&amp;#269;ki uovor&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="bugreport_dialog_submit_content">&lt;Data&gt;"Sada spremate zapise softvera na ovaj uređaj. Zapisi mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Nemojte dijeliti zapise s drugima ako ne želite da ti podaci budu izloženi. Odabirom \"Prihvaćam\" znači da ste pročitali i prihvaćate naše &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisnički uovor&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="bugreport_dump_complete_notification_summary">Dodirni za prikaz.</string>
   <string name="bugreport_dump_complete_notification_title">Izvješće grešaka napravljeno</string>
   <string name="bugreport_dump_start_notification_summary">Ovo može potrajati nekoliko minuta.</string>
@@ -117,6 +117,14 @@
   <string name="catch_full_log_item_title_wifi_china">Wi-Fi i ShareMe</string>
   <string name="catch_full_log_notification_content">Dodirnite za povratak na zapise</string>
   <string name="catch_full_log_notification_title">Izrada zapisa…</string>
+  <string name="catch_full_log_not_show_again">"Ne prikazuj ponovno"</string>
+  <string name="catch_full_log_note_affect_performance_decription">Čini se da je proces generiranja dnevnika trajao više od %d sata. Ako je ovaj proces završio, možete poslati povratne informacije. U suprotnom, možete otkazati postupak ili nastaviti, ali nastavak može privremeno utjecati na mogućnosti vašeg uređaja.</string>
+  <string name="catch_full_log_note_cancel_catch">Odustani</string>
+  <string name="catch_full_log_note_catch">Stvaranje zapisa</string>
+  <string name="catch_full_log_note_decription">"Izgleda da stvarate zapise. Ako je ovaj proces završio, možete poslati povratne informacije. U suprotnom, nastavite ili otkažite proces."</string>
+  <string name="catch_full_log_note_still_catch">Nastavi</string>
+  <string name="catch_full_log_note_to_commit">Pošalji povratne informacije</string>
+  <string name="catch_full_log_start_catch_log">Početak</string>
   <string name="catch_full_log_privacy_content_audio">Izrađujete zapise i spremate ih na uređaj. Zapisi mogu sadržavati informacije o zvuku na uređaju, uključujući povijest reprodukcije i povijest snimanja. Budite oprezni i ne otkrivajte ove zapise drugim osobama. Dodirom na \"Prihvaćam\" u nastavku, prihvaćate da ćemo prikupiti gore navedene podatke tijekom izrade zapisa, a zatim učitati zapise na naše poslužitelje kako bismo pronašli i riješili probleme koje prijavite.</string>
   <string name="catch_full_log_privacy_content_audio_pad">"Izrađujete zapise i spremate ih na uređaj. Zapisi mogu sadržavati informacije o zvuku na uređaju, uključujući povijest reprodukcije i povijest snimanja. Budite oprezni i ne otkrivajte ove zapise drugim osobama. Dodirom na \"Prihvaćam\" u nastavku, prihvaćate da ćemo prikupiti gore navedene podatke tijekom izrade zapisa, a zatim prenijeti zapise na naše poslužitelje kako bismo pronašli i riješili probleme koje prijavite."</string>
   <string name="catch_full_log_privacy_content_bt">Izrađujete zapise i spremate ih na uređaj. Zapisi mogu sadržavati informacije o korištenju Bluetooth uređaja (uključujući povijest poziva, poruke, prenesene datoteke itd.). Budite oprezni i ne otkrivajte ove zapise drugim osobama. Dodirom na \"Prihvaćam\" u nastavku, prihvaćate da ćemo prikupiti gore navedene podatke tijekom izrade zapisa, a zatim učitati zapise na poslužitelje kako bismo pronašli i riješili probleme koje prijavite.</string>
@@ -150,7 +158,7 @@
   <string name="cta_confirm">U redu</string>
   <string name="cta_dialog_content">Ovoj je aplikaciji potrebno povezivanje s internetom za normalan rad.</string>
   <string name="cta_dialog_title">Internet povezivanje</string>
-  <string name="cta_message">&lt;Data&gt;Da bi mogla normalno raditi, Povratne informacije se mora spojiti na internet. Ova aplikacija tako&amp;#273;er mo&amp;#382;e zatra&amp;#382;iti dopu&amp;#353;tenje za pristup va&amp;#353;oj lokaciji. Pro&amp;#269;itajte i prihvatite na&amp;#353;a &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
+  <string name="cta_message">&lt;Data&gt;Da bi mogla normalno raditi, Povratne informacije se mora spojiti na internet. Ova aplikacija također može zatražiti dopuštenje za pristup vašoj lokaciji. Pročitajte i prihvatite naša &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
   <string name="cta_not_show_again">Ne prikazuj ponovno</string>
   <string name="customer_service_apply">Zahtjev službi za korisnike</string>
   <string name="customer_service_complain">Prijavi službi za korisnike</string>
@@ -234,6 +242,7 @@ Pošaljite ovaj kôd nadzorniku."</string>
 %2$d. Nakon kojih radnji koje ste izveli se pojavio problem?
 %3$d. Dajte nam dodatne informacije koje bi nam mogle pomoći da riješimo problem."</string>
   <string name="feedback_description_hint_suggestion">Recite nam kako želite poboljšati MIUI.</string>
+  <string name="feedback_description_hint_suggestion_pad">Recite nam kako se možemo poboljšati.</string>
   <string name="feedback_description_label">Opis</string>
   <string name="feedback_description_suggest_hint">Želio bih da dodate novu značajku () jer mi treba ().</string>
   <string name="feedback_detail_copy_toast">Kopirano u međuspremnik</string>
@@ -382,9 +391,12 @@ Pošaljite ovaj kôd nadzorniku."</string>
   <string name="kr_authorization_user_protocol">Korisnički Ugovor (obavezno)</string>
   <string name="loading">Samo trenutak…</string>
   <string name="loading_apps">Učitavanje popisa…</string>
+  <string name="log_catch_notice_content">Dodirnite ispod da završite ili poništite ovaj proces.</string>
+  <string name="log_catch_step">Koraci za stvaranje zapisa</string>
+  <string name="log_catching_notice">Stvaranje zapisa</string>
   <string name="login_by_local_phone_long_text">Prijavite se sada</string>
   <string name="login_by_local_phone_short_text">Prijava</string>
-  <string name="login_other">Još jedan Xiaomi Račun</string>
+  <string name="login_other">Još jedan Xiaomi račun</string>
   <string name="login_out">Odjava</string>
   <string name="login_register_by_local_phone_long_text">Izradi račun</string>
   <string name="login_with_sns">Drugi načini prijave</string>
@@ -884,16 +896,18 @@ Pročitajte i prihvatite novu verziju %3$s prije nego što nastavite."</string>
   <string name="sns_access_token_expired_warning">Isteklo je vrijeme je prijave u račun. Prijavite se opet za ponovno povezivanje s ovim računom.</string>
   <string name="sns_bind_limit">Previše pokušaja. Pokušajte s drugim načinima prijave.</string>
   <string name="sns_sign_in">Drugi načini za prijavu</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="special_log_catch">Generiraj zapisnike</string>
+  <string name="special_log_catch_tips">*Proces stvaranja dnevnika može privremeno utjecati na mogućnosti uređaja. Ako ovi problemi potraju, otkažite ovaj postupak u sjeni obavijesti.</string>
+  <string name="special_log_catch_top_hint">"Kako biste nam pomogli da bolje lociramo i riješimo problem na koji ste naišli, slijedite korake u nastavku za generiranje zapisa za privitak."</string>
   <string name="stop_full_log_dialog_cancel">Ne sada</string>
   <string name="stop_full_log_dialog_confirm">Prenesi</string>
   <string name="stop_full_log_dialog_content">Čini se da se zapisi sada izrađuju. Prestati i poslati one koji su spremni?</string>
   <string name="stop_full_log_dialog_title">Izrada zapisa…</string>
   <string name="submit_dialog_cancel">Ne prihvaćam</string>
   <string name="submit_dialog_confirm">Prihvaćam</string>
-  <string name="submit_dialog_content">&lt;Data&gt;"Pro&amp;#269;itajte i prihvatite na&amp;#353;e &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; prije slanja povratnih informacija. Problemi koje prijavite zajedno sa stavkama koje prilo&amp;#382;ite (uklju&amp;#269;uju&amp;#263;i zapise koji mogu sadr&amp;#382;avati osobne podatke, kao i informacije o va&amp;#353;em ure&amp;#273;aju i mre&amp;#382;i) bit &amp;#263;e u&amp;#269;itani na MIUI poslu&amp;#382;itelje. To &amp;#263;e nam pomo&amp;#263;i da lociramo i rije&amp;#353;imo probleme koje prijavljujete. Ako prijavite probleme povezane s vi&amp;#353;e ure&amp;#273;aja, tako&amp;#273;er &amp;#263;e se u&amp;#269;itati dnevnici s drugih ure&amp;#273;aja na kojima se koristi va&amp;#353; Xiaomi Ra&amp;#269;un."&lt;/Data&gt;</string>
-  <string name="submit_dialog_content_global">&lt;Data&gt;"Va&amp;#353;e povratne informacije, zajedno s privitcima (ako ih ima) i dnevnicima (mo&amp;#382;ete poni&amp;#353;titi odgovaraju&amp;#263;e okvire za stavke koje ne &amp;#382;elite poslati) bit &amp;#263;e poslane na MIUI poslu&amp;#382;itelje. Dnevnici mogu sadr&amp;#382;avati osobne podatke i podatke o va&amp;#353;oj lokaciji. Odabirom \"Prihva&amp;#263;am\" zna&amp;#269;i da ste pro&amp;#269;itali i privatili na&amp;#353;e &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="submit_dialog_content_global_with_contactinfo">&lt;Data&gt;"Va&amp;#353;e povratne informacije, zajedno s privitcima (ako ih ima) i dnevnicima (mo&amp;#382;ete poni&amp;#353;titi odgovaraju&amp;#263;e okvire za stavke koje ne &amp;#382;elite poslati) bit &amp;#263;e poslane na MIUI poslu&amp;#382;itelje. Dnevnici mogu sadr&amp;#382;avati osobne podatke i podatke o va&amp;#353;oj lokaciji. Odabirom \"Prihva&amp;#263;am\" zna&amp;#269;i da ste pro&amp;#269;itali i privatili na&amp;#353;e &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content">&lt;Data&gt;"Pročitajte i prihvatite naše &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; prije slanja povratnih informacija. Problemi koje prijavite zajedno sa stavkama koje priložite (uključujući zapise koji mogu sadržavati osobne podatke, kao i informacije o vašem uređaju i mreži) bit će učitani na MIUI poslužitelje. To će nam pomoći da lociramo i riješimo probleme koje prijavljujete. Ako prijavite probleme povezane s više uređaja, također će se učitati dnevnici s drugih uređaja na kojima se koristi vaš Xiaomi račun."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content_global">&lt;Data&gt;"Vaše povratne informacije, zajedno s privitcima (ako ih ima) i dnevnicima (možete poništiti odgovarajuće okvire za stavke koje ne želite poslati) bit će poslane na naše poslužitelje. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Prihvaćam\" znači da ste pročitali i privatili naše &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="submit_dialog_content_global_with_contactinfo">&lt;Data&gt;"Vaše povratne informacije, zajedno s privitcima (ako ih ima) i dnevnicima (možete poništiti odgovarajuće okvire za stavke koje ne želite poslati) bit će poslane na naše poslužitelje. Dnevnici mogu sadržavati osobne podatke i podatke o vašoj lokaciji. Odabirom \"Prihvaćam\" znači da ste pročitali i privatili naše &amp;lt;a href=\"%1$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="submit_dialog_not_show_again">"Ne prikazuj ponovo"</string>
   <string name="submit_dialog_title">Pošalji zapis o pogrešci</string>
   <string name="submit_feedback_info_failed">Ne mogu poslati zapis</string>
@@ -930,11 +944,13 @@ Pročitajte i prihvatite novu verziju %3$s prije nego što nastavite."</string>
   <string name="title_mi_family">Mi Homes u blizini</string>
   <string name="title_nonsystem_app">Ostale aplik.</string>
   <string name="title_same_question_feedback_main">Slični problemi na MIUI forumu</string>
-  <string name="title_system_app">MIUI Aplik.</string>
+  <string name="title_system_app">HyperOS aplikacije</string>
   <string name="title_user_guide">Upute</string>
+  <string name="toast_a_log_is_catching">Sada se stvaraju zapisnici. Dodirnite za završetak.</string>
   <string name="toast_app_tag_required">Odaberi problem</string>
   <string name="toast_catch_full_log_catching">Možete izraditi samo jedan zapis u vremenu.</string>
   <string name="toast_catch_full_log_open_failed">Ne mogu započeti snimanje zapisa.</string>
+  <string name="toast_cloud_video_obtain_fail">"Ne mogu prikazati naslovnice za videozapise preuzete daljinski iz clouda"</string>
   <string name="toast_description_required">Potreban je opis</string>
   <string name="toast_feedback_collect_store">Prikupljanje zapisa…</string>
   <string name="toast_feedback_network_unavailable">Ne mogu se povezati na mrežu</string>
@@ -975,18 +991,18 @@ Size: %2$s"</string>
   <string name="update_phone_notice">Promijeni sigurnosne postavke</string>
   <string name="upload_error_log">Učitaj zapis</string>
   <string name="upload_log_failed">"Ne mogu poslati zapis"</string>
-  <string name="user_agreement_hint_3rd_app">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i Xiaomi Ra&amp;#269;un &amp;lt;a href=\"%3$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_3rd_app_mobile">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Ra&amp;#269;un &amp;lt;a href=\"%3$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, tako&amp;#273;er i &amp;lt;a href=\"%5$s\"&amp;gt;Odredbe i uvjete usluge verifikacije China Mobile&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Ra&amp;#269;un &amp;lt;a href=\"%3$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, tako&amp;#273;er i &amp;lt;a href=\"%5$s\"&amp;gt;Odredbe i uvjete eSurfing usluge provjere ra&amp;#269;una&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Ra&amp;#269;un &amp;lt;a href=\"%3$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, tako&amp;#273;er i &amp;lt;a href=\"%5$s\"&amp;gt;Odredbe i uvjete usluge verifikacije China Unicom &amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_default">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Xiaomi Ra&amp;#269;un &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_default_1">&lt;Data&gt;Pro&amp;#269;itajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_default_extra">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am the &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt; Prva prijava automatski &amp;#263;e izraditi Xiaomi ra&amp;#269;un"&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_3rd_app">&lt;Data&gt;"Pročitao sam i prihvaćam &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i Xiaomi Račun &amp;lt;a href=\"%3$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_3rd_app_mobile">&lt;Data&gt;"Pročitao sam i prihvaćam &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Račun &amp;lt;a href=\"%3$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, također i &amp;lt;a href=\"%5$s\"&amp;gt;Odredbe i uvjete usluge verifikacije China Mobile&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data&gt;"Pročitao sam i prihvaćam &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Račun &amp;lt;a href=\"%3$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, također i &amp;lt;a href=\"%5$s\"&amp;gt;Odredbe i uvjete eSurfing usluge provjere računa&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data&gt;"Pročitao sam i prihvaćam &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, Xiaomi Račun &amp;lt;a href=\"%3$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, također i &amp;lt;a href=\"%5$s\"&amp;gt;Odredbe i uvjete usluge verifikacije China Unicom &amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_default">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi Račun &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_default_1">&lt;Data&gt;Pročitajte i prihvatite &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_default_extra">&lt;Data&gt;"Pročitao sam i prihvaćam the &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti.&amp;lt;/a&amp;gt; Prva prijava automatski će izraditi Xiaomi račun"&lt;/Data&gt;</string>
   <string name="user_agreement_hint_first_login">"Automatski ćemo izraditi račun ako prvi put koristite svoj broj telefona."</string>
-  <string name="user_agreement_hint_with_mobile">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Xiaomi Ra&amp;#269;un &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, tako&amp;#273;er i &amp;lt;a href=\"%3$s\"&amp;gt;Odredbe i uvjete usluge verifikacije China Mobile&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_with_telecom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Xiaomi Ra&amp;#269;un &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, tako&amp;#273;er i &amp;lt;a href=\"%3$s\"&amp;gt;Odredbe i uvjete eSurfing usluge provjere ra&amp;#269;una&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_hint_with_unicom">&lt;Data&gt;"Pro&amp;#269;itao sam i prihva&amp;#263;am Xiaomi Ra&amp;#269;un &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, tako&amp;#273;er i &amp;lt;a href=\"%3$s\"&amp;gt;Odredbe i uvjete usluge verifikacije China Unicom&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
-  <string name="user_agreement_protocal_dialog_hint_default">&lt;Data&gt;"Pro&amp;#269;itajte i prihvatite  &amp;lt;a href=\"%1$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i Xiaomi Ra&amp;#269;un &amp;lt;a href=\"%3$s\"&amp;gt;Korisni&amp;#269;ki ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_with_mobile">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi Račun &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, također i &amp;lt;a href=\"%3$s\"&amp;gt;Odredbe i uvjete usluge verifikacije China Mobile&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_with_telecom">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi Račun &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, također i &amp;lt;a href=\"%3$s\"&amp;gt;Odredbe i uvjete eSurfing usluge provjere računa&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_hint_with_unicom">&lt;Data&gt;"Pročitao sam i prihvaćam Xiaomi Račun &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;, također i &amp;lt;a href=\"%3$s\"&amp;gt;Odredbe i uvjete usluge verifikacije China Unicom&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
+  <string name="user_agreement_protocal_dialog_hint_default">&lt;Data&gt;"Pročitajte i prihvatite  &amp;lt;a href=\"%1$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%2$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt; i Xiaomi Račun &amp;lt;a href=\"%3$s\"&amp;gt;Korisnički ugovor&amp;lt;/a&amp;gt; i &amp;lt;a href=\"%4$s\"&amp;gt;Pravila o privatnosti&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="user_avatar_update_title">Promijeni sliku profila</string>
   <string name="user_avatar_uploading">Samo trenutak…</string>
   <string name="user_id_hint">E-pošta/Telefon/ID Xiaomi Računa</string>

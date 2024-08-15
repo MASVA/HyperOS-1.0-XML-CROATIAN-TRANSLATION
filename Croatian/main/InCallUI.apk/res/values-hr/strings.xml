@@ -385,6 +385,7 @@ stavite loptu u plavo područje"</string>
   <string name="satellite_latitude_longitude">"Trenutačna lokacija: "</string>
   <string name="satellite_location_deny_permission_msg">Dopusti pristup lokaciji za uključivanje komunikacija Tiantong Satellite</string>
   <string name="satellite_satellite_accessory">"Koristim pojačivač satelitskog signala"</string>
+  <string name="satellite_satellite_fold_tip">Preklopite svoj uređaj za učinkovitije lociranje satelita</string>
   <string name="satellite_satellite_service_redirection">Aktiviraj</string>
   <string name="satellite_satellite_service_tip">"Izgleda da niste aktivirali uslugu satelitske izravne veze. Pokušajte tražiti satelite nakon aktivacije."</string>
   <string name="satellite_service_provider">Uslugu pruža China Telecom</string>

@@ -596,7 +596,7 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="service_name_lockscreen">Wallpaper Carousel</string>
   <string name="service_name_message">Poruke</string>
   <string name="service_name_note">Bilješke</string>
-  <string name="service_name_phone_service">Telefonija</string>
+  <string name="service_name_phone_service">Telefon</string>
   <string name="service_name_recorder">Snimač</string>
   <string name="service_name_screen_recording">Snimač zaslona</string>
   <string name="service_name_security">Sigurnost</string>
@@ -607,7 +607,7 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="service_policy_adjust_content">Xunlei Pravila o privatnosti</string>
   <string name="service_policy_download">&lt;Data&gt;Pročitajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Xunlei Pravila o privatnosti&amp;lt;/a &amp;gt; i &amp;lt;a href=%1$s&amp;gt;Xunlei Network Services User Agreement&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
   <string name="service_privacy_index">Pravila o privatnosti</string>
-  <string name="service_security_over_r">&lt;Data&gt;Pročitajte i prihvatite naše &amp;lt;a href=%1$s&amp;gt;Pravila o privatnosti&amp;lt;/a &amp;gt; prije korištenja aplikacije Sigurnost.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;In accordance with U skladu s Androidom 11 standardima, jednokratno dopuštenje će se povući u roku od 5 sekundi nakon što odgovarajuća aplikacija prestane raditi. Ako otvorite aplikaciju tijekom tog kratkog vremenskog razdoblja, dopuštenje će se povući nakon toga.&lt;/Data&gt;</string>
+  <string name="service_security_over_r"><Data>Pročitajte i prihvatite naša &lt;a href=%1$s>Pravila o privatnosti&lt;/a ></Data></string>
   <string name="service_sim_activation">Aktivacija SIM kartice</string>
   <string name="servicestate_title">Izjava o osnovnim uslugama</string>
   <string name="setting_locale">Postavljanje regije…</string>

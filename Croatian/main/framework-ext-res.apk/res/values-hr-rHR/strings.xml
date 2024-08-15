@@ -612,6 +612,7 @@
   <string name="three_gesture_pc_mode">Uključi PC način</string>
   <string name="throwing_print">Ispiši</string>
   <string name="throwing_screen">Emitiraj</string>
+  <string name="toast_camera_satellite_mutually_exclusive">"Ne mogu koristiti kameru dok se korist satelitska komunikacija"</string>
   <string name="tip_close_screen_phone">Prebacite se na handsfree ili sklopite uređaj da biste koristili ugrađeni zvučnik</string>
   <string name="tip_for_phone_and_camera">Preklopite svoj uređaj za korištenje ugrađenog zvučnika ili prednje kamere</string>
   <string name="tip_use_front_camera">Sklopite uređaj da 

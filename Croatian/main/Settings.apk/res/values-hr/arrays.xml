@@ -1941,6 +1941,11 @@
         <item>Prednost ima Wi-Fi mreža</item>
         <item>Prednost ima mob. mreža</item>
     </string-array>
+	     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only_with_ims_preferred">
+        <item>Ims preferirano</item>
+        <item>Wi-Fi</item>
+        <item>Mobilni uređaj</item>
+     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Automatsko povezivanje</item>
         <item>Ručno povezivanje</item>
