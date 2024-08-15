@@ -233,7 +233,7 @@ Provjerite jesu li slušna pomagala uključena i spremna za uparivanje."</string
   <string name="accessibility_magnification_area_settings_all_summary">Izmjenjivanje cijelog i djelomičnog prikaza zaslona</string>
   <string name="accessibility_magnification_area_settings_full_screen_summary">Cijeli zaslon</string>
   <string name="accessibility_magnification_area_settings_message">Povećajte cijeli zaslon ili određeno područje ili izmjenjujte obje opcije</string>
-  <string name="accessibility_magnification_area_settings_mode_switch_summary">Dodirnite gumb za prebacivanje da biste se prebacivali između opcija</string>
+  <string name="accessibility_magnification_area_settings_mode_switch_summary">Dodirnite tipku za prebacivanje da biste se prebacivali između opcija</string>
   <string name="accessibility_magnification_area_settings_window_screen">Povećaj dio zaslona</string>
   <string name="accessibility_magnification_area_settings_window_screen_summary">Dio zaslona</string>
   <string name="accessibility_magnification_enable_mode_title">Omogućeno povećavanje</string>
@@ -304,7 +304,7 @@ Uključite ovu značajku i dodirnite tipku Pristupačnost pri dnu zaslona da otv
   <string name="accessibility_screen_magnification_intro_text">Brzo povećajte zaslon da bi se povećao prikaz sadržaja</string>
   <string name="accessibility_screen_magnification_joystick_summary">Aktivirajte i pokrećite povećalo pomoću igraće palice na zaslonu. Dodirnite i zadržite, a zatim povucite igraću palicu da biste upravljali povećalom. Dodirnite i povucite da biste upravljali samom igraćom palicom.</string>
   <string name="accessibility_screen_magnification_joystick_title">Igraća palica</string>
-  <string name="accessibility_screen_magnification_navbar_configuration_warning">Tipka Pristupačnost postavljen je na %1$s. Da biste upotrijebili povećanje, dodirnite i zadržite gumb Pristupačnost i zatim odaberite povećanje.</string>
+  <string name="accessibility_screen_magnification_navbar_configuration_warning">Tipka Pristupačnost postavljen je na %1$s. Da biste upotrijebili povećanje, dodirnite i zadržite tipku Pristupačnost i zatim odaberite povećanje.</string>
   <string name="accessibility_screen_magnification_navbar_short_summary">Dodirnite tipku za zumiranje</string>
   <string name="accessibility_screen_magnification_navbar_summary">"Kad je povećanje uključeno, možete povećati prikaz na zaslonu.
 
@@ -362,7 +362,7 @@ Tipkovnica i navigacijska traka ne mogu se povećati."</string>
   <string name="accessibility_shortcut_edit_dialog_summary_software">"Dodirnite tipku za Pristupačnost %s pri dnu zaslona.
 
 Da biste prešli na neku drugu značajku, dodirnite i zadržite tipku za Pristupačnost."</string>
-  <string name="accessibility_shortcut_edit_dialog_summary_software_floating">&lt;annotation id="link"&gt;Više opcija&lt;/annotation&gt;</string>
+  <string name="accessibility_shortcut_edit_dialog_summary_software_floating"><annotation id="link">Više opcija</annotation></string>
   <string name="accessibility_shortcut_edit_dialog_summary_software_gesture">"Prijeđite s dva prsta prema gore od dna zaslona.
 
 Da biste prešli na neku drugu značajku, prijeđite s dva prsta prema gore i zadržite."</string>
@@ -5204,14 +5204,14 @@ Na ulicama je bilo mnogo ljudi, muškaraca, žena i djece, i svi su bili odjeven
   <string name="forget_group">Zaboravi grupu</string>
   <string name="forget_passpoint_dialog_message">Možda ćete izgubiti pristup preostalom vremenu ili podacima. Prije uklanjanja provjerite s davateljem usluga.</string>
   <string name="forget_passpoint_wifi_message">Vaš će se telefon automatski prestati povezivati na ovu mrežu.</string>
-  <string name="forget_password_button_text">&lt;u&gt;Zaboravili ste zaporku?&lt;/u&gt;</string>
+  <string name="forget_password_button_text"><u>Zaboravili ste zaporku?</u></string>
   <string name="forget_password_dialog_button_text">Natrag</string>
   <string name="forget_password_dialog_content_four">2. Odaberite [Wipe data] i pričekajte da se vaš uređaj ponovno pokrene.</string>
-  <string name="forget_password_dialog_content_one">&lt;Data&gt;"Ako zaboravite svoju lozinku, nećete je moći vratiti. Međutim, možete poništiti zaporku nakon što &amp;lt;font color=#ec2700&amp;gt;izbrišete sve podatke na svom uređaj&amp;lt;/font&amp;gt; (uključujući fotografije, kontakte itd.). Prije toga sigurnosno kopirajte sve važne podatke."&lt;/Data&gt;</string>
-  <string name="forget_password_dialog_content_three">1. Isključite svoj uređaj. Pritisnite tipku [Napajanje] i tipku [Volume+] istovremeno i držite ih dok ne vidite ikonu *.</string>
+  <string name="forget_password_dialog_content_one"><Data>"Ako zaboravite svoju zaporku, nećete je moći vratiti. Međutim, možete poništiti zaporku nakon što &lt;font color=#ec2700>izbrišete sve podatke na svom uređaju&lt;/font> (uključujući fotografije, kontakte itd..). Prije toga napravite sigurnosnu kopiju svih važnih podataka."</Data></string>
+  <string name="forget_password_dialog_content_three">1. Isključite svoj uređaj. Pritisnite tipku [Napajanje] i tipku [Glasnoća+] istovremeno i držite ih dok ne vidite ikonu *.</string>
   <string name="forget_password_dialog_content_two">Slijedite ove korake da biste izbrisali podatke:</string>
   <string name="forget_password_dialog_title">Brisanje podataka</string>
-  <string name="forget_pattern">&lt;u&gt;Zaboravili ste uzorak?&lt;/u&gt;</string>
+  <string name="forget_pattern"><u>Zaboravili ste uzorak?</u></string>
   <string name="forget_privacy_password_setting">Dodaj Xiaomi račun</string>
   <string name="forget_privacy_password_summary">Upotrijebite Xiaomi račun za poništavanje vaše zaporke</string>
   <string name="forget_wifi_message">Vaš će se telefon prestati automatski povezivati na ovu mrežu.</string>

@@ -10,7 +10,7 @@
         <item quantity="other">Prije pola sata</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Za %d sat</item>
+        <item quantity="other">Za 1 sat</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Za pola sata</item>
@@ -20,14 +20,14 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">Za %d min</item>
-        <item quantity="one">Za %d min</item>
+        <item quantity="one">Za 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Upravo sada</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">prije %d min</item>
-        <item quantity="one">prije %d minutu</item>
+        <item quantity="one">prije 1 minutu</item>
     </plurals>
     <plurals name="aqi_all_city_cur_num">
         <item quantity="other">Prosjek od %1$s postaja</item>

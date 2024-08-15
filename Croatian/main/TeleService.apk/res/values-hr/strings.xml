@@ -1237,14 +1237,14 @@ Ipak aktivirati eSIM?"</string>
   <string name="enhanced_4g_lte_mode_title">Poboljšan 4G LTE način</string>
   <string name="enhanced_4g_lte_mode_title_variant">Napredno pozivanje</string>
   <string name="enhanced_connectivity">Poboljšana povezivost</string>
-  <string name="enhanced_connectivity_summary">Omogućuje značajku Poboljšana povezivost.</string>
+  <string name="enhanced_connectivity_summary">Omogućuje značajku poboljšana povezivost.</string>
   <string name="ensure_info">Da</string>
   <string name="enterName">Unesite Ime:</string>
-  <string name="enterNumber">Unesite Broj telefona:</string>
-  <string name="enter_callbarring_password">Unesite zaporku zabrane poziva(%d znamenke)</string>
+  <string name="enterNumber">Unesite broj telefona:</string>
+  <string name="enter_callbarring_password">Unesite zaporku zabrane poziva (%d brojeva)</string>
   <string name="enter_esim_manager">Upravljanje eSIM-om</string>
   <string name="enter_esim_manager_title">Upravljanje eSIM-om</string>
-  <string name="enter_input" formatted="false">USSD poruka mora imati ovoliko znakova: %d – %d. Pokušajte ponovo.</string>
+  <string name="enter_input">USSD poruka mora imati između %1$d i %2$d znakova. Molimo pokušajte ponovo.</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">PIN za SIM:</string>
   <string name="entertainment_news_settings">Vijesti iz svijeta zabave</string>

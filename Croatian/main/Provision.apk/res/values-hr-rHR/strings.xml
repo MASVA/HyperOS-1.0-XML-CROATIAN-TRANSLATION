@@ -607,7 +607,7 @@ Ovom značajkom možete upravljati u Postavke > Otisci prstiju, podaci o licu i 
   <string name="service_policy_adjust_content">Xunlei Pravila o privatnosti</string>
   <string name="service_policy_download">&lt;Data&gt;Pročitajte i prihvatite &amp;lt;a href=%1$s&amp;gt;Xunlei Pravila o privatnosti&amp;lt;/a &amp;gt; i &amp;lt;a href=%1$s&amp;gt;Xunlei Network Services User Agreement&amp;lt;/a &amp;gt; prije nego nastavite.&lt;/Data&gt;</string>
   <string name="service_privacy_index">Pravila o privatnosti</string>
-  <string name="service_security_over_r"><Data>Pročitajte i prihvatite naša &lt;a href=%1$s>Pravila o privatnosti&lt;/a ></Data></string>
+  <string name="service_security_over_r"><Data>Read and agree to our &lt;a href=%1$s>Pravila o privatnosti&lt;/a ></Data></string>
   <string name="service_sim_activation">Aktivacija SIM kartice</string>
   <string name="servicestate_title">Izjava o osnovnim uslugama</string>
   <string name="setting_locale">Postavljanje regije…</string>

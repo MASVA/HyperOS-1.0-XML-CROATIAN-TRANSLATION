@@ -841,13 +841,13 @@ Pokušajte lagano dodirnuti dok postavljate svoj otisak prsta."</string>
   <string name="hours">s</string>
   <string name="httpError">Došlo je pogreška mreže.</string>
   <string name="httpErrorAuth">Autentifikacija nije moguća.</string>
-  <string name="httpErrorBadUrl">Stranicu nije moguće otvoriti zbog nevažećeg URL-a.</string>
+  <string name="httpErrorBadUrl">Stranicu nije moguće otvoriti zbog nevažeće poveznice.</string>
   <string name="httpErrorConnect">Povezivanje s poslužiteljem nije moguće.</string>
   <string name="httpErrorFailedSslHandshake">Sigurnu vezu nije moguće uspostaviti.</string>
   <string name="httpErrorFile">Datoteku nije moguće otvoriti.</string>
   <string name="httpErrorFileNotFound">Zatraženu datoteku nije moguće pronaći.</string>
   <string name="httpErrorIO">Komunikacija s poslužiteljem nije moguća. Pokušajte ponovno kasnije.</string>
-  <string name="httpErrorLookup">URL nije moguće pronaći.</string>
+  <string name="httpErrorLookup">Poveznicu nije moguće pronaći.</string>
   <string name="httpErrorOk">U redu</string>
   <string name="httpErrorProxyAuth">Autentifikacija preko proxy poslužitelja nije bila uspješna.</string>
   <string name="httpErrorRedirectLoop">Stranica sadrži previše poslužiteljskih preusmjeravanja.</string>
@@ -949,7 +949,7 @@ Jeste li sigurni da želite napustiti ovu stranicu?"</string>
   <string name="keyguard_password_enter_pin_prompt">Novi PIN kôd</string>
   <string name="keyguard_password_enter_puk_code">Unesite PUK i novi PIN kôd</string>
   <string name="keyguard_password_enter_puk_prompt">PUK kôd</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dodirnite za tipkanje zaporke&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint"><font size="17">Dodirnite za unos zaporke</font></string>
   <string name="keyguard_password_wrong_pin_code">Netočan PIN kôd.</string>
   <string name="kg_enter_confirm_pin_hint">Potvrdite željeni PIN kôd</string>
   <string name="kg_failed_attempts_almost_at_login">"Netočno ste iscrtali uzorak za otključavanje %1$d puta. Nakon još ovoliko neuspješnih pokušaja: %2$d morat ćete otključati telefon pomoću računa e-pošte.
@@ -963,7 +963,7 @@ Pokušajte ponovo za %3$d s."</string>
   <string name="kg_invalid_sim_pin_hint">Unesite PIN koji ima od 4 do 8 brojeva.</string>
   <string name="kg_invalid_sim_puk_hint">PUK kôd mora se sastojati od 8 brojeva.</string>
   <string name="kg_login_account_recovery_hint">"Zaboravili ste korisničko ime ili zaporku?
-Posjetite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+Posjetite "<b>google.com/accounts/recovery</b>.</string>
   <string name="kg_login_checking_password">Provjera računa…</string>
   <string name="kg_login_instructions">Za otključavanje prijavite se Google računom.</string>
   <string name="kg_login_invalid_input">Nevažeće korisničko ime ili zaporka.</string>
@@ -1030,15 +1030,15 @@ Za otkvačivanje pritisnite i držite tipku za početnu stranicu i uključivanje
   <string name="lockscreen_access_pattern_start">Uzorak se pokrenuo</string>
   <string name="lockscreen_carrier_default">Nema usluge.</string>
   <string name="lockscreen_emergency_call">Hitne službe</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Neispravno ste pokušali otključati telefon %d puta. On će se vratiti na tvorničke postavke i svi korisnički podaci bit će izgubljeni nakon još ovoliko neuspjelih pokušaja: %d.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Netočno ste iscrtali uzorak za otključavanje %d puta. Nakon još ovoliko neuspješnih pokušaja: %d morat ćete otključati telefon putem prijave na Google.
+  <string name="lockscreen_failed_attempts_almost_at_wipe">Neispravno ste pokušali otključati telefon %1$d puta. Nakon još %2$d neuspješnih pokušaja, telefon će se vratiti na tvorničke postavke i svi korisnički podaci bit će izgubljeni.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">"Pogrešno ste nacrtali svoj uzorak za otključavanje %1$d puta. Nakon još %2$d neuspješnih pokušaja, od vas će se tražiti da otključate svoj telefon pomoću Google prijave.
 
- Pokušajte ponovo za %d s."</string>
+ Pokušajte ponovo za %3$d sekundi."</string>
   <string name="lockscreen_failed_attempts_now_wiping">Neispravno ste pokušali otključati telefon o%d puta. Sada će biti vraćen na tvorničke postavke.</string>
   <string name="lockscreen_forgot_pattern_button_text">Zaboravili ste uzorak?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Zaboravili ste korisničko ime ili zaporku?
-Posjetite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
-  <string name="lockscreen_glogin_checking_password">Provjeravanje…</string>
+Posjetite "<b>google.com/accounts/recovery</b>.</string>
+  <string name="lockscreen_glogin_checking_password">Provjera…</string>
   <string name="lockscreen_glogin_forgot_pattern">Otključaj račun</string>
   <string name="lockscreen_glogin_instructions">Za otključavanje prijavite se s Google računom.</string>
   <string name="lockscreen_glogin_invalid_input">Nevažeće korisničko ime ili zaporka.</string>
