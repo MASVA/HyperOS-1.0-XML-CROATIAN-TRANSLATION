@@ -73,7 +73,7 @@
   <string name="permission_storage">Fotografije i mediji</string>
   <string name="permission_storage_summary" />
   <string name="permission_sync_confirmation_title">Dati aplikacijama na &lt;strong>%1$s&lt;/strong> ista dopuštenja kao na &lt;strong>%2$s&lt;/strong>?</string>
-  <string name="permission_sync_summary">To može uključivati ​​&lt;strong>mikrofon&lt;/strong>, &lt;strong>kameru&lt;/strong> i &lt;strong>pristup lokaciji&lt;/strong>, te druga osjetljiva dopuštenja na &lt; jak>%1$s&lt;/strong>. &lt;br/>&lt;br/>Ova dopuštenja možete promijeniti bilo kada u svojim postavkama na &lt;strong>%1$s&lt;/strong>.</string>
+  <string name="permission_sync_summary">To može uključivati &lt;strong>mikrofon&lt;/strong>, &lt;strong>kameru&lt;/strong>, i &lt;strong>pristup lokaciji&lt;/strong>, te druga osjetljiva dopuštenja na &lt;strong>%1$s&lt;/strong>. &lt;br/>&lt;br/>Ova dopuštenja možete promijeniti bilo kada u postavkama na &lt;strong>%1$s&lt;/strong>.</string>
   <string name="profile_name_generic">uređaj</string>
   <string name="profile_name_glasses">naočale</string>
   <string name="profile_name_watch">sat</string>

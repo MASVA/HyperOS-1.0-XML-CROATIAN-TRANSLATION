@@ -43,6 +43,7 @@
     <string name="auto_crop_water_mark_title">"Oznake neće biti prikazane"</string>
     <string name="cancel">Odustani</string>
     <string name="clearable_edittext_clear_description">Izbriši</string>
+	 <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama Google Playa. Pokušajte ponovo.</string>
     <string name="close">Isključi</string>
     <string name="date_time_picker_dialog_title">Postavi datum i vrijeme</string>
     <string name="doc_photo_adjust_section_talkback">Obreži i uredi</string>

@@ -178,6 +178,7 @@
     <string name="notif_title_file_size">Veličina: %%1$d</string>
     <string name="notif_title_multiple_downloading">Preuzimanje: %1$d</string>
     <string name="notif_title_single_downloading">Preuzimanje: %1$s</string>
+	 <string name="notification_dld_msg">Upravljanje aplikacijama koje se preuzimaju</string>
     <string name="notification_download_complete">Preuzimanje je dovršeno.</string>
     <string name="notification_download_failed">Preuzimanje nije uspjelo.</string>
     <string name="notification_download_success_more">%1$d preuzeto</string>

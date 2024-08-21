@@ -1336,6 +1336,7 @@ za fotografije"</string>
   <string name="google_banner_backup_left_btn_text">Ne sada</string>
   <string name="google_banner_backup_right_btn_text">Uključi sigurnosno kopiranje</string>
   <string name="google_banner_backup_title">Sigurnosno kopirajte svoje stavke na Google fotografije</string>
+  <string name="google_banner_upgrade_des">Možete kupiti više prostora za pohranu u cloudu za svoj Google račun.</string>
   <string name="google_banner_upgrade_left_btn_clean_space">Očisti prostor</string>
   <string name="google_banner_upgrade_left_btn_text">Prikaz pojedinosti</string>
   <string name="google_banner_upgrade_right_btn_get_storage">Nabavite pohranu</string>

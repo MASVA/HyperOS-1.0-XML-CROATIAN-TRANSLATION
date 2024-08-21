@@ -642,4 +642,18 @@ za nastavak"</string>
   <string name="worker_try_join_pc_when_pad_adv_connected">Ovaj je uređaj sada povezan s drugim uređajem. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
   <string name="worker_try_join_pc_when_pad_adv_connected_title">"Ne mogu se povezati s MIUI+"</string>
   <string name="yesterday">Jučer</string>
+  <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama Google Playa. Pokušajte ponovo.</string>
+  <string name="miui15_enable_wifi_alert_message">Usluge međusobnog povezivanja uređaja povezuju uređaje pomoću Wi-Fi-ja. Uključiti Wi-Fi sada?</string>
+  <string name="miui15_revoke_message">"Ako nastavite, povući ćete suglasnost na Pravila o privatnosti Usluge međusobnog povezivanja uređaja. Osobni podaci koji su već prikupljeni i zadržani bit će izbrisani u određenom roku u skladu s važećim zakonima i propisima, osim ako se ne zahtijeva drugačije. Budući da Usluge međusobnog povezivanja uređaja pružaju svoje usluge na temelju prikupljanja potrebnih osobnih podataka, vaše povlačenje suglasnosti smatrat će se odbijanjem prihvaćanja tih usluga. Sada povući suglasnost?
+Ova radnja neće izbrisati podatke koje je Usluge međusobnog povezivanja uređaja stvorila na vašem drugom uređaju. Za brisanje podataka generiranih na svim vašim uređajima povucite suglasnost na svakom od njih."</string>
+   <string name="nfc_check_the_touch_device_miui15">Provjerite jesu li Wi-Fi i Bluetooth uključeni na drugom uređaju i uključite Xiaomi međusobno povezivanje na svom tabletu u Postavke > Međusobno povezivanje.</string>
+   <string name="revoke_button">Opozovi</string>
+   <string name="revoke_cancel_button">Poništi</string>
+   <string name="revoke_fail">Ne mogu opozvati, pokušajte ponovo.</string>
+   <string name="revoke_title">Povlačenje suglasnosti</string>
+   <string name="secure_screen_hint">"Kako biste zaštitili svoju privatnost,
+izvršite ovu radnju na svom telefonu."</string>
+   <string name="settings_history_full_time_format">dd.MM.yyyy. HH:mm</string>
+   <string name="settings_revoke_privacy_policy">Povlačenje suglasnosti</string>
+   <string name="use_builtin_keyboard_input">Koristite tipkovnicu na zaslonu vašeg uređaja</string>
 </resources>

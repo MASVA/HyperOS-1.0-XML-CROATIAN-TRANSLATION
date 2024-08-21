@@ -64,14 +64,6 @@
         <item quantity="other">odabrano %d stavki</item>
         <item quantity="one">odabrana %d stavka</item>
     </plurals>
-    <plurals name="noti_caption_success">
-        <item quantity="other">%1$d s uspjehom, %2$s</item>
-        <item quantity="one">%1$d s uspjehom, %2$s</item>
-    </plurals>
-    <plurals name="noti_caption_unsuccessful">
-        <item quantity="other">%1$d bez uspjeha.</item>
-        <item quantity="one">%1$d bez uspjeha.</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>

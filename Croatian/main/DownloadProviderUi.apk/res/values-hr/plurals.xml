@@ -84,4 +84,9 @@
         <item quantity="other">%1$d stavki</item>
         <item quantity="one">%1$d stavka</item>
     </plurals>
+	 <plurals name="show_more">
+        <item quantity="other">Prikaži još %1$d</item>
+        <item quantity="one">Prikaži još %1$d</item>
+        <item quantity="few">Prikaži još %1$d</item>
+     </plurals>
 </resources>

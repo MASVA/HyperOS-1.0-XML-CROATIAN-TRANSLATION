@@ -52,6 +52,7 @@
   <string name="backup_action_no_space_with_wechat_on_content">Nema dovoljno prostora cloud pohrane za sigurnosno kopiranje WeChat podataka. Nadogradite svoj plan pohrane za sigurnosno kopiranje stavki.</string>
   <string name="backup_action_no_space_with_wechat_on_title">"Sigurnosna kopija stavki WeChat-a nije moguća"</string>
   <string name="backup_action_retry_now">Pokušaj ponovno</string>
+  <string name="backup_app_prominent_disclosure_dialog_message">Sigurnosna kopija u cloudu prikupit će popis aplikacija instaliranih na vašem uređaju i pohraniti te informacije na našim poslužiteljima. Ove podatke pohranjujemo kako biste ih mogli preuzeti i vratiti kad god je to potrebno. Ako se slažete s našim prikupljanjem ovih informacija, dodirnite \"Dopusti\" ispod.</string>
   <string name="backup_failed_reason_app_data_error">"Ne mogu izraditi Sig. kopiju WeChat podataka"</string>
   <string name="backup_failed_reason_app_usage_denied">Dodijelite potrebna dopuštenja za sigurnosno kopiranje stavki</string>
   <string name="backup_failed_reason_cloud_space_not_enough">Nema dovoljno prostora za pohranu u Xiaomi Cloudu. Nadogradite svoj plan ili oslobodite prostor za pohranu.</string>

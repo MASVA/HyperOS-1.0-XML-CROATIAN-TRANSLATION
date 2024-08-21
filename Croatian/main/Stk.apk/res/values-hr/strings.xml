@@ -28,6 +28,8 @@
     <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
     <string name="abc_toolbar_collapse_description">Sažmi</string>
     <string name="actionbar_button_up_description">Natrag</string>
+	 <string name="action_launch_browser">Pokreni preglednik</string>
+	 <string name="action_setup_call">biraj</string>
     <string name="alphabet">Abeceda</string>
     <string name="app_name">SIM Alat</string>
     <string name="bottomsheet_action_collapse">Sažmi donju polovicu</string>
@@ -70,7 +72,12 @@
     <string name="friday_shortest">P</string>
     <string name="help">Pomoć</string>
     <string name="icon_content_description">Ikona dijaloga</string>
+	 <string name="lable_busy_on_bip">Aplikacija je zauzeta BIP naredbama, pokušajte ponovno kasnije.</string>
+    <string name="lable_not_available">Aplikacija nije instalirana</string>
+    <string name="lable_on_flight_mode">Ne može se pokrenuti SIM Toolkit jer je uključen zrakoplovni način.</string>
+    <string name="lable_open_channel">Otvori kanal</string>
 	 <string name="lable_sim_not_ready">SIM Toolkit nije spreman ili nije podržan</string>
+	 <string name="main_menu_not_initialized">Glavni izbornik nije inicijaliziran</string>
 	 <string name="material_slider_range_end">Kraj raspona,</string>
     <string name="material_slider_range_start">Početak raspona,</string>
     <string name="menu_back">Natrag</string>

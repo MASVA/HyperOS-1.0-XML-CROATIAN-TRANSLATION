@@ -237,9 +237,10 @@
     <string name="search_result_text">"Ne mogu pronaći niti jednu aplikaciju"</string>
     <string name="send">Pošalji</string>
     <string name="show_system_app">Prikaži aplikacije sustava</string>
-    <string name="sleep_config_enhance_description">"Da bi uštedio bateriju, MIUI će zatvoriti pozadinske aplikacije, ograničiti NFC, Bluetooth, GPS, korištenje mobilnih podataka i Wi-Fi-ja i neće osvijetliti zaslon za obavijesti dok spavate noću."</string>
-    <string name="sleep_config_enhance_description_non_nfc">"Da bi uštedio bateriju, MIUI će zatvoriti pozadinske aplikacije, ograničiti korištenje Bluetootha, GPS-a, mobilnih podataka i Wi-Fi-ja te neće osvijetliti zaslon za obavijesti dok spavate noću."</string>
-    <string name="sleep_config_enhance_description_pad">"Da bi uštedio bateriju, MIUI će zatvoriti pozadinske aplikacije, ograničiti korištenje Bluetootha i Wi-Fija i neće osvijetliti zaslon za obavijesti dok spavate noću."</string>
+    <string name="sleep_config_enhance_description">"Da bi uštedio bateriju, sustav će zatvoriti pozadinske aplikacije, ograničiti NFC, Bluetooth, GPS, korištenje mobilnih podataka i Wi-Fi-ja i neće osvijetliti zaslon za obavijesti dok spavate noću."</string>
+    <string name="sleep_config_enhance_description_non_nfc">"Da bi uštedio bateriju, sustav će zatvoriti pozadinske aplikacije, ograničiti korištenje Bluetootha, GPS-a, mobilnih podataka i Wi-Fi-ja te neće osvijetliti zaslon za obavijesti dok spavate noću."</string>
+    <string name="sleep_config_enhance_description_pad">"Da bi uštedio bateriju, sustav će zatvoriti pozadinske aplikacije, ograničiti korištenje Bluetootha i Wi-Fija i neće osvijetliti zaslon za obavijesti dok spavate noću."</string>
+    <string name="sleep_config_enhance_description_pad_new">Dok je zaslon isključen, vaš uređaj će zatvoriti pozadinske aplikacije, ograničiti upotrebu Bluetootha i Wi-Fi mreže i neće osvijetliti zaslon za obavijesti radi uštede baterije.</string>
     <string name="sleep_config_enhance_title">Način mirovanja</string>
     <string name="sleepmode_disclaimer_agree">Slažem se</string>
     <string name="sleepmode_disclaimer_cancel">Odustani</string>

@@ -123,6 +123,11 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
     </plurals>
+	 <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">Opozivanje (%ds)</item>
+        <item quantity="one">Opozivanje (%ds)</item>
+        <item quantity="few">Opozivanje (%ds)</item>
+     </plurals>
     <plurals name="rcs_group_notification_invitation_receive">
         <item quantity="other">Primili ste %d pozivnice za grupni chat</item>
         <item quantity="one">Primili ste %d pozivnicu za grupni chat</item>
@@ -135,6 +140,11 @@
         <item quantity="other">%1$s rezultata za \"%2$s\"</item>
         <item quantity="one">%1$s rezultat za \"%2$s\"</item>
     </plurals>
+	 <plurals name="select_duration_time">
+        <item quantity="other">%d sekundi</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekunde</item>
+     </plurals>
     <plurals name="send_to_count">
         <item quantity="other">Poslano poruka: %1$s</item>
         <item quantity="one">Poslana %1$s poruka</item>

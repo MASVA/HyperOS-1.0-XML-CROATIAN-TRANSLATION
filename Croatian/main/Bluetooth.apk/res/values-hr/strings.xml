@@ -47,8 +47,16 @@
 	<string name="ble_device_profile_title">Upareni Bluetooth Smart uređaj</string>
 	<string name="ble_device_rename">Preimenuj</string>
 	<string name="bluetooth_a2dp_sink_queue_name">Upravo svira</string>
+	<string name="bluetooth_and_wifi_stays_on_message">Uređaj će zapamtiti da Wi‑Fi i Bluetooth trebaju ostati uključeni u načinu rada u zrakoplovu. Isključite Wi-Fi i Bluetooth ako ne želite da ostanu uključeni.</string>
+   <string name="bluetooth_and_wifi_stays_on_title">Wi-Fi i Bluetooth ostat će uključeni</string>
+   <string name="bluetooth_enabled_apm_message">Ako Bluetooth ostane uključen, uređaj će zapamtiti da treba ostati uključen u načinu rada u zrakoplovu</string>
+   <string name="bluetooth_enabled_apm_title">Bluetooth je uključen u načinu rada u zrakoplovu</string>
+   <string name="bluetooth_stays_on_message">Uređaj će zapamtiti da Bluetooth treba ostati uključen u načinu rada u zrakoplovu. Isključite Bluetooth ako ne želite da ostane uključen.</string>
+   <string name="bluetooth_stays_on_title">Bluetooth ostaje uključen</string>
 	<string name="bluetooth_advanced_feat_description">Značajka Bluetooth naprednog pregledavanja</string>
 	<string name="bluetooth_broadcast_status">Emitiranje uključeno</string>
+	<string name="bluetooth_broadcast_audio_started_toast">Ne zaboravite na vrijeme prekinuti emitiranje. Emitiranje zvuka troši bateriju.</string>
+   <string name="bluetooth_connect_action">Povezivanje s Bluetoothom</string>
 	<string name="bluetooth_connected">Upareno</string>
 	<string name="bluetooth_connecting">Uparivanje…</string>
 	<string name="bluetooth_device_context_unpair">Raspari</string>
@@ -255,6 +263,10 @@
 	<string name="not_exist_file">Nema datoteke</string>
 	<string name="not_exist_file_desc">"Datoteka ne postoji.
 "</string>
+   <string name="not_provided">Nije navedeno</string>
+   <string name="noti_caption_success">{count,plural, =1{# uspješno, %1$s}one{# uspješno, %1$s}few{# uspješno, %1$s}other{# uspješno, %1$s}}</string>
+   <string name="noti_caption_unsuccessful">{count,plural, =1{# neuspješno.}one{# neuspješno.}few{# neuspješno.}other{# neuspješno.}}</string>
+   <string name="notice_broadcast_audio_stopped">Zaustavljeno emitiranje zvuka</string>
 	<string name="noti_caption">%1$s uspjelo, %2$s nije uspjelo.</string>
 	<string name="notice_Auracast_audio_share_disconnected">Zvuk se više ne dijeli zbog prekida veza</string>
 	<string name="notice_audio_share_classic_disconnected">Zaustavljeno dijeljenje zvuka</string>

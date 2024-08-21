@@ -263,6 +263,8 @@ Audio"</string>
     <string name="cached_apps_freezer_device_default">Zadani uređaj</string>
     <string name="cached_apps_freezer_disabled">Onemogućeno</string>
     <string name="cached_apps_freezer_enabled">Omogućeno</string>
+	 <string name="call_duration_format">%1$s sati %2$s minuta %3$s sekundi</string>
+    <string name="call_duration_title">Poziv je završio</string>
     <string name="cached_apps_freezer_reboot_dialog_text">Da bi se ova promjena primijenila, vaš se uređaj mora ponovno pokrenuti. Ponovo pokrenite odmah ili otkažite.</string>
     <string name="call_notification_answer_action">Odgovor</string>
     <string name="call_notification_answer_video_action">Video</string>
@@ -271,9 +273,14 @@ Audio"</string>
     <string name="call_notification_incoming_text">Dolazni poziv</string>
     <string name="call_notification_ongoing_text">Poziv u tijeku</string>
     <string name="call_notification_screening_text">Provjera dolaznog poziva</string>
+	 <string name="call_recorder_confirm_dialog_body">Datoteke sa snimljenim glasom pohranjivat će se na vanjskoj pohrani kojoj kasnije može pristupiti druga aplikacija. Želite li nastaviti?</string>
+    <string name="call_recorder_confirm_dialog_mark_no_ask">Ne pitaj više</string>
+    <string name="call_recorder_confirm_dialog_negative">ODUSTANI</string>
+    <string name="call_recorder_confirm_dialog_positive">Snimanje</string>
     <string name="call_streaming_notification_action_hang_up">Prekini vezu</string>
     <string name="call_streaming_notification_action_switch_here">Prebacite se ovdje</string>
     <string name="call_streaming_notification_body">Streaming zvuka na drugi uređaj</string>
+	 <string name="call_waiting_indication">Druga strana je u pozivu, pričekajte malo…</string>
     <string name="callendpoint_name_bluetooth">Bluetooth</string>
     <string name="callendpoint_name_earpiece">Slušalica</string>
     <string name="callendpoint_name_speaker">Zvučnik</string>
@@ -333,6 +340,7 @@ Audio"</string>
     <string name="convert_to_file_encryption">Pretvori u enkripciju datoteka</string>
     <string name="convert_to_file_encryption_done">Datoteke su već šifrirane</string>
     <string name="convert_to_file_encryption_enabled">Pretvori…</string>
+	 <string name="continue_roaming">Nastavi roaming</string>
     <string name="copy">Kopiraj</string>
     <string name="creating_new_user_dialog_message">Izrada novog korisnika…</string>
     <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno – zeleno)</string>
@@ -379,7 +387,8 @@ Audio"</string>
     <string name="delete_blob_text">Izbriši dijeljene podatke</string>
     <string name="delete_icon_description">Deblokiranje</string>
 	 <string name="default_dialer_reset_prompt">"Čini se da je došlo do više pogrešaka tijekom korištenja %s. Postaviti HyperOS Dialer kao zadanu telefonsku aplikaciju?"</string>
-    <string name="dev_logpersist_clear_warning_message">Kad prekinemo praćenje pomoću trajnog zapisivača, morat ćemo izbrisati podatke zapisivača koji se nalaze na uređaju.</string>
+    <string name="denied_required_permission">Dopuštenja su uskraćena. Možete ih promijeniti u Postavke > Aplikacije.</string>
+	 <string name="dev_logpersist_clear_warning_message">Kad prekinemo praćenje pomoću trajnog zapisivača, morat ćemo izbrisati podatke zapisivača koji se nalaze na uređaju.</string>
     <string name="dev_logpersist_clear_warning_title">Želite li izbrisati trajnu pohranu zapisivača?</string>
     <string name="dev_settings_warning_message">Ove su postavke namijenjene samo razvojnim programerima. One mogu uzrokovati kvar ili neželjeno ponašanje vašeg uređaja i aplikacija na njemu.</string>
     <string name="dev_settings_warning_title">Dopustiti postavke razvojnih programera?</string>
@@ -471,6 +480,7 @@ Audio"</string>
 Nije moguće dovršiti ovaj poziv. Pokušajte ponovo kad se telefon ohladi.
 
 I dalje možete upućivati hitne pozive."</string>
+    <string name="incall_error_supp_service_switch">Nije moguće prebaciti pozive.</string>
     <string name="incall_error_supp_service_unknown">"Ova usluga nije podržana."</string>
     <string name="incoming_call_failed_low_battery">Dolazni poziv nije uspio zbog slabe baterije.</string>
     <string name="install_other_apps">Instalacija nepoznatih aplikacija</string>
@@ -539,9 +549,21 @@ I dalje možete upućivati hitne pozive."</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">"To je sve za sada"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Samo trenutak…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
-    <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
+    <string name="mo_code_call_deflected">Poziv prebačen</string>
+    <string name="mo_code_call_forwarded">Poziv preusmjeren</string>
+    <string name="mo_code_call_forwarding">Prosljeđivanje poziva…</string>
+    <string name="mo_code_clir_suppression_rejected">Provjera usluge slanja ID pozivatelja</string>
+    <string name="mo_code_cug_call">Zatvorena grupa korisnika</string>
+    <string name="mo_code_incoming_calls_barred">Dolazni poziv je zabranjen na drugoj strani</string>
+    <string name="mo_code_outgoing_calls_barred">Odlazni poziv je zabranjen</string>
+    <string name="mo_code_some_cf_active">"Prosljeđivanje poziva
+uvjetno"</string>
+    <string name="mo_code_unconditional_cf_active">"Aktivirano prosljeđivanje poziva
+bezuvjetno"</string>
+	 <string name="mobile_data_always_on">Mobilni podaci uvijek aktivni</string>
     <string name="mobile_data_always_on_summary">Neka mobilni podaci uvijek budu aktivni, čak i kada je Wi‑Fi aktivan (za brzo prebacivanje s jedne na drugu mrežu).</string>
-    <string name="mock_location_app">Odaberite aplikaciju za lažnu lokaciju</string>
+    <string name="modify_roaming_settings">Izmijeni postavke roaminga</string>
+	 <string name="mock_location_app">Odaberite aplikaciju za lažnu lokaciju</string>
     <string name="mock_location_app_not_set">Aplikacija za lažnu lokaciju nije postavljena</string>
     <string name="mock_location_app_set">Aplikacija za lažnu lokaciju: %1$s</string>
     <string name="monday">Ponedjeljak</string>
@@ -613,6 +635,23 @@ I dalje možete upućivati hitne pozive."</string>
     <string name="mr_dialog_transferable_header">Reprodukcija u grupi</string>
     <string name="mr_system_route_name">Sustav</string>
     <string name="mr_user_route_category_name">Uređaji</string>
+	 <string name="mt_code_additional_call_forwarded">Proslijeđen je dodatni dolazni poziv</string>
+    <string name="mt_code_call_connected_ect">Prijenos poziva aktivan</string>
+    <string name="mt_code_call_connecting_ect">Prijenos poziva</string>
+    <string name="mt_code_call_on_hold">Poziv na čekanju</string>
+    <string name="mt_code_call_retrieved">Poziv je dohvaćen</string>
+    <string name="mt_code_cug_call">Zatvorenagrupakorisnika</string>
+    <string name="mt_code_deflected_call">Poziv je skrenut</string>
+    <string name="mt_code_forward_check_received">Prosljeđivanje provjere primljene SS poruke</string>
+    <string name="mt_code_forwarded_call">Poziv je proslijeđen</string>
+    <string name="mt_code_forwarded_cf">Poziv je preusmjeren</string>
+    <string name="mt_code_forwarded_cf_busy">Proslijeđen zauzet poziv</string>
+    <string name="mt_code_forwarded_cf_cond">Poziv je preusmjeren uvjetno</string>
+    <string name="mt_code_forwarded_cf_no_reply">Poziv je proslijeđen nakon izostanka odgovora</string>
+    <string name="mt_code_forwarded_cf_not_reachable">Poziv je proslijeđen nakon nedostupnosti</string>
+    <string name="mt_code_forwarded_cf_uncond">Poziv je preusmjeren bezuvjetno</string>
+    <string name="mt_code_multi_party_call">Konferencijski poziv</string>
+    <string name="mt_code_on_hold_call_released">Poziv na čekanju je pušten</string>
     <string name="mtrl_badge_numberless_content_description">Nova obavijest</string>
     <string name="mtrl_chip_close_icon_content_description">Ukloni %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Više od %1$d novih obavijesti</string>
@@ -691,7 +730,8 @@ I dalje možete upućivati hitne pozive."</string>
     <string name="osu_opening_provider">Otvaranje aplikacije %1$s</string>
     <string name="osu_sign_up_complete">Registracija je dovršena. Povezivanje…</string>
     <string name="osu_sign_up_failed">Nije moguće dovršiti registraciju. Dodirnite za ponovni pokušaj.</string>
-    <string name="outgoing_call_error_no_phone_number_supplied">Poziv se ne može ostvariti, broj koji ste unijeli nije ispravan.</string>
+    <string name="outgoing_call_failed">Poziv nije poslan.</string>
+	 <string name="outgoing_call_error_no_phone_number_supplied">Poziv se ne može ostvariti, broj koji ste unijeli nije ispravan.</string>
     <string name="outgoing_call_not_allowed">Ovaj korisnik nema dopuštenje upućivati pozive osim na hitne brojeve</string>
     <string name="outgoing_call_not_allowed_no_permission">Ova aplikacija ne može uspostavljati odlazne pozive bez dopuštenja za telefon.</string>
     <string name="outgoing_call_not_allowed_user_restriction">Dopušteni su samo hitni pozivi.</string>
@@ -776,6 +816,11 @@ I dalje možete upućivati hitne pozive."</string>
     <string name="retail_demo_reset_message">Unesite zaporku za resetiranje u demo načinu</string>
     <string name="retail_demo_reset_next">Dalje</string>
     <string name="retail_demo_reset_title">Potrebna je zaporka</string>
+	 <string name="roaming_network_dom">"Trenutno ste u roamingu u mreži drugog's mobilnog operatera.
+Roaming se može mijenjati i/ili isključiti u \"Postavke roaminga\"."</string>
+    <string name="roaming_network_int">"Trenutno ste u roamingu u mreži međunarodnog's mobilnog operatera.
+Roaming se može mijenjati i/ili isključiti u \"Postavke roaminga\"."</string>
+    <string name="start_record_failed">Neuspjelo snimanje.</string>
     <string name="running_process_item_user_label">Korisnik: %1$s</string>
     <string name="runningservices_settings_summary">Pogledajte i nadzirite pokrenute procese</string>
     <string name="runningservices_settings_title">Pokrenute usluge</string>
@@ -970,9 +1015,11 @@ Bilo koji korisnik može ažurirati aplikacije za sve ostale korisnike."</string
     <string name="verify_apps_over_usb_summary">Provjerite uzrokuju li aplikacije instalirane putem ADB-a/ADT-a poteškoće.</string>
     <string name="verify_apps_over_usb_title">Potvrdi aplikacije putem USB-a</string>
     <string name="video_call_not_allowed_if_tty_enabled">Onemogućite TTY Način rada da omogućite videopozive.</string>
-    <string name="voice_dial_out">Glasovni poziv</string>
+    <string name="video_over_wifi_not_available">Video preko WiFi mreže trenutno nije dostupan.</string>
+	 <string name="voice_dial_out">Glasovni poziv</string>
     <string name="voice_report_incoming_call">Pozivanje</string>
     <string name="voice_report_unknown_num">Nepoznat broj</string>
+	 <string name="volte_ss_not_available_tips">Otvorite podatkovnu vezu s %s za dovršenje ove radnje.</string>
     <string name="volume_boost_text">Uspješno pojačana glasnoća</string>
     <string name="vpn_settings_not_available">Postavke VPN-a nisu dostupne ovom korisniku</string>
     <string name="wait_for_debugger">Čeka se program za otklanjanje pogrešaka</string>

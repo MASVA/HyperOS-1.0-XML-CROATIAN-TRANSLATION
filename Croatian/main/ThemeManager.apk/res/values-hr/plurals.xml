@@ -272,4 +272,77 @@
         <item quantity="other">Temperatura: %1$s stupnjeva, %2$s</item>
         <item quantity="one">Temperatura: %1$s stupanj, %2$s</item>
      </plurals>
+	      <plurals name="account_coins_num">
+        <item quantity="other">%1s novčića</item>
+        <item quantity="one">%1s novčić</item>
+        <item quantity="few">%1s novčića</item>
+     </plurals>
+     <plurals name="confirm_delete_tasks">
+        <item quantity="other">Odmah obrisati %d zadataka?</item>
+        <item quantity="one">Odmah obrisati %d zadatak?</item>
+        <item quantity="few">Odmah obrisati %d zadatka?</item>
+     </plurals>
+     <plurals name="delete_tasks_successfully">
+        <item quantity="other">%d uspješno obrisano</item>
+        <item quantity="one">%d uspješno obrisan</item>
+        <item quantity="few">%d uspješno obrisana</item>
+     </plurals>
+     <plurals name="payment_coins_tips">
+        <item quantity="other">"%1$d novčića = %2$d IDR
+Novčići su nepovratni."</item>
+        <item quantity="one">"%1$d novčić = %2$d IDR
+Novčići su nepovratni."</item>
+        <item quantity="few">"%1$d novčića = %2$d IDR
+Novčići su nepovratni."</item>
+     </plurals>
+     <plurals name="portfolio">
+        <item quantity="other">%d posla</item>
+        <item quantity="one">%d posla</item>
+        <item quantity="few">%d posla</item>
+     </plurals>
+     <plurals name="purchase_refund_success_diag_notice_one">
+        <item quantity="other">"Novac od %d narudžbi uspješno vraćen. "</item>
+        <item quantity="one">"Novac od %d narudžbe uspješno vraćen. "</item>
+        <item quantity="few">"Novac od %d narudžbe uspješno vraćen. "</item>
+     </plurals>
+     <plurals name="purchase_refund_success_diag_notice_two">
+        <item quantity="other">Vaši novčići će biti položeni za %d sati.</item>
+        <item quantity="one">Vaši novčići će biti položeni za %d sat.</item>
+        <item quantity="few">Vaši novčići će biti položeni za %d sata.</item>
+     </plurals>
+     <plurals name="purchase_refund_success_notice">
+        <item quantity="other">Vaš povrat novca je obrađen. Vaši će novčići biti položeni unutar %d sati.</item>
+        <item quantity="one">Vaš povrat novca je obrađen. Vaši će novčići biti položeni unutar %d sata.</item>
+        <item quantity="few">Vaš povrat novca je obrađen. Vaši će novčići biti položeni unutar %d sata.</item>
+     </plurals>
+     <plurals name="purchased_authorizing_dialog_content">
+        <item quantity="other">Ovo bi moglo malo potrajati. Ako niste primili artikle koje ste kupili unutar %d sati, pošaljite povratne informacije da nas obavijestite o problemu.</item>
+        <item quantity="one">Ovo bi moglo malo potrajati. Ako niste primili artikle koje ste kupili unutar %d sat, pošaljite povratne informacije da nas obavijestite o problemu.</item>
+        <item quantity="few">Ovo bi moglo malo potrajati. Ako niste primili artikle koje ste kupili unutar %d sata, pošaljite povratne informacije da nas obavijestite o problemu.</item>
+     </plurals>
+     <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data>Izvršavanjem plaćanja pristajete na &lt;a href=\"%1$s\">Obavještenje o kupnji unutar aplikacije&lt;/a>.&lt;br>Povrat novca je dostupan &lt;xliff:g id=time>%2$d&lt;/xliff:g> sati nakon izvršenja plaćanja.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Izvršavanjem plaćanja pristajete na &lt;a href=\"%1$s\">Obavještenje o kupnji unutar aplikacije&lt;/a>.&lt;br>Povrat novca je dostupan &lt;xliff:g id=time>%2$d&lt;/xliff:g> sat nakon izvršenja plaćanja.&lt;/Data></item>
+        <item quantity="few">&lt;Data>Izvršavanjem plaćanja pristajete na &lt;a href=\"%1$s\">Obavještenje o kupnji unutar aplikacije&lt;/a>.&lt;br>Povrat novca je dostupan &lt;xliff:g id=time>%2$d&lt;/xliff:g> sata nakon izvršenja plaćanja.&lt;/Data></item>
+     </plurals>
+     <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">Narudžba je završena prije više od %d sati. Pošaljite nam e-poštu.</item>
+        <item quantity="one">Narudžba je završena prije više od %d sat. Pošaljite nam e-poštu.</item>
+        <item quantity="few">Narudžba je završena prije više od %d sata. Pošaljite nam e-poštu.</item>
+     </plurals>
+     <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">Dobit ćete novčiće natrag za %d sati.</item>
+        <item quantity="one">Dobit ćete novčiće natrag za %d sat.</item>
+        <item quantity="few">Dobit ćete novčiće natrag za %d sata.</item>
+     </plurals>
+     <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">Uspješno preuzeto %1$s fontova</item>
+        <item quantity="one">Uspješno preuzet %1$s font</item>
+        <item quantity="few">Uspješno preuzeta %1$s fonta</item>
+     </plurals>
+     <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">Uspješno preuzeto %1$s tema</item>
+        <item quantity="one">Uspješno preuzeta %1$s tema</item>
+        <item quantity="few">Uspješno preuzete %1$s teme</item>
+     </plurals>
 </resources>

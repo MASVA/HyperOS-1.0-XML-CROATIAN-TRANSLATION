@@ -175,6 +175,11 @@
         <item>- Trebate uključiti Besplatno slušanje za korištenje ove usluge, inače vam vaš operater može naplatiti troškove dok ste u roamingu.</item>
         <item>- Služba za podršku: YunZhiXun, RonLianYunTongXun, LTSC</item>
     </string-array>
+	 <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Globalno</item>
+        <item>LTE/CDMA</item>
+        <item>LTE/GSM/UMTS</item>
+    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Ništa</item>
         <item>480 p</item>

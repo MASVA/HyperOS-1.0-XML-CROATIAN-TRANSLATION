@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="drm_consume_interval">Ova datoteka bit će dostupna u roku %1$ od početka korištenja.</string>
+    <string name="drm_effective_duration">Efektivno trajanje:</string>
+    <string name="drm_expire_dialog_future">Period valjanosti:</string>
+    <string name="drm_first_time_use">Ovo je prva upotreba.</string>
+    <string name="drm_use_now">Želite upotrijebiti odmah?</string>
+    <string name="validity_period">Vrijedi do:</string>
     <string name="Default_Account_Selection_Content">Odabir zadanog računa</string>
     <string name="MMRejectCause13">Samo SOS/hitni pozivi</string>
     <string name="MMRejectCause2">SIM nije rezerviran MM #2</string>
