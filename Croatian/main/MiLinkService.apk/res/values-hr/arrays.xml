@@ -26,6 +26,10 @@
         <item>Z</item>
         <item>\#</item>
      </string-array>
+	 <string-array name="passport_account_user_gender_name">
+        <item>Muškarac</item>
+        <item>Žena</item>
+    </string-array>
      <string-array name="settings_search_connect_car">
          <item>Kombinirajte aplikacije</item>
          <item>Međusobno povezivanje/kombiniranje aplikacija</item>

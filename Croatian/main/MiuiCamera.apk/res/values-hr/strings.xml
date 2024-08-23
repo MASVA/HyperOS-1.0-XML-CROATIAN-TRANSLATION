@@ -872,7 +872,7 @@ Preporučujemo povezivanje na %s GHz Wi-Fi mreže koje podržavaju standard šes
   <string name="custom_tint_color_sky_cyan">Cijan</string>
   <string name="custom_watermark_contains_senstive_words">"Potpis ne može sadržavati ograničene pojmove (%1$s)"</string>
   <string name="custom_watermark_tips">Ovaj će se tekst pojaviti kao drugi redak vašeg potpisa. Može sadržavati do 18 slova ili 14 kineskih znakova.</string>
-  <string name="custom_watermark_tips_gen2" formatted="false">Do %d kineskih znakova ili %d slova.</string>
+  <string name="custom_watermark_tips_gen2">Do %d kineskih znakova ili %d slova.</string>
   <string name="custom_watermark_too_many_words">Uneseni tekst je predugačak</string>
   <string name="custom_watermark_words">Vlastiti potpis</string>
   <string name="custom_watermark_words_input_hint">Unesite tekst</string>

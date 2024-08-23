@@ -4,7 +4,7 @@
         <item quantity="other">prije 1 sat</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">prije %d sat</item>
+        <item quantity="other">prije 1 sat</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Prije pola sata</item>

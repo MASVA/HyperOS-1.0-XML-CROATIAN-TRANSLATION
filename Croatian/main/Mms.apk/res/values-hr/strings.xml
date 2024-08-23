@@ -800,7 +800,7 @@ Odlazna SMS poruka potrebna je za aktiviranje Mi Poruka. Vaš mobilni operater n
 	 <string name="phrase_confirm_delete_message">Odabrani izraz bit će izbrisan</string>
 	 <string name="phrase_empty">Nema izraza</string>
 	 <string name="phrase_from">Šalje %1s</string>
-	 <string name="phrase_list_title" formatted="false">Izraza (%1$d)</string>
+	 <string name="phrase_list_title">Izrazi</string>
 	 <string name="pick_original_photo_hint">Originalna slika (%1$s)</string>
 	 <string name="pick_original_video_hint">Originalni videozapis (%1$s)</string>
 	 <string name="pick_picture_size">Odaberite veličinu slike</string>
