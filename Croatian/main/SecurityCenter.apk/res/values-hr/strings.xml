@@ -1554,6 +1554,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="continue_set">Nastavi</string>
   <string name="convenient_mode">Otključaj sve aplikacije odjednom</string>
   <string name="convenient_summary">Unesite zaporku jednom za otključavanje svih aplikacija</string>
+  <string name="conversation_phone_title">Pozivni alati</string>
   <string name="conversation_settings_top">"·Izvucite traku s alatima konferencije tijekom audio i video poziva preko cijelog zaslona kako biste pristupili njezinim značajkama.
 ·Vrsta i broj značajki ovisi o modelu uređaja."</string>
   <string name="conversation_sider_tips">Koristite nove konferencijske alate za najbolje iskustvo poziva</string>
@@ -1578,14 +1579,14 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="create_gamebooster_destop">Prečac Početnog zaslona uspješno napravljen</string>
   <string name="create_shortcut">Izradi prečac Početnog zaslona za Game Turbo</string>
   <string name="cs_close_vt_camera_first_tips">"Ne mogu koristiti ovu značajku dok koristite kameru na različitim uređajima"</string>
-  <string name="cs_color_sense">Temperatura boje</string>
+  <string name="cs_color_sense">Toplina boje</string>
   <string name="cs_conversation_record_using">Snimanje</string>
   <string name="cs_func_toast_bluetooth_headset">Odspojite Bluetooth slušalice da biste mogli koristiti ovu značajku</string>
   <string name="cs_func_toast_headset">Odspojite svoje slušalice da biste mogli koristiti ovu značajku</string>
   <string name="cs_func_toast_light">Prebacite se na prednju kameru da biste mogli koristiti ovu značajku</string>
   <string name="cs_func_toast_pickup">Prebacite se na videopoziv da biste mogli koristiti ovu značajku</string>
   <string name="cs_func_unavailable_tips">Koristite ovu značajku tijekom poziva</string>
-  <string name="cs_light_enhance_physical_options">Temperatura boje</string>
+  <string name="cs_light_enhance_physical_options">Toplina boje</string>
   <string name="cs_light_enhance_physical_title">Svjetlina</string>
   <string name="cs_open_camera_first_tips">Otvorite kameru za korištenje ove značajke</string>
   <string name="cs_pickup_denoise_desc">Smanjite šum dolaznog zvuka dok koristite zvučnike ili slušalice</string>
@@ -1603,6 +1604,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="cs_pickup_voice_print_desc">Primite zvuk samo od jedne osobe</string>
   <string name="cs_privacy_camera_global_settings_title">Privatnost poziva</string>
   <string name="cs_screen_translation_title">Prijevod zaslona</string>
+  <string name="cs_simultaneous_interpretation_title">Prevedi</string>
   <string name="cs_title_pickup">Smanjenje buke</string>
   <string name="cs_title_smart_subtitle">Transkripcija podnaslova</string>
   <string name="cs_title_ultraclear">Ultra HD način</string>
@@ -2961,6 +2963,7 @@ vašeg igranja"</string>
   <string name="get_phone_num_fail">Nepoznati broj telefona</string>
   <string name="get_sys_info">Dobivanje informacija…</string>
   <string name="gigabyteShort">GB</string>
+  <string name="global_dock_guide_desc_pad">Pritisnite i držite indikator za pomicanje prozora</string>
   <string name="global_dock_guide_desc_with_split_screen">"· Dodirnite aplikaciju na bočnoj traci da je otvorite u plutajućem prozoru.
 · Povucite aplikaciju u središte zaslona kako biste je otvorili u plutajućem prozoru ili na stranu za korištenje podijeljenog zaslona.
 · Pritisnite i držite indikator za pomicanje prozora."</string>
@@ -4241,6 +4244,7 @@ Ova aktivnost skraćuje trajanje baterije."</string>
   <string name="pc_battery_history_total_consumption_title">Ukupna potrošnja energije</string>
   <string name="pc_battery_history_usetime_title">Aktivno</string>
   <string name="pc_battery_low_health_reminder">"Vrijeme je da zamijenite bateriju"</string>
+  <string name="pc_battery_replacement_service_title">Probajte našu uslugu zamjene baterije. %1$s originalni hardware sa %2$s-dnevnom garancijom.</string>
   <string name="pc_berserk_mode_dialog_title">Uključi Ultimativni način</string>
   <string name="pc_berserk_mode_noti_summary">Ultimativni način može povećati potrošnju energije i dovesti do problema s pregrijavanjem</string>
   <string name="pc_berserk_mode_performance_title">Ultimativni način</string>

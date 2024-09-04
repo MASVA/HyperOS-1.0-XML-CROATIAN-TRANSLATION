@@ -37,7 +37,7 @@
   <string name="act_find_city_hint">Unesite grad</string>
   <string name="act_find_city_hot_attractions_title">Popularni gradovi</string>
   <string name="act_find_city_hot_city_title">Popularni gradovi</string>
-  <string name="act_find_city_location_button_text">Dohvati trenutnu lokaciju</string>
+  <string name="act_find_city_location_button_text">Dobivanje lokacije</string>
   <string name="act_find_city_location_title">Trenutna lokacija</string>
   <string name="act_find_city_hot_title">Dodaj</string>
   <string name="act_location_error_to_find_city">"Ne mogu dobiti podatke o lokaciji. Možete dodati lokaciju ručno."</string>
@@ -541,6 +541,7 @@ Dodirnite zaslon za ručno dodavanje ili promjenu položaja grada"</string>
   <string name="size_peta_byte">PB</string>
   <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
+  <string name="some_where_on_earth">Negdje na Zemlji</string>
   <string name="suggestion_for_blizzard">Utoplite se i putujte sigurno</string>
   <string name="suggestion_for_cloudy">Oblačno nebo savršeno je za selfije</string>
   <string name="suggestion_for_daxue">Ceste mogu biti blokirane</string>

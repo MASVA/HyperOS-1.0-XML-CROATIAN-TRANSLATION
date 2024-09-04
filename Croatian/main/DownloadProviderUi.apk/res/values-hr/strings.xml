@@ -226,6 +226,9 @@
   <string name="month_september_short">Ruj</string>
   <string name="month_september_shortest">R</string>
   <string name="more">Više</string>
+  <string name="native_body">Glavni tekst</string>
+  <string name="native_headline">Naslov</string>
+  <string name="native_media_view">Medijski prikaz</string>
   <string name="network_error">"Ne mogu se povezati na mrežu"</string>
   <string name="new_add">Novo preuzimanje</string>
   <string name="new_add_bt2">Dodaj torrent zadatak</string>

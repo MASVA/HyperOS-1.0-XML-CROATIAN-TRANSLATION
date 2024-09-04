@@ -48,6 +48,8 @@
   <string name="helper_summary_nearby_device_streaming">%1$s traži dopuštenje u ime vašeg %2$s za strujanje aplikacija i drugih značajki sustava na uređaje u blizini</string>
   <string name="helper_title_app_streaming">Usluge na različitim uređajima</string>
   <string name="helper_title_computer">Google Play usluge</string>
+  <string name="permission_apps">Aplikacije</string>
+  <string name="permission_apps_summary">Streaming aplikacija vašeg telefona</string>
   <string name="permission_app_streaming">Aplikacije</string>
   <string name="permission_app_streaming_summary">Streaming aplikacija vašeg telefona</string>
   <string name="permission_calendar">Kalendar</string>
@@ -89,4 +91,5 @@
   <string name="title_computer">Dopustite &lt;strong>%1$s&lt;/strong> pristup ovim podacima s vašeg telefona</string>
   <string name="title_nearby_device_streaming">Dopustiti &lt;strong>%1$s&lt;/strong> da poduzme ovu radnju?</string>
   <string name="vendor_header_button_description">Više informacija</string>
+  <string name="vendor_icon_description">Ikona aplikacije</string>
 </resources>

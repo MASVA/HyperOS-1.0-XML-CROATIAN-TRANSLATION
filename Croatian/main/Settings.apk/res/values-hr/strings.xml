@@ -13652,7 +13652,7 @@ Prenesite samo važne stavke."</string>
   <string name="usb_format_summary">Briše sve podatke na USB memoriji, kao što su glazba i fotografije</string>
   <string name="usb_headset_not_support_cancel">Razumijem</string>
   <string name="usb_headset_not_support_message">"Zvuk se ne može reproducirati putem adaptera. Koristite digitalne slušalice
-ili slušalice s 3,5 mm utikačem"</string>
+ili slušalice s 3,5 mm priključkom"</string>
   <string name="usb_headset_not_support_tile">"Ne mogu reproducirati zvuk"</string>
   <string name="usb_host_mode_subtext">Korištenje igraćih kontrolera i ostalih perifernih uređaja na USB priključku, može potrošiti više energije</string>
   <string name="usb_host_mode_text">Način USB domaćina</string>
@@ -13663,7 +13663,7 @@ ili slušalice s 3,5 mm utikačem"</string>
   <string name="usb_media_format_button_text">Izbriši USB memoriju</string>
   <string name="usb_media_format_desc">Izbrisati USB memoriju? Izgubiti će te <b>all</b> sve podatke s memorije!</string>
   <string name="usb_media_format_final_desc">"Sve datoteke pohranjene na USB memoriji će se trajno izbrisati"</string>
-  <string name="usb_media_format_gesture_explanation">Morate nacrtati svoj uzorak za otključavanje da potvrdite brisanje USB memorije.</string>
+  <string name="usb_media_format_gesture_explanation">Morate iscrtati svoj uzorak za otključavanje da potvrdite brisanje USB memorije.</string>
   <string name="usb_media_format_summary">Briše sve podatke na USB memoriji</string>
   <string name="usb_media_format_title">Izbriši USB memoriju</string>
   <string name="usb_midi_summary">Omogućuje aplikacijama omogućenima za MIDI rad putem USB-a uz MIDI softver na računalu.</string>

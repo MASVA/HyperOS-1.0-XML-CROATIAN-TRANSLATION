@@ -103,6 +103,8 @@ aplikacije da biste je zatvorili"</string>
   <string name="freeform_guide_multiple_window_settings_summary">Možete otvoriti nove prozore u podržanim aplikacijama tako da dodirnete akcijsku traku</string>
   <string name="freeform_guide_multiple_window_summary">"Pritisnite i držite ikonu aplikacije na docku za otvaranje novog prozora.
 *Ova značajka radi s bilješkama, poštom, preglednikom i WPS-om."</string>
+  <string name="freeform_guide_multiple_window_summary_no_wps">"Pritisnite i držite ikonu aplikacije na docku za otvaranje novog prozora.
+*Ova značajka radi s bilješkama, poštom i preglednikom."</string>
   <string name="freeform_guide_multiple_window_title">Otvaranje više prozora</string>
   <string name="freeform_guide_notification_drop_down_summary">Pritisnite i držite, a zatim povucite traku s radnjama obavijesti prema dolje</string>
   <string name="freeform_guide_notification_drop_down_title">Otvaranje plutajućih prozora</string>

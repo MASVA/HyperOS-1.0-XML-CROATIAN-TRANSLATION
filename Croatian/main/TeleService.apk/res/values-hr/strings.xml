@@ -354,6 +354,8 @@ Ako je to dopuštenje isključeno, postojeći alarmi i događaji zakazani putem 
   <string name="available_via_carrier">Dostupno putem %1$s</string>
   <string name="available_via_passpoint">Dostupno putem %1$s</string>
   <string name="back">Natrag</string>
+  <string name="backup_calling_setting_summary">Ako usluga %1$s nije dostupna ili je u roamingu, za pozive putem usluge %1$s koristite SIM za mob. podatke.</string>
+  <string name="backup_calling_settings_title">Rezervni način telefoniranja</string>
   <string name="badPin">Stari PIN koji ste unijeli nije točan. Pokušajte ponovo.</string>
   <string name="badPin2">Stari PIN2 koji ste unijeli nije točan. Pokušajte ponovo.</string>
   <string name="badPuk2">PUK2 koji ste unijeli nije točan. Pokušajte ponovo.</string>
@@ -483,6 +485,7 @@ Audio"</string>
   <string name="bluetooth_talkback_imaging">Snimanje</string>
   <string name="bluetooth_talkback_input_peripheral">Periferni uređaj za unos</string>
   <string name="bluetooth_talkback_phone">Telefon</string>
+  <string name="billing_cycle_title">Upozorenje o potrošnji i ograničenje</string>
   <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
   <string name="bt_hci_snoop_log">Zapisi za Bluetooth HCI</string>
   <string name="bt_hci_snoop_log_summary">Dohvati Bluetooth pakete. (Uključi Bluetooth nakon promjene ove postavke)</string>
@@ -910,6 +913,16 @@ Audio"</string>
   <string name="contactUpdateSuccess">Kontakt ažuriran na SIM kartici</string>
   <string name="contactdeleteFailed">"Ne mogu izbrisati kontakt na SIM kartici"</string>
   <string name="contactdeleteSuccess">Kontakt izbrisan sa SIM kartice</string>
+  <string name="contact_discovery_opt_in_dialog_message">"Telefonski brojevi vaših kontakata periodički će se slati mobilnom operateru %1$s.
+
+Na temelju tih podataka utvrđuje se mogu li vaši kontakti upotrebljavati određene značajke, na primjer videopozive ili neke značajke slanja poruka."</string>
+  <string name="contact_discovery_opt_in_dialog_message_no_carrier_defined">"Telefonski brojevi vaših kontakata periodički će se slati vašem mobilnom operateru.
+
+Na temelju tih podataka utvrđuje se mogu li vaši kontakti upotrebljavati određene značajke, na primjer videopozive ili neke značajke slanja poruka."</string>
+  <string name="contact_discovery_opt_in_dialog_title">Slati kontakte mobilnom operateru %1$s?</string>
+  <string name="contact_discovery_opt_in_dialog_title_no_carrier_defined">Slati kontakte mobilnom operateru?</string>
+  <string name="contact_discovery_opt_in_summary">Slanje telefonskih brojeva kontakata radi pružanja poboljšanih značajki</string>
+  <string name="contact_discovery_opt_in_title">Slanje kontakata mobilnom operateru</string>
   <string name="content_description_menu_button">Izbornik</string>
   <string name="convert_to_fbe_warning">"Pretvorite podatkovnu particiju u enkripciju datoteka.
  Upozorenje! Time će se izbrisati svi vaši podaci.
@@ -927,6 +940,7 @@ Audio"</string>
   <string name="crescendo_ringer_summary">Glasnoća zvuka zvona postupno će rasti do razine koju ste postavili</string>
   <string name="crescendo_ringer_title">Povećavanje glasnoće zvona</string>
   <string name="ct_ut_not_support_close_4glte">UT nije dostupan, isključie Napredni 4G LTE način u Postavkama</string>
+  <string name="ctvolte_unavailable_message">%s VoLTE usluga nije dostupna. Usluga poziva ne može raditi ako je VoLTE uključen.</string>
   <string name="cursorError">Pokazivač ne daje odgovarajuće podatke</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalija (crveno – zeleno)</string>
   <string name="daltonizer_mode_disabled">Onemogućeno</string>
@@ -939,6 +953,9 @@ Audio"</string>
   <string name="data_disable_warning_with_mms_lgu">"I dalje ćete moći slati i primati MMS ako isključite mobilne podatke (WCDMA/LTE). Za korištenje interneta povežite se na Wi-Fi.
 
 Isključiti mobilne podatke?"</string>
+  <string name="data_during_calls_prompt">Kada je pozivu nepodatkovna SIM kartica, koristit će se za podatkovne usluge. To će dovesti do dodatne potrošnje podataka SIM kartice.</string>
+  <string name="data_during_calls_summary">Dopusti da se ovaj SIM koristi za mobilne podatke samo tijekom poziva</string>
+  <string name="data_during_calls_title">Podaci tijekom poziva</string>
   <string name="data_enable_always_warn">Koristiti mobilne podatke?</string>
   <string name="data_enable_summary">Dopusti upotrebu podataka</string>
   <string name="data_enable_warning">Dopuštanje da se uvijek koristi mobilni podaci može stvoriti dodatne troškove izvan vašeg mobilnog plana. Povezati se svejedno?</string>
@@ -1185,6 +1202,10 @@ Svejedno deaktivirati eSIM?"</string>
   <string name="enable_2g_dialog_warn_message">"Ako isključite 2G i nalazite se u području gdje je 2G jedina dostupna mreža, nećete moći upućivati hitne niti one koji nisu hitni pozivi. Svejedno isključiti?"</string>
   <string name="enable_2g_summary">2G mreže su manje sigurne, ali mogu poboljšati kvalitetu veze na nekim lokacijama</string>
   <string name="enable_2g_title">Dopusti korištenje 2G</string>
+  <string name="enable_4g_data_summary">4G može omogućiti bolji i brži pristup internetu.</string>
+  <string name="enable_4g_data_title">Omogući 4G podatke</string>
+  <string name="enhanced_4g_lte_mode_ct_summary">Vaš mobilni operator mora aktivirati VoLTE uslugu prije nego uključite ovaj izbornik, u protivnom će to štetno utjecati na funkcije normalnih poziva</string>
+  <string name="enhanced_4g_lte_mode_ct_title">VoLTE pozivi</string>
   <string name="enable_adb">Otklanjanje pogrešaka putem USB-a</string>
   <string name="enable_adb_summary">Otklanjanje pogrešaka s priključenim USB-om</string>
   <string name="enable_adb_wireless">Bežično otklanjanje pogrešaka</string>
@@ -1289,6 +1310,10 @@ Ipak aktivirati eSIM?"</string>
   <string name="esim_inactive_notification_title_global">Dvostruki SIM &amp; mobilne mreže</string>
   <string name="esim_inactive_settings_title">Dvostruki SIM &amp; mobilne mreže</string>
   <string name="esim_is_activating_notification_message_for_o2">Aktiviranje mobilnog plana…</string>
+  <string name="esim_msim_info_editor_name">Uredi naziv eSIM kartice</string>
+  <string name="esim_msim_info_editor_number">Uredi broj eSIM kartice</string>
+  <string name="esim_msim_setting_categery_title">Postavke eSIM kartice</string>
+  <string name="esim_msim_setting_sim_info_editor_title">Uredite informacije o eSIM kartici</string>
   <string name="esim_setting_title">Postavke eSIM-a</string>
   <string name="exception_error">Pogreška mreže ili SIM kartice.</string>
   <string name="expand_button_title">Napredno</string>
@@ -1864,6 +1889,8 @@ Uvijek koristi ovaj broj"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Ne mogu učitati stavke"</string>
   <string name="mmiCancelled">Otkazan je MMI kôd</string>
   <string name="mmiStarted">Pokrenut je MMI kôd</string>
+  <string name="mms_message_summary">Slanje i primanje dok su mobilni podaci isključeni</string>
+  <string name="mms_message_title">MMS poruke</string>
   <string name="mo_call_type_title">MO Vrsta Poziva</string>
   <string name="mobile_advanced_dns_server_title">Adresa DNS poslužitelja</string>
   <string name="mobile_advanced_ip_address_title">IP Adresa</string>
@@ -2197,6 +2224,8 @@ Kontaktirajte vašeg operatera."</string>
   <string name="notification_voicemail_text_format">Biraj %s</string>
   <string name="notification_voicemail_title">Nova govorna pošta</string>
   <string name="notification_voicemail_title_count">Nova govorna pošta (%d)</string>
+  <string name="nr_advanced_calling_summary">Korištenje 5G za glasovne pozive</string>
+  <string name="nr_advanced_calling_title">Vo5G</string>
   <string name="nr_network_info">Podaci o korištenju 5G mreže</string>
   <string name="nr_usaged_first_used_time">Registriran u 5G mreži</string>
   <string name="nr_usaged_module">Model uređaja</string>
@@ -2417,6 +2446,9 @@ Vaš telefon će se automatski zaključati nakon još jednog neuspjelog pokušaj
   <string name="please_connect_network_title">Nema mreže</string>
   <string name="please_enter_phone_number">Unesite broj telefona</string>
   <string name="please_login_mi_accout">Prijavite se</string>
+  <string name="plmn_network_id">ID mreže</string>
+  <string name="plmn_network_type">Vrsta mreže</string>
+  <string name="plmn_settings">Željene mreže</string>
   <string name="pocket_mode_summary">Automatski zaključaj kada se stavi u džep</string>
   <string name="pocket_mode_title">Spriječite džepna biranja</string>
   <string name="pointer_location">Mjesto pokazivača</string>
@@ -3151,6 +3183,7 @@ Potvrdite zadanu postavku računa za pozivanje."</string>
   <string name="switch_dds_to_sub_alert">Postavi ovu karticu kao zadanu podatkovnu karticu.</string>
   <string name="switch_dds_to_sub_alert_msg">Prebacite mobilne podatke na CT SIM</string>
   <string name="switch_debug_menu">Dodatne mrežne postavke</string>
+  <string name="switch_not_in_use_string">Promjena je privremeno nedostupna. Pokušajte ponovno kasnije.</string>
   <string name="switch_off">Isključi</string>
   <string name="switch_on">Uključi</string>
   <string name="system_visual_voicemail_client"/>
