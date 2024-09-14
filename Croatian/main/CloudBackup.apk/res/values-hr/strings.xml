@@ -154,7 +154,7 @@ Napomena: Podaci aplikacija koje ste instalirali neće biti spremljene na Xiaomi
   <string name="cloud_backup_detail_manage">Upravljanje sigurnosnim kopijama</string>
   <string name="cloud_backup_detail_no_time">Nema Sig. kopija</string>
   <string name="cloud_backup_detail_state">Automatske Sig. kopije</string>
-  <string name="cloud_backup_detail_state_summary">Automatski kreirajte Sig. kopije Xiaomi Clouda kada ste povezani na Wi-Fi.</string>
+  <string name="cloud_backup_detail_state_summary">Uređaj mora biti povezan na Wi-Fi, imati bateriju od najmanje %s i isključen zaslon.</string>
   <string name="cloud_backup_detail_state_summary_china">Uređaj mora biti povezan na Wi-Fi, puniti se i zaključan</string>
   <string name="cloud_backup_detail_time">Posljednja sigurnosna kopija: %1$s</string>
   <string name="cloud_backup_detail_title">Sigurnosno kopirajte stavke</string>

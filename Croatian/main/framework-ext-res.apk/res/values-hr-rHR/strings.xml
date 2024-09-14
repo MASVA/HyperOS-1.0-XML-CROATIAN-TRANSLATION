@@ -651,10 +651,11 @@ biste koristili prednju kameru</string>
   <string name="voice_assist">Mi AI</string>
   <string name="voice_assistant_tips">Nadograđeno na duži pritisak na tipke Power za uključivanje glasovnog asistenta</string>
   <string name="voice_begin">Što tražite?</string>
-  <string name="voice_button_action_down">Otpusti za traženje</string>
+  <string name="voice_button_action_down">Otpustite za traženje</string>
   <string name="voice_button_action_up">Pritisni za pričanje</string>
   <string name="voice_input_error_network">"Ne mogu se povezati na mrežu. Provjerite mrežne postavke i pokušajte ponovno."</string>
   <string name="voice_input_error_other">Dogodila se pogreška. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+  <string name="wallpaper_Fragrant_title">Cvijet</string>
   <string name="wallpaper_floral_arrangement_title">Cvjetni aranžman</string>
   <string name="wallpaper_gradient_title">Gradient</string>
   <string name="wallpaper_geometrically_irregular_title">Apstraktna geometrija</string>

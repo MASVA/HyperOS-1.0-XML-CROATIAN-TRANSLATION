@@ -952,6 +952,7 @@ Pošaljite ovaj kod nadzorniku."</string>
   <string name="drop_success">Uspješno spremljeno</string>
   <string name="dump_db_info">Informacije iz baze podataka</string>
   <string name="edit_baby_info">Pregled informacija o djetetu</string>
+  <string name="edit_file_not_exits_tip">Preuzmite izvornu datoteku i pokušajte ponovno</string>
   <string name="edit_subtitle_enter">Uređivanje titlova</string>
   <string name="editor_cancel">Odustani</string>
   <string name="editor_export">Spremi</string>
@@ -1326,6 +1327,7 @@ za fotografije"</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_cloud_action_upgrade_onedrive">Nadogradite OneDrive</string>
   <string name="global_cloud_full_space_tip_message">Nadogradite svoj plan pohrane da biste mogli sigurnosno kopirati sve svoje fotografije i videozapise u cloud.</string>
+  <string name="global_help">"Ne mogu pronaći uređaj"</string>
   <string name="global_pad">Moj tablet</string>
   <string name="global_pc">Moj laptop</string>
   <string name="global_phone">Moj telefon</string>
@@ -1341,7 +1343,7 @@ za fotografije"</string>
   <string name="google_banner_upgrade_left_btn_text">Prikaz pojedinosti</string>
   <string name="google_banner_upgrade_right_btn_get_storage">Nabavite pohranu</string>
   <string name="google_banner_upgrade_right_btn_text">Kupite pohranu</string>
-  <string name="google_banner_upgrade_space_low_des">"Uskoro nećete moći sigurnosno kopirati nove fotografije i videozapise"</string>
+  <string name="google_banner_upgrade_space_low_des">"Galerija ne može sigurnosno kopirati vaše fotografije i videozapise kada vam ponestane prostora za pohranu"</string>
   <string name="google_banner_upgrade_space_low_title">Vaša pohrana je %s puna</string>
   <string name="google_banner_upgrade_title">Pohrana u cloudu je puna</string>
   <string name="google_open_backup_error">"Nije moguće povezivanje s Google fotografijama"</string>
@@ -1394,6 +1396,7 @@ da radi normalno, dodirnite \"Postavi\" za ići u Dopuštenja."</string>
   <string name="home_menu_camera">Prikaži samo stavke Kamere</string>
   <string name="home_menu_cleaner">Oslobodite prostor</string>
   <string name="home_menu_collage">Kolaž</string>
+  <string name="home_menu_composite_video">Izradi video</string>
   <string name="home_menu_id_photo">ID</string>
   <string name="home_menu_macarons">Čarobna vinjeta</string>
   <string name="home_menu_magic_matting">Izrezivanje</string>
@@ -1840,6 +1843,8 @@ da osobno prilagodite Galeriju"</string>
   <string name="mosaic_item_talkback_eraser">Gumica</string>
   <string name="motion_photo_enter"/>
   <string name="motion_photo_play">Reproduciraj</string>
+  <string name="motorola">Motorola</string>
+  <string name="motorola_phone">Motorola telefon</string>
   <string name="move_to_other_albums_tip">Premjestiti ovaj album u \"Drugi albumi\"?</string>
   <string name="move_to_rubbish_albums_tip">Premjestiti odabrane albume u smeće?</string>
   <string name="movie_add_disable">Možete odabrati do %d fotografija</string>
@@ -2010,6 +2015,8 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="operation_edit">Uredi</string>
   <string name="operation_edit_video">Uredi</string>
   <string name="operation_enable_auto_upload">Uključi sinkronizaciju s Xiaomi Cloudom</string>
+  <string name="operation_export_GIF">Izvezi kao GIF</string>
+  <string name="operation_export_video">Izvezi kao video</string>
   <string name="operation_failed">"Ne mogu dovršiti radnju"</string>
   <string name="operation_favorites">Favoriti</string>
   <string name="operation_force_top">Zakači</string>
@@ -2664,7 +2671,7 @@ Transkodiranje može potrajati neko vrijeme kada ovu značajku koristite prvi pu
   <string name="scan_qr_code">Skenirajte QR kod</string>
   <string name="scan_qr_code_buttom_text">Skeniraj QR kod za pregled ovog albuma</string>
   <string name="scan_qr_to_accept_invitation">Skenirajte QR kod da prihvatite pozivnicu</string>
-  <string name="scanning_device_tips">Traženje uređaja u blizini… Provjerite nalazi li se drugi uređaj u načinu otkrivanja.</string>
+  <string name="scanning_device_tips"><Data>Traženje uređaja u blizini. Druga osoba treba uključiti Xiaomi Share u Centru za kontrolu. &lt;a>Saznajte više&lt;/a></Data></string>
   <string name="scope_storage_dialog_cancel_btn">Odustani</string>
   <string name="scope_storage_dialog_confirm_btn">Dalje</string>
   <string name="scope_storage_dialog_description">Ažurirana su dopuštenja za galeriju. Dopustite Galeriji pristup ovoj mapi kako biste mogli vidjeti njezin sadržaj.</string>

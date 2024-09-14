@@ -1321,6 +1321,7 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="button_text_let_me_select">Razumijem</string>
   <string name="button_text_next_step">Dalje</string>
   <string name="button_text_next_step_timer">Dalje (%d)</string>
+  <string name="button_text_once_accept">Dopusti jednom</string>
   <string name="button_text_open_now">Otvori</string>
   <string name="button_text_quick_clean">Optimiziraj</string>
   <string name="button_text_reject">Odbij</string>

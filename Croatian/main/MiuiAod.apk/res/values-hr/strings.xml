@@ -412,7 +412,7 @@ mm"</string>
   <string name="mtrl_picker_date_header_selected">%1$s</string>
   <string name="mtrl_picker_date_header_title">Odaberite datum</string>
   <string name="mtrl_picker_date_header_unselected">Odaberite datum</string>
-  <string name="mtrl_picker_day_of_week_column_header">Kolona dana: %1$s</string>
+  <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
   <string name="mtrl_picker_end_date_description">Datum završetka %1$s</string>
   <string name="mtrl_picker_invalid_format">Pogrešan format.</string>
   <string name="mtrl_picker_invalid_format_example">Primjer: %1$s</string>
@@ -521,6 +521,7 @@ mm"</string>
 dd.MM."</string>
   <string name="super_wallpaper_date_inter">"EEEE
 dd.MM."</string>
+  <string name="talkback_invert_color">Okreni boje</string>
   <string name="temperature_unit">°</string>
   <string name="temporary_style">10 sekundi nakon dodira</string>
   <string name="temporary_style_5">5 sekundi nakon dodira</string>
@@ -541,15 +542,15 @@ dd.MM."</string>
   <string name="time_style_layout">Raspored</string>
   <string name="tiny_accessibility_kg_battery_level">Baterija</string>
   <string name="tiny_camera_content_description">Kamera</string>
-  <string name="tiny_classic_date_format">d.M EEE</string>
+  <string name="tiny_classic_date_format">d.M. EEE</string>
   <string name="tiny_clock_time_format_12">hh:mm</string>
   <string name="tiny_clock_time_format_24">HH:mm</string>
   <string name="tiny_doodle_clock_date">dd MMMM</string>
   <string name="tiny_doodle_clock_week_full">EEEE</string>
-  <string name="tiny_pets_date_format">d.M</string>
+  <string name="tiny_pets_date_format">d.M.</string>
   <string name="tiny_pets_week_format">EE</string>
-  <string name="tiny_splicing_date_content_description">d.M</string>
-  <string name="tiny_splicing_date_format">d.M</string>
+  <string name="tiny_splicing_date_content_description">d.M.</string>
+  <string name="tiny_splicing_date_format">d.M.</string>
   <string name="tiny_splicing_week_format">EE</string>
   <string name="tip_to_open_aod_mode">Always-on zaslon je isključen. Uključiti ga sada?</string>
   <string name="today">Danas</string>

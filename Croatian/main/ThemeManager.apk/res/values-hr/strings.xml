@@ -620,6 +620,7 @@ Dodirnite za isključivanje."</string>
   <string name="lockstyle_personal_settings">Prilagođeno</string>
   <string name="login_theme">Prijavite se u Teme</string>
   <string name="long_click_can_hide_resource">Pritisnite i držite za skrivanje stavki</string>
+  <string name="loop_video_wallpaper">Petlja dinamičkih pozadina</string>
   <string name="material_clock_toggle_content_description">Odaberite prijepodne ili poslijepodne</string>
   <string name="material_hour_selection">Odaberite sat</string>
   <string name="material_hour_suffix">%1$s h</string>

@@ -265,7 +265,7 @@
 	 <string name="edit_event_reminder_3_days_before_time">Također podsjeti %d dana ranije</string>
     <string name="edit_event_reminder_summary">Na taj dan u %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d dana ranije i na taj dan u %1$s</string>
-	 <string name="edit_event_reminder_summary_3_days_before_today">%1$d dana ranije i na taj dan u %1$s</string>
+	 <string name="edit_event_reminder_summary_3_days_before_today">%2$d dana ranije i na taj dan u %1$s</string>
     <string name="edit_event_reminder_text">Dana %1$s u %2$s</string>
     <string name="edit_event_reminder_time">Vrijeme podsjetnika</string>
     <string name="edit_event_reminder_with_another_day_text">Dana %1$s, %2$s u %3$s</string>
