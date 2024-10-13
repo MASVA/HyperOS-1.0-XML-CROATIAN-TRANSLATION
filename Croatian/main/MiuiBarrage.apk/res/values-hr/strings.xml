@@ -28,6 +28,8 @@
   <string name="abc_shareactionprovider_share_with_application">Dijeli putem aplikacije %s</string>
   <string name="abc_toolbar_collapse_description">Sažmi</string>
   <string name="barrage_app_name">Obavijest na zaslonu s grafičkim oznakama</string>
+  <string name="barrage_float_reply_title">Otvori</string>
+  <string name="barrage_float_reply_title2">Odgovori</string>
   <string name="game_assistant">Gamer Studio</string>
   <string name="game_space">Shark Space</string>
  <string name="search_menu_title">Traži</string>

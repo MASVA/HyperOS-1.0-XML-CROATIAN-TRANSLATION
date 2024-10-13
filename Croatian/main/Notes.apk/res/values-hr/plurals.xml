@@ -33,6 +33,10 @@
         <item quantity="other">Izbrisati stavke: %1$s?</item>
         <item quantity="one">Izbrisati %1$s stavku?</item>
     </plurals>
+	  <plurals name="ai_content_exceeded_warn">
+        <item quantity="other">"Sadržaj ove bilješke premašuje ograničenja AI obrade. Unesite do %1$s znakova i pokušajte ponovno."</item>
+        <item quantity="one">"Sadržaj ove bilješke premašuje ograničenja AI obrade. Unesite do %1$s znak i pokušajte ponovno."</item>
+    </plurals>
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s sati %2$s"</item>
         <item quantity="one">" %1$s sat %2$s"</item>
@@ -44,6 +48,10 @@
     <plurals name="count_selected">
         <item quantity="other">Odabrano: %d</item>
         <item quantity="one">Odabrano: %d</item>
+    </plurals>
+	  <plurals name="corrected_title">
+        <item quantity="other">%1$s ispravaka</item>
+        <item quantity="one">%1$s isprvaka</item>
     </plurals>
     <plurals name="date_calculate_days_after">
         <item quantity="other">%1$d dana kasnije</item>

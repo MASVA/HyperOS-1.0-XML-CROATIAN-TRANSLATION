@@ -60,4 +60,8 @@
         <item quantity="other">prije %d min</item>
         <item quantity="one">prije 1 minutu</item>
     </plurals>
+	 <plurals name="showStatusBar_executeHabit_count">
+        <item quantity="other">Izvršeno %d uzoraka</item>
+        <item quantity="one">Izvršen %d uzorak</item>
+     </plurals>
 </resources>

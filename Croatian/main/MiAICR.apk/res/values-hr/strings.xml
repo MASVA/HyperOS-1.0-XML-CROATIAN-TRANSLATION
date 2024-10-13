@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="AI_diwbkiad_dekete_model">Izbriši model</string>
+  <string name="AI_download_delete_message">"Ako izbrišete model Mi AI Image Creator, više nećete moći koristiti njegove značajke. Svejedno izbrisati?"</string>
+  <string name="AI_download_delete_neg">Odustani</string>
+  <string name="AI_download_delete_pos">Izbriši</string>
+  <string name="AI_download_delete_title">Izbrisati model?</string>
   <string name="AI_download_file_message">Podržava Mi AI Image Creator, ≈%.1f GB</string>
   <string name="AI_download_function_message">Instalirajte Mi AI Image Creator kako bi Mi AI generirao slike iz vaših opisa.</string>
   <string name="AI_download_title">Mi AI Image Creator model</string>
@@ -155,6 +159,7 @@
 	<string name="cognition_privacy_update_dialog_content_1">%s的隐私政策发生如下变更：</string>
   <string name="cognition_privacy_update_dialog_content_2"><Data>请您阅读并同意变更后的&lt;a href=\"%1$s\">《隐私政策》&lt;/a>。</Data></string>
   <string name="cognition_privacy_update_dialog_title">隐私政策变更</string>
+  <string name="common_open_on_phone">Otvori na telefonu</string>
   <string name="copy">Kopiraj</string>
   <string name="copywriting_audioProject_description_hmind">Prenesena audio reprodukcija</string>
   <string name="copywriting_audioProject_description_island">Prenesena audio reprodukcija</string>

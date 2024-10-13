@@ -347,6 +347,8 @@ Dodirnite \"%1$s\", a zatim odaberite \"%2$s\"."</string>
   <string name="saf_permission_title">Potrebna su dopuštenja</string>
   <string name="saf_permission_use_this_folder">Koristi ovu mapu</string>
   <string name="satellite_call_failed">Signal prekinut. Pokušajte ponovno.</string>
+  <string name="satellite_cancel">Odustani</string>
+  <string name="satellite_ok">Koristi</string>
   <string name="satellite_debug_antenna">Antena</string>
   <string name="satellite_debug_azimuth">Azimut</string>
   <string name="satellite_debug_compass">Kompas</string>

@@ -1026,6 +1026,8 @@ dolaze"</string>
 	<string name="sure_install">Želite li instalirati ovu aplikaciju?</string>
 	<string name="sure_ok">Razumijem</string>
 	<string name="system_error_info">Sustav je zauzet. Pričekajte minutu ili dvije i pokušajte ponovno.</string>
+	<string name="tango_dialog_content">Uključite način rada kompatibilnosti aplikacija da biste mogli instalirati %1$d-bitne aplikacije.</string>
+   <string name="tango_dialog_title">Način kompatibilnosti aplikacije</string>
 	<string name="thirty_days_no_asking">"Nemoj više pitati 30 dana"</string>
 	<string name="this_installation">Instaliraj</string>
 	<string name="thursday">Četvrtak</string>
@@ -1083,7 +1085,7 @@ dolaze"</string>
    <string name="unrecorded_risk_app_description_2">Kao programer, možete podnijeti žalbu</string>
    <string name="unrecorded_risk_app_description_temp">"Razvojni programer nije dao popis ove aplikacije regulatornim tijelima. Možda nećete moći kontaktirati razvojnog programera u slučaju da su vaši interesi povrijeđeni."</string>
 	<string name="untrusted_external_source_always_click">Dopusti uvijek</string>
-	<string name="untrusted_external_source_title">Dopustiti \"%1$s\" instaliranje aplikacija?</string>
+	<string name="untrusted_external_source_title">Dopustiti aplikaciji \"%1$s\" instaliranje aplikacija?</string>
 	<string name="untrusted_external_source_warning_summary">"Vaš uređaj i osobni podaci osjetljivi su na napade aplikacija instaliranih iz nepoznatih izvora. Omogućujući instalaciju aplikacija iz ovog izvora prihvaćate odgovornost za bilo kakvu štetu ili gubitak podataka koji mogu nastati dok upotrebljavate te aplikacije."</string>
 	<string name="update_start">Ažuriraj</string>
 	<string name="uri_no_permission">Nije moguće pročitati datoteku, dopuštenje je odbijeno</string>

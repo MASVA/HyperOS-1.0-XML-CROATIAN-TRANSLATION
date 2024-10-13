@@ -160,4 +160,52 @@
         <item quantity="other">Primanje %2$d arhiva (%3$s) od %1$s…</item>
         <item quantity="one">Primanje %2$d arhive (%3$s) od %1$s…</item>
     </plurals>
+	     <plurals name="filter_diy_import_toast_success">
+        <item quantity="other">Uspješno uvezeno %1$d filtera</item>
+        <item quantity="one">Uspješno uvezen %1$d filter</item>
+     </plurals>
+     <plurals name="filter_images_ratio_unsupport">
+        <item quantity="other">Blokirano %d slika s nepodržanim omjerom slike</item>
+        <item quantity="one">Blokirana %d slika s nepodržanim omjerom slike</item>
+     </plurals>
+     <plurals name="filter_images_unsupport">
+        <item quantity="other">Blokirano %d nepodržanih slika</item>
+        <item quantity="one">Blokirana %d nepodržana slika</item>
+     </plurals>
+     <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d novih obavijesti</item>
+        <item quantity="one">%d nova obavijest</item>
+     </plurals>
+     <plurals name="vlog_audio_origin_sound">
+        <item quantity="other">Original audio %1$d</item>
+        <item quantity="one">Original audio %1$d</item>
+     </plurals>
+     <plurals name="vlog_auto_audio_import_success_toast">
+        <item quantity="other">Uvezeno %1$d pjesama</item>
+        <item quantity="one">Uvezena %1$d pjesma</item>
+     </plurals>
+     <plurals name="vlog_filter_diy_lut_import_success_toast">
+        <item quantity="other">Uspješno uvezeno %1$d filtera</item>
+        <item quantity="one">Uspješno uvezen %1$d filter</item>
+     </plurals>
+     <plurals name="vlog_import_minutes_limit">
+        <item quantity="other">"Trajanje premašuje %d min."</item>
+        <item quantity="one">"Trajanje premašuje %d min."</item>
+     </plurals>
+     <plurals name="vlog_import_minutes_no_support_nums">
+        <item quantity="other">Preskočeno %d videozapisa.</item>
+        <item quantity="one">Preskočen %d videozapis.</item>
+     </plurals>
+     <plurals name="vlog_no_support_duration">
+        <item quantity="other">"Nije moguće uvesti. Trajanje premašuje %d min."</item>
+        <item quantity="one">"Nije moguće uvesti. Trajanje premašuje %d min."</item>
+     </plurals>
+     <plurals name="vlog_talkback_crop_scale_value">
+        <item quantity="other">Rotiraj %d stupnjeva</item>
+        <item quantity="one">Rotiraj %d stupanj</item>
+     </plurals>
+     <plurals name="vlog_template_support_count_desc">
+        <item quantity="other">%d isječaka</item>
+        <item quantity="one">%d isječak</item>
+     </plurals>
 </resources>

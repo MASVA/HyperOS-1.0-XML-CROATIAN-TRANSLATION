@@ -213,6 +213,8 @@
     <string name="gb_weixinpay_can_not_complete">"Ne mogu izvršiti plaćanje. Instaliraj da biste nastavili."</string>
     <string name="gdpr_msg">"U cilju korištenja osnovnih značajki aplikacije Sigurnost, morate prihvatiti da će Xiaomi prikupljati, obrađivati i koristiti vaše osobne podatke, uključujući podatke o načinima na koje koristite značajke zaštite (npr. Statistiku upotrebe mobilnih podataka, informacije o zlonamjernom softveru) kao i osnovne informacije o vašem uređaju) i ostale vrste podataka navedenih u našIm &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Pravila o Privatnosti&amp;lt;/a&amp;gt;."</string>
     <string name="get_sys_info">Dobivanje informacija…</string>
+	 <string name="global_satisfaction_network_error">"Nije moguće dobiti podatke. Provjerite mrežne postavke i pokušajte ponovno."</string>
+    <string name="global_satisfactionnetwork_loading">Dohvaćanje podataka…</string>
     <string name="gs_anto_clean_memory_whitelist">Iznimke</string>
     <string name="gs_app_back_self_start">Ušteda baterije</string>
     <string name="gs_auto_clean_memory">Očisti predmemoriju</string>
@@ -403,7 +405,10 @@
     <string name="pc_extreme_mode_title">Način hibernacije</string>
     <string name="pc_going_to_exit_extreme_mode">Izlazak iz načina hibernacije</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Vaš uređaj se puni. Način hibernacije je isključen.</string>
-    <string name="pm_lable_name">O ROOT pristupu</string>
+    <string name="pc_satellite_auto_enter_super_power">Uključena je Ultra ušteda baterije kako bi se osigurala satelitska komunikacija</string>
+    <string name="pc_satellite_superpower_dialog_subtitle">Baterija je preslaba. Komunikacija Tiantong Satellite bit će isključena zajedno s Ultra štednjom baterije. Svejedno isključiti?</string>
+    <string name="pc_satellite_superpower_dialog_title">Tiantong Satellite Communications</string>
+	 <string name="pm_lable_name">O ROOT pristupu</string>
     <string name="power_center_battery_duration_screen_on">Preostalo vrijeme zaslona</string>
     <string name="power_main_battery_last_hour_minute_screen_on">Preostalo %1$s %2$s vremena zaslona</string>
     <string name="power_autorun_apps_empty">Nema aplik. sa autom. pokretanjem</string>
@@ -446,7 +451,9 @@
     <string name="superpower_dialog_app_select_title">Pažnja</string>
 	 <string name="superpower_dialog_button_ok">U redu</string>
     <string name="superpower_exit_hint">Isključivanje Ultra štednje baterije…</string>
-    <string name="superpower_incharging">Punjenje</string>
+    <string name="superpower_exit_low_temperature_hint">Isključivanje načina otpornosti na hladnoću…</string>
+	 <string name="superpower_incharging">Punjenje</string>
+	 <string name="superpower_low_temp_mode_take_effect">Uključen je način otpornosti na hladnoću</string>
     <string name="superpower_progress_battery_last">%s preostalo</string>
     <string name="superpower_progress_left_time">%1$dh %2$dm</string>
     <string name="superpower_search_hint">Traži aplikacije</string>

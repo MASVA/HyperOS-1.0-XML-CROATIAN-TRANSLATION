@@ -129,6 +129,8 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="audition_ringtone">Reproduciraj</string>
   <string name="author_attention">Prati</string>
   <string name="author_attention_success">Pratim</string>
+  <string name="author_dialog_message">Prestati pratiti ovaj račun?</string>
+  <string name="author_dynamic">Status</string>
   <string name="author_dynamic_no_resource">Ovdje još nema ništa. Pratite neke dizajnere da biste započeli.</string>
   <string name="author_fans">Pratitelji</string>
   <string name="author_new_theme">Novo</string>
@@ -740,6 +742,12 @@ mm"</string>
   <string name="mix_icon">Ikone</string>
   <string name="mix_lockscreen">Zaključani zaslon</string>
   <string name="mix_tips">Elementi teme</string>
+  <string name="mix_global_option">Općenito</string>
+  <string name="mix_global_option_des">Panel obavijesti, telefon, poruke i drugi elementi sustava. Poništite ovaj okvir za korištenje zadanih opcija.</string>
+  <string name="mix_home_option_des">Pozadina i sat. Poništite ovaj okvir za korištenje zadanih opcija.</string>
+  <string name="mix_icons_option_des">Ikone početnog zaslona. Poništite ovaj okvir za korištenje zadanih opcija.</string>
+  <string name="mix_lockscreen_option_des">Pozadina i sat. Poništite ovaj okvir za korištenje zadanih opcija.</string>
+  <string name="mix_tip">Elementi teme</string>
   <string name="monday">Ponedjeljak</string>
   <string name="monday_short">Pon</string>
   <string name="monday_shortest">P</string>
@@ -1280,6 +1288,7 @@ Ovo dopuštenje možete dati u Postavke &gt; Privatnost."</string>
   <string name="resource_search_color_hint_yellow">Žuta</string>
   <string name="resource_search_history">Povijest pretraživanja</string>
   <string name="resource_search_hot_one">"%d. "</string>
+  <string name="resource_search_hot_tag">Popularno</string>
   <string name="resource_search_hot_three">"%d. "</string>
   <string name="resource_search_hot_title">Popularno</string>
   <string name="resource_search_hot_two">"%d. "</string>
