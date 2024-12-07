@@ -675,6 +675,8 @@ Poboljšana sigurnost."</string>
   <string name="navigation_guide_back_summary_pad">Povucite prstom od bočne strane prema sredini zaslona</string>
   <string name="navigation_guide_back_summary_spec_pad">Povucite prstom od ruba do sredine zaslona</string>
   <string name="navigation_guide_back_title">Natrag</string>
+  <string name="navigation_guide_circle_search_summary">Pritisnite i držite indikator na cijelom zaslonu da biste koristili Zaokruži za pretraživanje</string>
+  <string name="navigation_guide_circle_search_title">Zaokruži za pretraživanje</string>
   <string name="navigation_guide_back_title_spec_with_quotation_pad">Natrag</string>
   <string name="navigation_guide_dialog_dont_show_again">"Ne prikazuj ponovo"</string>
   <string name="navigation_guide_dialog_ok">Nauči</string>

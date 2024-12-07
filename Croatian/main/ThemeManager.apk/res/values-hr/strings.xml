@@ -119,6 +119,7 @@ Teme će otkriti koje aplikacije koristite i prikazivati transparentne pozadine 
   <string name="apply_wallpaper_after_three_theme">"Trenutno koristite temu treće strane. Ako promijenite samo pozadinu svog zaključanog zaslona, to može uzrokovati vraćanje stila sata zaključanog zaslona na zadani. Želite li sada primijeniti?"</string>
   <string name="apply_wallpaper_warning_use_aod_and_super_wallpaper">"Trenutno koristite Super pozadinu. Ako odaberete novu pozadinu, ona će se primijeniti i na početni i na zaključani zaslon, a Always-on zaslon vratit će se na prethodnu postavku . Prijaviti se sada?"</string>
   <string name="apply_wallpaper_warning_use_super_wallpaper">"Trenutno koristite Super pozadinu. Ako odaberete novu pozadinu, ona će se primijeniti i na početni i na zaključani zaslon. Želite li sada primijeniti?"</string>
+  <string name="apply_wallpaper_warning_when_use_super_wallpaper">Ažurirajte Super pozadine na najnoviju verziju kako biste ih mogli nastaviti koristiti.</string>
   <string name="apply_warning_get_device_dialog_message">Da biste mogli koristiti preuzeti sadržaj, prvo dopustite ovoj značajci pristup ID-u vašeg uređaja. Ovo dopuštenje možete dati u Postavke &gt; Privatnost.</string>
   <string name="apply_warning_tip_get_device_status">Dopustite ovoj aplikaciji pristup ID-u vašeg uređaja u Profil &gt; Postavke.</string>
   <string name="aqi_format">AQI %s</string>
@@ -1684,6 +1685,7 @@ Idite u Teme > Moj račun > Lab. Tema za više opcija."</string>
   <string name="update_immediately">Ažuriraj sada</string>
   <string name="update_latest">Aplikacija je ažurna</string>
   <string name="update_no_net">Došlo je do pogreške mreže. Pokušajte ponovo.</string>
+  <string name="update_now">Ažuriraj</string>
   <string name="update_title">DOSTUPNO JE NOVO AŽURIRANJE</string>
   <string name="use_hint">Pažnja</string>
   <string name="use_now">Dodaj</string>
@@ -1795,6 +1797,7 @@ Idite u Teme > Moj račun > Lab. Tema za više opcija."</string>
   <string name="warning_miui_optimization_closed_dialog_message">"Čini se da niste uključili MIUI optimizaciju. Bez nje ova tema neće ispravno raditi kada se primijeni. Svejedno je možete primijeniti ili uključiti MIUI optimizaciju u Postavkama."</string>
   <string name="warning_miui_optimization_closed_dialog_title">Pažnja</string>
   <string name="warning_subscribe_wallpaper_group_content">"Uključili ste dijaprojekciju početnog zaslona. %1$s bit će primijenjen na vaš početni zaslon."</string>
+  <string name="warning_update_super_wallpaper">Ažuriraj Super pozadine</string>
   <string name="weather_no_data">Nema podataka o vremenskoj prognozi</string>
   <string name="wechat_not_found">Prvo instalirajte WeChat</string>
   <string name="wednesday">Srijeda</string>
