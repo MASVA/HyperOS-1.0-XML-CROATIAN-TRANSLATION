@@ -1269,7 +1269,6 @@ Međutim, neke od vaših transakcija još nisu dovršene. Da biste mogli povući
   <string name="bottomsheet_drag_handle_clicked">Dvaput dodirnuta ručica za povlačenje</string>
   <string name="bottomsheet_drag_handle_content_description">Ručka za povlačenje</string>
   <string name="bottom_notice_title">Povuci gore za otvaranje toolbox-a</string>
-  <string name="bottomsheet_action_expand_halfway">Proširi donju polovicu</string>
   <string name="brand_diagnostic">Dijagnostika tipa mreže operatera</string>
   <string name="brightness_auto_adjust_off">Osvjetljenje će ostati stalno u svim okruženjima</string>
   <string name="brightness_auto_adjust_on">Optimizirajte razinu osvjetljenja za dostupnim svjetlom</string>
